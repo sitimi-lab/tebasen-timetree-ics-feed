@@ -2,731 +2,731 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260810
-DTEND;VALUE=DATE:20260811
-DESCRIPTION:🎪イベント情報🎪\n\n／\n\nNEO JAPONISM主催フェス\n『NEO KASSEN2026』出演決定⚔️\n\n＼\n🗓8/10(月)開場11:00\n📍SHIBUYA DESEO《NEGAI STAGE》\n🎤17:25-17:50\n📸18:05-19:05 [DESEO30]\n🎟前売り一般 ¥6\,500 / 当日 ¥7\,500\n❥ https://l-tike.com/concert/mevent/?mid=781806\n\n《特設HP》\n🔗neojaponism.com/neokassen/2026\nhttps://timetr.ee/p/gekkanpam/2950276418922585288
-SUMMARY:NEO KASSEN2026
-UID:4608377d-8b52-44dd-9fce-0f5e321a0c80@4608.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261114
-DTEND;VALUE=DATE:20261115
-DESCRIPTION:https://timetr.ee/p/gekkanpam/3056868375655849689
-SUMMARY:対バン出演予定
-UID:83d81b89-0df6-431d-9a70-3aee3eeec12e@83d8.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260728
-DTEND;VALUE=DATE:20260729
-DESCRIPTION:📺出演情報📺\n\n· · ───── ·✧· ───── · ·\n\nSHOWROOM番組\n『@JAMトークバラエティー"ドルバナ"』\n月刊PAMより宇都宮未来のゲスト出演決定💬🎀\n\n· · ───── ·✧· ───── · ·\n\n《配信日時》\n7/28(火) 19:00-21:00\n\n《出演》\nMC : \n白岡今日花さん（Task have Fun）\n\nゲスト : \n宇都宮未来（月刊PAM）\n聞間彩さん（AISTEAL)\n藤井優衣さん（HzMe）\n\n《番組ページ》\n🔗showroom-live.com/dolbana\nhttps://timetr.ee/p/gekkanpam/3015401821257047942
-SUMMARY:📺《宇都宮》@JAMトークバラエティー"ドルバナ"
-UID:83788001-6e93-45e2-9512-99e615049926@8378.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260614
-DTEND;VALUE=DATE:20260615
-DESCRIPTION:🎪イベント情報🎪\n\n／ \n\n新宿周遊FES\n『UNIVERSE × 脱却』出演決定🪩\n\n＼\n\n🗓6/14(日)開場11:30/開演12:00\n📍新宿MARZ\n🎫リストバンド引換：新宿LOFT (10:30-)\n🎤19:10-19:40\n📸20:50-21:50(終演後)\n🎟前売り¥5\,000(+1D)\n❥ https://livepocket.jp/e/s_5yb\n(5/16 22:00-)\nhttps://timetr.ee/p/gekkanpam/2950275391561374824
-SUMMARY:新宿周遊FES『UNIVERSE × 脱却』
-UID:933661ab-d8dd-437e-9636-f92d1d4b29ff@9336.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260412
-DTEND;VALUE=DATE:20260413
-DESCRIPTION:🎪イベント情報🎪\n\n／\n\n『LEADING』出演決定🧚🏻‍♀️\n\n＼\n\n🗓4/12(日) OP/ST TBA\n📍品川インターシティホール\n🎤13:00-13:20\n📸13:30-14:40\n🎟優先エリア¥7\,000/一般¥3\,000 (各種+1D)\n❥ ticketvillage.jp/events/13725\n(抽選3/12 21:00-3/23 23:59、一般3/24 21:00-)\n\n🎁指名特典：個別写メ券+1p\nhttps://timetr.ee/p/gekkanpam/2919651551475113451
-SUMMARY:LEADING
-UID:653e0bb5-ab9d-471a-a70e-87da7ccc296e@653e.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261003
-DTEND;VALUE=DATE:20261004
-DESCRIPTION:🎪イベント情報🎪\n\n／\n\n沖縄遠征DAY1・昼✈️\n『FLAG FES -なんくるないさ-』出演決定🌺\n\n＼\n\n🗓10/3(土)開場13:30 /開演14:00\n📍Livehouse Output (沖縄)\n🎤14:20-14:50\n📸15:25-16:30\n🎟優先入場 ¥3\,500/一般¥3\,000 (各種+1D)\n❥ t-dv.com/flagokinawa\n[9/15 21:00-]\nhttps://timetr.ee/p/gekkanpam/3011782056651234335
-SUMMARY:沖縄🌴FLAG FES -なんくるないさ-
-UID:a4659a85-6bca-43c2-abbe-4c86cf8a8be8@a465.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260525
-DTEND;VALUE=DATE:20260526
-DESCRIPTION:🎪イベント情報🎪\n\n／\n\n日ノ目企画presents\n『MONDAYDRIVE』出演決定🚗\n\n＼\n\n🗓5/25(月) 開場18:15/開演18:45\n📍高円寺HIGH\n🎤18:45-19:15\n📸21:00-22:00\n🎟前売り¥2\,800/当日¥3\,400 (各種+1D)\n❥ t-dv.com/hnm0525kh\n (4/29 21:00-)\n\n指名🎁写メ券+1p\nhttps://timetr.ee/p/gekkanpam/2953788114878307729
-SUMMARY:日ノ目企画presents『MONDAYDRIVE』
-UID:9f4e51ba-bf41-4ed2-bdbc-8e69ecc69e85@9f4e.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260429
-DTEND;VALUE=DATE:20260430
-DESCRIPTION:🎪イベント情報🎪\n\n／\n\n船井美玖 BIRTHDAY LIVE 2026\n『Lucky』開催決定🎂💚🎉\n\n＼\n\n🗓4/29(水祝)開場11:30/開演12:00\n📍青山 月見ル君想フ\n🎟 https://ticketdive.com/event/mikubd2026\n\n【チケット券種(各種+1drink)】\n＊VIPチケット[スタンディング/先着販売] ¥7\,000-\n①優先入場\n②個別写メ券[船井美玖・当日限り使用可能/トークなし]\n③船井美玖サイン入りメモリアルチケット\n\n＊一般チケット[スタンディング/先着販売] ¥2\,500-\n\n⚠️販売開始から1時間以内はクレジットカード/デビットカード/プリペイドカードのお支払いのみとなります。\n\n《入場順》\nV→A→当日\n※当日券販売の有無は、開催日当日にご案内いたします。\n\n🛍チケット販売期間[先着]\n2026年3月31日(火)22:30～2026年4月29日(水祝)10:00\n\n📸撮影可否について\n静止画：OK\n動画：NG\nhttps://timetr.ee/p/gekkanpam/2900905580230582014
-SUMMARY:★船井美玖 BIRTHDAY LIVE 2026『Lucky』
-UID:9caa05f6-8d8f-4b69-8741-e88161989540@9caa.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:📽オンラインサイン会配信情報👀🍿*゜\n\n／\n\n『宇都宮未来 3月ソロオンラインサイン会』開催決定🩵\n\n＼\n\n🗓3/30(月)20:30～\n🎥 youtube.com/@gekkanpam\n(月刊PAM 公式YouTube)\n🛍https://marche-yell.com/Utnmy_Mirai/\n※3/30(月) 21:00まで購入可能\n\n【対象商品】\nA\n・越後湯沢チェキ1枚 (サインあり)\n・越後湯沢チェキ1枚 (サインなし)\n2\,500円\n \nB\n・制服チェキ1枚 (サインあり)\n・制服チェキ1枚 (サインなし)\n2\,500円\n\nC\n・サインありチェキ1枚(越後湯沢 or 制服）\n・宛名入りデジタルメッセージカード\n・お礼動画（全員共通）\n5\,500円\n\nD\n・越後湯沢チェキ1枚 (サインあり)\n・制服チェキ1枚 (サインあり)\n・お絵描きチェキ１枚(越後湯沢 or 制服）\n7\,000円\n\n※お絵描きチェキは配信時間外での対応となります。\n※サインありは全てサイン・ニックネーム・メッセージ入りとなります。\nhttps://timetr.ee/p/gekkanpam/2930565011608149695
-DTEND:20260330T123000Z
-DTSTART:20260330T113000Z
-SUMMARY:宇都宮未来 3月ソロオンラインサイン会
-UID:da5e0359-e6bb-4ca1-9837-c54c229ed30a@da5e.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260716
-DTEND;VALUE=DATE:20260717
-DESCRIPTION:🎪イベント情報🎪\n\n／\n\n「月刊PAM Presents.『ANSWER』VOL.12」開催決定💗\n\n＼\n\n🗓7/16(木)開場18:30 / 開演19:00\n📍新宿MARZ\n👭🏻【第12回目ゲスト】\n▶︎アップアップガールズ（2）\n▶︎マジカル・パンチライン\n▶︎unSea\n🎤20:30-21:00\n📸21:10-22:10\n🎟優先入場¥3\,500/一般¥3\,000(各種+1D)\n❥ t-dv.com/answer12\n(6/18 22:00- 先着)\nhttps://timetr.ee/p/gekkanpam/2945702230140362136
-SUMMARY:★月刊PAM Presents『ANSWER』vol.12
-UID:2d0ec6e8-622f-411e-8636-fa8405f6e0cc@2d0e.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260513
-DTEND;VALUE=DATE:20260514
-DESCRIPTION:🎪イベント情報🎪\n\n／\n\n『キシティバル #8』に月刊PAMから\n宇都宮未来・船井美玖がDJとして出演決定🎧🎶\n\n＼\n\n🗓5/13(水) OP/ST 18:00\n📍SWIPE池尻大橋(swipe-ohs.com )\n\n🩵future(宇都宮) 20:00-20:30\n▶︎出演中、静止画のみ撮影OK\n💚lucky mam(船井) 20:30-21:00\n▶︎出演中、静止画・動画の撮影OK\n\n📸21:30-22:30[終演後]\n🎟️完全予約制(数量限定) ¥2\,500(+1D)\n❥ https://tiget.net/events/475440\n(4/4 12:00 - 5/13 17:00)\n⚠️予約以外の当日券は無し\nhttps://timetr.ee/p/gekkanpam/2916729745067974238
-SUMMARY:🎧キシティバル #8
-UID:c323f526-06c0-40f6-aa6b-baf0b439c9b1@c323.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261004
-DTEND;VALUE=DATE:20261005
-DESCRIPTION:🎪イベント情報🎪\n\n／\n\n沖縄遠征DAY2・昼☀️\n『diigPAM -沖縄合同オフ会-』開催決定🌺\n\n＼\n\n🗓10/4(日)集合10:50 / 開場11:00 / 開演11:20 / 終了13:45 (予定)\n📸12:30～13:30 各グループ並行特典会（予定）\n📍COZY BEACH CLUB(沖縄)\n👭🏻月刊PAM / diig\n🎟入場チケット¥12\,000\n・1人前BBQセット含む\n・アルコール＆ソフトドリンク飲み放題含む\n❥ t-dv.com/diigpambbq\n\n[販売期間]\n2026/9/18(金) 21:00～2026/9/30(水) 23:59\n\n※販売開始時間から1時間以内はコンビニ決済不可。\n※上限枚数に達しだい、販売期間終了前に購入を締め切る場合がございます。\n\n⋆┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈⋆\n\n⚠︎︎注意事項⚠︎︎\n・本イベントにおける、会場へのお問い合わせはご遠慮ください。\n・終了時間、並行特典会の時間に関しましては目安の予定時間となります。当日、イベントの進行状況により時間が前後する可能性があります。予め、ご了承ください。\n・会場側でご用意させていただく飲食物のほか、お客様による飲食物の持ち込みは可能となります。\n・お客様が持ち込んだ飲食物や飲食中の物を、出演者へ配布、分ける等の行為は禁止となります。尚、密閉されたものに限り各マネジメント判断により受諾する場合もございます。\n・イベント当日、写真撮影用または映像収録用のカメラでの撮影が実施される場合がございます。ご来場のお客様の様子が映り込む可能性もございます。予めご了承ください。\n・イベント中（開場～終演）、お客様による許可のない録音/撮影行為は禁止となります。尚、出演者の映らない飲食物の撮影は可能となります。\n・他のお客様への迷惑となる行為、イベントへご参加いただくうえで不適切な行為や発言、アルコールの摂取しすぎによる泥酔は禁止となります。\n・その他、場内外では、係員の指示に従っていただきます。 万が一上記ルールが守られない場合はイベントの中止、またはご退場いただく場合もございます。その際、チケット代などの返金対応は一切ございません。また今後のイベントの入場をお断りする場合がございます。予めご了承ください。\nhttps://timetr.ee/p/gekkanpam/3011782236452658846
-SUMMARY:沖縄🌴 diigPAM -沖縄合同オフ会-
-UID:01836b3c-5ce4-4172-becf-d20caf25e976@0183.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:📽オンラインサイン会配信情報👀🍿*゜\n\n／\n\n『船井美玖 6月ソロオンラインサイン会』開催決定💚\n\n＼\n\n🗓6/26(金)20:30～\n🎥youtube.com/@gekkanpam\n(月刊PAM 公式YouTube)\n🛍 marche-yell.com/events/\n※6/26(金) 21:00まで購入可能\n※通例のまとめページ購入リンクが異なります\n\n【対象商品】\nA\n・W杯記念！ユニフォームチェキ1枚 (サインあり)\n・W杯記念！ユニフォームチェキ1枚 (サインなし)\n2\,500円\n marche-yell.com/_funaimiku_/\n\nB\n・浴衣チェキ1枚 (サインあり)\n・浴衣チェキ1枚 (サインなし)\n2\,500円\n\nC\n・サインありチェキ1枚(W杯記念！ユニフォーム or 浴衣）\n・宛名入り手書きメッセージポストカード\n・お礼動画（全員共通）\n5\,500円\n \nD\n・W杯記念！ユニフォームチェキ1枚 (サインあり)\n・浴衣チェキ1枚 (サインあり)\n・サインなしチェキ1枚(W杯記念！ユニフォーム or 浴衣）\n・お名前を呼んでのお礼動画\n7\,000円\n\nE\n・W杯記念！ユニフォームチェキ1枚 (サインあり)\n・浴衣チェキ1枚 (サインあり)\n・お絵描きチェキ1枚(W杯記念！ユニフォーム or 浴衣）\n7\,000円\n\n※お絵描きチェキは配信時間外での対応となります。\n※サインありは全てサイン・ニックネーム・メッセージ入りとなります。\n※ 船井美玖 5月オンラインサイン会の関連商品となります、【Aプラン】【Bプラン】【Cプラン】【Dプラン】【Eプラン】につきましては複数購入いただいた場合も１件分の配送手数料のお支払いとなります\nhttps://timetr.ee/p/gekkanpam/3019724110198971578
-DTEND:20260626T123000Z
-DTSTART:20260626T113000Z
-SUMMARY:船井美玖 6月ソロオンラインサイン会
-UID:7cd4c664-53a6-40c6-a2c6-7ea04a8392d6@7cd4.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260612
-DTEND;VALUE=DATE:20260613
-DESCRIPTION:🎪イベント情報🎪\n\n／\n\n校庭カメラガールフュンフ Debut event\n『The Next Episode』出演決定❤️‍🔥\n\n＼\n\n🗓6/12(金)開場17:00/開演18:00\n📍WOMBLIVE\n🎤19:00-19:30\n📸20:30-21:40\n🎟前売り¥3500/当日¥4000 (各種+1D)\n❥ https://ticketdive.com/event/2LQioej010dsxzhVK1Xx\n(5/14 21:00-)\n\n指名特典🎁個別写メ券\n⚠️入場時、受付にてお受け取りください。\nhttps://timetr.ee/p/gekkanpam/2950275665516535517
-SUMMARY:校庭カメラガールフュンフ Debut event『The Next Episode』
-UID:ab4e744e-7025-4b82-b354-08bda5957b8f@ab4e.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260903
-DTEND;VALUE=DATE:20260904
-DESCRIPTION:📢📚\n\n .*·.⟡┈┈┈┈┈┈┈┈┈┈┈⟡.·*.\n\n                2026.09.03\n\n            EVERYDAY PAM！\n       ~ 3rd anniversary live ~\n\n.*·.⟡┈┈┈┈┈┈┈┈┈┈┈⟡.·*.\n\n🗓9/3(木)開場18:30/開演19:00\n📍Spotify O-Crest\n▶︎東京都渋谷区道玄坂2-14-8 5階\n🛍前物販17:15-18:00 / 終演後\n📸終演後特典会\n \n🎟t-dv.com/pam3rd\n\n🌟優先入場チケット ¥8\,000\n・囲み写メ(特典会冒頭で撮影)\n・月刊PAMからの15秒動画(特典会冒頭で撮影)\n🌟一般チケット ¥3\,500\n🌟当日券 ¥4\,500\n\n▶︎各種+1drink代 / 先着販売\n▶︎前売り 9/3 17:00まで〆\nhttps://timetr.ee/p/gekkanpam/2988505226645315058
-SUMMARY:★EVERYDAY PAM！~ 3rd anniversary live ~
-UID:310b0fd8-3d19-45d0-8de4-e177cef16637@310b.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261104
-DTEND;VALUE=DATE:20261105
-DESCRIPTION:https://timetr.ee/p/gekkanpam/3026123225233333825
-SUMMARY:対バン出演予定
-UID:cf2777dc-5935-4b5f-8755-7eccc0a335a0@cf27.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260726
-DTEND;VALUE=DATE:20260727
-DESCRIPTION:🎪イベント情報🎪\n\n／\n\n10年目記念で有明に引っ越しだよ！\n『六本木アイドルフェスティバル2026』\nDAY2出演決定🎉\n\n＼\n\n🗓7/26(日)開場10:00/開演11:00\n📍PRIME STAGE(SGCホール有明2階ロビー)\n🎫リストバンド交換 11:00～\n🎤15:30-15:55\n📸16:35-17:35《J》\n🎫リストバンド交換 11:00～\n🎟️DREAMチケット(各日)¥28\,000 / 一般(各日)¥8\,500\n❥ https://ticket.tv-asahi.co.jp/ex/project/rif2026\n[3次先行]\n6月17日（水）12:00～7月10日（金）23:59\n[一般発売]\n7月11日（土）10:00～\n\n《HP》\nhttps://www.tv-asahi.co.jp/idolfes/\nhttps://timetr.ee/p/gekkanpam/2941305692295240951
-SUMMARY:六本木アイドルフェスティバル2026
-UID:47823c9b-7de7-45ed-85df-9606d616400f@4782.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260704
-DTEND;VALUE=DATE:20260705
-DESCRIPTION:🎪イベント情報🎪\n\n／\n\n『ギュウ農フェス in 宇都宮2026\nローイイム〜รอยยิ้ม 〜笑顔』出演決定🥟\n\n＼\n\n┈┈┈┈┈┈⟡.·*.\n7/4月刊PAM出演公演では、\n2ステージ共に通例の静止画撮影に加え、\nライブ中の動画撮影OK‼️\n┈┈┈┈┈┈⟡.·*.\n\n🗓7/4(土)\n《1本目》\n📍オリオンスクエア\n🎤11:35-11:55\n🆓入場無料：タイフェスティバルと共催\n\n《2本目》\n📍HEAVEN'S ROCK (VJ-2)\n🎤13:35-14:05\n📸14:45-15:55\n🎟前売¥3\,500/当日¥4\,100(各種+1D)\n❥ livepocket.jp/e/260704_2\n\n《全公演チケット》\n🎟前売¥6\,000/当日券¥7\,200(+3D)\n❥https://livepocket.jp/e/260704_all\n\n🎁個別写メ券\nhttps://timetr.ee/p/gekkanpam/2936910073053028191
-SUMMARY:栃木🥟ギュウ農フェス in 宇都宮2026ローイイム〜รอยยิ้ม 〜笑顔
-UID:e077975c-a15b-40e3-813d-9d12f3572252@e077.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:📽オンラインサイン会配信情報👀🍿*゜\n\n／\n\n『船井美玖 3月ソロオンラインサイン会』開催決定💚\n\n＼\n\n🗓3/30(月)19:00～\n🎥youtube.com/@gekkanpam\n(月刊PAM 公式YouTube)\n🛍https://marche-yell.com/_funaimiku_/\n※3/30(月) 19:30まで購入可能\n\n【対象商品】\nA\n・セーラー服チェキ1枚 (サインあり)\n・セーラー服チェキ1枚 (サインなし)\n2\,500円\n \nB\n・男装学ランチェキ1枚 (サインあり)\n・男装学ランチェキ1枚 (サインなし)\n2\,500円\n \nC\n・サインありチェキ1枚(セーラー服 or 男装学ラン）\n・宛名&メッセージ入り卒業証書\n・お礼動画（全員共通）\n5\,500円\n \nD\n・セーラー服チェキ1枚 (サインあり)\n・男装学ランチェキ1枚 (サインあり)\n・サインなしチェキ1枚(セーラー服 or 男装学ラン）\n・お名前を呼んでのお礼動画\n7\,000円\n \nE\n・セーラー服チェキ1枚 (サインあり)\n・男装学ランチェキ1枚 (サインあり)\n・お絵描きチェキ1枚(セーラー服 or 男装学ラン）\n7\,000円\n\n※お絵描きチェキなど一部商品は配信時間外での対応となります。\n※サインありは全てサイン・ニックネーム・メッセージ入りとなります。\nhttps://timetr.ee/p/gekkanpam/2899997316164853473
-DTEND:20260330T110000Z
-DTSTART:20260330T100000Z
-SUMMARY:船井美玖 3月ソロオンラインサイン会
-UID:390e25fd-4673-49eb-9faa-1b59dc5fbff5@390e.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260725
-DTEND;VALUE=DATE:20260726
-DESCRIPTION:🎪イベント情報🎪\n\n／\n\n『TOKYOPOP vol.1 Supported by こぐまカリー』出演決定❤️‍🔥\n\n＼\n\n🗓7/25(土)開場12:00/開演12:30 📍BASE GRANBELL 銀座 🎤15:05-15:30\n📸16:05-17:15[B] 🎟VIP(下手ソファーエリア) ¥4\,500/一般 ¥2\,500(各種+1D) ❥ t-dv.com/TOKYOPOP_260725\n(6/22 21:00-)\n\n指名🎁個別写メ券\nhttps://timetr.ee/p/gekkanpam/2968537702545727465
-SUMMARY:TOKYOPOP vol.1 Supported by こぐまカリー
-UID:05a29961-9638-4c81-8c73-e0af5a10a2ed@05a2.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260607
-DTEND;VALUE=DATE:20260608
-DESCRIPTION:🎪イベント情報🎪\n\n／\n\n🍲福岡遠征2日目✈️\n\nIDOL by...! presents\n『beginning of next』出演決定🖤\n\n＼\n\n🗓6/7(日)開場11:00/開演11:30\n📍graf【福岡】\n🎤12:45-13:10\n📸13:20-14:30\n🎟一般 ¥2\,500(+1D)\n❥ https://ticketdive.com/event/IDOLby_0607\n(5/13 21:00-)\nhttps://timetr.ee/p/gekkanpam/2953789280844487813
-SUMMARY:福岡🍲IDOL by...! presents『beginning of next』
-UID:19c6fc0c-d62c-4046-a137-b013872dd4f0@19c6.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260919
-DTEND;VALUE=DATE:20260920
-DESCRIPTION:🎪イベント情報🎪\n\n／\n\n『IDOLGROW vol.28』出演決定🤝🏻\n\n＼\n\n🗓9/19(土)開場:11:00 開演11:30\n📍銀座BASE GRANBELL\n🎤14:30-15:05\n📸15:20-16:20《C》\n🎟VIP ¥5\,000/一般¥3\,000(各種+1D)\n❥ https://livepocket.jp/e/t_qjn\n(8/23 22:00-)\nhttps://timetr.ee/p/gekkanpam/3036245749883444229
-SUMMARY:IDOLGROW vol.28
-UID:a8681df9-87ad-4bbd-9044-0637e0574562@a868.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260719
-DTEND;VALUE=DATE:20260720
-DESCRIPTION:🎪イベント情報🎪\n\n／\n\n🐙大阪遠征DAY2🐙\n『月刊PAMのラジオ編集会議\n公開録音 ~200回記念SP！！~』開催決定📻🎉\n\n＼\n\n🗓7/19(日)開場17:40 / 開演18:00 [※終演後特典会あり]\n📍アイドル飯店(大阪市中央区西心斎橋2-10-16　変なホテル大阪 なんば1F)\n🎟 t-dv.com/radihen200\n◎前売り優先入場チケット ¥3\,500\n・月刊PAM囲み写メ付き[特典会の冒頭で撮影]\n・限定ステッカー付き[入場時配布]\n◎前売り一般チケット ¥2\,500\n・限定ステッカー付き[入場時配布]\n\n◎当日一般チケット ¥3\,500\n・前売りチケットの入場が落ち着き次第販売\n\n[各種+要別途 当日会場チャージ500円+2order]\n(7/6 22:00-)\nhttps://timetr.ee/p/gekkanpam/2997259497733856935
-SUMMARY:★大阪🐙月刊PAMのラジオ編集会議公開録音 ~200回記念SP！！~
-UID:bb68d6d7-088b-402b-aa04-d00be797552d@bb68.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260906
-DTEND;VALUE=DATE:20260907
-DESCRIPTION:🎪イベント情報🎪\n\n／\n\n千葉県佐倉市・野外フェス🔆\n『くさのねアイドルフェスティバル2026』出演決定🌱\n\n＼\n\n🗓9/6(日)開場10:00/開演10:45 (予定)\n📍草ぶえの丘(千葉・佐倉)\n▶︎千葉県佐倉市飯野820\n🎤18:35-19:00《Orange Shelter》\n📸16:55-17:55 《B/前物販》\n🎟️ kusanoneidolfes.com/#ticket\n《整理番号順入場、各種+1D別》\n・限定グッズ付き2Days通し券¥20\,000\n・2Days通し券¥10\,000\n・限定グッズ付きチケット¥12\,000\n・一般チケット¥7\,000\n・女性/学生チケット¥4\,000\n\n【公式HP】\n🔗kusanoneidolfes.com\n\n#くさのねアイドルフェス2026\nhttps://timetr.ee/p/gekkanpam/2916372716012936320
-SUMMARY:くさのねアイドルフェスティバル2026
-UID:3a00dd21-7fc9-4428-8626-050bf5765bcd@3a00.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261106
-DTEND;VALUE=DATE:20261107
-DESCRIPTION:https://timetr.ee/p/gekkanpam/3026123707821563595
-SUMMARY:★イベント予定
-UID:42055437-ef08-4a25-a144-0b193503b3e8@4205.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260822
-DTEND;VALUE=DATE:20260823
-DESCRIPTION:🎪イベント情報🎪\n\n／\n\n「ABC IDOL」出演決定🍉\n\n＼\n\n🗓8/22(土) 開場10:30 / 開演11:00\n📍YOKOHAMA COAST garage+\n🎤14:05-14:35\n📸14:45-15:45 [A]\n🎟VIPエリア¥10\,000/一般¥2\,500\n🉐女性・学生入場無料　(VIPエリアへの入場はVIPチケットが必要になります)\n❥ yum-e.zaiko.io/e/abc260822\nhttps://timetr.ee/p/gekkanpam/2978793229506813191
-SUMMARY:ABC IDOL
-UID:5c805159-1f43-4ad0-ba93-a161e689de93@5c80.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:配信延期となりました。詳しくは下記をご確認ください。\n▶︎https://x.com/gekkanpam/status/2093623610573541670?s=46&t=IvNbDIHLHCLolUrVEge5fw\n\n－－－－－－－－－－－－\n\n📽オンラインサイン会配信情報👀🍿*゜\n\n／\n\n『宇都宮未来 8月ソロオンラインサイン会』開催決定🩵\n\n＼\n\n🗓8/31(月)19:00〜\n🎥 youtube.com/@gekkanpam\n(月刊PAM 公式YouTube)\n🛍 marche-yell.com/events/\n※8/31(月) 19:30まで購入可能\n\n【対象商品】\nA\n・ツアー衣装チェキ1枚 (サインあり)\n・ツアー衣装チェキ1枚 (サインなし)\n2\,500円\nhttps://marche-yell.com/Utnmy_Mirai/products/176203\n \nB\n・夏！おでかけチェキ1枚 (サインあり)\n・夏！おでかけチェキ1枚 (サインなし)\n2\,500円\n https://marche-yell.com/Utnmy_Mirai/products/176204\n\nC\n・サインありチェキ1枚(ツアー衣装 or 「夏！おでかけ」）\n・宛名入り手書きメッセージポストカード\n・お礼動画（全員共通）\n5\,500円\nhttps://marche-yell.com/Utnmy_Mirai/products/176205\n\nD\n・ツアー衣装チェキ1枚 (サインあり)\n・夏！おでかけチェキ1枚 (サインあり)\n・お絵描きチェキ１枚(ツアー衣装 or 「夏！おでかけ」）\n7\,000円\nhttps://marche-yell.com/Utnmy_Mirai/products/176206\n\n※『宛名入り生誕手書きメッセージポストカード』、『お絵描きチェキ』は配信時間外での対応となります。\n※サインありは全てサイン・ニックネーム・メッセージ入りとなります。\n※ 宇都宮未来 8月オンラインサイン会の関連商品となります、【Aプラン】【Bプラン】【Cプラン】【Dプラン】につきましては複数購入いただいた場合も1件分の配送手数料のお支払いとなります。\nhttps://timetr.ee/p/gekkanpam/3043050027713273300
-DTEND:20260831T110000Z
-DTSTART:20260831T100000Z
-SUMMARY:[延期]宇都宮未来 8月ソロオンラインサイン会
-UID:41f8ff26-94f8-4a67-82d5-98347a68fe8e@41f8.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260816
-DTEND;VALUE=DATE:20260817
-DESCRIPTION:🎪イベント情報🎪\n\n／\n\n「『アイドル甲子園 in KANDA SQUARE HALL』\nsupported by My-th -DAY2-」出演決定⚾️\n\n＼\n\n🗓️8/16(日) 開場 9:00 / 開演 9:15\n📍KANDA SQUARE HALL\n🎤10:55-11:15\n📸11:40-13:00[B]\n🎟️前方エリア ¥8\,500 / 一般 ¥3\,500 (各種+1D)\n❥ https://user.my-th.jp/tickets/event/aikou_0816\n[7/23 21:00-]\nhttps://timetr.ee/p/gekkanpam/2987070064590036034
-SUMMARY:アイドル甲子園 in KANDA SQUARE HALL supported by My-th -DAY2-
-UID:05f0b4e6-565e-4236-81a1-4ee4f8d5527a@05f0.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260814
-DTEND;VALUE=DATE:20260815
-DESCRIPTION:🎪イベント情報🎪\n\n／\n\n月刊PAM Presents.\n『ANSWER』単独夏祭りSP 開催決定🌻\n\n＼\n\n🗓8/14(金) 開場18:40 / 開演19:00\n📍新宿MARZ\n🎤19:00-20:00[60]\n📸20:20- ※特典会は浴衣着用👘\n🎟優先入場[囲み写メ券付き]¥4\,000 / 一般¥2\,500(各種+1D)\n❥ https://ticketdive.com/event/answer0814\n(8/7 22:00-)\n※囲み写メの撮影は特典会冒頭で実施\nhttps://timetr.ee/p/gekkanpam/2969682002419621302
-SUMMARY:★月刊PAM Presents.『ANSWER』単独夏祭りSP
-UID:a14409ef-5739-4580-bf25-37bdbd968db0@a144.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260502
-DTEND;VALUE=DATE:20260503
-DESCRIPTION:📢📚\n\n/／\n月刊PAM 全国ツアー2026\n 「ちいさな夜」開催決定🌃🪄︎︎\n\\＼\n\n《日程・会場》\n4/8(水) 東京・Spotify O-nest\n5/2(土) 広島・HIROSHIMA 4.14\n6/6(土) 福岡・Livehouse Dragoon\n7/20(月祝) 大阪・北堀江club vijon\n\n-----\n\n月刊PAM全国ツアー2026 「ちいさな夜」\n【広島公演】チケット詳細決定🌃🦪\n \nゲスト：unSea 様\n\n🗓5/2(土) 開場18:00/開演18:30\n📍HIROSHIMA 4.14\n▶︎広島県広島市中区立町1-26泰平ビルB1F\n🎟https://ticketdive.com/event/pam2026hiroshima\n◎VIPチケット ¥7\,000 +1D\n・優先入場\n・囲み写メ(特典会冒頭で撮影)\n・月刊PAMからの15秒動画(特典会冒頭で撮影)\n◎一般チケット ¥2\,500 +1D\n[販売期間] 3/27 22:00～5/2 17:00\nhttps://timetr.ee/p/gekkanpam/2905239563235990610
-SUMMARY:★広島🦪月刊PAM 全国ツアー2026 「ちいさな夜」【広島公演】
-UID:065cda01-b68b-4449-8d7f-6e085385aef8@065c.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260408
-DTEND;VALUE=DATE:20260409
-DESCRIPTION:📢📚\n\n/／\n月刊PAM 全国ツアー2026\n 「ちいさな夜」開催決定🌃🪄︎︎\n\\＼\n\n《日程・会場》\n4/8(水) 東京・Spotify O-nest\n5/2(土) 広島・HIROSHIMA 4.14\n6/6(土) 福岡・Livehouse Dragoon\n7/20(月祝) 大阪・北堀江club vijon\n\n-----\n\n月刊PAM全国ツアー2026 「ちいさな夜」\n【東京公演】チケット詳細決定🌃🪄︎︎\n\n\n🗓4/8(水) 開場18:30/開演19:00\n📍Spotify O-nest (東京)\n▶︎渋谷区円山町2-3 6F\n🎟 t-dv.com/pam2026tokyo\n◎VIPチケット ¥7\,000 +1D\n・優先入場\n・囲み写メ(特典会冒頭で撮影)\n・月刊PAMからの15秒動画(特典会冒頭で撮影)\n◎一般チケット ¥2\,500 +1D\n[販売期間] 3/16 22:00～4/8 17:00\nhttps://timetr.ee/p/gekkanpam/2905239696598080611
-SUMMARY:★月刊PAM 全国ツアー2026 「ちいさな夜」【東京公演】
-UID:241c7a99-8db1-4145-9b2a-24e58af5fdd0@241c.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260913
-DTEND;VALUE=DATE:20260914
-DESCRIPTION:🎪イベント情報🎪\n\n／\n\n『ソノウチ』出演決定💃\n\n＼\n\n🗓9/13(日)開場10:20/開演10:40\n📍新宿LOFT\n🎤16:40-17:05\n📸17:05-18:05【C】\n🎟前売¥3\,400/当日¥4\,000円(+1D)\n❥ t-dv.com/260913sonouti\n(8/21 22:00-)\nhttps://timetr.ee/p/gekkanpam/2986414369221877077
-SUMMARY:ソノウチ
-UID:dc513949-86f4-47c1-8d91-824703e3d7e2@dc51.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260926
-DTEND;VALUE=DATE:20260927
-DESCRIPTION:🎪イベント情報🎪\n\n／\n\nさとりモンスター主催 \n『しもきたざわーるど』NIGHT 出演決定🌃\n\n＼\n\n🗓9/26(土)開場17:00/開演17:30\n📍下北沢シャングリラ\n🎤19:20-19:45\n📸20:50-22:00\n🎟️前売¥3000(別途+1D)\n▶︎ https://ticketdive.com/event/shimokitazaworld2026\nhttps://timetr.ee/p/gekkanpam/3022624092476382777
-SUMMARY:さとりモンスター主催 『しもきたざわーるど』NIGHT
-UID:846db436-5515-4f34-a139-f327593752f1@846d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:📽オンラインサイン会配信情報👀🍿*゜\n\n／\n\n『宇都宮未来 5月ソロオンラインサイン会』開催決定🩵\n\n＼\n\n🗓5/27(水)20:30～\n🎥 youtube.com/@gekkanpam\n(月刊PAM 公式YouTube)\n🛍marche-yell.com/events/\n※ ～5/27(水)21:00まで購入可能\n※通例のまとめページ購入リンクが異なります\n\n【対象商品】\nA\n・水玉カッパチェキ1枚 (サインあり)\n・水玉カッパチェキ1枚 (サインなし)\n2\,500円\nhttps://marche-yell.com/Utnmy_Mirai/products/166007/\n\nB\n・黒猫耳チェキ1枚 (サインあり)\n・黒猫耳チェキ1枚 (サインなし)\n2\,500円\nhttps://marche-yell.com/Utnmy_Mirai/products/166008/\n \nC\n・サインありチェキ1枚 (水玉カッパor 黒猫耳)\n・宛名入りデジタルメッセージカード\n・お礼動画（全員共通）\n5\,500円\nhttps://marche-yell.com/Utnmy_Mirai/products/166012/\n \nD\n・水玉カッパチェキ1枚 (サインあり)\n・黒猫耳チェキ1枚 (サインあり)\n・お絵描きチェキ１枚(水玉カッパor 黒猫耳）\n7\,000円\nhttps://marche-yell.com/Utnmy_Mirai/products/166013/\n\n※お絵描きチェキは配信時間外での対応となります。\n※サインありは全てサイン・ニックネーム・メッセージ入りとなります。\n※ 宇都宮未来 5月オンラインサイン会の関連商品となります、【Aプラン】【Bプラン】【Cプラン】【Dプラン】につきましては複数購入いただいた場合も１件分の配送手数料のお支払いとなります\nhttps://timetr.ee/p/gekkanpam/2972645861572976435
-DTEND:20260527T123000Z
-DTSTART:20260527T113000Z
-SUMMARY:宇都宮未来 5月ソロオンラインサイン会
-UID:6efbf18c-097a-4d62-a1bf-747d7989b3cf@6efb.org
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261025
 DTEND;VALUE=DATE:20261026
 DESCRIPTION:🎪イベント情報🎪\n\n／\n\n雨模様のソラリス presents\n『Festival in the Rain 2026』出演決定☔️\n\n＼\n\n🗓10/25(日)\n📍下北沢シャングリラ / 下北沢MOSAiC / Flowers Loft / ADRIFT / WAVER\n🎫リストバンド交換10:30〜(予定)\n🎟チケット各種+1drink\n・好天チケット ¥8\,800【特典：イベントTシャツ(XLのみ)/シャングリラ優先入場エリア入場】\n・一般チケット ¥4\,800\n❥ https://perfectmusic.zaiko.io/ja/item/384197\n\n＜SNS先行＞\n抽選申し込み：〜2026年9月6日23:59\n一般チケット発売：2026年9月14日21:30-\nhttps://timetr.ee/p/gekkanpam/3021767499744517667
 SUMMARY:雨模様のソラリス presents『Festival in the Rain 2026』
-UID:730142fc-29f2-4c0f-85f3-8cc25c56b08c@7301.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261003
-DTEND;VALUE=DATE:20261004
-DESCRIPTION:🎪イベント情報🎪\n\n／\n\n沖縄遠征DAY1・夜🌃\n『でぃぐぱむ -沖縄-』出演決定🌺\n\n＼\n\n🗓10/3(土) 開場18:00/開演18:20\n📍Livehouse Output (沖縄)\n🎤18:50-19:20\n🗣️19:20-19:25\n📸19:30-20:30\n🎟優先入場 ¥3\,500/一般¥3\,000(各種+1D)\n❥ t-dv.com/diigpam\n[9/15 21:30-]\nhttps://timetr.ee/p/gekkanpam/3039982482697461441
-SUMMARY:沖縄🌴でぃぐぱむ -沖縄-
-UID:9dfc0b87-fefb-4d0e-8605-77a7c6b7f75a@9dfc.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260419
-DTEND;VALUE=DATE:20260420
-DESCRIPTION:🎪イベント情報🎪\n\n／\n\n福島いわきの温泉旅館一棟借りイベント‼️\nエクストロメ‼︎ presents\n『トロメ〜湯♨️』出演決定🕺🔥\n\n＼\n\n🗓4/18(土)-19(日)\n📍いわき湯本温泉 旅館こいと(https://koito-inn.co.jp/)\n\n【4/18(土)】\n🎤12:50-13:15\n📸13:25-14:35[C]\n\n【4/19(日)】\n🎤11:55-12:20\n📸12:30-13:40[C]\n\n🎟 https://livepocket.jp/e/8cklr\n《前売り(各+1D)》\n①通し券；9\,800円（S1〜）\n②DAY1 ；5\,500円（A1〜）\n③DAY2；5\,500円（B1〜）\n\n\n-----\n衣装＆館内着の2DAYSでお届けします👘♡\n\n各日指名特典🎁サインなしチェキ券\n🪄︎︎2DAYSの方には+囲み写メ券をプレゼント！\nhttps://timetr.ee/p/gekkanpam/2912211691130822462
-SUMMARY:福島🍑エクストロメ‼︎ presents『トロメ〜湯♨️』
-UID:b854bada-d569-45f6-ac4e-59ca42e3aed2@b854.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260411
-DTEND;VALUE=DATE:20260412
-DESCRIPTION:🎪イベント情報🎪\n\n／\n\nこぐまカリー7日連続🧸🍛\n『トーキョーログ』出演決定🗼\n\n＼\n\n🗓4/11(土)開場10:30/ 開演11:00\n📍大塚Hearts+\n🎤12:15-12:38\n📸13:15-14:15\n🎟前売り¥3\,000/当日¥3\,500(各種+1D)\n❥ t-dv.com/kc202604\n(3/12 22:00-)\nhttps://timetr.ee/p/gekkanpam/2913982324667816984
-SUMMARY:こぐまカリー7日連続『トーキョーログ』
-UID:2d81a8e5-be00-44cc-91c1-c095bc36e19a@2d81.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260522
-DTEND;VALUE=DATE:20260523
-DESCRIPTION:🎪イベント情報🎪\n\n／\n\ngoodnight! records presents『120min』出演決定🔥\n\n＼\n\n🗓5/22(金)開場18:30/開演19:00\n📍新宿MARZ\n🎙19:00-19:40\n📸21:10-22:10\n🎟️前売り¥3\,000 / 当日¥3\,500 (各種+1D) \n❥ https://livepocket.jp/e/s4uhs\nhttps://timetr.ee/p/gekkanpam/2941304194869992503
-SUMMARY:goodnight! records presents『120min』
-UID:50764a06-3e8d-4253-a5a1-cd235138ff11@5076.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260520
-DTEND;VALUE=DATE:20260521
-DESCRIPTION:🎪イベント情報🎪\n\n／\n\n❤️‍🔥2MAN LIVE❤️‍🔥\n「月刊PAM Presents.『ANSWER』VOL.10」開催🤝🏻\n\n＼\n\n🗓5/20(水)開場19:00 / 開演19:30\n📍新宿MARZ\n👭🏻【第10回目ゲスト】\n▶︎Negicco (@Negicco_Info )\n🎤20:10-20:50\n🗣️20:50-20:55 [エンディングトーク]\n📸21:00-22:00 [月刊PAMのみ実施]\n🎟優先入場¥3\,500/一般¥3\,000(各種+1D)\n❥ t-dv.com/answer10\n(4/16 22:00- 先着)\nhttps://timetr.ee/p/gekkanpam/2868756841852542432
-SUMMARY:★月刊PAM Presents『ANSWER』vol.10
-UID:b56ad11d-ff63-43ee-b376-e4b84b3d353f@b56a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:📽オンラインサイン会配信情報👀🍿*゜\n\n／\n\n【振替日・決定】\n『船井美玖 8月ソロオンラインサイン会』開催💚\n\n＼\n\n🗓9/15(火)20:30〜\n🎥 youtube.com/@gekkanpam\n(月刊PAM 公式YouTube)\n🛍 marche-yell.com/events/\n※9/15(火) 21:00まで購入可能\n\n【対象商品】\nA\n・ツアー衣装チェキ1枚 (サインあり)\n・ツアー衣装チェキ1枚 (サインなし)\n2\,500円\n https://marche-yell.com/_funaimiku_/products/176207\n\nB\n・秋の味覚🍂クッキングエプロンチェキ🍳1枚 (サインあり)\n・秋の味覚🍂クッキングエプロンチェキ🍳1枚 (サインなし)\n2\,500円\nhttps://marche-yell.com/_funaimiku_/products/176208/\n\nC\n・サインありチェキ1枚(ツアー衣装 or 「秋の味覚🍂クッキングエプロン🍳」）\n・宛名入り手書きメッセージポストカード\n・お礼動画（全員共通）\n5\,500円\nhttps://marche-yell.com/_funaimiku_/products/176212/\n \nD\n・ツアー衣装チェキ1枚 (サインあり)\n・秋の味覚🍂クッキングエプロンチェキ🍳1枚 (サインあり)\n・サインなしチェキ1枚(ツアー衣装 or 「秋の味覚🍂クッキングエプロン🍳」）\n・お名前を呼んでのお礼動画\n7\,000円\nhttps://marche-yell.com/_funaimiku_/products/176213/\n\nE\n・ツアー衣装チェキ1枚 (サインあり)\n・秋の味覚🍂クッキングエプロンチェキ🍳1枚 (サインあり)\n・お絵描きチェキ1枚(ツアー衣装 or 「秋の味覚🍂クッキングエプロン🍳」）\n7\,000円\nhttps://marche-yell.com/_funaimiku_/products/176214/\n\n※『宛名入り生誕手書きメッセージポストカード』、『お絵描きチェキ』は配信時間外での対応となります。\n※サインありは全てサイン・ニックネーム・メッセージ入りとなります。\n※ 船井美玖 8月オンラインサイン会の関連商品となります、【Aプラン】【Bプラン】【Cプラン】【Dプラン】【Eプラン】につきましては複数購入いただいた場合も1件分の配送手数料のお支払いとなります。\nhttps://timetr.ee/p/gekkanpam/3052301545880657063
-DTEND:20260915T123000Z
-DTSTART:20260915T113000Z
-SUMMARY:振替・船井美玖8月オンラインサイン会
-UID:152be243-ca10-4c11-ab09-57f0b490953f@152b.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260503
-DTEND;VALUE=DATE:20260504
-DESCRIPTION:🎪イベント情報🎪\n\n／\n\n4年連続❗️ただいま広島❗️\n『2026ひろしまフラワーフェスティバル』\n2DAYS出演決定💐🎉\n\n＼\n\n🗓5/3\,5/4(日\,月祝) 観覧無料\n📍《広島》ホップステージ/カラーステージ\n\n5/3(日)\n【1】ホップステージ🍺\n▶︎平和大通り会場 白神ブロック北側 FMちゅーピー･FF\n🎙17:30-18:00\n📸18:00-18:30\n\n5/4(月祝)\n【2】カラーステージ🎨\n▶︎平和大通り会場 三川町ブロック北川 広島ガス\n🎙13:15-13:45\n📸13:45-14:15\n\n－－－other topic－－－\n🌟5/2(土) 月刊PAM全国ツアー2026 「ちいさな夜」【広島公演】 (ゲスト：unSea 様)\n🎟️ https://ticketdive.com/event/pam2026hiroshima\n\n🌟5/3(日) 20時頃からオフ会予定\n❥詳細近日\n\nFF詳細🔗 hiroshima-ff.com\n\n#月刊PAM\n#フラワーフェスティバル\n#ひろしまフラワーフェスティバル\n#FF\n#hiroshimaff\nhttps://timetr.ee/p/gekkanpam/2905240500402888155
-SUMMARY:広島🦪フラワーフェスティバル
-UID:8c7894be-84ed-4e4a-8e21-628e9e669163@8c78.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:📽オンラインサイン会配信情報👀🍿*゜\n\n／\n\n【振替日・決定】\n『宇都宮未来 8月ソロオンラインサイン会』開催🩵\n\n＼\n\n🗓9/15(火)19:00〜\n🎥 youtube.com/@gekkanpam\n(月刊PAM 公式YouTube)\n🛍 marche-yell.com/events/\n※9/15(火) 19:30まで購入可能\n\n【対象商品】\nA\n・ツアー衣装チェキ1枚 (サインあり)\n・ツアー衣装チェキ1枚 (サインなし)\n2\,500円\nhttps://marche-yell.com/Utnmy_Mirai/products/176203\n \nB\n・夏！おでかけチェキ1枚 (サインあり)\n・夏！おでかけチェキ1枚 (サインなし)\n2\,500円\n https://marche-yell.com/Utnmy_Mirai/products/176204\n\nC\n・サインありチェキ1枚(ツアー衣装 or 「夏！おでかけ」）\n・宛名入り手書きメッセージポストカード\n・お礼動画（全員共通）\n5\,500円\nhttps://marche-yell.com/Utnmy_Mirai/products/176205\n\nD\n・ツアー衣装チェキ1枚 (サインあり)\n・夏！おでかけチェキ1枚 (サインあり)\n・お絵描きチェキ１枚(ツアー衣装 or 「夏！おでかけ」）\n7\,000円\nhttps://marche-yell.com/Utnmy_Mirai/products/176206\n\n※『宛名入り生誕手書きメッセージポストカード』、『お絵描きチェキ』は配信時間外での対応となります。\n※サインありは全てサイン・ニックネーム・メッセージ入りとなります。\n※ 宇都宮未来 8月オンラインサイン会の関連商品となります、【Aプラン】【Bプラン】【Cプラン】【Dプラン】につきましては複数購入いただいた場合も1件分の配送手数料のお支払いとなります。\nhttps://timetr.ee/p/gekkanpam/3052300905175555583
-DTEND:20260915T110000Z
-DTSTART:20260915T100000Z
-SUMMARY:振替・宇都宮未来8月ソロオンラインサイン会
-UID:91f8de1f-bde2-437d-83c4-6842fee4b9d6@91f8.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261011
-DTEND;VALUE=DATE:20261012
-DESCRIPTION:🎪イベント情報🎪\n\n／\n\n日ノ目企画presents\n『SUNDAYRIGHT/WRONG×2』TT＆チケット詳細決定🚗\n\n＼\n\n🗓10/11(日)開場10:15/開演10:45\n📍大塚Hearts+\n🎤15:25-15:50\n📸17:20-18:20\n🎟優先入場 ¥3\,800/一般¥3300 / 当日 ¥3900 (各種+1D)\n❥ t-dv.com/hnm1011ohpn\n(9/4 22:00-)\n\n[注意事項]\n※入場受付はHearts Nextのみとなります。\n※オープン時、及び再整列時に優先入場チケットお持ちの方からご入場いただけます。(整理券番号順)\n※入場規制の場合も優先入場チケットの方を優先でご入場いただけます。(並び順)\n※本イベントに限り、再入場ドリンク代かかりません。リストバンドを受付にご提示ください。\nhttps://timetr.ee/p/gekkanpam/3021767406102486946
-SUMMARY:日ノ目企画presents『SUNDAYRIGHT/WRONG×
-UID:f3fb3ebf-ef5b-4044-8654-566222731dc8@f3fb.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260719
-DTEND;VALUE=DATE:20260720
-DESCRIPTION:🎪イベント情報🎪\n\n／\n\n大阪遠征DAY2🐙\nこぐまカリー主催「Spice it Up」出演決定🧸🍛\n\n＼\n\n🗓7/19(日) 開場11:00/開演11:30\n📍アメリカ村BEYOND(大阪)\n🎤13:10-13:33\n📸13:45-14:45\n🎟前売3000円/当日3500円\n❥ t-dv.com/kc20260719\n(6/4 22:30-)\nhttps://timetr.ee/p/gekkanpam/2905242288208190620
-SUMMARY:大阪🐙こぐまカリー主催「Spice it Up」
-UID:6e2afdba-a679-46b7-bfdc-dfb5ffedb237@6e2a.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261024
-DTEND;VALUE=DATE:20261025
-DESCRIPTION:🎪イベント情報🎪\n\n／\n\n『ソノウチ』出演決定🤝🏻\n\n＼\n\n🗓10/24(土)開場10:20/開演10:40\n📍新宿LOFT\n🎟前売り¥3\,400/当日¥4\,000(各種+1D)\n❥ t-dv.com/261024sonouti\n(10/6 22:00-]\nhttps://timetr.ee/p/gekkanpam/3051479243966357143
-SUMMARY:ソノウチ
-UID:4c5160e7-1a48-4dc2-9cbb-14faf1e71b7b@4c51.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260920
-DTEND;VALUE=DATE:20260921
-DESCRIPTION:🎪イベント情報🎪\n\n／\n\n🆓入場無料🆓\n『PAM撮影会&チェキ会 ~september~』開催決定📸\n\n＼\n\n🗓9/20(日)\n 《1部13:00-14:20》《2部 14:50-16:10》\n📍460_Stella-Studio新宿\n▶︎ 東京都新宿区西新宿7-1-11 共栄ビル2階\n💃衣装は各メンバー 1部･2部で異なります。\n\n【販売商品】\n・特典券1枚 1\,000円\n(通常イベント物販で販売しているチェキ券と同様のものとなります。)\n・おあずけチェキ券1枚 3\,000円\n・囲みチェキ券1枚 4\,000円\n\n《当日レギュレーション》\n📸特典券1枚\n❥サインなしチェキ+トーク\n📸特典券2枚\n❥サインありチェキ+トーク\n📸特典券4枚\n❥3分間の撮影タイム\n\n📸おあずけチェキ券1枚\n❥(後日)撮影したチェキのお渡し+トーク\n📸囲みチェキ券1枚\n❥(メンバー2shot or お客様を含めた3shot)サインなしチェキ+トーク\n\n【⚠️注意事項】\n※近隣の方のご迷惑となりますので、開催時間に合わせてお越しください。\n開催時間になりましたら、特典券の販売及びイベントをスタートさせて頂きます。\n\n※列が途切れた場合や予定人数に達した場合、終了予定時間より早く受付を終了させていただく場合がございます。\n\n※会場のトイレは使用できません。予めご了承ください。\n\n※実施場所には、撮影に関する機材は揃っておりません。お客様ご自身にご用意いただくクリップオン型のフラッシュの使用などは可能となります。\nレフ版や持ち込んで立て込みするライトなどは使用できないこと、あらかじめご了承ください。\nイベント場所は、通常の展示会スペースとなることも合わせてご了承ください。\n\n※撮影に関しては、ご自身がお持ちになるカメラ、スマートフォンなどでOKです。\n(チェキ機NG、インスタントカメラOK)\n\n※撮影した写真のSNS掲載につきまして、月刊PAM公式XのDMにお送りいただき許可を得たものに限り掲載可能となります。\nまた撮影した写真の商用利用は禁止といたします。\nhttps://timetr.ee/p/gekkanpam/3036245624532474954
-SUMMARY:PAM撮影会&チェキ会 ~september~
-UID:be29ea2e-f1b6-4471-8495-11cdabe539b7@be29.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260505
-DTEND;VALUE=DATE:20260506
-DESCRIPTION:🎪イベント情報🎪\n\n／\n\n『歌舞伎町 UP GATE↑↑2026』DAY2出演決定🎏\n\n＼\n\n🗓5/5(火祝)開場12:00開演13:00\n📍新宿motion\n🎤14:20-14:45\n📸15:15-16:15 [別会場:ヒートウェーブ]\n🎤《宇都宮未来 カラオケバトル》16:35-16:40 \n🎟一日券¥7\,700(+1D)\n❥ https://ticket.rakuten.co.jp/music/jpop/idle/rtzpbbp/\n(先行抽選受付中 ～3/15(日)23:59)\n\n🔗kabukicho-upgate.com\nhttps://timetr.ee/p/gekkanpam/2905240753671740466
-SUMMARY:歌舞伎町 UP GATE↑↑2026
-UID:4b519276-75b3-4e00-b774-d0fba8c0cd8f@4b51.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260417
-DTEND;VALUE=DATE:20260418
-DESCRIPTION:🎪イベント情報🎪\n\n／\n\n🌸春の野外ステージ・入場フリー🌸\n『酒まつりジャパン』出演決定🍻🍶\n\n＼\n\n🗓4/17(金)開場11:00/終了21:00\n📍上野恩賜公園 竹の台広場（台東区上野公園5-20）\n🎤18:00-18:20\n📸18:30-19:30\n🏃🏻‍♀️入場フリー🆓\n《HP》https://sakefesta.jp/2026/\nhttps://timetr.ee/p/gekkanpam/2919651658211761289
-SUMMARY:酒まつりジャパン
-UID:480f4f29-2329-4397-b423-fd54350f3770@480f.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260430
-DTEND;VALUE=DATE:20260501
-DESCRIPTION:📽オンラインサイン会配信情報👀🍿*゜\n\n／\n\n『宇都宮未来 4月ソロオンラインサイン会』開催決定🩵\n\n＼\n\n🗓4/30(木)19:00～\n🎥 youtube.com/@gekkanpam\n(月刊PAM 公式YouTube)\n🛍https://marche-yell.com/events/\n※4/28 13:00～4/30 19:30まで購入可能、販売開始からページに商品が掲載されます\n※通例のまとめページ購入リンクが異なります\n\n【対象商品】\nA\n・春ワンピース①チェキ1枚 (サインあり)\n・春ワンピース①チェキ1枚 (サインなし)\n2\,500円\n \nB\n・春ワンピース②チェキ1枚 (サインあり)\n・春ワンピース②1枚 (サインなし)\n2\,500円\n\nC\n・春ワンピース①チェキ1枚 (サインあり)\n・春ワンピース②チェキ1枚 (サインあり)\n・お名前を呼んでのメッセージ動画\n4\,500円\n\nD\n・春ワンピース①チェキ1枚 (サインあり)\n・春ワンピース②チェキ1枚 (サインあり)\n・お絵描きチェキ１枚(春ワンピース ①or②）\n7\,000円\n\n※お絵描きチェキは配信時間外での対応となります。\n※サインありは全てサイン・ニックネーム・メッセージ入りとなります。\n※ 宇都宮未来 4月オンラインサイン会の関連商品となります、【Aプラン】【Bプラン】【Cプラン】【Dプラン】につきましては複数購入いただいた場合も１件分の配送手数料のお支払いとなります\nhttps://timetr.ee/p/gekkanpam/2953859153394113544
-SUMMARY:宇都宮未来 4月ソロオンラインサイン会
-UID:a6c9abfc-3fd1-4526-b151-1db532eb32fc@a6c9.org
+UID:2a73cf48-aaa2-4ec3-80e6-a215419ed843@2a73.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260504
 DTEND;VALUE=DATE:20260505
 DESCRIPTION:🎪イベント情報🎪\n\n／\n\n4年連続❗️ただいま広島❗️\n『2026ひろしまフラワーフェスティバル』\n2DAYS出演決定💐🎉\n\n＼\n\n🗓5/3\,5/4(日\,月祝) 観覧無料\n📍《広島》ホップステージ/カラーステージ\n\n5/3(日)\n【1】ホップステージ🍺\n▶︎平和大通り会場 白神ブロック北側 FMちゅーピー･FF\n🎙17:30-18:00\n📸18:00-18:30\n\n5/4(月祝)\n【2】カラーステージ🎨\n▶︎平和大通り会場 三川町ブロック北川 広島ガス\n🎙13:15-13:45\n📸13:45-14:15\n\n－－－other topic－－－\n🌟5/2(土) 月刊PAM全国ツアー2026 「ちいさな夜」【広島公演】 (ゲスト：unSea 様)\n🎟️ https://ticketdive.com/event/pam2026hiroshima\n\n🌟5/3(日) 20時頃からオフ会予定\n❥詳細近日\n\nFF詳細🔗 hiroshima-ff.com\n\n#月刊PAM\n#フラワーフェスティバル\n#ひろしまフラワーフェスティバル\n#FF\n#hiroshimaff\nhttps://timetr.ee/p/gekkanpam/2905240610922798396
 SUMMARY:広島🦪フラワーフェスティバル
-UID:7b2d3503-84b2-4cdc-b150-05479dc8e848@7b2d.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261103
-DTEND;VALUE=DATE:20261104
-DESCRIPTION:🎪イベント情報🎪\n\n／\n\n@ JAM×アイドル横丁presents\n『秋葉原アイドルサーキットvol.6』出演決定🎡\n\n＼\n\n🗓11/3(火祝) \n📍秋葉原サーキット\n🎟前売り¥7\,500(+1D)\n❥ https://atjam.jp/ticket\n(先行9/15 12:00-、一般10/3 10:00-)\n\n《詳細》\n🔗https://atjam.jp/news/detail/WNHYd2jvH8aOvntMtROP\nhttps://timetr.ee/p/gekkanpam/3021985226862075543
-SUMMARY:@ JAM×アイドル横丁presents『秋葉原アイドルサーキットvol.6』
-UID:e8b9df24-7112-4191-8843-cf785d9695c7@e8b9.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260729
-DTEND;VALUE=DATE:20260730
-DESCRIPTION:🎪イベント情報🎪\n\n／\n\n『FLAG FES』出演決定🐧🚩\n\n＼\n\n🗓7/29(水)開場18:40/開演19:00\n📍新代田FEVER\n🎤19:30-20:00\n📸21:10-22:10\n🎟優先入場¥3\,500/一般¥2\,800 (各種+1D)\n❥ https://ticketdive.com/event/flag0729\n(7/9(木)22:00-)\nhttps://timetr.ee/p/gekkanpam/2959374710121930520
-SUMMARY:FLAG FES
-UID:3dc9fe63-205e-487d-a09e-cdffe6c7c5e6@3dc9.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261016
-DTEND;VALUE=DATE:20261017
-DESCRIPTION:🎪イベント情報🎪\n\n／\n\n「NUANCE presents 『ヌュナッス』\nsupported by エンジョイナス!! 」出演決定🍆\n\n＼\n\n🗓10/16(金)開場18:15 / 開演18:45\n📍SHIBUYA DESEO\n🎤18:45-19:15\n📸20:45-22:00\n🎟前売¥2\,500 / 当日3.200円 (+1D)\n❥ t-dv.com/NUNNUS_3\n(9/24 21:00-)\nhttps://timetr.ee/p/gekkanpam/3058731170248760377
-SUMMARY:NUANCE presents 『ヌュナッス』supported by エンジョイナス!!
-UID:3f9aea1e-26fb-43bb-8203-35184e2b85b8@3f9a.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260624
-DTEND;VALUE=DATE:20260625
-DESCRIPTION:🎪イベント情報🎪\n\n／\n\n『FLAG FES』出演決定🐧🚩\n\n＼\n\n🗓6/24(水)開場18:40/開演19:00\n📍新代田FEVER\n🎤19:30-20:00\n📸21:10-22:10\n🎟優先入場¥3\,500/一般¥2\,800(各種+1D)\n❥https://ticketdive.com/event/flag0624\n(6/9 22:00-)\nhttps://timetr.ee/p/gekkanpam/2963841255279664539
-SUMMARY:FLAG FES
-UID:b9067a4a-64ae-4ea1-a1e5-6dccf9ab2d9f@b906.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260430
-DTEND;VALUE=DATE:20260501
-DESCRIPTION:📽オンラインサイン会配信情報👀🍿*゜\n\n／\n\n『船井美玖 4月ソロオンラインサイン会』開催決定💚\n\n＼\n\n🗓4/30(木)20:30～\n🎥youtube.com/@gekkanpam\n(月刊PAM 公式YouTube)\n🛍https://marche-yell.com/events/\n※4/28 13:00～4/30 21:00まで購入可能、販売開始からページに商品が掲載されます\n\n【対象商品】\nA\n・生誕衣装チェキ1枚 (サインあり)\n・生誕衣装チェキ1枚 (サインなし)\n2\,500円\n \nB\n・生誕Tシャツチェキ1枚 (サインあり)\n・生誕Tシャツチェキ1枚 (サインなし)\n2\,500円\n \nC\n・サインありチェキ1枚(生誕衣装 or 生誕Tシャツ）\n・宛名入り生誕手書きメッセージポストカード\n・お礼動画（全員共通）\n5\,500円\n \nD\n・生誕衣装チェキ1枚 (サインあり)\n・生誕Tシャツチェキ1枚 (サインあり)\n・サインなしチェキ1枚(生誕衣装 or 生誕Tシャツ）\n・お名前を呼んでのお礼動画\n7\,000円\n \nE\n・生誕衣装チェキ1枚 (サインあり)\n・生誕Tシャツチェキ1枚 (サインあり)\n・お絵描きチェキ1枚(生誕衣装 or 生誕Tシャツ）\n7\,000円\n\n※お絵描きチェキは配信時間外での対応となります。\n※サインありは全てサイン・ニックネーム・メッセージ入りとなります。\n※ 船井美玖 4月オンラインサイン会の関連商品となります、【Aプラン】【Bプラン】【Cプラン】【Dプラン】【Eプラン】につきましては複数購入いただいた場合も１件分の配送手数料のお支払いとなります\nhttps://timetr.ee/p/gekkanpam/2953859514951507809
-SUMMARY:船井美玖 4月ソロオンラインサイン会
-UID:4215df58-5b41-413d-80c0-a4e6308c7f6a@4215.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260507
-DTEND;VALUE=DATE:20260508
-DESCRIPTION:🎪イベント情報🎪\n\n／\n\n『MOKEMOKE / 01』出演決定💭\n\n＼\n\n🗓5/7(木) 開場18:00 / 開演18:30\n📍Spotify O-nest\n🎙️18:55-19:20\n📸20:20-21:40\n🎟前売 ¥2\,000 / 当日 ¥2\,500(各+1D)\n❥ t-dv.com/mokemoke01\n(4/28 20:00-)\n\n🎁サインなしチェキ券+1p\nhttps://timetr.ee/p/gekkanpam/2941304037684256395
-SUMMARY:MOKEMOKE / 01
-UID:62649940-ef3d-4918-99c1-3687de120740@6264.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260331
-DTEND;VALUE=DATE:20260401
-DESCRIPTION:🎪イベント情報🎪\n\n／\n\n「月刊PAM Presents『ANSWER』vol.8」開催決定❤️‍🔥\n\n＼\n\n🗓3/31(火)開場18:30 / 開演19:00\n📍新宿MARZ\n👭🏻【第8回目ゲスト】\n▶︎airattic \n▶︎クマリデパート\n▶︎SOMOSOMO\n🎙20:30-21:00\n📸21:05-22:05\n\n🎟優先入場¥3\,500/一般¥3\,000(各種+1D)\n❥ https://ticketdive.com/event/answer8\n(3/18 22:30-)\nhttps://timetr.ee/p/gekkanpam/2868320275212508962
-SUMMARY:★月刊PAM Presents『ANSWER』vol.8
-UID:9793052d-2886-47cc-8d1c-57dde16ace93@9793.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:📽オンラインサイン会配信情報👀🍿*゜\n\n／\n\n『宇都宮未来 9月ソロオンラインサイン会』開催️決定🩵\n\n＼\n\n🗓9/29(火)20:30～\n🎥 youtube.com/@gekkanpam\n(月刊PAM 公式YouTube)\n🛍 marche-yell.com/events/\n※9/29(火)21:00まで購入可能\n\n【対象商品】\nA\n・お月見チェキ1枚 (サインあり)\n・お月見チェキ1枚 (サインなし)\n2\,500円\nhttps://marche-yell.com/Utnmy_Mirai/products/179310\n\nB\n・ハロウィンチェキ1枚 (サインあり)\n・ハロウィンチェキ1枚 (サインなし)\n2\,500円\nhttps://marche-yell.com/Utnmy_Mirai/products/179311\n\nC\n・サインありチェキ1枚(お月見 or ハロウィン）\n・宛名入り手書きメッセージポストカード\n・お礼動画（全員共通）\n5\,500円\nhttps://marche-yell.com/Utnmy_Mirai/products/179312\n\nD\n・お月見チェキ1枚 (サインあり)\n・ハロウィンチェキ1枚 (サインあり)\n・お絵描きチェキ１枚(お月見 or ハロウィン）\n7\,000円\nhttps://marche-yell.com/Utnmy_Mirai/products/179313\n\n\n※『宛名入り生誕手書きメッセージポストカード』、『お絵描きチェキ』は配信時間外での対応となります。\n※サインありは全てサイン・ニックネーム・メッセージ入りとなります。\n※ 宇都宮未来 9月オンラインサイン会の関連商品となります、【Aプラン】【Bプラン】【Cプラン】【Dプラン】につきましては複数購入いただいた場合も1件分の配送手数料のお支払いとなります。\nhttps://timetr.ee/p/gekkanpam/3064233823653306339
-DTEND:20260929T123000Z
-DTSTART:20260929T113000Z
-SUMMARY:宇都宮未来 9月ソロオンラインサイン会
-UID:945e81b2-0289-44c9-b260-59a8ffae751f@945e.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260705
-DTEND;VALUE=DATE:20260706
-DESCRIPTION:🎪イベント情報🎪\n\n／\n\n『超NATSUZOME 2026』DAY2出演決定🔆\n＼\n\n┈┈┈┈┈┈⟡.·*.\n7/4月刊PAM出演公演では、\n2ステージ共に通例の静止画撮影に加え、\nライブ中の動画撮影OK‼️\n┈┈┈┈┈┈⟡.·*.\n\n🗓7/5(日)開場9:00/開演10:00\n📍幕張海浜公園Gブロック (千葉)\n\n🎤①12:20-12:35[15] 《染ステージ》\n📸14:10-15:10《G》 🎁囲み写メ券\n🎤②18:20-18:35[15] 《爆ステージ》\n\n🎟️https://idol-spot.tstar.jp/event/rileaas/?scid=su_16699\nhttps://timetr.ee/p/gekkanpam/2932677808160742796
-SUMMARY:千葉🌊超NATSUZOME 2026
-UID:b0a91a8c-2976-4f3a-a9c5-e256e17d996d@b0a9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:配信延期となりました。詳しくは下記をご確認ください。\n▶︎https://x.com/gekkanpam/status/2093623883089994167?s=46&t=IvNbDIHLHCLolUrVEge5fw\n\n－－－－－－－－－－－－－－\n\n📽オンラインサイン会配信情報👀🍿*゜\n\n／\n\n『船井美玖 8月ソロオンラインサイン会』開催決定💚\n\n＼\n\n🗓8/31(月)20:30〜\n🎥 youtube.com/@gekkanpam\n(月刊PAM 公式YouTube)\n🛍 marche-yell.com/events/\n※8/31(月) 21:00まで購入可能\n\n【対象商品】\nA\n・ツアー衣装チェキ1枚 (サインあり)\n・ツアー衣装チェキ1枚 (サインなし)\n2\,500円\n https://marche-yell.com/_funaimiku_/products/176207\n\nB\n・秋の味覚🍂クッキングエプロンチェキ🍳1枚 (サインあり)\n・秋の味覚🍂クッキングエプロンチェキ🍳1枚 (サインなし)\n2\,500円\nhttps://marche-yell.com/_funaimiku_/products/176208/\n\nC\n・サインありチェキ1枚(ツアー衣装 or 「秋の味覚🍂クッキングエプロン🍳」）\n・宛名入り手書きメッセージポストカード\n・お礼動画（全員共通）\n5\,500円\nhttps://marche-yell.com/_funaimiku_/products/176212/\n \nD\n・ツアー衣装チェキ1枚 (サインあり)\n・秋の味覚🍂クッキングエプロンチェキ🍳1枚 (サインあり)\n・サインなしチェキ1枚(ツアー衣装 or 「秋の味覚🍂クッキングエプロン🍳」）\n・お名前を呼んでのお礼動画\n7\,000円\nhttps://marche-yell.com/_funaimiku_/products/176213/\n\nE\n・ツアー衣装チェキ1枚 (サインあり)\n・秋の味覚🍂クッキングエプロンチェキ🍳1枚 (サインあり)\n・お絵描きチェキ1枚(ツアー衣装 or 「秋の味覚🍂クッキングエプロン🍳」）\n7\,000円\nhttps://marche-yell.com/_funaimiku_/products/176214/\n\n※『宛名入り生誕手書きメッセージポストカード』、『お絵描きチェキ』は配信時間外での対応となります。\n※サインありは全てサイン・ニックネーム・メッセージ入りとなります。\n※ 船井美玖 8月オンラインサイン会の関連商品となります、【Aプラン】【Bプラン】【Cプラン】【Dプラン】【Eプラン】につきましては複数購入いただいた場合も1件分の配送手数料のお支払いとなります。\nhttps://timetr.ee/p/gekkanpam/3043051571695296457
-DTEND:20260831T123000Z
-DTSTART:20260831T113000Z
-SUMMARY:[延期]船井美玖 8月ソロオンラインサイン会
-UID:81713689-8831-4afc-ad16-dfb1d4fa3adf@8171.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260808
-DTEND;VALUE=DATE:20260809
-DESCRIPTION:🎪イベント情報🎪\n\n／\n\nRAY presents FREE EVENT\n『FREE FOR MORNING』出演決定☀️🌱\n\n＼\n\n🗓8/8(土・朝)開場9:30/開演10:00\n📍下北沢シャングリラ\n🧘🏼‍♀️ラジオ体操/MC 10:00-10:05\n🎤10:30-10:55\n📸11:50-13:00\n🎟優先入場 ¥1000 / 前売 ¥0 / 当日 ¥0 (各種+1D)\n❥ https://ticketdive.com/event/FREE_FOR_MORNING\n(7/14 22:00-)\nhttps://timetr.ee/p/gekkanpam/2988503770668178780
-SUMMARY:RAY presents FREE EVENT『FREE FOR MORNING』
-UID:9e10c3a5-21a0-4744-8d8e-f269b6bb77dc@9e10.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260603
-DTEND;VALUE=DATE:20260604
-DESCRIPTION:🎪イベント情報🎪\n\n／\n\nUNIVERSE企画\n『NEW ORDER #無銭 NIGHT』出演決定🎶\n\n＼\n\n🗓6/3(水)開場18:30/開演19:00\n📍新宿MARZ\n🎤19:30-20:00\n📸21:00-22:00\n🎟前売り¥0 / 当日¥1\,000 (各種+2D)\n❥ livepocket.jp/e/o6fd6\n(5/16 22:30-)\nhttps://timetr.ee/p/gekkanpam/2965361263482740073
-SUMMARY:UNIVERSE企画『NEW ORDER #無銭 NIGHT』
-UID:9dfd644e-06b7-4f09-b107-ebaf09418adf@9dfd.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260530
-DTEND;VALUE=DATE:20260531
-DESCRIPTION:🎪イベント情報🎪\n\n／\n\n🆓入場無料🆓\n『古民家☆撮影会&チェキ会』開催決定📸🌳\n\n＼\n\n🗓5/30(土) [2部制]\n《1部》12:00-13:30 / 《2部》14:00-15:30\n🆕📍ひらやないえ\n▶︎東京都新宿区西新宿4-17-6\n💃衣装は各メンバー 1部･2部で異なります。\n\n【販売商品】\n・特典券1枚 1\,000円\n(通常イベント物販で販売しているチェキ券と同様のものとなります。)\n・おあずけチェキ券1枚 3\,000円\n・囲みチェキ券1枚 4\,000円\n\n《当日レギュレーション》\n📸特典券1枚\n❥サインなしチェキ+トーク\n📸特典券2枚\n❥サインありチェキ+トーク\n📸特典券4枚\n❥3分間の撮影タイム\n\n📸おあずけチェキ券1枚\n❥(後日)撮影したチェキのお渡し+トーク\n📸囲みチェキ券1枚\n❥(メンバー2shot or お客様を含めた3shot)サインなしチェキ+トーク\n\n【⚠️注意事項】\n※近隣の方のご迷惑となりますので、開催時間に合わせてお越しください。\n開催時間になりましたら、特典券の販売及びイベントをスタートさせて頂きます。\n\n※列が途切れた場合や予定人数に達した場合、終了予定時間より早く受付を終了させていただく場合がございます。\n\n※会場のトイレは使用できません。予めご了承ください。\n\n※実施場所には、撮影に関する機材は揃っておりません。お客様ご自身にご用意いただくクリップオン型のフラッシュの使用などは可能となります。\nレフ版や持ち込んで立て込みするライトなどは使用できないこと、あらかじめご了承ください。\nイベント場所は、通常の展示会スペースとなることも合わせてご了承ください。\n\n※撮影に関しては、ご自身がお持ちになるカメラ、スマートフォンなどでOKです。\n(チェキ機NG、インスタントカメラOK)\n\n※撮影した写真のSNS掲載につきまして、月刊PAM公式XのDMにお送りいただき許可を得たものに限り掲載可能となります。\nまた撮影した写真の商用利用は禁止といたします。\nhttps://timetr.ee/p/gekkanpam/2953790037975080388
-SUMMARY:★古民家☆撮影会&チェキ会
-UID:5dce9b02-9187-4142-895c-1e6636dd1364@5dce.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260718
-DTEND;VALUE=DATE:20260719
-DESCRIPTION:🎪イベント情報🎪\n\n／\n\n関西遠征3DAYS初日🐙\nこぐまカリー主催「Mash UP!」出演決定🧸🍛\n\n＼\n\n🗓7/18(土)開場11:00/開演11:15\n📍心斎橋SUNHALL(大阪)\n🎤14:00-14:23\n📸15:00-16:10\n🎟前売¥3\,500/当日¥4\,000(各種+1D)\n❥ t-dv.com/kc20260718\nhttps://timetr.ee/p/gekkanpam/2905242202174627473
-SUMMARY:大阪🐙こぐまカリー主催「Mash UP!」
-UID:67c008f3-daaf-4485-b0ca-b56b80a41714@67c0.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260524
-DTEND;VALUE=DATE:20260525
-DESCRIPTION:🎪イベント情報🎪\n\n／\n\nさとりモンスター 全国下北化計画ツアー2026\n『春のわくわく大サーキット』出演決定🌟\n\n＼\n\n🗓5/24(日)\n📍下北沢CLUB251\n🎫リストバンド交換10:30〜\n🎤13:30-14:00\n📸14:10-15:10\n🎟通常チケット ¥5000(+1D)\n❥https://ticketdive.com/event/satorimonsterwakuwakudaicircuit2026\nhttps://timetr.ee/p/gekkanpam/2916371152300907565
-SUMMARY:さとりモンスター 全国下北化計画ツアー2026『春のわくわく大サーキット』
-UID:236f05ee-6eda-4b19-a4fa-2c1868533b68@236f.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260425
-DTEND;VALUE=DATE:20260426
-DESCRIPTION:🎪イベント情報🎪\n\n／\n\n🆓入場無料🆓\n『春の撮影会&チェキ会』開催決定📸🌸\n\n＼\n\n🗓4/25(土) [2部制]\n《1部》13:00-14:15 / 《2部》14:45-16:00\n🆕📍エフスペ代官山 PhotoStudio\n▶︎ 東京都渋谷区恵比寿西1−31−15 マルイチマンション501\n💃衣装は各メンバー 1部･2部で異なります。\n\n【販売商品】\n・特典券1枚 1\,000円\n(通常イベント物販で販売しているチェキ券と同様のものとなります。)\n・おあずけチェキ券1枚 3\,000円\n・囲みチェキ券1枚 4\,000円\n\n《当日レギュレーション》\n📸特典券1枚\n❥サインなしチェキ+トーク\n📸特典券2枚\n❥サインありチェキ+トーク\n📸特典券4枚\n❥3分間の撮影タイム\n\n📸おあずけチェキ券1枚\n❥(後日)撮影したチェキのお渡し+トーク\n📸囲みチェキ券1枚\n❥(メンバー2shot or お客様を含めた3shot)サインなしチェキ+トーク\n\n【⚠️注意事項】\n※近隣の方のご迷惑となりますので、開催時間に合わせてお越しください。\n開催時間になりましたら、特典券の販売及びイベントをスタートさせて頂きます。\n\n※列が途切れた場合や予定人数に達した場合、終了予定時間より早く受付を終了させていただく場合がございます。\n\n※会場のトイレは使用できません。予めご了承ください。\n\n※実施場所には、撮影に関する機材は揃っておりません。お客様ご自身にご用意いただくクリップオン型のフラッシュの使用などは可能となります。\nレフ版や持ち込んで立て込みするライトなどは使用できないこと、あらかじめご了承ください。\nイベント場所は、通常の展示会スペースとなることも合わせてご了承ください。\n\n※撮影に関しては、ご自身がお持ちになるカメラ、スマートフォンなどでOKです。\n(チェキ機NG、インスタントカメラOK)\n\n※撮影した写真のSNS掲載につきまして、月刊PAM公式XのDMにお送りいただき許可を得たものに限り掲載可能となります。\nまた撮影した写真の商用利用は禁止といたします。\nhttps://timetr.ee/p/gekkanpam/2929897011435511324
-SUMMARY:春の撮影会&チェキ会
-UID:803a0568-5ce0-44ff-9b40-efd1040ecfa5@803a.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260922
-DTEND;VALUE=DATE:20260923
-DESCRIPTION:🎪イベント情報🎪\n\n／\n\n《静岡遠征》\nさくまる｡pre.『 Told To Meet! vol.1 』出演決定❣️\n\n＼\n\n🗓9/22(火祝)開場11:30/開演12:00\n📍LiveHouse浜松窓枠(静岡)\n🎤18:05-18:30\n📸19:00-20:10\n🎟前売¥3\,900/当日¥4\,400(各種+1D)\n❥ https://ticketdive.com/event/toldtomeet01\n(9/4 22:00-)\nhttps://timetr.ee/p/gekkanpam/3028143070925790613
-SUMMARY:静岡🍵さくまる｡pre.『 Told To Meet! vol.1 』
-UID:29e4952d-6801-4e96-b10c-646f85756c1d@29e4.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260610
-DTEND;VALUE=DATE:20260611
-DESCRIPTION:🎪イベント情報🎪\n\n／\n\n#ﾆｷﾌﾟﾚ\n『カンシャサイ。 』出演決定🌊🍉\n\n＼\n\n🗓6/10(水)\n📍渋谷Star lounge\n🎫リストバンド交換：15:00~(整列14:30~)\n🎤17:50-18:20\n📸19:00-20:10 [外物販会場C/ワールド宇田川ビル301]\n🎟️https://ticketdive.com/event/20260610_nikipre\n・先行チケット(先着)...¥4\,800\n(5/13(水)22:00-5/14(木)23:59 まで)\n・一般チケット(先着)...¥5\,300\n(5/15(金)12:00-6/10(水)12:00 まで)\n※当イベントにおける全券種に整理番号はございません。\nhttps://timetr.ee/p/gekkanpam/2950275292902956669
-SUMMARY:#ﾆｷﾌﾟﾚ『カンシャサイ。』
-UID:ccb0a6af-d3d4-491e-9aa7-cbd63d2475d6@ccb0.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260806
-DTEND;VALUE=DATE:20260807
-DESCRIPTION:2026年8月6日（ぱむの日）\n代々木公園 ケヤキ並木通り\n\n月刊PAMを応援してくださっている皆様、\n19時30分にお集まりください🌙\n\n※トークショーや特典会などのイベントではありません。\n※当日、ケヤキ並木通りの詳細な集合場所についてはお写真を更新いたします\nhttps://timetr.ee/p/gekkanpam/3016078839594327703
-SUMMARY:ぱむの日
-UID:9487ef91-2f88-469d-aaa2-4d0057fbc02c@9487.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260606
-DTEND;VALUE=DATE:20260607
-DESCRIPTION:📢📚\n\n/／\n月刊PAM 全国ツアー2026\n 「ちいさな夜」開催決定🌃🪄︎︎\n\\＼\n\n《日程・会場》\n4/8(水) 東京・Spotify O-nest\n5/2(土) 広島・HIROSHIMA 4.14\n6/6(土) 福岡・Livehouse Dragoon\n7/20(月祝) 大阪・北堀江club vijon\n\n-----\n\n月刊PAM全国ツアー2026 「ちいさな夜」\n【福岡公演】チケット詳細決定🌃🪄︎︎\n\n🗓6/6(土) 開場18:00/開演18:30\n📍Livehouse Dragoon (福岡)\n▶︎ 福岡県福岡市中央区天神3丁目5-29 5階\n🎟 https://ticketdive.com/event/pam2026fukuoka\n◎VIPチケット ¥7\,000 +1D\n・優先入場\n・囲み写メ(特典会冒頭で撮影)\n・月刊PAMからの15秒動画(特典会冒頭で撮影)\n◎一般チケット ¥2\,500 +1D\n[販売期間] 4/3 22:00～6/6 17:00\nhttps://timetr.ee/p/gekkanpam/2916371527640784460
-SUMMARY:★福岡🍲月刊PAM 全国ツアー2026 「ちいさな夜」【福岡公演】
-UID:17c7b860-971a-42a7-bcf3-309fa0785bb5@17c7.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260515
-DTEND;VALUE=DATE:20260516
-DESCRIPTION:🎪イベント情報🎪\n\n／\n\n「緊急開催『室井ゆうのぐっとーく』」に\n月刊PAMから宇都宮未来のゲスト出演決定🗣️🩵\n\n＼\n\n🗓5/15(金)開場19:00/開演19:30\n📍[横浜]Naked Loft (loft-prj.co.jp/schedule/naked)\n🎟️会場+配信¥2\,500/会場¥2\,000 (各種+1D)\n❥ https://livepocket.jp/e/etdry\n(5/6 20:00~)\n\n🎫配信¥1\,500\n❥https://premier.twitcasting.tv/c:nakedloft_yokohama/shopcart/433234\nhttps://timetr.ee/p/gekkanpam/2959371940547501221
-SUMMARY:《宇都宮ソロ》緊急開催『室井ゆうのぐっとーく』
-UID:a28cea99-e9c1-4841-803c-96e0e0b9f304@a28c.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260720
-DTEND;VALUE=DATE:20260721
-DESCRIPTION:📢📚\n\n/／\n月刊PAM 全国ツアー2026\n 「ちいさな夜」開催決定🌃🪄︎︎\n\\＼\n\n《日程・会場》\n4/8(水) 東京・Spotify O-nest\n5/2(土) 広島・HIROSHIMA 4.14\n6/6(土) 福岡・Livehouse Dragoon\n7/20(月祝) 大阪・北堀江club vijon\n\n-----\n\n月刊PAM全国ツアー2026 「ちいさな夜」\n【大阪公演】チケット詳細決定🔆🐙\n\n\n🗓7/20(月祝) 開場11:30/開演12:00\n📍北堀江club vijon\n▶︎大阪府大阪市西区北堀江1-22-3 マインズ北堀江B1F\n🎟 https://ticketdive.com/event/pam2026osaka\n◎VIPチケット ¥7\,000 +1D\n・優先入場\n・囲み写メ(特典会冒頭で撮影)\n・月刊PAMからの15秒動画(特典会冒頭で撮影)\n◎一般チケット ¥2\,500 +1D\n[販売期間] 3/24 22:00～7/20 10:00\nhttps://timetr.ee/p/gekkanpam/2905242425756196849
-SUMMARY:★大阪🐙月刊PAM 全国ツアー2026 「ちいさな夜」【大阪公演】
-UID:7b76fe71-b6f5-4d4f-b9b5-9e9299ddbaa2@7b76.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:📽オンラインサイン会配信情報👀🍿*゜\n\n／\n\n『宇都宮未来 7月ソロオンラインサイン会』開催決定🩵\n\n＼\n\n🗓7/30(木)21:00〜\n🎥 youtube.com/@gekkanpam\n(月刊PAM 公式YouTube)\n🛍 https://marche-yell.com/events/\n※7/30(木) 21:30まで購入可能\n\n【対象商品】\nA\n・生誕衣装チェキ1枚 (サインあり)\n・生誕衣装チェキ1枚 (サインなし)\n2\,500円\nhttps://marche-yell.com/Utnmy_Mirai/products/172768/\n \nB\n・生誕Tシャツチェキ1枚 (サインあり)\n・生誕Tシャツチェキ1枚 (サインなし)\n2\,500円\nhttps://marche-yell.com/Utnmy_Mirai/products/172769/\n\nC\n・サインありチェキ1枚(生誕衣装 or 生誕Tシャツ）\n・宛名入り生誕手書きメッセージポストカード\n・お礼動画（全員共通）\n5\,500円\nhttps://marche-yell.com/Utnmy_Mirai/products/172770/\n \nD\n・生誕衣装チェキ1枚 (サインあり)\n・生誕Tシャツチェキ1枚 (サインあり)\n・お絵描きチェキ1枚(生誕衣装 or 生誕Tシャツ）\n7\,000円\n https://marche-yell.com/Utnmy_Mirai/products/172771/\n\n※『宛名入り生誕手書きメッセージポストカード』、『お絵描きチェキ』は配信時間外での対応となります。\n※サインありは全てサイン・ニックネーム・メッセージ入りとなります。\n※ 宇都宮未来 7月オンラインサイン会の関連商品となります、【Aプラン】【Bプラン】【Cプラン】【Dプラン】につきましては複数購入いただいた場合も１件分の配送手数料のお支払いとなります\nhttps://timetr.ee/p/gekkanpam/3019723249561345540
-DTEND:20260730T130000Z
-DTSTART:20260730T120000Z
-SUMMARY:宇都宮未来 7月ソロオンラインサイン会
-UID:354ccf7c-3ff1-43b8-ac27-0e1dd8e6edbd@354c.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260827
-DTEND;VALUE=DATE:20260828
-DESCRIPTION:【出演キャンセルとなりました。詳しくは下記をご確認ください。】\n▶︎https://x.com/gekkanpam/status/2092630821765308701?s=46&t=IvNbDIHLHCLolUrVEge5fw\n\n🎪イベント情報🎪\n\n／\n\nTribu 10th Anniversary\n 『夏のASOBIBA』出演決定🎉\n\n＼\n\n🗓8/27(木)開場17:30/開演18:00\n📍大塚Hearts Next\n🎤19:30-19:55\n📸21:30-22:30\n🎟先行¥3\,300/一般¥3\,600/当日¥3\,800 (+2D)\n❥https://livepocket.jp/e/20260827asobiba\n[先行：7/6(月)22:00-7/31(金)23:59]\n[一般：8/1(土)22:00-8/27(木)17:15]\n\n🎥配信：2\,000円＋投げ銭\n🎫配信チケット：\n・Next：https://premier.twitcasting.tv/hearts_next/shopcart/450177\n・+(プラス)：https://premier.twitcasting.tv/c:hearts_plus/shopcart/45017\n（※視聴期限: 2026年9月10日23:59 まで）\nhttps://timetr.ee/p/gekkanpam/2978792097187340007
-SUMMARY:【出演キャンセル】Tribu 10th Anniversary 『夏のASOBIBA』
-UID:df897188-d229-4d2d-84a6-5b78ab4bc46a@df89.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:📽オンラインサイン会配信情報👀🍿*゜\n\n／\n\n『宇都宮未来 6月ソロオンラインサイン会』開催決定🩵\n\n＼\n\n🗓6/26(金)19:00～\n🎥 youtube.com/@gekkanpam\n(月刊PAM 公式YouTube)\n🛍 marche-yell.com/events/\n※6/26(金) 19:30まで購入可能\n※通例のまとめページ購入リンクが異なります\n\n【対象商品】\nA\n・W杯記念！ユニフォームチェキ1枚 (サインあり)\n・W杯記念！ユニフォームチェキ1枚 (サインなし)\n2\,500円\n\nB\n・浴衣チェキ1枚 (サインあり)\n・浴衣チェキ1枚 (サインなし)\n2\,500円\n\nC\n・サインありチェキ1枚(W杯記念！ユニフォーム or 浴衣）\n・宛名入り手書きメッセージポストカード\n・お礼動画（全員共通）\n5\,500円\n\nD\n・W杯記念！ユニフォームチェキ1枚 (サインあり)\n・浴衣チェキ1枚 (サインあり)\n・お絵描きチェキ１枚(W杯記念！ユニフォーム or 浴衣）\n7\,000円\n\n\n※お絵描きチェキは配信時間外での対応となります。\n※サインありは全てサイン・ニックネーム・メッセージ入りとなります。\n※ 宇都宮未来 5月オンラインサイン会の関連商品となります、【Aプラン】【Bプラン】【Cプラン】【Dプラン】につきましては複数購入いただいた場合も１件分の配送手数料のお支払いとなります\nhttps://timetr.ee/p/gekkanpam/3019724715906801436
-DTEND:20260626T110000Z
-DTSTART:20260626T100000Z
-SUMMARY:宇都宮未来 6月ソロオンラインサイン会
-UID:cc2bc400-c68f-445a-9e53-7fddb286a9e1@cc2b.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261027
-DTEND;VALUE=DATE:20261028
-DESCRIPTION:🎪イベント情報🎪\n\n／\n\nUNIVERSE企画 4th anniversary\n『Dance party』出演決定❤️‍🔥\n\n＼\n\n🗓10/27(火)開場18:30/開演19:00\n📍新宿MARZ\n🎤20:30-21:00\n📸21:10-22:10\n🎟前売り¥2\,200 / 当日¥2\,700 (+1D)\n❥ livepocket.jp/e/hharx\nhttps://timetr.ee/p/gekkanpam/3056867841335074000
-SUMMARY:UNIVERSE企画 4th anniversary『Dance party』
-UID:3dc7463c-0f5b-4a71-bc14-0a21a2e3cf91@3dc7.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260418
-DTEND;VALUE=DATE:20260419
-DESCRIPTION:🎪イベント情報🎪\n\n／\n\n福島いわきの温泉旅館一棟借りイベント‼️\nエクストロメ‼︎ presents\n『トロメ〜湯♨️』出演決定🕺🔥\n\n＼\n\n🗓4/18(土)-19(日)\n📍いわき湯本温泉 旅館こいと(https://koito-inn.co.jp/)\n\n【4/18(土)】\n🎤12:50-13:15\n📸13:25-14:35[C]\n\n【4/19(日)】\n🎤11:55-12:20\n📸12:30-13:40[C]\n\n🎟 https://livepocket.jp/e/8cklr\n《前売り(各+1D)》\n①通し券；9\,800円（S1〜）\n②DAY1 ；5\,500円（A1〜）\n③DAY2；5\,500円（B1〜）\n\n-----\n衣装＆館内着の2DAYSでお届けします👘♡\n\n各日指名特典🎁サインなしチェキ券\n🪄︎︎2DAYSの方には+囲み写メ券をプレゼント！\nhttps://timetr.ee/p/gekkanpam/2912211233372872396
-SUMMARY:福島🍑エクストロメ‼︎ presents『トロメ〜湯♨️』DAY1
-UID:8ae4284a-39a8-42bd-8fe6-1cd3bee65b66@8ae4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:📽オンラインサイン会配信情報👀🍿*゜\n\n／\n\n『船井美玖 7月ソロオンラインサイン会』開催決定💚\n\n＼\n\n🗓7/30(木)19:00〜\n🎥youtube.com/@gekkanpam\n(月刊PAM 公式YouTube)\n🛍 https://marche-yell.com/events/\n※7/30(木) 19:30まで購入可能\n\n【対象商品】\nA\n・ロリータ黒猫ちゃんチェキ🐈‍⬛ 1枚 (サインあり)\n・ロリータ黒猫ちゃんチェキ🐈‍⬛ 1枚 (サインなし)\n2\,500円\nhttps://marche-yell.com/_funaimiku_/products/172774/\n\nB\n・はじめての袴チェキ 1枚 (サインあり)\n・はじめての袴チェキ 1枚 (サインなし)\n2\,500円\nhttps://marche-yell.com/_funaimiku_/products/172775/\n \nC\n・サインありチェキ1枚(ロリータ黒猫ちゃんチェキ🐈‍⬛ or はじめての袴チェキ）\n・宛名入りデジタルメッセージカード\n・お礼動画（全員共通）\n5\,500円\nhttps://marche-yell.com/_funaimiku_/products/172776/\n\nD\n・ロリータ黒猫ちゃんチェキ🐈‍⬛ 1枚 (サインあり)\n・はじめての袴チェキ 1枚 (サインあり)\n・サインなしチェキ1枚(ロリータ黒猫ちゃんチェキ🐈‍⬛ or はじめての袴チェキ）\n・お名前を呼んでのお礼動画\n7\,000円\nhttps://marche-yell.com/_funaimiku_/products/172777/\n \nE\n・ロリータ黒猫ちゃんチェキ 1枚 (サインあり)\n・はじめての袴チェキ 1枚 (サインあり)\n・お絵描きチェキ1枚(ロリータ黒猫ちゃんチェキ🐈‍⬛ or はじめての袴チェキ）\n7\,000円\nhttps://marche-yell.com/_funaimiku_/products/172778/\n\n※お絵描きチェキは配信時間外での対応となります。\n※サインありは全てサイン・ニックネーム・メッセージ入りとなります。\n※ 船井美玖 7月オンラインサイン会の関連商品となります、【Aプラン】【Bプラン】【Cプラン】【Dプラン】【Eプラン】につきましては複数購入いただいた場合も１件分の配送手数料のお支払いとなります\nhttps://timetr.ee/p/gekkanpam/3019722045242448998
-DTEND:20260730T110000Z
-DTSTART:20260730T100000Z
-SUMMARY:船井美玖 7月ソロオンラインサイン会
-UID:e28c0a27-42a4-44e5-95b4-7fb64ed99a58@e28c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:📽オンラインサイン会配信情報👀🍿*゜\n\n／\n\n『船井美玖 9月ソロオンラインサイン会』開催決定💚\n\n＼\n\n🗓9/29(火)19:00～\n🎥youtube.com/@gekkanpam\n(月刊PAM 公式YouTube)\n🛍 https://marche-yell.com/events/\n※9/29(火) 19:30まで購入可能\n\n【対象商品】\nA\n・秋服チェキ1枚 (秋服2種ランダム/サインあり)\n・秋服チェキ1枚 (秋服2種ランダム/サインなし)\n2\,500円\nhttps://marche-yell.com/_funaimiku_/products/179314\n\nB\n・ハロウィンチェキ1枚 (サインあり)\n・ハロウィンチェキ1枚 (サインなし)\n2\,500円\nhttps://marche-yell.com/_funaimiku_/products/179315\n\nC\n・サインありチェキ1枚(秋服[2種ランダム] or ハロウィン）\n・宛名入り手書きメッセージポストカード\n・お礼動画（全員共通）\n5\,500円\nhttps://marche-yell.com/_funaimiku_/products/179316\n \nD\n・秋服チェキ1枚 (秋服2種ランダム/サインあり)\n・ハロウィンチェキ1枚 (サインあり)\n・サインなしチェキ1枚(秋服[2種ランダム] or ハロウィン）\n・お名前を呼んでのお礼動画\n7\,000円\nhttps://marche-yell.com/_funaimiku_/products/179317\n\nE\n・秋服チェキ1枚 (秋服2種ランダム/サインあり)\n・ハロウィンチェキ1枚 (サインあり)\n・お絵描きチェキ1枚(秋服[2種ランダム] or ハロウィン）\n7\,000円\nhttps://marche-yell.com/_funaimiku_/products/179318\n\n※『宛名入り生誕手書きメッセージポストカード』、『お絵描きチェキ』は配信時間外での対応となります。\n※サインありは全てサイン・ニックネーム・メッセージ入りとなります。\n※ 船井美玖 9月オンラインサイン会の関連商品となります、【Aプラン】【Bプラン】【Cプラン】【Dプラン】【Eプラン】につきましては複数購入いただいた場合も1件分の配送手数料のお支払いとなります。\nhttps://timetr.ee/p/gekkanpam/3064234227833216346
-DTEND:20260929T110000Z
-DTSTART:20260929T100000Z
-SUMMARY:船井美玖 9月ソロオンラインサイン会
-UID:43e9f823-e6b3-4e19-a202-f83fa33a201e@43e9.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260404
-DTEND;VALUE=DATE:20260405
-DESCRIPTION:🎪イベント情報🎪\n\n／\n\nGirl's UP!!!＆ファミメ！pre.\n『LUPINUS ROCK FESTIVAL 2026』出演決定❤️‍🔥\n\n＼\n\n🗓4/4(土)開場11:30/開演12:00\n📍FOWS(渋谷)\n🎫リストバンド交換 10:30～\n🎤16:40-17:10\n📸17:25-18:25【シナプススペース宇田川町ビル4F】\n🎟前売￥5300 / 当日￥5800(各種+1D)\n❥ https://eplus.jp/sf/detail/4467330001\nhttps://timetr.ee/p/gekkanpam/2911565990529047871
-SUMMARY:Girl's UP!!!＆ファミメ！pre.『LUPINUS ROCK FESTIVAL 2026』
-UID:ba441aed-7aa3-4d5e-9333-0aceb373a227@ba44.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260825
-DTEND;VALUE=DATE:20260826
-DESCRIPTION:🎪イベント情報🎪\n\n／\n\nこぐまカリー3夜連続🌃\n『トーキョーログ』DAY1 出演決定🧸🍛\n\n＼\n\n🗓8/25(火) 開場18:20/開演18:50\n📍渋谷近未来会館\n🎤20:05-20:30\n📸21:05-22:15\n🎟前売¥2800/当日¥3500 (各種+1D)\n❥ https://ticketdive.com/event/kctl_202608\n(8/11 22:00-)\n\n🎁個別写メ券\nhttps://timetr.ee/p/gekkanpam/3029095096010644740
-SUMMARY:こぐまカリー3夜連続『トーキョーログ』DAY1
-UID:160b56fe-c24b-4632-97df-d1ca914dd222@160b.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260829
-DTEND;VALUE=DATE:20260830
-DESCRIPTION:🎪イベント情報🎪\n\n／\n \n『@JAM EXPO 2026 supported by UP-T』出演決定🎉\n\n＼\n\n🗓8/29(土)\n📍横浜アリーナ\n📸10:10-11:10 【横浜アリーナ3F・10】⚠️前物販\n🎤①12:10-12:25 《🍍パイナップルステージ》\n🎤②16:50-17:05《🍑ピーチステージ》\n🎟️https://ticket.rakuten.co.jp/music/jpop/RTZPBEB/?scid=su_16699\n\n《HP》\nhttps://atjam.jp/expo2026\nhttps://timetr.ee/p/gekkanpam/3019638342621305979
-SUMMARY:@JAM EXPO 2026 supported by UP-T
-UID:d6f92419-56ac-452e-a0a8-1f71131e766e@d6f9.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260607
-DTEND;VALUE=DATE:20260608
-DESCRIPTION:🎪イベント情報🎪\n\n／\n\n『月刊PAM 福岡オフ会2026』詳細決定🍲🍻\n\n＼\n\n🗓6/7(日) 開場16:10 / 終演18:00頃\n📍博多駅近辺 個室居酒屋（駅から徒歩5分圏内）\n※詳細場所は、ご購入者様へ受付終了後メールにてご連絡いたします。\n🎟入場チケット¥10\,000- (入場料＋コース料理&飲み放題含む)\n❥ t-dv.com/pam_fukuokaoff\n(先着 5/23 19:00 ～ 6/1 23:59)\n⚠️席数には数に限りがございます。\n\n【タイムテーブル】\n16:10 開場\n→お食事・物販/特典会\n18:00頃 完全終了\n\n※特典会はオフ会に参加した方のみ参加可能となります。\n\n【注意事項】\n・開場時間になりましたらスタッフが誘導いたします。\n・開場時間前からお店前にてお待ちいただく行為は御遠慮ください。\n・イベント中、メンバーが映りこむ撮影・録画は許可がある場合を除き禁止。\n・メンバーへの接触行為はご遠慮ください。\n・お客様による飲食物の持ち込み禁止。\n・20歳未満の飲酒禁止。\n・スタッフの指示に従い、周りの方へのご配慮をお願い致します。 \n(スタッフの指示に従わない場合、ご退出をお願いする場合がございますので予めご了承ください。また、その際の返金対応等は致しかねます。)\n・イベントに関するお店への直接のお問い合わせはご遠慮ください。\n・特典会時はマスク着用必須。\nhttps://timetr.ee/p/gekkanpam/2916371760013614683
-SUMMARY:★福岡🍲月刊PAM 福岡オフ会2026
-UID:18802636-220b-4bd7-bc5f-db2d202f23f7@1880.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261023
-DTEND;VALUE=DATE:20261024
-DESCRIPTION:🎪イベント情報🎪\n\n／\n\n「月刊PAM Presents.『ANSWER』VOL.15」開催決定🫧\n❥❥❥ クマリデパートさんとのツーマン決定🍀*゜\n\n＼\n\n🗓10/23(金)開場18:40 / 開演19:00\n📍新宿MARZ\n👭🏻【第15回目ゲスト】\n▶︎クマリデパート (@qumalidepart )\n🎤19:40-20:20\n🗣️20:20-20:30 [2組によるエンディングトーク]\n📸20:40-22:00\n🎟優先入場¥3\,500/一般¥3\,000(各種+1D)\n❥ t-dv.com/answer15\n(9/12 22:00-)\nhttps://timetr.ee/p/gekkanpam/3021985024302357813
-SUMMARY:★月刊PAM Presents『ANSWER』vol.15
-UID:96c3a515-d9ae-46d5-88f9-8f5637815d1f@96c3.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261012
-DTEND;VALUE=DATE:20261013
-DESCRIPTION:🎪イベント情報🎪\n\n／\n\nAFTERS Presents『CAKES & ALE』出演決定❤️‍🔥\n\n＼\n\n🗓10/12(月祝)開場11:40 / 開演12:00\n📍GARRET udagawa\n🎟共通チケット ¥4\,000 / SHIBUYA CYCLON ¥2\,500 / GARRET udagawa ¥2\,500 (※別途1D)\n❥ t-dv.com/cakes_ale\n\n＜販売期間＞\n◉2会場共通 ¥4\,000 +1D\n2026/09/09 21:00 〜 10/12 10:59\n\n◉SHIBUYA CYCLONE ¥2\,500 +1D\n2026/09/09 21:30 〜 10/12 10:59\n\n◉GARRET udagawa ¥2\,500 +1D\n2026/09/09 22:00 〜 10/12 10:59\nhttps://timetr.ee/p/gekkanpam/3026944402059140643
-SUMMARY:AFTERS Presents『CAKES & ALE』
-UID:04f72d42-17f6-473a-a97a-8fbb7264c68d@04f7.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260628
-DTEND;VALUE=DATE:20260629
-DESCRIPTION:🎪イベント情報🎪\n\n／\n\n『#DSPM UNIT LIVE EXTRA』出演決定👭🏻💋\n\n＼\n\n🗓️6/28(日)開場12:30/開演13:00\n📍SHIBUYA DIVE\n🎤14:20-14:40\n📸15:00-16:00\n🗣️[オールラインナップ] 14:40-14:50\n🎟優先入場¥5\,000/一般¥3\,000(各種+1D)\n❥ dearstage.zaiko.io/item/381807\n(5/15 18:00-)\n\n指名特典🎁サインなしチェキ券+1p\nhttps://timetr.ee/p/gekkanpam/2950275998661713787
-SUMMARY:#DSPM UNIT LIVE EXTRA
-UID:8dd4565f-47df-45ae-96ce-4bc4d304c329@8dd4.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260415
-DTEND;VALUE=DATE:20260416
-DESCRIPTION:🎪イベント情報🎪\n\n／\n\n「月刊PAM Presents.『ANSWER』VOL.9」開催❤️‍🔥\n\n＼\n\n🗓4/15(水)開場18:30 / 開演19:00\n📍新宿MARZ\n👭🏻【第9回目ゲスト】\n▶︎おやすみホログラ\n▶︎B≡FULLEST\n▶︎DEARSTAGE研究生[O.A.]\n🎙20:30-21:00\n📸21:05-22:05\n🎟優先入場¥3\,500/一般¥3\,000(各種+1D)\n❥ https://ticketdive.com/event/answer9\n(4/8 22:30-先着)\nhttps://timetr.ee/p/gekkanpam/2868756422824795733
-SUMMARY:★月刊PAM Presents.『ANSWER』VOL.9
-UID:88c05e9d-a05b-445b-923d-4f61e360f0a6@88c0.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260907
-DTEND;VALUE=DATE:20260908
-DESCRIPTION:🎪イベント情報🎪\n\n／\n\nUNIVERSE企画 4th anniversary\n『Dance party』出演決定💃\n\n＼\n\n🗓9/7(月)開場18:30/開演19:00\n📍新宿MARZ\n🎤20:00-20:30\n📸21:10-22:10\n🎟前売り¥2\,200/当日¥2\,700(+1D)\n❥ https://livepocket.jp/e/ch0le\n(8/19 22:00-)\nhttps://timetr.ee/p/gekkanpam/3032916678571171011
-SUMMARY:UNIVERSE企画 4th anniversary『Dance party』
-UID:72fa3c91-a76e-4122-957b-a7b1c8c9d360@72fa.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261227
-DTEND;VALUE=DATE:20261228
-DESCRIPTION:https://timetr.ee/p/gekkanpam/3026123823081037673
-SUMMARY:★イベント予定
-UID:8cd231c7-e65e-45da-bc17-c1c365e535f2@8cd2.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260823
-DTEND;VALUE=DATE:20260824
-DESCRIPTION:🎪イベント情報🎪\n\n／\n\nさよならステイチューン\nほぼ一周ツアー 新大久保編🚃\n『Stay Tuned for the Special Night』出演決定🌴\n\n＼\n⁡\n🗓8/23(日)開場18:00/開演18:30\n📍EARTHDOM\n\n⁡★さよステFC限定(抽選)\n🎫https://sayostay.dspm.jp/schedules/114124\nSPチケット¥4\,500 +1D\n[～7/29 23:59まで]\n\n★先着\n🎫 https://dearstage.zaiko.io/ja/item/383555\nSPチケット¥5\,000/一般(先着) ¥3\,000 (各種+1D)\n⁡[8/5 19:00～]\n\n🎁個別写メ券\nhttps://timetr.ee/p/gekkanpam/2913982607590399724
-SUMMARY:さよならステイチューンほぼ一周ツアー 新大久保編『Stay Tuned for the Special Night』
-UID:b6b8feba-4fd5-4d16-90da-eb22b450e8c5@b6b8.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260923
-DTEND;VALUE=DATE:20260924
-DESCRIPTION:🎪イベント情報🎪\n\n／\n\nミームトーキョー主催2マンライブ\n『Nice to meme you！vol.2』出演決定🪩❤️‍🔥\n\n＼\n\n🗓9/23(水祝)開場18:00/開演18:30\n📍高円寺HIGH\n🎟優先入場¥5\,000/一般¥3\,000 (各種+1D)\n❥ https://dearstage.zaiko.io/ja/item/384166\n(8/18 19:00-)\n\n🎁指名特典:囲み写メ券\nhttps://timetr.ee/p/gekkanpam/3019638572896984557
-SUMMARY:ミームトーキョー主催2マンライブ『Nice to meme you！vol.2』
-UID:34b0f328-1c37-4623-aa13-b1169b4023e9@34b0.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260711
-DTEND;VALUE=DATE:20260712
-DESCRIPTION:🎪イベント情報🎪\n\n／\n\n宇都宮未来 BIRTHDAY LIVE 2026\n『mille'26』詳細決定🎂🩵🎉\n\n＼\n\n🗓7/11(土)開場11:30/開演12:00\n📍青山 月見ル君想フ\n🎟 t-dv.com/miraibd2026\n\n【チケット券種(各種+1drink)】\n＊VIPチケット[スタンディング/先着販売] ¥7\,000-\n①優先入場\n②個別写メ券[宇都宮未来・当日限り使用可能/トークなし]\n③宇都宮未来サイン入りメモリアルチケット\n\n＊一般チケット[スタンディング/先着販売] ¥2\,500-\n\n⚠️販売開始から1時間以内はクレジットカード/デビットカード/プリペイドカードのお支払いのみとなります。\n\n《入場順》\nV→A→当日\n※当日券販売の有無は、開催日当日にご案内いたします。\n\n🎫チケット販売期間[先着]\n2026年6月11日(木)22:00\n～2026年7月11日(土)10:00\n\n🛍️物販販売について\n・開場中物販11:30-11:55\n※お並びいただいても列の状況により、開演時間までにご購入できない場合がございます\n・終演後物販\n\n📸撮影可否について\n静止画：OK\n動画：NG\nhttps://timetr.ee/p/gekkanpam/2919725977084338100
-SUMMARY:★宇都宮未来 BIRTHDAY LIVE 2026 『mille'26』
-UID:f7230aa1-30ff-49b3-91f4-58e169097d19@f723.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260617
-DTEND;VALUE=DATE:20260618
-DESCRIPTION:🎪イベント情報🎪\n\n／\n\n「月刊PAM Presents.『ANSWER』VOL.11」開催💗\n\n＼\n\n🗓6/17(水)開場18:45 / 開演19:15\n📍新宿MARZ\n👭🏻【第11回目ゲスト】\n▶︎amini\n▶︎二丁目の魁カミングアウト\n🎤20:15-20:45\n📸20:55-22:05\n🎟優先入場¥3\,500/一般¥3\,000(各種+1D)\n❥ https://ticketdive.com/event/answer_pam11\n(5/21 22:00- 先着)\nhttps://timetr.ee/p/gekkanpam/2868757225203539636
-SUMMARY:★月刊PAM Presents『ANSWER』vol.11
-UID:1bf50033-12ed-413b-9b62-3a0bc6e7883a@1bf5.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260917
-DTEND;VALUE=DATE:20260918
-DESCRIPTION:🎪イベント情報🎪\n\n／\n\n「月刊PAM Presents.『ANSWER』VOL.14」\nおやホロさんとの長尺ツーマン開催決定🎸🔥\n\n＼\n\n🗓9/17(木)開場18:40 / 開演19:00\n📍新宿MARZ\n👭🏻【第14回目ゲスト】\n▶︎おやすみホログラム (@oysm_hologram )\n🎤19:50-20:30\n🗣️20:30-20:40 [2組によるエンディングトーク]\n📸20:50-22:00\n🎟優先入場¥3\,500/一般¥3\,000(各種+1D)\n❥ t-dv.com/answer14\n(8/22 22:00-)\nhttps://timetr.ee/p/gekkanpam/2969682304174627926
-SUMMARY:★月刊PAM Presents『ANSWER』vol.14
-UID:5b44b148-bb49-403d-b4f9-73a11d692d2b@5b44.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260622
-DTEND;VALUE=DATE:20260623
-DESCRIPTION:🎪イベント情報🎪\n\n／\n\nSOVA presents『Next Challengers』出演決定🤝🏻\n\n＼\n\n🗓6/22(月)開場18:50/開演19:15\n📍下北沢SHELTER\n🎤19:45-20:15\n📸20:50-22:05\n🎟前売 ¥0 / 当日 ¥500(各種+2D)\n❥https://ticketdive.com/event/SOVA_NextChallengers_01\n(5/15 22:30-)\n\n指名特典🎁個別写メ券+1p\nhttps://timetr.ee/p/gekkanpam/2963841171318086908
-SUMMARY:SOVA presents『Next Challengers』
-UID:2977dcbe-cf76-4751-b615-6ab6a5f0ad87@2977.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261113
-DTEND;VALUE=DATE:20261114
-DESCRIPTION:https://timetr.ee/p/gekkanpam/3056868282911399054
-SUMMARY:対バン出演予定
-UID:7e6282c4-0c81-49f0-b2e7-8e40d858e502@7e62.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:📽オンラインサイン会配信情報👀🍿*゜\n\n／\n\n『船井美玖 5月ソロオンラインサイン会』開催決定💚\n\n＼\n\n🗓5/27(水)19:00〜\n🎥youtube.com/@gekkanpam\n(月刊PAM 公式YouTube)\n🛍marche-yell.com/events/\n※ ～ 5/27(水) 19:30まで購入可能\n※通例のまとめページ購入リンクが異なります\n\n【対象商品】\nA\n・ギャル♡おんなのこ♡チェキ1枚 (サインあり)\n・ギャル♡おんなのこ♡チェキ1枚 (サインなし)\n2\,500円\nhttps://marche-yell.com/_funaimiku_/products/166014/\n\nB\n・ギャル♡おとこのこ♡チェキ1枚 (サインあり)\n・ギャル♡おとこのこ♡チェキ1枚 (サインなし)\n2\,500円\nhttps://marche-yell.com/_funaimiku_/products/166015/\n \nC\n・サインありチェキ1枚(ギャル♡ おんなのこor おとこのこ）\n・宛名入りデジタルメッセージカード\n・お礼動画（全員共通）\n5\,500円\nhttps://marche-yell.com/_funaimiku_/products/166016/\n \nD\n・ギャル♡おんなのこ♡チェキ1枚 (サインあり)\n・ギャル♡おとこのこ♡チェキ1枚 (サインあり)\n・サインなしチェキ1枚(ギャル♡ おんなのこor おとこのこ）\n・お名前を呼んでのお礼動画\n7\,000円\nhttps://marche-yell.com/_funaimiku_/products/166017/\n\nE\n・ギャル♡おんなのこ♡チェキ1枚 (サインあり)\n・ギャル♡おとこのこ♡チェキ1枚 (サインあり)\n・お絵描きチェキ1枚(ギャル♡ おんなのこor おとこのこ）\n7\,000円\nhttps://marche-yell.com/_funaimiku_/products/166018/\n\n※お絵描きチェキは配信時間外での対応となります。\n※サインありは全てサイン・ニックネーム・メッセージ入りとなります。\n※ 船井美玖 5月オンラインサイン会の関連商品となります、【Aプラン】【Bプラン】【Cプラン】【Dプラン】【Eプラン】につきましては複数購入いただいた場合も１件分の配送手数料のお支払いとなります\nhttps://timetr.ee/p/gekkanpam/2972644572403309955
-DTEND:20260527T110000Z
-DTSTART:20260527T100000Z
-SUMMARY:船井美玖 5月ソロオンラインサイン会
-UID:0a9376f2-9288-4549-9481-8b964da084d7@0a93.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260621
-DTEND;VALUE=DATE:20260622
-DESCRIPTION:🎪イベント情報🎪\n\n／\n\nこぐまカリー主催「Spice it Up」出演決定🧸🍛\n\n＼\n\n🗓6/21(日)開場11:00/開演11:30\n📍渋谷音楽堂(東京)\n🎤11:55-12:18\n📸13:45-14:55\n🎫前売¥3800/当日¥4300(各種+1D)\n❥t-dv.com/kc20260621\nhttps://timetr.ee/p/gekkanpam/2969681030045736573
-SUMMARY:こぐまカリー主催「Spice it Up」
-UID:d7c736f3-523b-4e57-b224-2c6d47ede50f@d7c7.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260722
-DTEND;VALUE=DATE:20260723
-DESCRIPTION:🎪イベント情報🎪\n\n／\n\n『TOKYO GARDEN vol.2』出演決定🪩\n\n＼\n\n🗓7/22(水)開場19:00/開演19:30\n📍namco TOKYO\n▶︎ 東京都新宿区歌舞伎町１丁目２９−１ 東急歌舞伎町タワー 3階\n🎤20:05-20:25\n📸21:05-22:00\n🎟️前売 ¥2\,500/当日 ¥3\,000(各種+1D)\n❥ https://livepocket.jp/e/j31x_\n(6/17 21:00- 販売開始中)\nhttps://timetr.ee/p/gekkanpam/2945152844431859384
-SUMMARY:TOKYO GARDEN vol.2
-UID:9fe20142-aef6-481a-8fa9-cc7cffff6d43@9fe2.org
+UID:33f3b88d-4f96-4e3b-bbfc-c326dd8682a2@33f3.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260802
 DTEND;VALUE=DATE:20260803
 DESCRIPTION:🎪イベント情報🎪\n\n／\n\nUNIVERSE企画『Dance party』2部出演決定🪩\n\n＼\n\n🗓8/2(日)開場14:40/開演15:00\n📍新宿MARZ\n🎤15:30-16:00\n📸17:00-18:00\n🎟S通し券¥3\,500 / 各部前売¥2\,200 / 当日券¥2\,700 (+1D)\n❥ livepocket.jp/e/b3yj4\n※ S通し券各部最速入場/ 途中退出自由\n※7/21(火) 22:00～\nhttps://timetr.ee/p/gekkanpam/3005968435023158804
 SUMMARY:UNIVERSE企画『Dance party』
-UID:dedb95b5-4f9b-4238-a812-3cc44493caab@dedb.org
+UID:4bf378c9-dc21-4248-a76a-59304ea6ee5b@4bf3.org
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260517
-DTEND;VALUE=DATE:20260518
-DESCRIPTION:🎪イベント情報🎪\n\n／\n\n『diig and…vol.12』出演決定💋\n\n＼\n\n🗓5/17(日) 開場18:30/開演19:00\n📍青山月見ル君想フ\n🎤19:00-19:35\n📸20:20-21:40\n🎟一般¥3\,000 / 女性・学生¥1\,000 (各種+1D)\n❥ t-dv.com/diigand_vol12\n(4/16 20:00- 先着)\n\n指名特典🎁個別写メ券\n\n----\n4/30に配信された6ヶ月連続デジタルシングル\n第4弾となる新曲「春風、city lights and ghost」を初披露🍃\n\n「春風、city lights and ghost」\n▶︎Music/Lylics/Arrange：オガワコウイチ\n🎧https://orcd.co/gekkanpam_harukazecitylightsandghost\nhttps://timetr.ee/p/gekkanpam/2912211906013404973
-SUMMARY:diig and…vol.12
-UID:1594c707-30fa-421d-9e25-c8b079b97646@1594.org
+DTSTART;VALUE=DATE:20260603
+DTEND;VALUE=DATE:20260604
+DESCRIPTION:🎪イベント情報🎪\n\n／\n\nUNIVERSE企画\n『NEW ORDER #無銭 NIGHT』出演決定🎶\n\n＼\n\n🗓6/3(水)開場18:30/開演19:00\n📍新宿MARZ\n🎤19:30-20:00\n📸21:00-22:00\n🎟前売り¥0 / 当日¥1\,000 (各種+2D)\n❥ livepocket.jp/e/o6fd6\n(5/16 22:30-)\nhttps://timetr.ee/p/gekkanpam/2965361263482740073
+SUMMARY:UNIVERSE企画『NEW ORDER #無銭 NIGHT』
+UID:41956783-cc8d-410e-b4d8-ee5d1ec8e044@4195.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261227
+DTEND;VALUE=DATE:20261228
+DESCRIPTION:https://timetr.ee/p/gekkanpam/3026123823081037673
+SUMMARY:★イベント予定
+UID:910adcd2-d1c7-46a3-b4e6-52311ef213d0@910a.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261104
+DTEND;VALUE=DATE:20261105
+DESCRIPTION:https://timetr.ee/p/gekkanpam/3026123225233333825
+SUMMARY:対バン出演予定
+UID:856980db-746c-4bd9-969b-ada79b369037@8569.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260531
 DTEND;VALUE=DATE:20260601
 DESCRIPTION:🎪イベント情報🎪\n\n／\n\nUNIVERSE企画『Dance party』出演決定💃\n\n＼\n\n🗓5/31(日) 開場14:40/開演15:00\n📍新宿MARZ\n🎤16:00-16:30\n📸17:00-18:00\n🎟S通し券¥3\,500 / 各部前売¥2\,200 (+1D)\n❥  https://livepocket.jp/e/h83d4\n(5/2 22:00-)\nhttps://timetr.ee/p/gekkanpam/2930572953053011112
 SUMMARY:UNIVERSE企画『Dance party』
-UID:97a4b7ad-21f1-4252-af17-afcfeb4c0c0e@97a4.org
+UID:45453709-166b-488f-a31b-d1b54fb676c4@4545.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260621
+DTEND;VALUE=DATE:20260622
+DESCRIPTION:🎪イベント情報🎪\n\n／\n\nこぐまカリー主催「Spice it Up」出演決定🧸🍛\n\n＼\n\n🗓6/21(日)開場11:00/開演11:30\n📍渋谷音楽堂(東京)\n🎤11:55-12:18\n📸13:45-14:55\n🎫前売¥3800/当日¥4300(各種+1D)\n❥t-dv.com/kc20260621\nhttps://timetr.ee/p/gekkanpam/2969681030045736573
+SUMMARY:こぐまカリー主催「Spice it Up」
+UID:424732a1-7cf2-46b3-8e5e-14e23a553e5e@4247.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261115
+DESCRIPTION:https://timetr.ee/p/gekkanpam/3056868375655849689
+SUMMARY:対バン出演予定
+UID:ecfc76ce-efb4-4dae-89e0-eaa93ba59375@ecfc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:📽オンラインサイン会配信情報👀🍿*゜\n\n／\n\n『船井美玖 7月ソロオンラインサイン会』開催決定💚\n\n＼\n\n🗓7/30(木)19:00〜\n🎥youtube.com/@gekkanpam\n(月刊PAM 公式YouTube)\n🛍 https://marche-yell.com/events/\n※7/30(木) 19:30まで購入可能\n\n【対象商品】\nA\n・ロリータ黒猫ちゃんチェキ🐈‍⬛ 1枚 (サインあり)\n・ロリータ黒猫ちゃんチェキ🐈‍⬛ 1枚 (サインなし)\n2\,500円\nhttps://marche-yell.com/_funaimiku_/products/172774/\n\nB\n・はじめての袴チェキ 1枚 (サインあり)\n・はじめての袴チェキ 1枚 (サインなし)\n2\,500円\nhttps://marche-yell.com/_funaimiku_/products/172775/\n \nC\n・サインありチェキ1枚(ロリータ黒猫ちゃんチェキ🐈‍⬛ or はじめての袴チェキ）\n・宛名入りデジタルメッセージカード\n・お礼動画（全員共通）\n5\,500円\nhttps://marche-yell.com/_funaimiku_/products/172776/\n\nD\n・ロリータ黒猫ちゃんチェキ🐈‍⬛ 1枚 (サインあり)\n・はじめての袴チェキ 1枚 (サインあり)\n・サインなしチェキ1枚(ロリータ黒猫ちゃんチェキ🐈‍⬛ or はじめての袴チェキ）\n・お名前を呼んでのお礼動画\n7\,000円\nhttps://marche-yell.com/_funaimiku_/products/172777/\n \nE\n・ロリータ黒猫ちゃんチェキ 1枚 (サインあり)\n・はじめての袴チェキ 1枚 (サインあり)\n・お絵描きチェキ1枚(ロリータ黒猫ちゃんチェキ🐈‍⬛ or はじめての袴チェキ）\n7\,000円\nhttps://marche-yell.com/_funaimiku_/products/172778/\n\n※お絵描きチェキは配信時間外での対応となります。\n※サインありは全てサイン・ニックネーム・メッセージ入りとなります。\n※ 船井美玖 7月オンラインサイン会の関連商品となります、【Aプラン】【Bプラン】【Cプラン】【Dプラン】【Eプラン】につきましては複数購入いただいた場合も１件分の配送手数料のお支払いとなります\nhttps://timetr.ee/p/gekkanpam/3019722045242448998
+DTEND:20260730T110000Z
+DTSTART:20260730T100000Z
+SUMMARY:船井美玖 7月ソロオンラインサイン会
+UID:f8cd20ab-91c3-4be6-af00-6c0d41dbd21e@f8cd.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260429
+DTEND;VALUE=DATE:20260430
+DESCRIPTION:🎪イベント情報🎪\n\n／\n\n船井美玖 BIRTHDAY LIVE 2026\n『Lucky』開催決定🎂💚🎉\n\n＼\n\n🗓4/29(水祝)開場11:30/開演12:00\n📍青山 月見ル君想フ\n🎟 https://ticketdive.com/event/mikubd2026\n\n【チケット券種(各種+1drink)】\n＊VIPチケット[スタンディング/先着販売] ¥7\,000-\n①優先入場\n②個別写メ券[船井美玖・当日限り使用可能/トークなし]\n③船井美玖サイン入りメモリアルチケット\n\n＊一般チケット[スタンディング/先着販売] ¥2\,500-\n\n⚠️販売開始から1時間以内はクレジットカード/デビットカード/プリペイドカードのお支払いのみとなります。\n\n《入場順》\nV→A→当日\n※当日券販売の有無は、開催日当日にご案内いたします。\n\n🛍チケット販売期間[先着]\n2026年3月31日(火)22:30～2026年4月29日(水祝)10:00\n\n📸撮影可否について\n静止画：OK\n動画：NG\nhttps://timetr.ee/p/gekkanpam/2900905580230582014
+SUMMARY:★船井美玖 BIRTHDAY LIVE 2026『Lucky』
+UID:01bb356e-04ab-45fb-be26-376eab95e066@01bb.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260522
+DTEND;VALUE=DATE:20260523
+DESCRIPTION:🎪イベント情報🎪\n\n／\n\ngoodnight! records presents『120min』出演決定🔥\n\n＼\n\n🗓5/22(金)開場18:30/開演19:00\n📍新宿MARZ\n🎙19:00-19:40\n📸21:10-22:10\n🎟️前売り¥3\,000 / 当日¥3\,500 (各種+1D) \n❥ https://livepocket.jp/e/s4uhs\nhttps://timetr.ee/p/gekkanpam/2941304194869992503
+SUMMARY:goodnight! records presents『120min』
+UID:07cad8cc-6054-451f-a370-49e6dd8dda23@07ca.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260923
+DTEND;VALUE=DATE:20260924
+DESCRIPTION:🎪イベント情報🎪\n\n／\n\nミームトーキョー主催2マンライブ\n『Nice to meme you！vol.2』出演決定🪩❤️‍🔥\n\n＼\n\n🗓9/23(水祝)開場18:00/開演18:30\n📍高円寺HIGH\n🎟優先入場¥5\,000/一般¥3\,000 (各種+1D)\n❥ https://dearstage.zaiko.io/ja/item/384166\n(8/18 19:00-)\n\n🎁指名特典:囲み写メ券\nhttps://timetr.ee/p/gekkanpam/3019638572896984557
+SUMMARY:ミームトーキョー主催2マンライブ『Nice to meme you！vol.2』
+UID:c012e1b6-1a04-43d4-b97f-d933bc42f4ca@c012.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260704
+DTEND;VALUE=DATE:20260705
+DESCRIPTION:🎪イベント情報🎪\n\n／\n\n『ギュウ農フェス in 宇都宮2026\nローイイム〜รอยยิ้ม 〜笑顔』出演決定🥟\n\n＼\n\n┈┈┈┈┈┈⟡.·*.\n7/4月刊PAM出演公演では、\n2ステージ共に通例の静止画撮影に加え、\nライブ中の動画撮影OK‼️\n┈┈┈┈┈┈⟡.·*.\n\n🗓7/4(土)\n《1本目》\n📍オリオンスクエア\n🎤11:35-11:55\n🆓入場無料：タイフェスティバルと共催\n\n《2本目》\n📍HEAVEN'S ROCK (VJ-2)\n🎤13:35-14:05\n📸14:45-15:55\n🎟前売¥3\,500/当日¥4\,100(各種+1D)\n❥ livepocket.jp/e/260704_2\n\n《全公演チケット》\n🎟前売¥6\,000/当日券¥7\,200(+3D)\n❥https://livepocket.jp/e/260704_all\n\n🎁個別写メ券\nhttps://timetr.ee/p/gekkanpam/2936910073053028191
+SUMMARY:栃木🥟ギュウ農フェス in 宇都宮2026ローイイム〜รอยยิ้ม 〜笑顔
+UID:4eca5ebe-7979-454c-8aa9-01f6790c3ecf@4eca.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261016
+DTEND;VALUE=DATE:20261017
+DESCRIPTION:🎪イベント情報🎪\n\n／\n\n「NUANCE presents 『ヌュナッス』\nsupported by エンジョイナス!! 」出演決定🍆\n\n＼\n\n🗓10/16(金)開場18:15 / 開演18:45\n📍SHIBUYA DESEO\n🎤18:45-19:15\n📸20:45-22:00\n🎟前売¥2\,500 / 当日3.200円 (+1D)\n❥ t-dv.com/NUNNUS_3\n(9/24 21:00-)\nhttps://timetr.ee/p/gekkanpam/3058731170248760377
+SUMMARY:NUANCE presents 『ヌュナッス』supported by エンジョイナス!!
+UID:762e1b02-4c7f-4b37-9b2e-e492c2488a7f@762e.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260607
+DTEND;VALUE=DATE:20260608
+DESCRIPTION:🎪イベント情報🎪\n\n／\n\n『月刊PAM 福岡オフ会2026』詳細決定🍲🍻\n\n＼\n\n🗓6/7(日) 開場16:10 / 終演18:00頃\n📍博多駅近辺 個室居酒屋（駅から徒歩5分圏内）\n※詳細場所は、ご購入者様へ受付終了後メールにてご連絡いたします。\n🎟入場チケット¥10\,000- (入場料＋コース料理&飲み放題含む)\n❥ t-dv.com/pam_fukuokaoff\n(先着 5/23 19:00 ～ 6/1 23:59)\n⚠️席数には数に限りがございます。\n\n【タイムテーブル】\n16:10 開場\n→お食事・物販/特典会\n18:00頃 完全終了\n\n※特典会はオフ会に参加した方のみ参加可能となります。\n\n【注意事項】\n・開場時間になりましたらスタッフが誘導いたします。\n・開場時間前からお店前にてお待ちいただく行為は御遠慮ください。\n・イベント中、メンバーが映りこむ撮影・録画は許可がある場合を除き禁止。\n・メンバーへの接触行為はご遠慮ください。\n・お客様による飲食物の持ち込み禁止。\n・20歳未満の飲酒禁止。\n・スタッフの指示に従い、周りの方へのご配慮をお願い致します。 \n(スタッフの指示に従わない場合、ご退出をお願いする場合がございますので予めご了承ください。また、その際の返金対応等は致しかねます。)\n・イベントに関するお店への直接のお問い合わせはご遠慮ください。\n・特典会時はマスク着用必須。\nhttps://timetr.ee/p/gekkanpam/2916371760013614683
+SUMMARY:★福岡🍲月刊PAM 福岡オフ会2026
+UID:f5b4fe8d-befb-4a56-b0b4-44e6ff274d33@f5b4.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260607
+DTEND;VALUE=DATE:20260608
+DESCRIPTION:🎪イベント情報🎪\n\n／\n\n🍲福岡遠征2日目✈️\n\nIDOL by...! presents\n『beginning of next』出演決定🖤\n\n＼\n\n🗓6/7(日)開場11:00/開演11:30\n📍graf【福岡】\n🎤12:45-13:10\n📸13:20-14:30\n🎟一般 ¥2\,500(+1D)\n❥ https://ticketdive.com/event/IDOLby_0607\n(5/13 21:00-)\nhttps://timetr.ee/p/gekkanpam/2953789280844487813
+SUMMARY:福岡🍲IDOL by...! presents『beginning of next』
+UID:7579903e-c4e6-4848-9e2d-333cf0789e45@7579.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260331
+DTEND;VALUE=DATE:20260401
+DESCRIPTION:🎪イベント情報🎪\n\n／\n\n「月刊PAM Presents『ANSWER』vol.8」開催決定❤️‍🔥\n\n＼\n\n🗓3/31(火)開場18:30 / 開演19:00\n📍新宿MARZ\n👭🏻【第8回目ゲスト】\n▶︎airattic \n▶︎クマリデパート\n▶︎SOMOSOMO\n🎙20:30-21:00\n📸21:05-22:05\n\n🎟優先入場¥3\,500/一般¥3\,000(各種+1D)\n❥ https://ticketdive.com/event/answer8\n(3/18 22:30-)\nhttps://timetr.ee/p/gekkanpam/2868320275212508962
+SUMMARY:★月刊PAM Presents『ANSWER』vol.8
+UID:383a9654-05cd-4eb8-8b3b-53bbb4a0b252@383a.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260806
+DTEND;VALUE=DATE:20260807
+DESCRIPTION:2026年8月6日（ぱむの日）\n代々木公園 ケヤキ並木通り\n\n月刊PAMを応援してくださっている皆様、\n19時30分にお集まりください🌙\n\n※トークショーや特典会などのイベントではありません。\n※当日、ケヤキ並木通りの詳細な集合場所についてはお写真を更新いたします\nhttps://timetr.ee/p/gekkanpam/3016078839594327703
+SUMMARY:ぱむの日
+UID:f4be5f6a-4483-4355-9cc8-658b4c09ad2e@f4be.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260829
+DTEND;VALUE=DATE:20260830
+DESCRIPTION:🎪イベント情報🎪\n\n／\n \n『@JAM EXPO 2026 supported by UP-T』出演決定🎉\n\n＼\n\n🗓8/29(土)\n📍横浜アリーナ\n📸10:10-11:10 【横浜アリーナ3F・10】⚠️前物販\n🎤①12:10-12:25 《🍍パイナップルステージ》\n🎤②16:50-17:05《🍑ピーチステージ》\n🎟️https://ticket.rakuten.co.jp/music/jpop/RTZPBEB/?scid=su_16699\n\n《HP》\nhttps://atjam.jp/expo2026\nhttps://timetr.ee/p/gekkanpam/3019638342621305979
+SUMMARY:@JAM EXPO 2026 supported by UP-T
+UID:221dd598-6f6b-4eaf-aa3d-d67fd772112e@221d.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260718
+DTEND;VALUE=DATE:20260719
+DESCRIPTION:🎪イベント情報🎪\n\n／\n\n関西遠征3DAYS初日🐙\nこぐまカリー主催「Mash UP!」出演決定🧸🍛\n\n＼\n\n🗓7/18(土)開場11:00/開演11:15\n📍心斎橋SUNHALL(大阪)\n🎤14:00-14:23\n📸15:00-16:10\n🎟前売¥3\,500/当日¥4\,000(各種+1D)\n❥ t-dv.com/kc20260718\nhttps://timetr.ee/p/gekkanpam/2905242202174627473
+SUMMARY:大阪🐙こぐまカリー主催「Mash UP!」
+UID:d94c4a7a-5f49-45ad-8e6d-129e43f5548b@d94c.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260411
+DTEND;VALUE=DATE:20260412
+DESCRIPTION:🎪イベント情報🎪\n\n／\n\nこぐまカリー7日連続🧸🍛\n『トーキョーログ』出演決定🗼\n\n＼\n\n🗓4/11(土)開場10:30/ 開演11:00\n📍大塚Hearts+\n🎤12:15-12:38\n📸13:15-14:15\n🎟前売り¥3\,000/当日¥3\,500(各種+1D)\n❥ t-dv.com/kc202604\n(3/12 22:00-)\nhttps://timetr.ee/p/gekkanpam/2913982324667816984
+SUMMARY:こぐまカリー7日連続『トーキョーログ』
+UID:44ec72de-9db5-41ed-9bdd-7aa71feb8b60@44ec.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260926
+DTEND;VALUE=DATE:20260927
+DESCRIPTION:🎪イベント情報🎪\n\n／\n\nさとりモンスター主催 \n『しもきたざわーるど』NIGHT 出演決定🌃\n\n＼\n\n🗓9/26(土)開場17:00/開演17:30\n📍下北沢シャングリラ\n🎤19:20-19:45\n📸20:50-22:00\n🎟️前売¥3000(別途+1D)\n▶︎ https://ticketdive.com/event/shimokitazaworld2026\nhttps://timetr.ee/p/gekkanpam/3022624092476382777
+SUMMARY:さとりモンスター主催 『しもきたざわーるど』NIGHT
+UID:01f21d35-8fdf-4238-91ea-e1a4ead351d6@01f2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:📽オンラインサイン会配信情報👀🍿*゜\n\n／\n\n『宇都宮未来 9月ソロオンラインサイン会』開催️決定🩵\n\n＼\n\n🗓9/29(火)20:30～\n🎥 youtube.com/@gekkanpam\n(月刊PAM 公式YouTube)\n🛍 marche-yell.com/events/\n※9/29(火)21:00まで購入可能\n\n【対象商品】\nA\n・お月見チェキ1枚 (サインあり)\n・お月見チェキ1枚 (サインなし)\n2\,500円\nhttps://marche-yell.com/Utnmy_Mirai/products/179310\n\nB\n・ハロウィンチェキ1枚 (サインあり)\n・ハロウィンチェキ1枚 (サインなし)\n2\,500円\nhttps://marche-yell.com/Utnmy_Mirai/products/179311\n\nC\n・サインありチェキ1枚(お月見 or ハロウィン）\n・宛名入り手書きメッセージポストカード\n・お礼動画（全員共通）\n5\,500円\nhttps://marche-yell.com/Utnmy_Mirai/products/179312\n\nD\n・お月見チェキ1枚 (サインあり)\n・ハロウィンチェキ1枚 (サインあり)\n・お絵描きチェキ１枚(お月見 or ハロウィン）\n7\,000円\nhttps://marche-yell.com/Utnmy_Mirai/products/179313\n\n\n※『宛名入り生誕手書きメッセージポストカード』、『お絵描きチェキ』は配信時間外での対応となります。\n※サインありは全てサイン・ニックネーム・メッセージ入りとなります。\n※ 宇都宮未来 9月オンラインサイン会の関連商品となります、【Aプラン】【Bプラン】【Cプラン】【Dプラン】につきましては複数購入いただいた場合も1件分の配送手数料のお支払いとなります。\nhttps://timetr.ee/p/gekkanpam/3064233823653306339
+DTEND:20260929T123000Z
+DTSTART:20260929T113000Z
+SUMMARY:宇都宮未来 9月ソロオンラインサイン会
+UID:6db9b263-bfeb-4f08-bb1e-9ec2942602a8@6db9.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260725
+DTEND;VALUE=DATE:20260726
+DESCRIPTION:🎪イベント情報🎪\n\n／\n\n『TOKYOPOP vol.1 Supported by こぐまカリー』出演決定❤️‍🔥\n\n＼\n\n🗓7/25(土)開場12:00/開演12:30 📍BASE GRANBELL 銀座 🎤15:05-15:30\n📸16:05-17:15[B] 🎟VIP(下手ソファーエリア) ¥4\,500/一般 ¥2\,500(各種+1D) ❥ t-dv.com/TOKYOPOP_260725\n(6/22 21:00-)\n\n指名🎁個別写メ券\nhttps://timetr.ee/p/gekkanpam/2968537702545727465
+SUMMARY:TOKYOPOP vol.1 Supported by こぐまカリー
+UID:0ae1cfad-1fb1-4784-af5a-ad7241f71e5e@0ae1.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260728
+DTEND;VALUE=DATE:20260729
+DESCRIPTION:📺出演情報📺\n\n· · ───── ·✧· ───── · ·\n\nSHOWROOM番組\n『@JAMトークバラエティー"ドルバナ"』\n月刊PAMより宇都宮未来のゲスト出演決定💬🎀\n\n· · ───── ·✧· ───── · ·\n\n《配信日時》\n7/28(火) 19:00-21:00\n\n《出演》\nMC : \n白岡今日花さん（Task have Fun）\n\nゲスト : \n宇都宮未来（月刊PAM）\n聞間彩さん（AISTEAL)\n藤井優衣さん（HzMe）\n\n《番組ページ》\n🔗showroom-live.com/dolbana\nhttps://timetr.ee/p/gekkanpam/3015401821257047942
+SUMMARY:📺《宇都宮》@JAMトークバラエティー"ドルバナ"
+UID:1463b770-ea82-4873-97b6-2f8e2c5ecae9@1463.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:📽オンラインサイン会配信情報👀🍿*゜\n\n／\n\n『宇都宮未来 7月ソロオンラインサイン会』開催決定🩵\n\n＼\n\n🗓7/30(木)21:00〜\n🎥 youtube.com/@gekkanpam\n(月刊PAM 公式YouTube)\n🛍 https://marche-yell.com/events/\n※7/30(木) 21:30まで購入可能\n\n【対象商品】\nA\n・生誕衣装チェキ1枚 (サインあり)\n・生誕衣装チェキ1枚 (サインなし)\n2\,500円\nhttps://marche-yell.com/Utnmy_Mirai/products/172768/\n \nB\n・生誕Tシャツチェキ1枚 (サインあり)\n・生誕Tシャツチェキ1枚 (サインなし)\n2\,500円\nhttps://marche-yell.com/Utnmy_Mirai/products/172769/\n\nC\n・サインありチェキ1枚(生誕衣装 or 生誕Tシャツ）\n・宛名入り生誕手書きメッセージポストカード\n・お礼動画（全員共通）\n5\,500円\nhttps://marche-yell.com/Utnmy_Mirai/products/172770/\n \nD\n・生誕衣装チェキ1枚 (サインあり)\n・生誕Tシャツチェキ1枚 (サインあり)\n・お絵描きチェキ1枚(生誕衣装 or 生誕Tシャツ）\n7\,000円\n https://marche-yell.com/Utnmy_Mirai/products/172771/\n\n※『宛名入り生誕手書きメッセージポストカード』、『お絵描きチェキ』は配信時間外での対応となります。\n※サインありは全てサイン・ニックネーム・メッセージ入りとなります。\n※ 宇都宮未来 7月オンラインサイン会の関連商品となります、【Aプラン】【Bプラン】【Cプラン】【Dプラン】につきましては複数購入いただいた場合も１件分の配送手数料のお支払いとなります\nhttps://timetr.ee/p/gekkanpam/3019723249561345540
+DTEND:20260730T130000Z
+DTSTART:20260730T120000Z
+SUMMARY:宇都宮未来 7月ソロオンラインサイン会
+UID:c0d72354-7650-4632-a307-6259d04592c9@c0d7.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260417
+DTEND;VALUE=DATE:20260418
+DESCRIPTION:🎪イベント情報🎪\n\n／\n\n🌸春の野外ステージ・入場フリー🌸\n『酒まつりジャパン』出演決定🍻🍶\n\n＼\n\n🗓4/17(金)開場11:00/終了21:00\n📍上野恩賜公園 竹の台広場（台東区上野公園5-20）\n🎤18:00-18:20\n📸18:30-19:30\n🏃🏻‍♀️入場フリー🆓\n《HP》https://sakefesta.jp/2026/\nhttps://timetr.ee/p/gekkanpam/2919651658211761289
+SUMMARY:酒まつりジャパン
+UID:c37ce9bf-3f54-4008-adef-69b6a4a52401@c37c.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260919
+DTEND;VALUE=DATE:20260920
+DESCRIPTION:🎪イベント情報🎪\n\n／\n\n『IDOLGROW vol.28』出演決定🤝🏻\n\n＼\n\n🗓9/19(土)開場:11:00 開演11:30\n📍銀座BASE GRANBELL\n🎤14:30-15:05\n📸15:20-16:20《C》\n🎟VIP ¥5\,000/一般¥3\,000(各種+1D)\n❥ https://livepocket.jp/e/t_qjn\n(8/23 22:00-)\nhttps://timetr.ee/p/gekkanpam/3036245749883444229
+SUMMARY:IDOLGROW vol.28
+UID:7c3191b6-3bcb-4680-a904-e295df758e4e@7c31.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261113
+DTEND;VALUE=DATE:20261114
+DESCRIPTION:https://timetr.ee/p/gekkanpam/3056868282911399054
+SUMMARY:対バン出演予定
+UID:32cb3b95-04c7-45b0-be38-21dc0c70be75@32cb.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261103
+DTEND;VALUE=DATE:20261104
+DESCRIPTION:🎪イベント情報🎪\n\n／\n\n@ JAM×アイドル横丁presents\n『秋葉原アイドルサーキットvol.6』出演決定🎡\n\n＼\n\n🗓11/3(火祝) \n📍秋葉原サーキット\n🎟前売り¥7\,500(+1D)\n❥ https://atjam.jp/ticket\n(先行9/15 12:00-、一般10/3 10:00-)\n\n《詳細》\n🔗https://atjam.jp/news/detail/WNHYd2jvH8aOvntMtROP\nhttps://timetr.ee/p/gekkanpam/3021985226862075543
+SUMMARY:@ JAM×アイドル横丁presents『秋葉原アイドルサーキットvol.6』
+UID:dd3d67e0-9441-4b43-8c54-121f7aefd801@dd3d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:📽オンラインサイン会配信情報👀🍿*゜\n\n／\n\n【振替日・決定】\n『船井美玖 8月ソロオンラインサイン会』開催💚\n\n＼\n\n🗓9/15(火)20:30〜\n🎥 youtube.com/@gekkanpam\n(月刊PAM 公式YouTube)\n🛍 marche-yell.com/events/\n※9/15(火) 21:00まで購入可能\n\n【対象商品】\nA\n・ツアー衣装チェキ1枚 (サインあり)\n・ツアー衣装チェキ1枚 (サインなし)\n2\,500円\n https://marche-yell.com/_funaimiku_/products/176207\n\nB\n・秋の味覚🍂クッキングエプロンチェキ🍳1枚 (サインあり)\n・秋の味覚🍂クッキングエプロンチェキ🍳1枚 (サインなし)\n2\,500円\nhttps://marche-yell.com/_funaimiku_/products/176208/\n\nC\n・サインありチェキ1枚(ツアー衣装 or 「秋の味覚🍂クッキングエプロン🍳」）\n・宛名入り手書きメッセージポストカード\n・お礼動画（全員共通）\n5\,500円\nhttps://marche-yell.com/_funaimiku_/products/176212/\n \nD\n・ツアー衣装チェキ1枚 (サインあり)\n・秋の味覚🍂クッキングエプロンチェキ🍳1枚 (サインあり)\n・サインなしチェキ1枚(ツアー衣装 or 「秋の味覚🍂クッキングエプロン🍳」）\n・お名前を呼んでのお礼動画\n7\,000円\nhttps://marche-yell.com/_funaimiku_/products/176213/\n\nE\n・ツアー衣装チェキ1枚 (サインあり)\n・秋の味覚🍂クッキングエプロンチェキ🍳1枚 (サインあり)\n・お絵描きチェキ1枚(ツアー衣装 or 「秋の味覚🍂クッキングエプロン🍳」）\n7\,000円\nhttps://marche-yell.com/_funaimiku_/products/176214/\n\n※『宛名入り生誕手書きメッセージポストカード』、『お絵描きチェキ』は配信時間外での対応となります。\n※サインありは全てサイン・ニックネーム・メッセージ入りとなります。\n※ 船井美玖 8月オンラインサイン会の関連商品となります、【Aプラン】【Bプラン】【Cプラン】【Dプラン】【Eプラン】につきましては複数購入いただいた場合も1件分の配送手数料のお支払いとなります。\nhttps://timetr.ee/p/gekkanpam/3052301545880657063
+DTEND:20260915T123000Z
+DTSTART:20260915T113000Z
+SUMMARY:振替・船井美玖8月オンラインサイン会
+UID:10494be1-8230-4d64-a8f7-766e1888cdb5@1049.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260814
+DTEND;VALUE=DATE:20260815
+DESCRIPTION:🎪イベント情報🎪\n\n／\n\n月刊PAM Presents.\n『ANSWER』単独夏祭りSP 開催決定🌻\n\n＼\n\n🗓8/14(金) 開場18:40 / 開演19:00\n📍新宿MARZ\n🎤19:00-20:00[60]\n📸20:20- ※特典会は浴衣着用👘\n🎟優先入場[囲み写メ券付き]¥4\,000 / 一般¥2\,500(各種+1D)\n❥ https://ticketdive.com/event/answer0814\n(8/7 22:00-)\n※囲み写メの撮影は特典会冒頭で実施\nhttps://timetr.ee/p/gekkanpam/2969682002419621302
+SUMMARY:★月刊PAM Presents.『ANSWER』単独夏祭りSP
+UID:360cf833-c5af-41eb-b56e-d57afbce47a4@360c.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260722
+DTEND;VALUE=DATE:20260723
+DESCRIPTION:🎪イベント情報🎪\n\n／\n\n『TOKYO GARDEN vol.2』出演決定🪩\n\n＼\n\n🗓7/22(水)開場19:00/開演19:30\n📍namco TOKYO\n▶︎ 東京都新宿区歌舞伎町１丁目２９−１ 東急歌舞伎町タワー 3階\n🎤20:05-20:25\n📸21:05-22:00\n🎟️前売 ¥2\,500/当日 ¥3\,000(各種+1D)\n❥ https://livepocket.jp/e/j31x_\n(6/17 21:00- 販売開始中)\nhttps://timetr.ee/p/gekkanpam/2945152844431859384
+SUMMARY:TOKYO GARDEN vol.2
+UID:1ebef06a-2c95-4784-b0c1-fb845baa119d@1ebe.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260430
+DTEND;VALUE=DATE:20260501
+DESCRIPTION:📽オンラインサイン会配信情報👀🍿*゜\n\n／\n\n『宇都宮未来 4月ソロオンラインサイン会』開催決定🩵\n\n＼\n\n🗓4/30(木)19:00～\n🎥 youtube.com/@gekkanpam\n(月刊PAM 公式YouTube)\n🛍https://marche-yell.com/events/\n※4/28 13:00～4/30 19:30まで購入可能、販売開始からページに商品が掲載されます\n※通例のまとめページ購入リンクが異なります\n\n【対象商品】\nA\n・春ワンピース①チェキ1枚 (サインあり)\n・春ワンピース①チェキ1枚 (サインなし)\n2\,500円\n \nB\n・春ワンピース②チェキ1枚 (サインあり)\n・春ワンピース②1枚 (サインなし)\n2\,500円\n\nC\n・春ワンピース①チェキ1枚 (サインあり)\n・春ワンピース②チェキ1枚 (サインあり)\n・お名前を呼んでのメッセージ動画\n4\,500円\n\nD\n・春ワンピース①チェキ1枚 (サインあり)\n・春ワンピース②チェキ1枚 (サインあり)\n・お絵描きチェキ１枚(春ワンピース ①or②）\n7\,000円\n\n※お絵描きチェキは配信時間外での対応となります。\n※サインありは全てサイン・ニックネーム・メッセージ入りとなります。\n※ 宇都宮未来 4月オンラインサイン会の関連商品となります、【Aプラン】【Bプラン】【Cプラン】【Dプラン】につきましては複数購入いただいた場合も１件分の配送手数料のお支払いとなります\nhttps://timetr.ee/p/gekkanpam/2953859153394113544
+SUMMARY:宇都宮未来 4月ソロオンラインサイン会
+UID:48ddd27c-2516-4a1d-b8ae-83961bb20fd2@48dd.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260517
+DTEND;VALUE=DATE:20260518
+DESCRIPTION:🎪イベント情報🎪\n\n／\n\n『diig and…vol.12』出演決定💋\n\n＼\n\n🗓5/17(日) 開場18:30/開演19:00\n📍青山月見ル君想フ\n🎤19:00-19:35\n📸20:20-21:40\n🎟一般¥3\,000 / 女性・学生¥1\,000 (各種+1D)\n❥ t-dv.com/diigand_vol12\n(4/16 20:00- 先着)\n\n指名特典🎁個別写メ券\n\n----\n4/30に配信された6ヶ月連続デジタルシングル\n第4弾となる新曲「春風、city lights and ghost」を初披露🍃\n\n「春風、city lights and ghost」\n▶︎Music/Lylics/Arrange：オガワコウイチ\n🎧https://orcd.co/gekkanpam_harukazecitylightsandghost\nhttps://timetr.ee/p/gekkanpam/2912211906013404973
+SUMMARY:diig and…vol.12
+UID:7c1fb632-c950-4264-a084-21cb5237cf9d@7c1f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:📽オンラインサイン会配信情報👀🍿*゜\n\n／\n\n『宇都宮未来 3月ソロオンラインサイン会』開催決定🩵\n\n＼\n\n🗓3/30(月)20:30～\n🎥 youtube.com/@gekkanpam\n(月刊PAM 公式YouTube)\n🛍https://marche-yell.com/Utnmy_Mirai/\n※3/30(月) 21:00まで購入可能\n\n【対象商品】\nA\n・越後湯沢チェキ1枚 (サインあり)\n・越後湯沢チェキ1枚 (サインなし)\n2\,500円\n \nB\n・制服チェキ1枚 (サインあり)\n・制服チェキ1枚 (サインなし)\n2\,500円\n\nC\n・サインありチェキ1枚(越後湯沢 or 制服）\n・宛名入りデジタルメッセージカード\n・お礼動画（全員共通）\n5\,500円\n\nD\n・越後湯沢チェキ1枚 (サインあり)\n・制服チェキ1枚 (サインあり)\n・お絵描きチェキ１枚(越後湯沢 or 制服）\n7\,000円\n\n※お絵描きチェキは配信時間外での対応となります。\n※サインありは全てサイン・ニックネーム・メッセージ入りとなります。\nhttps://timetr.ee/p/gekkanpam/2930565011608149695
+DTEND:20260330T123000Z
+DTSTART:20260330T113000Z
+SUMMARY:宇都宮未来 3月ソロオンラインサイン会
+UID:482d4416-a85e-48e0-8a1a-6e6f6ae22a39@482d.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260624
+DTEND;VALUE=DATE:20260625
+DESCRIPTION:🎪イベント情報🎪\n\n／\n\n『FLAG FES』出演決定🐧🚩\n\n＼\n\n🗓6/24(水)開場18:40/開演19:00\n📍新代田FEVER\n🎤19:30-20:00\n📸21:10-22:10\n🎟優先入場¥3\,500/一般¥2\,800(各種+1D)\n❥https://ticketdive.com/event/flag0624\n(6/9 22:00-)\nhttps://timetr.ee/p/gekkanpam/2963841255279664539
+SUMMARY:FLAG FES
+UID:f715e026-67dc-456a-b58d-c8bf1317af8d@f715.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261003
+DTEND;VALUE=DATE:20261004
+DESCRIPTION:🎪イベント情報🎪\n\n／\n\n沖縄遠征DAY1・夜🌃\n『でぃぐぱむ -沖縄-』出演決定🌺\n\n＼\n\n🗓10/3(土) 開場18:00/開演18:20\n📍Livehouse Output (沖縄)\n🎤18:50-19:20\n🗣️19:20-19:25\n📸19:30-20:30\n🎟優先入場 ¥3\,500/一般¥3\,000(各種+1D)\n❥ t-dv.com/diigpam\n[9/15 21:30-]\nhttps://timetr.ee/p/gekkanpam/3039982482697461441
+SUMMARY:沖縄🌴でぃぐぱむ -沖縄-
+UID:00bf5ece-5850-4eb4-9ae1-3c625045eb6c@00bf.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260808
+DTEND;VALUE=DATE:20260809
+DESCRIPTION:🎪イベント情報🎪\n\n／\n\nRAY presents FREE EVENT\n『FREE FOR MORNING』出演決定☀️🌱\n\n＼\n\n🗓8/8(土・朝)開場9:30/開演10:00\n📍下北沢シャングリラ\n🧘🏼‍♀️ラジオ体操/MC 10:00-10:05\n🎤10:30-10:55\n📸11:50-13:00\n🎟優先入場 ¥1000 / 前売 ¥0 / 当日 ¥0 (各種+1D)\n❥ https://ticketdive.com/event/FREE_FOR_MORNING\n(7/14 22:00-)\nhttps://timetr.ee/p/gekkanpam/2988503770668178780
+SUMMARY:RAY presents FREE EVENT『FREE FOR MORNING』
+UID:835d0a0c-93d4-43e1-b084-7ca703b71e14@835d.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261004
+DTEND;VALUE=DATE:20261005
+DESCRIPTION:🎪イベント情報🎪\n\n／\n\n沖縄遠征DAY2・昼☀️\n『diigPAM -沖縄合同オフ会-』開催決定🌺\n\n＼\n\n🗓10/4(日)集合10:50 / 開場11:00 / 開演11:20 / 終了13:45 (予定)\n📸12:30～13:30 各グループ並行特典会（予定）\n📍COZY BEACH CLUB(沖縄)\n👭🏻月刊PAM / diig\n🎟入場チケット¥12\,000\n・1人前BBQセット含む\n・アルコール＆ソフトドリンク飲み放題含む\n❥ t-dv.com/diigpambbq\n\n[販売期間]\n2026/9/18(金) 21:00～2026/9/30(水) 23:59\n\n※販売開始時間から1時間以内はコンビニ決済不可。\n※上限枚数に達しだい、販売期間終了前に購入を締め切る場合がございます。\n\n⋆┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈⋆\n\n⚠︎︎注意事項⚠︎︎\n・本イベントにおける、会場へのお問い合わせはご遠慮ください。\n・終了時間、並行特典会の時間に関しましては目安の予定時間となります。当日、イベントの進行状況により時間が前後する可能性があります。予め、ご了承ください。\n・会場側でご用意させていただく飲食物のほか、お客様による飲食物の持ち込みは可能となります。\n・お客様が持ち込んだ飲食物や飲食中の物を、出演者へ配布、分ける等の行為は禁止となります。尚、密閉されたものに限り各マネジメント判断により受諾する場合もございます。\n・イベント当日、写真撮影用または映像収録用のカメラでの撮影が実施される場合がございます。ご来場のお客様の様子が映り込む可能性もございます。予めご了承ください。\n・イベント中（開場～終演）、お客様による許可のない録音/撮影行為は禁止となります。尚、出演者の映らない飲食物の撮影は可能となります。\n・他のお客様への迷惑となる行為、イベントへご参加いただくうえで不適切な行為や発言、アルコールの摂取しすぎによる泥酔は禁止となります。\n・その他、場内外では、係員の指示に従っていただきます。 万が一上記ルールが守られない場合はイベントの中止、またはご退場いただく場合もございます。その際、チケット代などの返金対応は一切ございません。また今後のイベントの入場をお断りする場合がございます。予めご了承ください。\nhttps://timetr.ee/p/gekkanpam/3011782236452658846
+SUMMARY:沖縄🌴 diigPAM -沖縄合同オフ会-
+UID:62dc1bc3-6f48-4878-be10-4b3b0790f580@62dc.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260726
+DTEND;VALUE=DATE:20260727
+DESCRIPTION:🎪イベント情報🎪\n\n／\n\n10年目記念で有明に引っ越しだよ！\n『六本木アイドルフェスティバル2026』\nDAY2出演決定🎉\n\n＼\n\n🗓7/26(日)開場10:00/開演11:00\n📍PRIME STAGE(SGCホール有明2階ロビー)\n🎫リストバンド交換 11:00～\n🎤15:30-15:55\n📸16:35-17:35《J》\n🎫リストバンド交換 11:00～\n🎟️DREAMチケット(各日)¥28\,000 / 一般(各日)¥8\,500\n❥ https://ticket.tv-asahi.co.jp/ex/project/rif2026\n[3次先行]\n6月17日（水）12:00～7月10日（金）23:59\n[一般発売]\n7月11日（土）10:00～\n\n《HP》\nhttps://www.tv-asahi.co.jp/idolfes/\nhttps://timetr.ee/p/gekkanpam/2941305692295240951
+SUMMARY:六本木アイドルフェスティバル2026
+UID:83785f4a-0013-480c-b01b-77312ac21a41@8378.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260720
+DTEND;VALUE=DATE:20260721
+DESCRIPTION:📢📚\n\n/／\n月刊PAM 全国ツアー2026\n 「ちいさな夜」開催決定🌃🪄︎︎\n\\＼\n\n《日程・会場》\n4/8(水) 東京・Spotify O-nest\n5/2(土) 広島・HIROSHIMA 4.14\n6/6(土) 福岡・Livehouse Dragoon\n7/20(月祝) 大阪・北堀江club vijon\n\n-----\n\n月刊PAM全国ツアー2026 「ちいさな夜」\n【大阪公演】チケット詳細決定🔆🐙\n\n\n🗓7/20(月祝) 開場11:30/開演12:00\n📍北堀江club vijon\n▶︎大阪府大阪市西区北堀江1-22-3 マインズ北堀江B1F\n🎟 https://ticketdive.com/event/pam2026osaka\n◎VIPチケット ¥7\,000 +1D\n・優先入場\n・囲み写メ(特典会冒頭で撮影)\n・月刊PAMからの15秒動画(特典会冒頭で撮影)\n◎一般チケット ¥2\,500 +1D\n[販売期間] 3/24 22:00～7/20 10:00\nhttps://timetr.ee/p/gekkanpam/2905242425756196849
+SUMMARY:★大阪🐙月刊PAM 全国ツアー2026 「ちいさな夜」【大阪公演】
+UID:07f838c2-506e-4954-bfe5-1bba5f39eaeb@07f8.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260827
+DTEND;VALUE=DATE:20260828
+DESCRIPTION:【出演キャンセルとなりました。詳しくは下記をご確認ください。】\n▶︎https://x.com/gekkanpam/status/2092630821765308701?s=46&t=IvNbDIHLHCLolUrVEge5fw\n\n🎪イベント情報🎪\n\n／\n\nTribu 10th Anniversary\n 『夏のASOBIBA』出演決定🎉\n\n＼\n\n🗓8/27(木)開場17:30/開演18:00\n📍大塚Hearts Next\n🎤19:30-19:55\n📸21:30-22:30\n🎟先行¥3\,300/一般¥3\,600/当日¥3\,800 (+2D)\n❥https://livepocket.jp/e/20260827asobiba\n[先行：7/6(月)22:00-7/31(金)23:59]\n[一般：8/1(土)22:00-8/27(木)17:15]\n\n🎥配信：2\,000円＋投げ銭\n🎫配信チケット：\n・Next：https://premier.twitcasting.tv/hearts_next/shopcart/450177\n・+(プラス)：https://premier.twitcasting.tv/c:hearts_plus/shopcart/45017\n（※視聴期限: 2026年9月10日23:59 まで）\nhttps://timetr.ee/p/gekkanpam/2978792097187340007
+SUMMARY:【出演キャンセル】Tribu 10th Anniversary 『夏のASOBIBA』
+UID:a8ab1376-fc8d-4045-bf07-5621787c0ccb@a8ab.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260606
+DTEND;VALUE=DATE:20260607
+DESCRIPTION:📢📚\n\n/／\n月刊PAM 全国ツアー2026\n 「ちいさな夜」開催決定🌃🪄︎︎\n\\＼\n\n《日程・会場》\n4/8(水) 東京・Spotify O-nest\n5/2(土) 広島・HIROSHIMA 4.14\n6/6(土) 福岡・Livehouse Dragoon\n7/20(月祝) 大阪・北堀江club vijon\n\n-----\n\n月刊PAM全国ツアー2026 「ちいさな夜」\n【福岡公演】チケット詳細決定🌃🪄︎︎\n\n🗓6/6(土) 開場18:00/開演18:30\n📍Livehouse Dragoon (福岡)\n▶︎ 福岡県福岡市中央区天神3丁目5-29 5階\n🎟 https://ticketdive.com/event/pam2026fukuoka\n◎VIPチケット ¥7\,000 +1D\n・優先入場\n・囲み写メ(特典会冒頭で撮影)\n・月刊PAMからの15秒動画(特典会冒頭で撮影)\n◎一般チケット ¥2\,500 +1D\n[販売期間] 4/3 22:00～6/6 17:00\nhttps://timetr.ee/p/gekkanpam/2916371527640784460
+SUMMARY:★福岡🍲月刊PAM 全国ツアー2026 「ちいさな夜」【福岡公演】
+UID:bfb177de-ded2-4878-b9bd-8f54bcb60041@bfb1.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260903
+DTEND;VALUE=DATE:20260904
+DESCRIPTION:📢📚\n\n .*·.⟡┈┈┈┈┈┈┈┈┈┈┈⟡.·*.\n\n                2026.09.03\n\n            EVERYDAY PAM！\n       ~ 3rd anniversary live ~\n\n.*·.⟡┈┈┈┈┈┈┈┈┈┈┈⟡.·*.\n\n🗓9/3(木)開場18:30/開演19:00\n📍Spotify O-Crest\n▶︎東京都渋谷区道玄坂2-14-8 5階\n🛍前物販17:15-18:00 / 終演後\n📸終演後特典会\n \n🎟t-dv.com/pam3rd\n\n🌟優先入場チケット ¥8\,000\n・囲み写メ(特典会冒頭で撮影)\n・月刊PAMからの15秒動画(特典会冒頭で撮影)\n🌟一般チケット ¥3\,500\n🌟当日券 ¥4\,500\n\n▶︎各種+1drink代 / 先着販売\n▶︎前売り 9/3 17:00まで〆\nhttps://timetr.ee/p/gekkanpam/2988505226645315058
+SUMMARY:★EVERYDAY PAM！~ 3rd anniversary live ~
+UID:1cbef82c-81c9-41e3-945e-66a81416b167@1cbe.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261023
+DTEND;VALUE=DATE:20261024
+DESCRIPTION:🎪イベント情報🎪\n\n／\n\n「月刊PAM Presents.『ANSWER』VOL.15」開催決定🫧\n❥❥❥ クマリデパートさんとのツーマン決定🍀*゜\n\n＼\n\n🗓10/23(金)開場18:40 / 開演19:00\n📍新宿MARZ\n👭🏻【第15回目ゲスト】\n▶︎クマリデパート (@qumalidepart )\n🎤19:40-20:20\n🗣️20:20-20:30 [2組によるエンディングトーク]\n📸20:40-22:00\n🎟優先入場¥3\,500/一般¥3\,000(各種+1D)\n❥ t-dv.com/answer15\n(9/12 22:00-)\nhttps://timetr.ee/p/gekkanpam/3021985024302357813
+SUMMARY:★月刊PAM Presents『ANSWER』vol.15
+UID:f1443ca4-8a6f-449a-8711-465c88dd0dc4@f144.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260418
+DTEND;VALUE=DATE:20260419
+DESCRIPTION:🎪イベント情報🎪\n\n／\n\n福島いわきの温泉旅館一棟借りイベント‼️\nエクストロメ‼︎ presents\n『トロメ〜湯♨️』出演決定🕺🔥\n\n＼\n\n🗓4/18(土)-19(日)\n📍いわき湯本温泉 旅館こいと(https://koito-inn.co.jp/)\n\n【4/18(土)】\n🎤12:50-13:15\n📸13:25-14:35[C]\n\n【4/19(日)】\n🎤11:55-12:20\n📸12:30-13:40[C]\n\n🎟 https://livepocket.jp/e/8cklr\n《前売り(各+1D)》\n①通し券；9\,800円（S1〜）\n②DAY1 ；5\,500円（A1〜）\n③DAY2；5\,500円（B1〜）\n\n-----\n衣装＆館内着の2DAYSでお届けします👘♡\n\n各日指名特典🎁サインなしチェキ券\n🪄︎︎2DAYSの方には+囲み写メ券をプレゼント！\nhttps://timetr.ee/p/gekkanpam/2912211233372872396
+SUMMARY:福島🍑エクストロメ‼︎ presents『トロメ〜湯♨️』DAY1
+UID:11674e92-53fc-44eb-9080-d1a4d1331475@1167.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260716
+DTEND;VALUE=DATE:20260717
+DESCRIPTION:🎪イベント情報🎪\n\n／\n\n「月刊PAM Presents.『ANSWER』VOL.12」開催決定💗\n\n＼\n\n🗓7/16(木)開場18:30 / 開演19:00\n📍新宿MARZ\n👭🏻【第12回目ゲスト】\n▶︎アップアップガールズ（2）\n▶︎マジカル・パンチライン\n▶︎unSea\n🎤20:30-21:00\n📸21:10-22:10\n🎟優先入場¥3\,500/一般¥3\,000(各種+1D)\n❥ t-dv.com/answer12\n(6/18 22:00- 先着)\nhttps://timetr.ee/p/gekkanpam/2945702230140362136
+SUMMARY:★月刊PAM Presents『ANSWER』vol.12
+UID:ea3d64f6-4441-4e1e-9d25-1bf487af4cf2@ea3d.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260917
+DTEND;VALUE=DATE:20260918
+DESCRIPTION:🎪イベント情報🎪\n\n／\n\n「月刊PAM Presents.『ANSWER』VOL.14」\nおやホロさんとの長尺ツーマン開催決定🎸🔥\n\n＼\n\n🗓9/17(木)開場18:40 / 開演19:00\n📍新宿MARZ\n👭🏻【第14回目ゲスト】\n▶︎おやすみホログラム (@oysm_hologram )\n🎤19:50-20:30\n🗣️20:30-20:40 [2組によるエンディングトーク]\n📸20:50-22:00\n🎟優先入場¥3\,500/一般¥3\,000(各種+1D)\n❥ t-dv.com/answer14\n(8/22 22:00-)\nhttps://timetr.ee/p/gekkanpam/2969682304174627926
+SUMMARY:★月刊PAM Presents『ANSWER』vol.14
+UID:e48cb0e4-da5d-45a4-a954-213d7ed76a33@e48c.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260719
+DTEND;VALUE=DATE:20260720
+DESCRIPTION:🎪イベント情報🎪\n\n／\n\n🐙大阪遠征DAY2🐙\n『月刊PAMのラジオ編集会議\n公開録音 ~200回記念SP！！~』開催決定📻🎉\n\n＼\n\n🗓7/19(日)開場17:40 / 開演18:00 [※終演後特典会あり]\n📍アイドル飯店(大阪市中央区西心斎橋2-10-16　変なホテル大阪 なんば1F)\n🎟 t-dv.com/radihen200\n◎前売り優先入場チケット ¥3\,500\n・月刊PAM囲み写メ付き[特典会の冒頭で撮影]\n・限定ステッカー付き[入場時配布]\n◎前売り一般チケット ¥2\,500\n・限定ステッカー付き[入場時配布]\n\n◎当日一般チケット ¥3\,500\n・前売りチケットの入場が落ち着き次第販売\n\n[各種+要別途 当日会場チャージ500円+2order]\n(7/6 22:00-)\nhttps://timetr.ee/p/gekkanpam/2997259497733856935
+SUMMARY:★大阪🐙月刊PAMのラジオ編集会議公開録音 ~200回記念SP！！~
+UID:f9c70519-91c9-4c17-826d-e1fd96355fc8@f9c7.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260922
+DTEND;VALUE=DATE:20260923
+DESCRIPTION:🎪イベント情報🎪\n\n／\n\n《静岡遠征》\nさくまる｡pre.『 Told To Meet! vol.1 』出演決定❣️\n\n＼\n\n🗓9/22(火祝)開場11:30/開演12:00\n📍LiveHouse浜松窓枠(静岡)\n🎤18:05-18:30\n📸19:00-20:10\n🎟前売¥3\,900/当日¥4\,400(各種+1D)\n❥ https://ticketdive.com/event/toldtomeet01\n(9/4 22:00-)\nhttps://timetr.ee/p/gekkanpam/3028143070925790613
+SUMMARY:静岡🍵さくまる｡pre.『 Told To Meet! vol.1 』
+UID:010b49e8-28db-4779-82ce-04e9e2b20227@010b.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260711
+DTEND;VALUE=DATE:20260712
+DESCRIPTION:🎪イベント情報🎪\n\n／\n\n宇都宮未来 BIRTHDAY LIVE 2026\n『mille'26』詳細決定🎂🩵🎉\n\n＼\n\n🗓7/11(土)開場11:30/開演12:00\n📍青山 月見ル君想フ\n🎟 t-dv.com/miraibd2026\n\n【チケット券種(各種+1drink)】\n＊VIPチケット[スタンディング/先着販売] ¥7\,000-\n①優先入場\n②個別写メ券[宇都宮未来・当日限り使用可能/トークなし]\n③宇都宮未来サイン入りメモリアルチケット\n\n＊一般チケット[スタンディング/先着販売] ¥2\,500-\n\n⚠️販売開始から1時間以内はクレジットカード/デビットカード/プリペイドカードのお支払いのみとなります。\n\n《入場順》\nV→A→当日\n※当日券販売の有無は、開催日当日にご案内いたします。\n\n🎫チケット販売期間[先着]\n2026年6月11日(木)22:00\n～2026年7月11日(土)10:00\n\n🛍️物販販売について\n・開場中物販11:30-11:55\n※お並びいただいても列の状況により、開演時間までにご購入できない場合がございます\n・終演後物販\n\n📸撮影可否について\n静止画：OK\n動画：NG\nhttps://timetr.ee/p/gekkanpam/2919725977084338100
+SUMMARY:★宇都宮未来 BIRTHDAY LIVE 2026 『mille'26』
+UID:f1736bbd-e868-4c3c-a3bc-0fcc63fd0217@f173.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:📽オンラインサイン会配信情報👀🍿*゜\n\n／\n\n『船井美玖 9月ソロオンラインサイン会』開催決定💚\n\n＼\n\n🗓9/29(火)19:00～\n🎥youtube.com/@gekkanpam\n(月刊PAM 公式YouTube)\n🛍 https://marche-yell.com/events/\n※9/29(火) 19:30まで購入可能\n\n【対象商品】\nA\n・秋服チェキ1枚 (秋服2種ランダム/サインあり)\n・秋服チェキ1枚 (秋服2種ランダム/サインなし)\n2\,500円\nhttps://marche-yell.com/_funaimiku_/products/179314\n\nB\n・ハロウィンチェキ1枚 (サインあり)\n・ハロウィンチェキ1枚 (サインなし)\n2\,500円\nhttps://marche-yell.com/_funaimiku_/products/179315\n\nC\n・サインありチェキ1枚(秋服[2種ランダム] or ハロウィン）\n・宛名入り手書きメッセージポストカード\n・お礼動画（全員共通）\n5\,500円\nhttps://marche-yell.com/_funaimiku_/products/179316\n \nD\n・秋服チェキ1枚 (秋服2種ランダム/サインあり)\n・ハロウィンチェキ1枚 (サインあり)\n・サインなしチェキ1枚(秋服[2種ランダム] or ハロウィン）\n・お名前を呼んでのお礼動画\n7\,000円\nhttps://marche-yell.com/_funaimiku_/products/179317\n\nE\n・秋服チェキ1枚 (秋服2種ランダム/サインあり)\n・ハロウィンチェキ1枚 (サインあり)\n・お絵描きチェキ1枚(秋服[2種ランダム] or ハロウィン）\n7\,000円\nhttps://marche-yell.com/_funaimiku_/products/179318\n\n※『宛名入り生誕手書きメッセージポストカード』、『お絵描きチェキ』は配信時間外での対応となります。\n※サインありは全てサイン・ニックネーム・メッセージ入りとなります。\n※ 船井美玖 9月オンラインサイン会の関連商品となります、【Aプラン】【Bプラン】【Cプラン】【Dプラン】【Eプラン】につきましては複数購入いただいた場合も1件分の配送手数料のお支払いとなります。\nhttps://timetr.ee/p/gekkanpam/3064234227833216346
+DTEND:20260929T110000Z
+DTSTART:20260929T100000Z
+SUMMARY:船井美玖 9月ソロオンラインサイン会
+UID:8e4ba0f6-ee57-43a1-8207-c6f7f95f4cc5@8e4b.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260705
+DTEND;VALUE=DATE:20260706
+DESCRIPTION:🎪イベント情報🎪\n\n／\n\n『超NATSUZOME 2026』DAY2出演決定🔆\n＼\n\n┈┈┈┈┈┈⟡.·*.\n7/4月刊PAM出演公演では、\n2ステージ共に通例の静止画撮影に加え、\nライブ中の動画撮影OK‼️\n┈┈┈┈┈┈⟡.·*.\n\n🗓7/5(日)開場9:00/開演10:00\n📍幕張海浜公園Gブロック (千葉)\n\n🎤①12:20-12:35[15] 《染ステージ》\n📸14:10-15:10《G》 🎁囲み写メ券\n🎤②18:20-18:35[15] 《爆ステージ》\n\n🎟️https://idol-spot.tstar.jp/event/rileaas/?scid=su_16699\nhttps://timetr.ee/p/gekkanpam/2932677808160742796
+SUMMARY:千葉🌊超NATSUZOME 2026
+UID:295a021d-407e-4ad5-b435-2956233ed082@295a.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260810
+DTEND;VALUE=DATE:20260811
+DESCRIPTION:🎪イベント情報🎪\n\n／\n\nNEO JAPONISM主催フェス\n『NEO KASSEN2026』出演決定⚔️\n\n＼\n🗓8/10(月)開場11:00\n📍SHIBUYA DESEO《NEGAI STAGE》\n🎤17:25-17:50\n📸18:05-19:05 [DESEO30]\n🎟前売り一般 ¥6\,500 / 当日 ¥7\,500\n❥ https://l-tike.com/concert/mevent/?mid=781806\n\n《特設HP》\n🔗neojaponism.com/neokassen/2026\nhttps://timetr.ee/p/gekkanpam/2950276418922585288
+SUMMARY:NEO KASSEN2026
+UID:36ea2ec9-8adc-4086-be2a-c3a30549ab76@36ea.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260507
+DTEND;VALUE=DATE:20260508
+DESCRIPTION:🎪イベント情報🎪\n\n／\n\n『MOKEMOKE / 01』出演決定💭\n\n＼\n\n🗓5/7(木) 開場18:00 / 開演18:30\n📍Spotify O-nest\n🎙️18:55-19:20\n📸20:20-21:40\n🎟前売 ¥2\,000 / 当日 ¥2\,500(各+1D)\n❥ t-dv.com/mokemoke01\n(4/28 20:00-)\n\n🎁サインなしチェキ券+1p\nhttps://timetr.ee/p/gekkanpam/2941304037684256395
+SUMMARY:MOKEMOKE / 01
+UID:630fb9fd-c63b-4a33-b24a-a4384b4945af@630f.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260513
+DTEND;VALUE=DATE:20260514
+DESCRIPTION:🎪イベント情報🎪\n\n／\n\n『キシティバル #8』に月刊PAMから\n宇都宮未来・船井美玖がDJとして出演決定🎧🎶\n\n＼\n\n🗓5/13(水) OP/ST 18:00\n📍SWIPE池尻大橋(swipe-ohs.com )\n\n🩵future(宇都宮) 20:00-20:30\n▶︎出演中、静止画のみ撮影OK\n💚lucky mam(船井) 20:30-21:00\n▶︎出演中、静止画・動画の撮影OK\n\n📸21:30-22:30[終演後]\n🎟️完全予約制(数量限定) ¥2\,500(+1D)\n❥ https://tiget.net/events/475440\n(4/4 12:00 - 5/13 17:00)\n⚠️予約以外の当日券は無し\nhttps://timetr.ee/p/gekkanpam/2916729745067974238
+SUMMARY:🎧キシティバル #8
+UID:e2194a52-ad55-4786-851f-5d3d1b8b6ccf@e219.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260415
+DTEND;VALUE=DATE:20260416
+DESCRIPTION:🎪イベント情報🎪\n\n／\n\n「月刊PAM Presents.『ANSWER』VOL.9」開催❤️‍🔥\n\n＼\n\n🗓4/15(水)開場18:30 / 開演19:00\n📍新宿MARZ\n👭🏻【第9回目ゲスト】\n▶︎おやすみホログラ\n▶︎B≡FULLEST\n▶︎DEARSTAGE研究生[O.A.]\n🎙20:30-21:00\n📸21:05-22:05\n🎟優先入場¥3\,500/一般¥3\,000(各種+1D)\n❥ https://ticketdive.com/event/answer9\n(4/8 22:30-先着)\nhttps://timetr.ee/p/gekkanpam/2868756422824795733
+SUMMARY:★月刊PAM Presents.『ANSWER』VOL.9
+UID:da2bb190-8bfe-48e2-bbc5-2d9e563f599e@da2b.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260505
+DTEND;VALUE=DATE:20260506
+DESCRIPTION:🎪イベント情報🎪\n\n／\n\n『歌舞伎町 UP GATE↑↑2026』DAY2出演決定🎏\n\n＼\n\n🗓5/5(火祝)開場12:00開演13:00\n📍新宿motion\n🎤14:20-14:45\n📸15:15-16:15 [別会場:ヒートウェーブ]\n🎤《宇都宮未来 カラオケバトル》16:35-16:40 \n🎟一日券¥7\,700(+1D)\n❥ https://ticket.rakuten.co.jp/music/jpop/idle/rtzpbbp/\n(先行抽選受付中 ～3/15(日)23:59)\n\n🔗kabukicho-upgate.com\nhttps://timetr.ee/p/gekkanpam/2905240753671740466
+SUMMARY:歌舞伎町 UP GATE↑↑2026
+UID:734acbde-ef99-4fec-ba8b-f6bcfb187b62@734a.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260503
 DTEND;VALUE=DATE:20260504
 DESCRIPTION:🎪イベント情報🎪\n\n／\n\n『月刊PAM 広島オフ会2026』開催決定🦪🍻\n\n＼\n\n🗓5/3(日) 開場19:50 / 開演20:00\n📍ビストロ鉄板Touya\n▶︎広島県広島市中区薬研堀6-8Rolling薬研堀2\n🎟入場チケット¥10\,000- (入場料[¥4\,000]＋コース料理&飲み放題[¥6\,000])\n❥https://ticketdive.com/event/pam_hiroshimaoff\n(先着4/19 20:00 ～ 4/30 23:59)\n(※席数には数に限りがございます。)\n\n【タイムテーブル】\n19:50 開場\n20:00-21:45 オフ会\n21:45-22:00 特典会準備\n22:00-23:00 特典会 [店内にて実施]\n\n※特典会はオフ会に参加した方のみ参加可能となります。\n\n【⚠️注意事項】\n・開場時間になりましたらお店前にてスタッフがご誘導いたします。\n・開場時間前からお店前にてお待ちいただく行為は御遠慮ください。\n・イベント中、メンバーが映りこむ撮影・録画は許可がある場合を除き禁止。\n・メンバーへの接触行為はご遠慮ください。\n・お客様による飲食物の持ち込み禁止。\n・20歳未満の飲酒禁止。\n・スタッフの指示に従い、周りの方へのご配慮をお願い致します。 \n(スタッフの指示に従わない場合、ご退出をお願いする場合がございますので予めご了承ください。\nまた、その際の返金対応等は致しかねます。)\n・イベントに関するお店への直接のお問い合わせはご遠慮ください。\n・特典会時はマスク着用必須。\nhttps://timetr.ee/p/gekkanpam/2905240153542335911
 SUMMARY:★広島🦪オフ会
-UID:61e62104-c576-4b87-ab81-696934412e35@61e6.org
+UID:dd1cd7a1-7cff-4f01-b1b2-7bff26f4a337@dd1c.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260612
+DTEND;VALUE=DATE:20260613
+DESCRIPTION:🎪イベント情報🎪\n\n／\n\n校庭カメラガールフュンフ Debut event\n『The Next Episode』出演決定❤️‍🔥\n\n＼\n\n🗓6/12(金)開場17:00/開演18:00\n📍WOMBLIVE\n🎤19:00-19:30\n📸20:30-21:40\n🎟前売り¥3500/当日¥4000 (各種+1D)\n❥ https://ticketdive.com/event/2LQioej010dsxzhVK1Xx\n(5/14 21:00-)\n\n指名特典🎁個別写メ券\n⚠️入場時、受付にてお受け取りください。\nhttps://timetr.ee/p/gekkanpam/2950275665516535517
+SUMMARY:校庭カメラガールフュンフ Debut event『The Next Episode』
+UID:f9221273-1d95-440c-8145-385acf7e6282@f922.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260515
+DTEND;VALUE=DATE:20260516
+DESCRIPTION:🎪イベント情報🎪\n\n／\n\n「緊急開催『室井ゆうのぐっとーく』」に\n月刊PAMから宇都宮未来のゲスト出演決定🗣️🩵\n\n＼\n\n🗓5/15(金)開場19:00/開演19:30\n📍[横浜]Naked Loft (loft-prj.co.jp/schedule/naked)\n🎟️会場+配信¥2\,500/会場¥2\,000 (各種+1D)\n❥ https://livepocket.jp/e/etdry\n(5/6 20:00~)\n\n🎫配信¥1\,500\n❥https://premier.twitcasting.tv/c:nakedloft_yokohama/shopcart/433234\nhttps://timetr.ee/p/gekkanpam/2959371940547501221
+SUMMARY:《宇都宮ソロ》緊急開催『室井ゆうのぐっとーく』
+UID:428f81da-560a-4c47-af87-910ac9d0939b@428f.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260408
+DTEND;VALUE=DATE:20260409
+DESCRIPTION:📢📚\n\n/／\n月刊PAM 全国ツアー2026\n 「ちいさな夜」開催決定🌃🪄︎︎\n\\＼\n\n《日程・会場》\n4/8(水) 東京・Spotify O-nest\n5/2(土) 広島・HIROSHIMA 4.14\n6/6(土) 福岡・Livehouse Dragoon\n7/20(月祝) 大阪・北堀江club vijon\n\n-----\n\n月刊PAM全国ツアー2026 「ちいさな夜」\n【東京公演】チケット詳細決定🌃🪄︎︎\n\n\n🗓4/8(水) 開場18:30/開演19:00\n📍Spotify O-nest (東京)\n▶︎渋谷区円山町2-3 6F\n🎟 t-dv.com/pam2026tokyo\n◎VIPチケット ¥7\,000 +1D\n・優先入場\n・囲み写メ(特典会冒頭で撮影)\n・月刊PAMからの15秒動画(特典会冒頭で撮影)\n◎一般チケット ¥2\,500 +1D\n[販売期間] 3/16 22:00～4/8 17:00\nhttps://timetr.ee/p/gekkanpam/2905239696598080611
+SUMMARY:★月刊PAM 全国ツアー2026 「ちいさな夜」【東京公演】
+UID:bc65ff2d-9476-4a68-a8cc-14214ae252fc@bc65.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:配信延期となりました。詳しくは下記をご確認ください。\n▶︎https://x.com/gekkanpam/status/2093623883089994167?s=46&t=IvNbDIHLHCLolUrVEge5fw\n\n－－－－－－－－－－－－－－\n\n📽オンラインサイン会配信情報👀🍿*゜\n\n／\n\n『船井美玖 8月ソロオンラインサイン会』開催決定💚\n\n＼\n\n🗓8/31(月)20:30〜\n🎥 youtube.com/@gekkanpam\n(月刊PAM 公式YouTube)\n🛍 marche-yell.com/events/\n※8/31(月) 21:00まで購入可能\n\n【対象商品】\nA\n・ツアー衣装チェキ1枚 (サインあり)\n・ツアー衣装チェキ1枚 (サインなし)\n2\,500円\n https://marche-yell.com/_funaimiku_/products/176207\n\nB\n・秋の味覚🍂クッキングエプロンチェキ🍳1枚 (サインあり)\n・秋の味覚🍂クッキングエプロンチェキ🍳1枚 (サインなし)\n2\,500円\nhttps://marche-yell.com/_funaimiku_/products/176208/\n\nC\n・サインありチェキ1枚(ツアー衣装 or 「秋の味覚🍂クッキングエプロン🍳」）\n・宛名入り手書きメッセージポストカード\n・お礼動画（全員共通）\n5\,500円\nhttps://marche-yell.com/_funaimiku_/products/176212/\n \nD\n・ツアー衣装チェキ1枚 (サインあり)\n・秋の味覚🍂クッキングエプロンチェキ🍳1枚 (サインあり)\n・サインなしチェキ1枚(ツアー衣装 or 「秋の味覚🍂クッキングエプロン🍳」）\n・お名前を呼んでのお礼動画\n7\,000円\nhttps://marche-yell.com/_funaimiku_/products/176213/\n\nE\n・ツアー衣装チェキ1枚 (サインあり)\n・秋の味覚🍂クッキングエプロンチェキ🍳1枚 (サインあり)\n・お絵描きチェキ1枚(ツアー衣装 or 「秋の味覚🍂クッキングエプロン🍳」）\n7\,000円\nhttps://marche-yell.com/_funaimiku_/products/176214/\n\n※『宛名入り生誕手書きメッセージポストカード』、『お絵描きチェキ』は配信時間外での対応となります。\n※サインありは全てサイン・ニックネーム・メッセージ入りとなります。\n※ 船井美玖 8月オンラインサイン会の関連商品となります、【Aプラン】【Bプラン】【Cプラン】【Dプラン】【Eプラン】につきましては複数購入いただいた場合も1件分の配送手数料のお支払いとなります。\nhttps://timetr.ee/p/gekkanpam/3043051571695296457
+DTEND:20260831T123000Z
+DTSTART:20260831T113000Z
+SUMMARY:[延期]船井美玖 8月ソロオンラインサイン会
+UID:265dd4b4-d8cb-4be9-a556-0f52024be18c@265d.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261024
+DTEND;VALUE=DATE:20261025
+DESCRIPTION:🎪イベント情報🎪\n\n／\n\n『ソノウチ』出演決定🤝🏻\n\n＼\n\n🗓10/24(土)開場10:20/開演10:40\n📍新宿LOFT\n🎟前売り¥3\,400/当日¥4\,000(各種+1D)\n❥ t-dv.com/261024sonouti\n(10/6 22:00-]\nhttps://timetr.ee/p/gekkanpam/3051479243966357143
+SUMMARY:ソノウチ
+UID:8d4bd0f1-2b14-4499-9dd5-90d42a15d828@8d4b.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260614
+DTEND;VALUE=DATE:20260615
+DESCRIPTION:🎪イベント情報🎪\n\n／ \n\n新宿周遊FES\n『UNIVERSE × 脱却』出演決定🪩\n\n＼\n\n🗓6/14(日)開場11:30/開演12:00\n📍新宿MARZ\n🎫リストバンド引換：新宿LOFT (10:30-)\n🎤19:10-19:40\n📸20:50-21:50(終演後)\n🎟前売り¥5\,000(+1D)\n❥ https://livepocket.jp/e/s_5yb\n(5/16 22:00-)\nhttps://timetr.ee/p/gekkanpam/2950275391561374824
+SUMMARY:新宿周遊FES『UNIVERSE × 脱却』
+UID:6f0fdd1a-4759-4330-80cd-9ee929911c6d@6f0f.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260913
+DTEND;VALUE=DATE:20260914
+DESCRIPTION:🎪イベント情報🎪\n\n／\n\n『ソノウチ』出演決定💃\n\n＼\n\n🗓9/13(日)開場10:20/開演10:40\n📍新宿LOFT\n🎤16:40-17:05\n📸17:05-18:05【C】\n🎟前売¥3\,400/当日¥4\,000円(+1D)\n❥ t-dv.com/260913sonouti\n(8/21 22:00-)\nhttps://timetr.ee/p/gekkanpam/2986414369221877077
+SUMMARY:ソノウチ
+UID:f080a918-26d1-4d70-870b-844828957291@f080.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260525
+DTEND;VALUE=DATE:20260526
+DESCRIPTION:🎪イベント情報🎪\n\n／\n\n日ノ目企画presents\n『MONDAYDRIVE』出演決定🚗\n\n＼\n\n🗓5/25(月) 開場18:15/開演18:45\n📍高円寺HIGH\n🎤18:45-19:15\n📸21:00-22:00\n🎟前売り¥2\,800/当日¥3\,400 (各種+1D)\n❥ t-dv.com/hnm0525kh\n (4/29 21:00-)\n\n指名🎁写メ券+1p\nhttps://timetr.ee/p/gekkanpam/2953788114878307729
+SUMMARY:日ノ目企画presents『MONDAYDRIVE』
+UID:5d1d7003-0eee-473d-a1b5-99eb48fb94f6@5d1d.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260719
+DTEND;VALUE=DATE:20260720
+DESCRIPTION:🎪イベント情報🎪\n\n／\n\n大阪遠征DAY2🐙\nこぐまカリー主催「Spice it Up」出演決定🧸🍛\n\n＼\n\n🗓7/19(日) 開場11:00/開演11:30\n📍アメリカ村BEYOND(大阪)\n🎤13:10-13:33\n📸13:45-14:45\n🎟前売3000円/当日3500円\n❥ t-dv.com/kc20260719\n(6/4 22:30-)\nhttps://timetr.ee/p/gekkanpam/2905242288208190620
+SUMMARY:大阪🐙こぐまカリー主催「Spice it Up」
+UID:f032576b-0157-426b-b81c-1d75d5e0288d@f032.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260822
+DTEND;VALUE=DATE:20260823
+DESCRIPTION:🎪イベント情報🎪\n\n／\n\n「ABC IDOL」出演決定🍉\n\n＼\n\n🗓8/22(土) 開場10:30 / 開演11:00\n📍YOKOHAMA COAST garage+\n🎤14:05-14:35\n📸14:45-15:45 [A]\n🎟VIPエリア¥10\,000/一般¥2\,500\n🉐女性・学生入場無料　(VIPエリアへの入場はVIPチケットが必要になります)\n❥ yum-e.zaiko.io/e/abc260822\nhttps://timetr.ee/p/gekkanpam/2978793229506813191
+SUMMARY:ABC IDOL
+UID:9d6e848c-595f-439d-9c13-d0d13cb30776@9d6e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:📽オンラインサイン会配信情報👀🍿*゜\n\n／\n\n『宇都宮未来 6月ソロオンラインサイン会』開催決定🩵\n\n＼\n\n🗓6/26(金)19:00～\n🎥 youtube.com/@gekkanpam\n(月刊PAM 公式YouTube)\n🛍 marche-yell.com/events/\n※6/26(金) 19:30まで購入可能\n※通例のまとめページ購入リンクが異なります\n\n【対象商品】\nA\n・W杯記念！ユニフォームチェキ1枚 (サインあり)\n・W杯記念！ユニフォームチェキ1枚 (サインなし)\n2\,500円\n\nB\n・浴衣チェキ1枚 (サインあり)\n・浴衣チェキ1枚 (サインなし)\n2\,500円\n\nC\n・サインありチェキ1枚(W杯記念！ユニフォーム or 浴衣）\n・宛名入り手書きメッセージポストカード\n・お礼動画（全員共通）\n5\,500円\n\nD\n・W杯記念！ユニフォームチェキ1枚 (サインあり)\n・浴衣チェキ1枚 (サインあり)\n・お絵描きチェキ１枚(W杯記念！ユニフォーム or 浴衣）\n7\,000円\n\n\n※お絵描きチェキは配信時間外での対応となります。\n※サインありは全てサイン・ニックネーム・メッセージ入りとなります。\n※ 宇都宮未来 5月オンラインサイン会の関連商品となります、【Aプラン】【Bプラン】【Cプラン】【Dプラン】につきましては複数購入いただいた場合も１件分の配送手数料のお支払いとなります\nhttps://timetr.ee/p/gekkanpam/3019724715906801436
+DTEND:20260626T110000Z
+DTSTART:20260626T100000Z
+SUMMARY:宇都宮未来 6月ソロオンラインサイン会
+UID:7149616d-dde0-46f7-b6fe-eb66099eddce@7149.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260503
+DTEND;VALUE=DATE:20260504
+DESCRIPTION:🎪イベント情報🎪\n\n／\n\n4年連続❗️ただいま広島❗️\n『2026ひろしまフラワーフェスティバル』\n2DAYS出演決定💐🎉\n\n＼\n\n🗓5/3\,5/4(日\,月祝) 観覧無料\n📍《広島》ホップステージ/カラーステージ\n\n5/3(日)\n【1】ホップステージ🍺\n▶︎平和大通り会場 白神ブロック北側 FMちゅーピー･FF\n🎙17:30-18:00\n📸18:00-18:30\n\n5/4(月祝)\n【2】カラーステージ🎨\n▶︎平和大通り会場 三川町ブロック北川 広島ガス\n🎙13:15-13:45\n📸13:45-14:15\n\n－－－other topic－－－\n🌟5/2(土) 月刊PAM全国ツアー2026 「ちいさな夜」【広島公演】 (ゲスト：unSea 様)\n🎟️ https://ticketdive.com/event/pam2026hiroshima\n\n🌟5/3(日) 20時頃からオフ会予定\n❥詳細近日\n\nFF詳細🔗 hiroshima-ff.com\n\n#月刊PAM\n#フラワーフェスティバル\n#ひろしまフラワーフェスティバル\n#FF\n#hiroshimaff\nhttps://timetr.ee/p/gekkanpam/2905240500402888155
+SUMMARY:広島🦪フラワーフェスティバル
+UID:6f38f0dd-522d-4006-9966-c53b1768b5bc@6f38.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261027
+DTEND;VALUE=DATE:20261028
+DESCRIPTION:🎪イベント情報🎪\n\n／\n\nUNIVERSE企画 4th anniversary\n『Dance party』出演決定❤️‍🔥\n\n＼\n\n🗓10/27(火)開場18:30/開演19:00\n📍新宿MARZ\n🎤20:30-21:00\n📸21:10-22:10\n🎟前売り¥2\,200 / 当日¥2\,700 (+1D)\n❥ livepocket.jp/e/hharx\nhttps://timetr.ee/p/gekkanpam/3056867841335074000
+SUMMARY:UNIVERSE企画 4th anniversary『Dance party』
+UID:8dac0ad6-6773-424a-8935-0adecdd87d77@8dac.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261012
+DTEND;VALUE=DATE:20261013
+DESCRIPTION:🎪イベント情報🎪\n\n／\n\nAFTERS Presents『CAKES & ALE』出演決定❤️‍🔥\n\n＼\n\n🗓10/12(月祝)開場11:40 / 開演12:00\n📍GARRET udagawa\n🎟共通チケット ¥4\,000 / SHIBUYA CYCLON ¥2\,500 / GARRET udagawa ¥2\,500 (※別途1D)\n❥ t-dv.com/cakes_ale\n\n＜販売期間＞\n◉2会場共通 ¥4\,000 +1D\n2026/09/09 21:00 〜 10/12 10:59\n\n◉SHIBUYA CYCLONE ¥2\,500 +1D\n2026/09/09 21:30 〜 10/12 10:59\n\n◉GARRET udagawa ¥2\,500 +1D\n2026/09/09 22:00 〜 10/12 10:59\nhttps://timetr.ee/p/gekkanpam/3026944402059140643
+SUMMARY:AFTERS Presents『CAKES & ALE』
+UID:033cdf84-7d52-4175-9500-e1474fa75bc0@033c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:📽オンラインサイン会配信情報👀🍿*゜\n\n／\n\n『宇都宮未来 5月ソロオンラインサイン会』開催決定🩵\n\n＼\n\n🗓5/27(水)20:30～\n🎥 youtube.com/@gekkanpam\n(月刊PAM 公式YouTube)\n🛍marche-yell.com/events/\n※ ～5/27(水)21:00まで購入可能\n※通例のまとめページ購入リンクが異なります\n\n【対象商品】\nA\n・水玉カッパチェキ1枚 (サインあり)\n・水玉カッパチェキ1枚 (サインなし)\n2\,500円\nhttps://marche-yell.com/Utnmy_Mirai/products/166007/\n\nB\n・黒猫耳チェキ1枚 (サインあり)\n・黒猫耳チェキ1枚 (サインなし)\n2\,500円\nhttps://marche-yell.com/Utnmy_Mirai/products/166008/\n \nC\n・サインありチェキ1枚 (水玉カッパor 黒猫耳)\n・宛名入りデジタルメッセージカード\n・お礼動画（全員共通）\n5\,500円\nhttps://marche-yell.com/Utnmy_Mirai/products/166012/\n \nD\n・水玉カッパチェキ1枚 (サインあり)\n・黒猫耳チェキ1枚 (サインあり)\n・お絵描きチェキ１枚(水玉カッパor 黒猫耳）\n7\,000円\nhttps://marche-yell.com/Utnmy_Mirai/products/166013/\n\n※お絵描きチェキは配信時間外での対応となります。\n※サインありは全てサイン・ニックネーム・メッセージ入りとなります。\n※ 宇都宮未来 5月オンラインサイン会の関連商品となります、【Aプラン】【Bプラン】【Cプラン】【Dプラン】につきましては複数購入いただいた場合も１件分の配送手数料のお支払いとなります\nhttps://timetr.ee/p/gekkanpam/2972645861572976435
+DTEND:20260527T123000Z
+DTSTART:20260527T113000Z
+SUMMARY:宇都宮未来 5月ソロオンラインサイン会
+UID:b6352ada-cdf5-42bb-951f-dfb36777b5f6@b635.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:📽オンラインサイン会配信情報👀🍿*゜\n\n／\n\n『船井美玖 3月ソロオンラインサイン会』開催決定💚\n\n＼\n\n🗓3/30(月)19:00～\n🎥youtube.com/@gekkanpam\n(月刊PAM 公式YouTube)\n🛍https://marche-yell.com/_funaimiku_/\n※3/30(月) 19:30まで購入可能\n\n【対象商品】\nA\n・セーラー服チェキ1枚 (サインあり)\n・セーラー服チェキ1枚 (サインなし)\n2\,500円\n \nB\n・男装学ランチェキ1枚 (サインあり)\n・男装学ランチェキ1枚 (サインなし)\n2\,500円\n \nC\n・サインありチェキ1枚(セーラー服 or 男装学ラン）\n・宛名&メッセージ入り卒業証書\n・お礼動画（全員共通）\n5\,500円\n \nD\n・セーラー服チェキ1枚 (サインあり)\n・男装学ランチェキ1枚 (サインあり)\n・サインなしチェキ1枚(セーラー服 or 男装学ラン）\n・お名前を呼んでのお礼動画\n7\,000円\n \nE\n・セーラー服チェキ1枚 (サインあり)\n・男装学ランチェキ1枚 (サインあり)\n・お絵描きチェキ1枚(セーラー服 or 男装学ラン）\n7\,000円\n\n※お絵描きチェキなど一部商品は配信時間外での対応となります。\n※サインありは全てサイン・ニックネーム・メッセージ入りとなります。\nhttps://timetr.ee/p/gekkanpam/2899997316164853473
+DTEND:20260330T110000Z
+DTSTART:20260330T100000Z
+SUMMARY:船井美玖 3月ソロオンラインサイン会
+UID:6795f320-6e2e-4995-8b63-44728195d51a@6795.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261003
+DTEND;VALUE=DATE:20261004
+DESCRIPTION:🎪イベント情報🎪\n\n／\n\n沖縄遠征DAY1・昼✈️\n『FLAG FES -なんくるないさ-』出演決定🌺\n\n＼\n\n🗓10/3(土)開場13:30 /開演14:00\n📍Livehouse Output (沖縄)\n🎤14:20-14:50\n📸15:25-16:30\n🎟優先入場 ¥3\,500/一般¥3\,000 (各種+1D)\n❥ t-dv.com/flagokinawa\n[9/15 21:00-]\nhttps://timetr.ee/p/gekkanpam/3011782056651234335
+SUMMARY:沖縄🌴FLAG FES -なんくるないさ-
+UID:f3d696c9-136a-403c-9577-d1870a209173@f3d6.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260530
+DTEND;VALUE=DATE:20260531
+DESCRIPTION:🎪イベント情報🎪\n\n／\n\n🆓入場無料🆓\n『古民家☆撮影会&チェキ会』開催決定📸🌳\n\n＼\n\n🗓5/30(土) [2部制]\n《1部》12:00-13:30 / 《2部》14:00-15:30\n🆕📍ひらやないえ\n▶︎東京都新宿区西新宿4-17-6\n💃衣装は各メンバー 1部･2部で異なります。\n\n【販売商品】\n・特典券1枚 1\,000円\n(通常イベント物販で販売しているチェキ券と同様のものとなります。)\n・おあずけチェキ券1枚 3\,000円\n・囲みチェキ券1枚 4\,000円\n\n《当日レギュレーション》\n📸特典券1枚\n❥サインなしチェキ+トーク\n📸特典券2枚\n❥サインありチェキ+トーク\n📸特典券4枚\n❥3分間の撮影タイム\n\n📸おあずけチェキ券1枚\n❥(後日)撮影したチェキのお渡し+トーク\n📸囲みチェキ券1枚\n❥(メンバー2shot or お客様を含めた3shot)サインなしチェキ+トーク\n\n【⚠️注意事項】\n※近隣の方のご迷惑となりますので、開催時間に合わせてお越しください。\n開催時間になりましたら、特典券の販売及びイベントをスタートさせて頂きます。\n\n※列が途切れた場合や予定人数に達した場合、終了予定時間より早く受付を終了させていただく場合がございます。\n\n※会場のトイレは使用できません。予めご了承ください。\n\n※実施場所には、撮影に関する機材は揃っておりません。お客様ご自身にご用意いただくクリップオン型のフラッシュの使用などは可能となります。\nレフ版や持ち込んで立て込みするライトなどは使用できないこと、あらかじめご了承ください。\nイベント場所は、通常の展示会スペースとなることも合わせてご了承ください。\n\n※撮影に関しては、ご自身がお持ちになるカメラ、スマートフォンなどでOKです。\n(チェキ機NG、インスタントカメラOK)\n\n※撮影した写真のSNS掲載につきまして、月刊PAM公式XのDMにお送りいただき許可を得たものに限り掲載可能となります。\nまた撮影した写真の商用利用は禁止といたします。\nhttps://timetr.ee/p/gekkanpam/2953790037975080388
+SUMMARY:★古民家☆撮影会&チェキ会
+UID:b56ed7e9-d668-4fa6-b411-4361cb8951b9@b56e.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260617
+DTEND;VALUE=DATE:20260618
+DESCRIPTION:🎪イベント情報🎪\n\n／\n\n「月刊PAM Presents.『ANSWER』VOL.11」開催💗\n\n＼\n\n🗓6/17(水)開場18:45 / 開演19:15\n📍新宿MARZ\n👭🏻【第11回目ゲスト】\n▶︎amini\n▶︎二丁目の魁カミングアウト\n🎤20:15-20:45\n📸20:55-22:05\n🎟優先入場¥3\,500/一般¥3\,000(各種+1D)\n❥ https://ticketdive.com/event/answer_pam11\n(5/21 22:00- 先着)\nhttps://timetr.ee/p/gekkanpam/2868757225203539636
+SUMMARY:★月刊PAM Presents『ANSWER』vol.11
+UID:9d70b312-34e6-496d-b6a2-39116807b377@9d70.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260430
+DTEND;VALUE=DATE:20260501
+DESCRIPTION:📽オンラインサイン会配信情報👀🍿*゜\n\n／\n\n『船井美玖 4月ソロオンラインサイン会』開催決定💚\n\n＼\n\n🗓4/30(木)20:30～\n🎥youtube.com/@gekkanpam\n(月刊PAM 公式YouTube)\n🛍https://marche-yell.com/events/\n※4/28 13:00～4/30 21:00まで購入可能、販売開始からページに商品が掲載されます\n\n【対象商品】\nA\n・生誕衣装チェキ1枚 (サインあり)\n・生誕衣装チェキ1枚 (サインなし)\n2\,500円\n \nB\n・生誕Tシャツチェキ1枚 (サインあり)\n・生誕Tシャツチェキ1枚 (サインなし)\n2\,500円\n \nC\n・サインありチェキ1枚(生誕衣装 or 生誕Tシャツ）\n・宛名入り生誕手書きメッセージポストカード\n・お礼動画（全員共通）\n5\,500円\n \nD\n・生誕衣装チェキ1枚 (サインあり)\n・生誕Tシャツチェキ1枚 (サインあり)\n・サインなしチェキ1枚(生誕衣装 or 生誕Tシャツ）\n・お名前を呼んでのお礼動画\n7\,000円\n \nE\n・生誕衣装チェキ1枚 (サインあり)\n・生誕Tシャツチェキ1枚 (サインあり)\n・お絵描きチェキ1枚(生誕衣装 or 生誕Tシャツ）\n7\,000円\n\n※お絵描きチェキは配信時間外での対応となります。\n※サインありは全てサイン・ニックネーム・メッセージ入りとなります。\n※ 船井美玖 4月オンラインサイン会の関連商品となります、【Aプラン】【Bプラン】【Cプラン】【Dプラン】【Eプラン】につきましては複数購入いただいた場合も１件分の配送手数料のお支払いとなります\nhttps://timetr.ee/p/gekkanpam/2953859514951507809
+SUMMARY:船井美玖 4月ソロオンラインサイン会
+UID:215f270b-558d-4608-967f-b8cd10d81fb4@215f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:📽オンラインサイン会配信情報👀🍿*゜\n\n／\n\n『船井美玖 5月ソロオンラインサイン会』開催決定💚\n\n＼\n\n🗓5/27(水)19:00〜\n🎥youtube.com/@gekkanpam\n(月刊PAM 公式YouTube)\n🛍marche-yell.com/events/\n※ ～ 5/27(水) 19:30まで購入可能\n※通例のまとめページ購入リンクが異なります\n\n【対象商品】\nA\n・ギャル♡おんなのこ♡チェキ1枚 (サインあり)\n・ギャル♡おんなのこ♡チェキ1枚 (サインなし)\n2\,500円\nhttps://marche-yell.com/_funaimiku_/products/166014/\n\nB\n・ギャル♡おとこのこ♡チェキ1枚 (サインあり)\n・ギャル♡おとこのこ♡チェキ1枚 (サインなし)\n2\,500円\nhttps://marche-yell.com/_funaimiku_/products/166015/\n \nC\n・サインありチェキ1枚(ギャル♡ おんなのこor おとこのこ）\n・宛名入りデジタルメッセージカード\n・お礼動画（全員共通）\n5\,500円\nhttps://marche-yell.com/_funaimiku_/products/166016/\n \nD\n・ギャル♡おんなのこ♡チェキ1枚 (サインあり)\n・ギャル♡おとこのこ♡チェキ1枚 (サインあり)\n・サインなしチェキ1枚(ギャル♡ おんなのこor おとこのこ）\n・お名前を呼んでのお礼動画\n7\,000円\nhttps://marche-yell.com/_funaimiku_/products/166017/\n\nE\n・ギャル♡おんなのこ♡チェキ1枚 (サインあり)\n・ギャル♡おとこのこ♡チェキ1枚 (サインあり)\n・お絵描きチェキ1枚(ギャル♡ おんなのこor おとこのこ）\n7\,000円\nhttps://marche-yell.com/_funaimiku_/products/166018/\n\n※お絵描きチェキは配信時間外での対応となります。\n※サインありは全てサイン・ニックネーム・メッセージ入りとなります。\n※ 船井美玖 5月オンラインサイン会の関連商品となります、【Aプラン】【Bプラン】【Cプラン】【Dプラン】【Eプラン】につきましては複数購入いただいた場合も１件分の配送手数料のお支払いとなります\nhttps://timetr.ee/p/gekkanpam/2972644572403309955
+DTEND:20260527T110000Z
+DTSTART:20260527T100000Z
+SUMMARY:船井美玖 5月ソロオンラインサイン会
+UID:513ca9ea-90ec-414b-9bcd-26967e2b6743@513c.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260816
+DTEND;VALUE=DATE:20260817
+DESCRIPTION:🎪イベント情報🎪\n\n／\n\n「『アイドル甲子園 in KANDA SQUARE HALL』\nsupported by My-th -DAY2-」出演決定⚾️\n\n＼\n\n🗓️8/16(日) 開場 9:00 / 開演 9:15\n📍KANDA SQUARE HALL\n🎤10:55-11:15\n📸11:40-13:00[B]\n🎟️前方エリア ¥8\,500 / 一般 ¥3\,500 (各種+1D)\n❥ https://user.my-th.jp/tickets/event/aikou_0816\n[7/23 21:00-]\nhttps://timetr.ee/p/gekkanpam/2987070064590036034
+SUMMARY:アイドル甲子園 in KANDA SQUARE HALL supported by My-th -DAY2-
+UID:7c7c8ef2-0477-4115-8481-c8a4cf583f62@7c7c.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260425
+DTEND;VALUE=DATE:20260426
+DESCRIPTION:🎪イベント情報🎪\n\n／\n\n🆓入場無料🆓\n『春の撮影会&チェキ会』開催決定📸🌸\n\n＼\n\n🗓4/25(土) [2部制]\n《1部》13:00-14:15 / 《2部》14:45-16:00\n🆕📍エフスペ代官山 PhotoStudio\n▶︎ 東京都渋谷区恵比寿西1−31−15 マルイチマンション501\n💃衣装は各メンバー 1部･2部で異なります。\n\n【販売商品】\n・特典券1枚 1\,000円\n(通常イベント物販で販売しているチェキ券と同様のものとなります。)\n・おあずけチェキ券1枚 3\,000円\n・囲みチェキ券1枚 4\,000円\n\n《当日レギュレーション》\n📸特典券1枚\n❥サインなしチェキ+トーク\n📸特典券2枚\n❥サインありチェキ+トーク\n📸特典券4枚\n❥3分間の撮影タイム\n\n📸おあずけチェキ券1枚\n❥(後日)撮影したチェキのお渡し+トーク\n📸囲みチェキ券1枚\n❥(メンバー2shot or お客様を含めた3shot)サインなしチェキ+トーク\n\n【⚠️注意事項】\n※近隣の方のご迷惑となりますので、開催時間に合わせてお越しください。\n開催時間になりましたら、特典券の販売及びイベントをスタートさせて頂きます。\n\n※列が途切れた場合や予定人数に達した場合、終了予定時間より早く受付を終了させていただく場合がございます。\n\n※会場のトイレは使用できません。予めご了承ください。\n\n※実施場所には、撮影に関する機材は揃っておりません。お客様ご自身にご用意いただくクリップオン型のフラッシュの使用などは可能となります。\nレフ版や持ち込んで立て込みするライトなどは使用できないこと、あらかじめご了承ください。\nイベント場所は、通常の展示会スペースとなることも合わせてご了承ください。\n\n※撮影に関しては、ご自身がお持ちになるカメラ、スマートフォンなどでOKです。\n(チェキ機NG、インスタントカメラOK)\n\n※撮影した写真のSNS掲載につきまして、月刊PAM公式XのDMにお送りいただき許可を得たものに限り掲載可能となります。\nまた撮影した写真の商用利用は禁止といたします。\nhttps://timetr.ee/p/gekkanpam/2929897011435511324
+SUMMARY:春の撮影会&チェキ会
+UID:bd6212b5-8c3c-4e0c-9e19-ff75e22f9e8f@bd62.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260729
+DTEND;VALUE=DATE:20260730
+DESCRIPTION:🎪イベント情報🎪\n\n／\n\n『FLAG FES』出演決定🐧🚩\n\n＼\n\n🗓7/29(水)開場18:40/開演19:00\n📍新代田FEVER\n🎤19:30-20:00\n📸21:10-22:10\n🎟優先入場¥3\,500/一般¥2\,800 (各種+1D)\n❥ https://ticketdive.com/event/flag0729\n(7/9(木)22:00-)\nhttps://timetr.ee/p/gekkanpam/2959374710121930520
+SUMMARY:FLAG FES
+UID:88f5a239-444d-4656-a695-e35fb0ae4fb5@88f5.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260825
+DTEND;VALUE=DATE:20260826
+DESCRIPTION:🎪イベント情報🎪\n\n／\n\nこぐまカリー3夜連続🌃\n『トーキョーログ』DAY1 出演決定🧸🍛\n\n＼\n\n🗓8/25(火) 開場18:20/開演18:50\n📍渋谷近未来会館\n🎤20:05-20:30\n📸21:05-22:15\n🎟前売¥2800/当日¥3500 (各種+1D)\n❥ https://ticketdive.com/event/kctl_202608\n(8/11 22:00-)\n\n🎁個別写メ券\nhttps://timetr.ee/p/gekkanpam/3029095096010644740
+SUMMARY:こぐまカリー3夜連続『トーキョーログ』DAY1
+UID:8729a4ff-478d-4bd5-b691-8959957654a9@8729.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260907
+DTEND;VALUE=DATE:20260908
+DESCRIPTION:🎪イベント情報🎪\n\n／\n\nUNIVERSE企画 4th anniversary\n『Dance party』出演決定💃\n\n＼\n\n🗓9/7(月)開場18:30/開演19:00\n📍新宿MARZ\n🎤20:00-20:30\n📸21:10-22:10\n🎟前売り¥2\,200/当日¥2\,700(+1D)\n❥ https://livepocket.jp/e/ch0le\n(8/19 22:00-)\nhttps://timetr.ee/p/gekkanpam/3032916678571171011
+SUMMARY:UNIVERSE企画 4th anniversary『Dance party』
+UID:de50387b-b658-41e4-9593-516bb80f7d8b@de50.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:📽オンラインサイン会配信情報👀🍿*゜\n\n／\n\n『船井美玖 6月ソロオンラインサイン会』開催決定💚\n\n＼\n\n🗓6/26(金)20:30～\n🎥youtube.com/@gekkanpam\n(月刊PAM 公式YouTube)\n🛍 marche-yell.com/events/\n※6/26(金) 21:00まで購入可能\n※通例のまとめページ購入リンクが異なります\n\n【対象商品】\nA\n・W杯記念！ユニフォームチェキ1枚 (サインあり)\n・W杯記念！ユニフォームチェキ1枚 (サインなし)\n2\,500円\n marche-yell.com/_funaimiku_/\n\nB\n・浴衣チェキ1枚 (サインあり)\n・浴衣チェキ1枚 (サインなし)\n2\,500円\n\nC\n・サインありチェキ1枚(W杯記念！ユニフォーム or 浴衣）\n・宛名入り手書きメッセージポストカード\n・お礼動画（全員共通）\n5\,500円\n \nD\n・W杯記念！ユニフォームチェキ1枚 (サインあり)\n・浴衣チェキ1枚 (サインあり)\n・サインなしチェキ1枚(W杯記念！ユニフォーム or 浴衣）\n・お名前を呼んでのお礼動画\n7\,000円\n\nE\n・W杯記念！ユニフォームチェキ1枚 (サインあり)\n・浴衣チェキ1枚 (サインあり)\n・お絵描きチェキ1枚(W杯記念！ユニフォーム or 浴衣）\n7\,000円\n\n※お絵描きチェキは配信時間外での対応となります。\n※サインありは全てサイン・ニックネーム・メッセージ入りとなります。\n※ 船井美玖 5月オンラインサイン会の関連商品となります、【Aプラン】【Bプラン】【Cプラン】【Dプラン】【Eプラン】につきましては複数購入いただいた場合も１件分の配送手数料のお支払いとなります\nhttps://timetr.ee/p/gekkanpam/3019724110198971578
+DTEND:20260626T123000Z
+DTSTART:20260626T113000Z
+SUMMARY:船井美玖 6月ソロオンラインサイン会
+UID:d47ed8e5-c146-42b6-a2e6-dc5621a08afa@d47e.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261011
+DTEND;VALUE=DATE:20261012
+DESCRIPTION:🎪イベント情報🎪\n\n／\n\n日ノ目企画presents\n『SUNDAYRIGHT/WRONG×2』TT＆チケット詳細決定🚗\n\n＼\n\n🗓10/11(日)開場10:15/開演10:45\n📍大塚Hearts+\n🎤15:25-15:50\n📸17:20-18:20\n🎟優先入場 ¥3\,800/一般¥3300 / 当日 ¥3900 (各種+1D)\n❥ t-dv.com/hnm1011ohpn\n(9/4 22:00-)\n\n[注意事項]\n※入場受付はHearts Nextのみとなります。\n※オープン時、及び再整列時に優先入場チケットお持ちの方からご入場いただけます。(整理券番号順)\n※入場規制の場合も優先入場チケットの方を優先でご入場いただけます。(並び順)\n※本イベントに限り、再入場ドリンク代かかりません。リストバンドを受付にご提示ください。\nhttps://timetr.ee/p/gekkanpam/3021767406102486946
+SUMMARY:日ノ目企画presents『SUNDAYRIGHT/WRONG×
+UID:2f25f5a1-c7b5-4d71-928c-6097e2ff4edf@2f25.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260622
+DTEND;VALUE=DATE:20260623
+DESCRIPTION:🎪イベント情報🎪\n\n／\n\nSOVA presents『Next Challengers』出演決定🤝🏻\n\n＼\n\n🗓6/22(月)開場18:50/開演19:15\n📍下北沢SHELTER\n🎤19:45-20:15\n📸20:50-22:05\n🎟前売 ¥0 / 当日 ¥500(各種+2D)\n❥https://ticketdive.com/event/SOVA_NextChallengers_01\n(5/15 22:30-)\n\n指名特典🎁個別写メ券+1p\nhttps://timetr.ee/p/gekkanpam/2963841171318086908
+SUMMARY:SOVA presents『Next Challengers』
+UID:315b5541-2fff-4b11-9144-14a6c7f52ecf@315b.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260823
+DTEND;VALUE=DATE:20260824
+DESCRIPTION:🎪イベント情報🎪\n\n／\n\nさよならステイチューン\nほぼ一周ツアー 新大久保編🚃\n『Stay Tuned for the Special Night』出演決定🌴\n\n＼\n⁡\n🗓8/23(日)開場18:00/開演18:30\n📍EARTHDOM\n\n⁡★さよステFC限定(抽選)\n🎫https://sayostay.dspm.jp/schedules/114124\nSPチケット¥4\,500 +1D\n[～7/29 23:59まで]\n\n★先着\n🎫 https://dearstage.zaiko.io/ja/item/383555\nSPチケット¥5\,000/一般(先着) ¥3\,000 (各種+1D)\n⁡[8/5 19:00～]\n\n🎁個別写メ券\nhttps://timetr.ee/p/gekkanpam/2913982607590399724
+SUMMARY:さよならステイチューンほぼ一周ツアー 新大久保編『Stay Tuned for the Special Night』
+UID:5f019b2c-0aed-4b76-8d1e-9758738c6b6a@5f01.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:配信延期となりました。詳しくは下記をご確認ください。\n▶︎https://x.com/gekkanpam/status/2093623610573541670?s=46&t=IvNbDIHLHCLolUrVEge5fw\n\n－－－－－－－－－－－－\n\n📽オンラインサイン会配信情報👀🍿*゜\n\n／\n\n『宇都宮未来 8月ソロオンラインサイン会』開催決定🩵\n\n＼\n\n🗓8/31(月)19:00〜\n🎥 youtube.com/@gekkanpam\n(月刊PAM 公式YouTube)\n🛍 marche-yell.com/events/\n※8/31(月) 19:30まで購入可能\n\n【対象商品】\nA\n・ツアー衣装チェキ1枚 (サインあり)\n・ツアー衣装チェキ1枚 (サインなし)\n2\,500円\nhttps://marche-yell.com/Utnmy_Mirai/products/176203\n \nB\n・夏！おでかけチェキ1枚 (サインあり)\n・夏！おでかけチェキ1枚 (サインなし)\n2\,500円\n https://marche-yell.com/Utnmy_Mirai/products/176204\n\nC\n・サインありチェキ1枚(ツアー衣装 or 「夏！おでかけ」）\n・宛名入り手書きメッセージポストカード\n・お礼動画（全員共通）\n5\,500円\nhttps://marche-yell.com/Utnmy_Mirai/products/176205\n\nD\n・ツアー衣装チェキ1枚 (サインあり)\n・夏！おでかけチェキ1枚 (サインあり)\n・お絵描きチェキ１枚(ツアー衣装 or 「夏！おでかけ」）\n7\,000円\nhttps://marche-yell.com/Utnmy_Mirai/products/176206\n\n※『宛名入り生誕手書きメッセージポストカード』、『お絵描きチェキ』は配信時間外での対応となります。\n※サインありは全てサイン・ニックネーム・メッセージ入りとなります。\n※ 宇都宮未来 8月オンラインサイン会の関連商品となります、【Aプラン】【Bプラン】【Cプラン】【Dプラン】につきましては複数購入いただいた場合も1件分の配送手数料のお支払いとなります。\nhttps://timetr.ee/p/gekkanpam/3043050027713273300
+DTEND:20260831T110000Z
+DTSTART:20260831T100000Z
+SUMMARY:[延期]宇都宮未来 8月ソロオンラインサイン会
+UID:7b1da562-edc1-46a9-8d56-2eb423e2b331@7b1d.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260404
+DTEND;VALUE=DATE:20260405
+DESCRIPTION:🎪イベント情報🎪\n\n／\n\nGirl's UP!!!＆ファミメ！pre.\n『LUPINUS ROCK FESTIVAL 2026』出演決定❤️‍🔥\n\n＼\n\n🗓4/4(土)開場11:30/開演12:00\n📍FOWS(渋谷)\n🎫リストバンド交換 10:30～\n🎤16:40-17:10\n📸17:25-18:25【シナプススペース宇田川町ビル4F】\n🎟前売￥5300 / 当日￥5800(各種+1D)\n❥ https://eplus.jp/sf/detail/4467330001\nhttps://timetr.ee/p/gekkanpam/2911565990529047871
+SUMMARY:Girl's UP!!!＆ファミメ！pre.『LUPINUS ROCK FESTIVAL 2026』
+UID:8d538feb-9b01-4da3-8c9e-0a550fa24d5d@8d53.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260520
+DTEND;VALUE=DATE:20260521
+DESCRIPTION:🎪イベント情報🎪\n\n／\n\n❤️‍🔥2MAN LIVE❤️‍🔥\n「月刊PAM Presents.『ANSWER』VOL.10」開催🤝🏻\n\n＼\n\n🗓5/20(水)開場19:00 / 開演19:30\n📍新宿MARZ\n👭🏻【第10回目ゲスト】\n▶︎Negicco (@Negicco_Info )\n🎤20:10-20:50\n🗣️20:50-20:55 [エンディングトーク]\n📸21:00-22:00 [月刊PAMのみ実施]\n🎟優先入場¥3\,500/一般¥3\,000(各種+1D)\n❥ t-dv.com/answer10\n(4/16 22:00- 先着)\nhttps://timetr.ee/p/gekkanpam/2868756841852542432
+SUMMARY:★月刊PAM Presents『ANSWER』vol.10
+UID:d7054127-e863-4111-9f5d-ad806c7a9bb5@d705.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260524
+DTEND;VALUE=DATE:20260525
+DESCRIPTION:🎪イベント情報🎪\n\n／\n\nさとりモンスター 全国下北化計画ツアー2026\n『春のわくわく大サーキット』出演決定🌟\n\n＼\n\n🗓5/24(日)\n📍下北沢CLUB251\n🎫リストバンド交換10:30〜\n🎤13:30-14:00\n📸14:10-15:10\n🎟通常チケット ¥5000(+1D)\n❥https://ticketdive.com/event/satorimonsterwakuwakudaicircuit2026\nhttps://timetr.ee/p/gekkanpam/2916371152300907565
+SUMMARY:さとりモンスター 全国下北化計画ツアー2026『春のわくわく大サーキット』
+UID:cd495ae6-b3cf-44a0-920c-47065fa53ef6@cd49.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260906
+DTEND;VALUE=DATE:20260907
+DESCRIPTION:🎪イベント情報🎪\n\n／\n\n千葉県佐倉市・野外フェス🔆\n『くさのねアイドルフェスティバル2026』出演決定🌱\n\n＼\n\n🗓9/6(日)開場10:00/開演10:45 (予定)\n📍草ぶえの丘(千葉・佐倉)\n▶︎千葉県佐倉市飯野820\n🎤18:35-19:00《Orange Shelter》\n📸16:55-17:55 《B/前物販》\n🎟️ kusanoneidolfes.com/#ticket\n《整理番号順入場、各種+1D別》\n・限定グッズ付き2Days通し券¥20\,000\n・2Days通し券¥10\,000\n・限定グッズ付きチケット¥12\,000\n・一般チケット¥7\,000\n・女性/学生チケット¥4\,000\n\n【公式HP】\n🔗kusanoneidolfes.com\n\n#くさのねアイドルフェス2026\nhttps://timetr.ee/p/gekkanpam/2916372716012936320
+SUMMARY:くさのねアイドルフェスティバル2026
+UID:a2b26a38-e95a-4d5f-8738-629baac0f150@a2b2.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260920
+DTEND;VALUE=DATE:20260921
+DESCRIPTION:🎪イベント情報🎪\n\n／\n\n🆓入場無料🆓\n『PAM撮影会&チェキ会 ~september~』開催決定📸\n\n＼\n\n🗓9/20(日)\n 《1部13:00-14:20》《2部 14:50-16:10》\n📍460_Stella-Studio新宿\n▶︎ 東京都新宿区西新宿7-1-11 共栄ビル2階\n💃衣装は各メンバー 1部･2部で異なります。\n\n【販売商品】\n・特典券1枚 1\,000円\n(通常イベント物販で販売しているチェキ券と同様のものとなります。)\n・おあずけチェキ券1枚 3\,000円\n・囲みチェキ券1枚 4\,000円\n\n《当日レギュレーション》\n📸特典券1枚\n❥サインなしチェキ+トーク\n📸特典券2枚\n❥サインありチェキ+トーク\n📸特典券4枚\n❥3分間の撮影タイム\n\n📸おあずけチェキ券1枚\n❥(後日)撮影したチェキのお渡し+トーク\n📸囲みチェキ券1枚\n❥(メンバー2shot or お客様を含めた3shot)サインなしチェキ+トーク\n\n【⚠️注意事項】\n※近隣の方のご迷惑となりますので、開催時間に合わせてお越しください。\n開催時間になりましたら、特典券の販売及びイベントをスタートさせて頂きます。\n\n※列が途切れた場合や予定人数に達した場合、終了予定時間より早く受付を終了させていただく場合がございます。\n\n※会場のトイレは使用できません。予めご了承ください。\n\n※実施場所には、撮影に関する機材は揃っておりません。お客様ご自身にご用意いただくクリップオン型のフラッシュの使用などは可能となります。\nレフ版や持ち込んで立て込みするライトなどは使用できないこと、あらかじめご了承ください。\nイベント場所は、通常の展示会スペースとなることも合わせてご了承ください。\n\n※撮影に関しては、ご自身がお持ちになるカメラ、スマートフォンなどでOKです。\n(チェキ機NG、インスタントカメラOK)\n\n※撮影した写真のSNS掲載につきまして、月刊PAM公式XのDMにお送りいただき許可を得たものに限り掲載可能となります。\nまた撮影した写真の商用利用は禁止といたします。\nhttps://timetr.ee/p/gekkanpam/3036245624532474954
+SUMMARY:PAM撮影会&チェキ会 ~september~
+UID:6cb4411e-e7fd-4be4-84c1-bad221d3148d@6cb4.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261107
+DESCRIPTION:https://timetr.ee/p/gekkanpam/3026123707821563595
+SUMMARY:★イベント予定
+UID:b71eb404-1b49-4a93-b502-5363a5e60f23@b71e.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260502
+DTEND;VALUE=DATE:20260503
+DESCRIPTION:📢📚\n\n/／\n月刊PAM 全国ツアー2026\n 「ちいさな夜」開催決定🌃🪄︎︎\n\\＼\n\n《日程・会場》\n4/8(水) 東京・Spotify O-nest\n5/2(土) 広島・HIROSHIMA 4.14\n6/6(土) 福岡・Livehouse Dragoon\n7/20(月祝) 大阪・北堀江club vijon\n\n-----\n\n月刊PAM全国ツアー2026 「ちいさな夜」\n【広島公演】チケット詳細決定🌃🦪\n \nゲスト：unSea 様\n\n🗓5/2(土) 開場18:00/開演18:30\n📍HIROSHIMA 4.14\n▶︎広島県広島市中区立町1-26泰平ビルB1F\n🎟https://ticketdive.com/event/pam2026hiroshima\n◎VIPチケット ¥7\,000 +1D\n・優先入場\n・囲み写メ(特典会冒頭で撮影)\n・月刊PAMからの15秒動画(特典会冒頭で撮影)\n◎一般チケット ¥2\,500 +1D\n[販売期間] 3/27 22:00～5/2 17:00\nhttps://timetr.ee/p/gekkanpam/2905239563235990610
+SUMMARY:★広島🦪月刊PAM 全国ツアー2026 「ちいさな夜」【広島公演】
+UID:55855305-c433-457c-9d2b-1a77a0cde925@5585.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260628
+DTEND;VALUE=DATE:20260629
+DESCRIPTION:🎪イベント情報🎪\n\n／\n\n『#DSPM UNIT LIVE EXTRA』出演決定👭🏻💋\n\n＼\n\n🗓️6/28(日)開場12:30/開演13:00\n📍SHIBUYA DIVE\n🎤14:20-14:40\n📸15:00-16:00\n🗣️[オールラインナップ] 14:40-14:50\n🎟優先入場¥5\,000/一般¥3\,000(各種+1D)\n❥ dearstage.zaiko.io/item/381807\n(5/15 18:00-)\n\n指名特典🎁サインなしチェキ券+1p\nhttps://timetr.ee/p/gekkanpam/2950275998661713787
+SUMMARY:#DSPM UNIT LIVE EXTRA
+UID:459d0d9c-defa-4e2d-9ebc-c48499c38d28@459d.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260412
+DTEND;VALUE=DATE:20260413
+DESCRIPTION:🎪イベント情報🎪\n\n／\n\n『LEADING』出演決定🧚🏻‍♀️\n\n＼\n\n🗓4/12(日) OP/ST TBA\n📍品川インターシティホール\n🎤13:00-13:20\n📸13:30-14:40\n🎟優先エリア¥7\,000/一般¥3\,000 (各種+1D)\n❥ ticketvillage.jp/events/13725\n(抽選3/12 21:00-3/23 23:59、一般3/24 21:00-)\n\n🎁指名特典：個別写メ券+1p\nhttps://timetr.ee/p/gekkanpam/2919651551475113451
+SUMMARY:LEADING
+UID:df4ff9ba-b050-40b6-ae12-50199dcdd0e5@df4f.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260610
+DTEND;VALUE=DATE:20260611
+DESCRIPTION:🎪イベント情報🎪\n\n／\n\n#ﾆｷﾌﾟﾚ\n『カンシャサイ。 』出演決定🌊🍉\n\n＼\n\n🗓6/10(水)\n📍渋谷Star lounge\n🎫リストバンド交換：15:00~(整列14:30~)\n🎤17:50-18:20\n📸19:00-20:10 [外物販会場C/ワールド宇田川ビル301]\n🎟️https://ticketdive.com/event/20260610_nikipre\n・先行チケット(先着)...¥4\,800\n(5/13(水)22:00-5/14(木)23:59 まで)\n・一般チケット(先着)...¥5\,300\n(5/15(金)12:00-6/10(水)12:00 まで)\n※当イベントにおける全券種に整理番号はございません。\nhttps://timetr.ee/p/gekkanpam/2950275292902956669
+SUMMARY:#ﾆｷﾌﾟﾚ『カンシャサイ。』
+UID:7775de9d-6044-45d4-ba17-1e02a0a9388f@7775.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260419
+DTEND;VALUE=DATE:20260420
+DESCRIPTION:🎪イベント情報🎪\n\n／\n\n福島いわきの温泉旅館一棟借りイベント‼️\nエクストロメ‼︎ presents\n『トロメ〜湯♨️』出演決定🕺🔥\n\n＼\n\n🗓4/18(土)-19(日)\n📍いわき湯本温泉 旅館こいと(https://koito-inn.co.jp/)\n\n【4/18(土)】\n🎤12:50-13:15\n📸13:25-14:35[C]\n\n【4/19(日)】\n🎤11:55-12:20\n📸12:30-13:40[C]\n\n🎟 https://livepocket.jp/e/8cklr\n《前売り(各+1D)》\n①通し券；9\,800円（S1〜）\n②DAY1 ；5\,500円（A1〜）\n③DAY2；5\,500円（B1〜）\n\n\n-----\n衣装＆館内着の2DAYSでお届けします👘♡\n\n各日指名特典🎁サインなしチェキ券\n🪄︎︎2DAYSの方には+囲み写メ券をプレゼント！\nhttps://timetr.ee/p/gekkanpam/2912211691130822462
+SUMMARY:福島🍑エクストロメ‼︎ presents『トロメ〜湯♨️』
+UID:fcb98134-a613-474e-8cbf-dab761c918ea@fcb9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:📽オンラインサイン会配信情報👀🍿*゜\n\n／\n\n【振替日・決定】\n『宇都宮未来 8月ソロオンラインサイン会』開催🩵\n\n＼\n\n🗓9/15(火)19:00〜\n🎥 youtube.com/@gekkanpam\n(月刊PAM 公式YouTube)\n🛍 marche-yell.com/events/\n※9/15(火) 19:30まで購入可能\n\n【対象商品】\nA\n・ツアー衣装チェキ1枚 (サインあり)\n・ツアー衣装チェキ1枚 (サインなし)\n2\,500円\nhttps://marche-yell.com/Utnmy_Mirai/products/176203\n \nB\n・夏！おでかけチェキ1枚 (サインあり)\n・夏！おでかけチェキ1枚 (サインなし)\n2\,500円\n https://marche-yell.com/Utnmy_Mirai/products/176204\n\nC\n・サインありチェキ1枚(ツアー衣装 or 「夏！おでかけ」）\n・宛名入り手書きメッセージポストカード\n・お礼動画（全員共通）\n5\,500円\nhttps://marche-yell.com/Utnmy_Mirai/products/176205\n\nD\n・ツアー衣装チェキ1枚 (サインあり)\n・夏！おでかけチェキ1枚 (サインあり)\n・お絵描きチェキ１枚(ツアー衣装 or 「夏！おでかけ」）\n7\,000円\nhttps://marche-yell.com/Utnmy_Mirai/products/176206\n\n※『宛名入り生誕手書きメッセージポストカード』、『お絵描きチェキ』は配信時間外での対応となります。\n※サインありは全てサイン・ニックネーム・メッセージ入りとなります。\n※ 宇都宮未来 8月オンラインサイン会の関連商品となります、【Aプラン】【Bプラン】【Cプラン】【Dプラン】につきましては複数購入いただいた場合も1件分の配送手数料のお支払いとなります。\nhttps://timetr.ee/p/gekkanpam/3052300905175555583
+DTEND:20260915T110000Z
+DTSTART:20260915T100000Z
+SUMMARY:振替・宇都宮未来8月ソロオンラインサイン会
+UID:95654a2b-256e-4815-bb63-8cb5c8a4d42c@9565.org
 END:VEVENT
 END:VCALENDAR

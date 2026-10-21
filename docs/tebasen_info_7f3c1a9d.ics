@@ -2,1151 +2,1151 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260531
-DTEND;VALUE=DATE:20260601
-DESCRIPTION:『アイドルアラモードVol.30』\n\n■横浜1000CLUB\n■開場9:30 / 開演9:45\n\n🎤20:15-20:40\n📸終演後物販\n\n🎁コメント付きチェキ券\n\n🎫前方エリア6\,000円/一般エリア3\,500円/当日各+500円(各＋1D)\n購入▶︎t-dv.com/idolalamode_30\nhttps://timetr.ee/p/tebasen_info/2938691818248144105
-SUMMARY:『アイドルアラモードVol.30』
-UID:7492fe97-ac5d-4b42-bd3d-5b68ddbaf997@7492.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261004
-DTEND;VALUE=DATE:20261005
-DESCRIPTION:『@JAM TAIPEI POP vol.2』🇹🇼\n\n■MOONDOG\n■開場10:00/開演10:30\n\n出演時間等後日公開🗓️\n\n🎫チケット料金\n前方エリア：前売1\,500NTD/当日1\,700NTD\n一般エリア：前売800NTD/当日1\,000NTD\n\n購入▶︎https://tickets.funone.io/activity/activity_detail/atjamtaipeipop02\nhttps://timetr.ee/p/tebasen_info/3064036488024360171
-SUMMARY:『@JAM TAIPEI POP vol.2』🇹🇼
-UID:c04b2ca3-9e5e-4c16-9256-24a84bed3ded@c04b.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260607
-DTEND;VALUE=DATE:20260608
-DESCRIPTION:https://timetr.ee/p/tebasen_info/2973534835890914612
-SUMMARY:『手羽先サミット2026』
-UID:5e3c51b1-1717-4ee7-b0bf-d306b248807e@5e3c.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261010
-DTEND;VALUE=DATE:20261011
-DESCRIPTION:『アイドルアラモードVol.33～名古屋出張SP～』\n\n■名古屋COMTEC PORTBASE\n■開場9:30/開演10:00\n\n🎤19:50-20:15\n📸終演後\n\n🎁コメント付きチェキ券\n\n🎫前方エリア9\,000円/一般エリア4\,500円（別途1D）/当日各+1000円\n\n購入▶︎t-dv.com/idolalamode_33\nhttps://timetr.ee/p/tebasen_info/3032105942180628271
-SUMMARY:『アイドルアラモードVol.33～名古屋出張SP～』
-UID:c1882bb7-1c17-41d5-84ad-1994cf8f5972@c188.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260628
-DTEND;VALUE=DATE:20260629
-DESCRIPTION:『HYPE IDOL！DX』 \n\n■Zeep Haneda（TOKYO）\n■開場10:15 / 開演10:45\n\n🎤14:15-14:35\n📸14:45-15:55【A】\n\n🎁コメント付きチェキ券\n\n🎫前方¥10\,000/ 一般¥2\,500（ドリンク代なし）\n\n購入▶︎t-dv.com/HYPEDX_0628\nhttps://timetr.ee/p/tebasen_info/2997416488308507741
-SUMMARY:『HYPE IDOL！DX』
-UID:d7bd22e7-bffe-40f9-86cd-29ab7a37828c@d7bd.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260410
-DTEND;VALUE=DATE:20260411
-DESCRIPTION:『 カラフルパーティーCOUNTDOWN to Zepp Shinjuku Vol.5 』\n\n■白金高輪SELENE b2\n■開場18:30 / 開演19:00 \n\n🎤19:10-19:40\n📸20:50-22:10 【終演後】\n\n🎫前方¥4\,000 / 一般¥500（各D代別）\n購入▶︎https://ticketdive.com/event/ColorfulPartyVol5\nhttps://timetr.ee/p/tebasen_info/2919094005193442972
-SUMMARY:『 カラフルパーティーCOUNTDOWN to Zepp Shinjuku Vol.5 』
-UID:2f8da1ba-3a65-424d-9968-069b84d1ae7f@2f8d.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260606
-DTEND;VALUE=DATE:20260607
-DESCRIPTION:『GIRLS☆DELIGHT#404』\n\n■Zephyr Hall\n■開場11:30 / 開演11:50\n\n🎤18:40-19:00\n📸19:35-20:50【終演後】\n\n🎁グレードアップ券\n\n🎫S(前方エリア)¥3\,000/A(後方エリア)¥1\,000/各当日+¥1\,000(各＋1D)\n\n購入▶︎https://livepocket.jp/e/girls_delight404\nhttps://timetr.ee/p/tebasen_info/2973535203471328524
-SUMMARY:『GIRLS☆DELIGHT#404』
-UID:71fcf1fb-59cc-4c69-9a91-05802076d359@71fc.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260927
-DTEND;VALUE=DATE:20260928
-DESCRIPTION:『アイドル甲子園 in KANDA SQUARE HALL \nsupported by My-th』\n\n■KANDA SQUARE HALL\n■開場9:15/開演9:30\n\n🎤14:35-15:00\n📸15:20-16:40【B】\n\n🎁コメント付きチェキ券\n \n🎫前方エリア8\,500円/一般チケット3\,500円当日券各＋1\,000円/(各＋1D)\n\n購入▶︎https://user.my-th.jp/?redirect=/tickets/event/aikou_0927\nhttps://timetr.ee/p/tebasen_info/3032103361324713497
-SUMMARY:『アイドル甲子園 in KANDA SQUARE HALL supported by My-th』
-UID:2b02077e-01ea-494c-a729-4d2accb1e013@2b02.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260614
-DTEND;VALUE=DATE:20260615
-DESCRIPTION:『IDOL CREAM SODA W.ダブル vol.17』\n\n■赤羽ReNY alpha\n■開場18:00/開演18:30\n\n🎫優先入場6\,000円 / 前方4\,000円 / 一般2\,000円 / 当日+1\,000円(各+1D)\n\n購入▶︎https://ticketdive.com/event/IDOLCREAMSODAWdoublevol17\nhttps://timetr.ee/p/tebasen_info/2963985720463001561
-SUMMARY:『IDOL CREAM SODA W.ダブル vol.17』
-UID:893a7ce4-0b76-4ce6-8591-cbf3088c274a@893a.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261224
-DTEND;VALUE=DATE:20261225
-DESCRIPTION:https://timetr.ee/p/tebasen_info/3080764094341907632
-SUMMARY:都内 イベント予定
-UID:92a6d062-d449-4573-ad08-8948adfe3e92@92a6.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260913
-DTEND;VALUE=DATE:20260914
-DESCRIPTION:『GIRLS BOX VOL.294』\n\n■名古屋ReNY Limited\n■開場11:00/開演11:30\n\n🎤14:05-14:35\n📸14:40-15:50\n\n🎁特典券1枚\n\n🎫Sチケット(前方)4\,000円/Aチケット(一般)2\,000円(各＋1D)　\n\n購入▶︎https://ticketdive.com/event/rCemETsbsyc8tAEWFcjA\nhttps://timetr.ee/p/tebasen_info/3027840855148267178
-SUMMARY:『GIRLS BOX VOL.294』
-UID:44d6fe7c-9bde-43f2-a54a-096d916015a9@44d6.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260625
-DTEND;VALUE=DATE:20260626
-DESCRIPTION:『神奈川単独公演』\n\n■川崎セルビアンナイト\n■開場18:40 / 開演19:00\n\n☂️梅雨のデート服特典会☂️\n\n🎫優先3\,000円/前売1\,500円/当日2\,000円 (各+1D)\n\n購入▶︎ t-dv.com/kanagawa_0625\n先行抽選 ：〜6/16(火)12:00\n一般先着：6/16(火)22:00〜6/24(水)23:59\nhttps://timetr.ee/p/tebasen_info/2986553448130348717
-SUMMARY:『神奈川単独公演』
-UID:cb6804eb-158b-4ba3-9e3c-5a830a7d3c77@cb68.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260503
-DTEND;VALUE=DATE:20260504
-DESCRIPTION:『JAPAN CENTRAL IDOL FESTIVAL 2026 COAST IN UTSUMI』\n\n■内海海岸 Comas hui beach park\n■開場9:00/開演10:00\n\n1️⃣\n🎤12:45-13:00【OCEAN STAGE】\n📸13:15-14:25【7】\n\n2️⃣\n🎤18:10-18:30 ライブ②【SKY STAGE】\n📸18:45-19:55 特典会②【24】\n\n🎫4\,500円〜\n\n購入▶︎https://ticketdive.com/event/JCIF2026_02_03_04\nhttps://timetr.ee/p/tebasen_info/2920331713802863998
-SUMMARY:『JAPAN CENTRAL IDOL FESTIVAL 2026 COAST IN UTSUMI』
-UID:fe8c5683-e18e-4c1d-a13a-6bae3e024c1b@fe8c.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260722
-DTEND;VALUE=DATE:20260723
-DESCRIPTION:『UTAGE FES Vol.5』 \n\n■Zepp Shinjuku / KABUKICHO TOWER STAGE 他\n■開場10:00 /開演10:30※変更の可能性あり\n\n🎤13:55-14:15【KABUKICHO TOWER STAGE】\n\n🎫VIP ¥10\,000 (Tシャツ付) / 一般¥2\,500\n※全会場前方エリアあり\n\n購入▶︎t-dv.com/0722_UTAGEFES\nhttps://timetr.ee/p/tebasen_info/2973536808488862856
-SUMMARY:『UTAGE FES Vol.5』
-UID:0243a441-a52e-41e4-8f9b-d7638565685d@0243.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261101
-DTEND;VALUE=DATE:20261102
-DESCRIPTION:千葉開府900年記念\n『千葉日報アイドルフェス』\n\n■千葉県文化会館 大ホール\n■開場12:00/開演13:00\n出演時間等後日公開🗓️\n\n🎁コメント付きチェキ券\n\n🎫前方席8\,000円/一般席4\,000円\n\n購入▶︎ t-dv.com/chibaidolfes\nhttps://timetr.ee/p/tebasen_info/3064030728833926832
-SUMMARY:『千葉日報アイドルフェス』
-UID:860bda33-c49b-4fb8-9f90-9aaf6ad02c42@860b.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260928
-DTEND;VALUE=DATE:20260929
-DESCRIPTION:FES☆TIVE Presentts 『金鯱祭』\n\n■Zephyr Hall\n■開場18:00/開演18:35\n\n🎤19:25-19:50\n📸終演後\n\n🎁コメント付きチェキ券\n\n🎫優先5\,000円/一般2\,500円(各別途1D)\n\n購入▶︎https://ticketdive.com/event/I2HYkXVxDtsFq2OWZHpd\nhttps://timetr.ee/p/tebasen_info/3027841958694815689
-SUMMARY:「金鯱祭」
-UID:e52dc2ee-fbbf-4699-ba5b-045c1d3dc9ec@e52d.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260405
-DTEND;VALUE=DATE:20260406
-DESCRIPTION:『GIRLS☆DELIGHT#393』\n\n■NAGOYA ReNY limited\n■開場10:30/開演11:00\n\n🎤13:10-13:35\n📸13:50-15:10【B】\n\n🎁コメント付きチェキ券\n\n🎫前売り優先5\,000円/前売り一般2\,000円/当日各+1\,000円(各+1D)\n\n購入▶︎https://livepocket.jp/e/girlsdelight393\nhttps://timetr.ee/p/tebasen_info/2919093832044185240
-SUMMARY:『GIRLS☆DELIGHT#393』
-UID:c3335e53-42a2-4e8c-863b-8285fd2da679@c333.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260711
-DTEND;VALUE=DATE:20260712
-DESCRIPTION:『SPARK 2026 渋谷納涼祭』\n\n■ベルサール渋谷ガーデン\n■開場9:00/開演9:30\n\n🎤10:10-10:30【ベルサールメイン】\n📸10:40-12:10【C】\n🏮12:40-13:30【縁日ブース４】\n\n🎁コメント付きチェキ券\n\n🎫VIP15\,000円 / 一般4\,000円(各＋１D）\n\n購入▶︎https://ticketdive.com/event/spark2026_summer\nhttps://timetr.ee/p/tebasen_info/2986559135816288066
-SUMMARY:『SPARK 2026 渋谷納涼祭』
-UID:853115c4-6168-4de5-a726-e305eaca61d9@8531.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260506
-DTEND;VALUE=DATE:20260507
-DESCRIPTION:『東京定期公演』\n\n■渋谷スターラウンジ\n■開場18:00 / 開演18:20\n\n💛工藤鈴菜プロデュース衣装公演💛\n\n🎫優先3\,000円/前売1\,500円/当日2\,000円 (各+1D)\n購入▶ t-dv.com/tokyo_0506\nhttps://timetr.ee/p/tebasen_info/2920332274019272458
-SUMMARY:『東京定期公演』
-UID:c47e7dcf-b000-48c5-93a7-12bf00693d0f@c47e.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260330
-DTEND;VALUE=DATE:20260331
-DESCRIPTION:『工藤鈴菜プロデュース公演』\n\n■NAGOYA JAMMIN'\n■開場18:30/開演19:00\n\n🎫Sチケット4\,000円/前売1\,500円/当日各＋500円(各+1D)\n\n🎁定点DVD\n※Sチケット購入者のみ\n\n購入▶︎ t-dv.com/suzuna_produce\n先行抽選 3.11(水)23:00〜3.15(日)12:00\n一般先着 3.15(日)21:00〜3.29(日)23:59\nhttps://timetr.ee/p/tebasen_info/2878191344390964850
-SUMMARY:『工藤鈴菜プロデュース公演』
-UID:88f9a925-41f3-491e-9b5e-34dd1a014f98@88f9.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261003
-DTEND;VALUE=DATE:20261004
-DESCRIPTION:『@JAM TAIPEI POP vol.2』🇹🇼\n\n■MOONDOG\n■開場10:00/開演10:30\n\n出演時間等後日公開🗓️\n\n🎫チケット料金\n前方エリア：前売1\,500NTD/当日1\,700NTD\n一般エリア：前売800NTD/当日1\,000NTD\n\n購入▶︎https://tickets.funone.io/activity/activity_detail/atjamtaipeipop02\nhttps://timetr.ee/p/tebasen_info/3052858495621072884
-SUMMARY:『@JAM TAIPEI POP vol.2』🇹🇼
-UID:32b8e023-a826-4801-b0c8-29229716fd26@32b8.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260425
-DTEND;VALUE=DATE:20260426
-DESCRIPTION:『Road To RAD JAM』\n\n■THE BOTTOM LINE\n■開場13:30 / 開演13:50\n\n🎤13:50-14:20\n📸16:05-17:20【終演後】\n\n🎁コメント付きチェキ券\n\n🎫前方エリア¥4\,500/ 通常¥2\,500（各＋D代）\n早割前方エリア¥3\,000/早割通常¥1\,500(各＋D代)\n\n購入▶︎ t-dv.com/rtrj0425\n早割：4/13(月)22:00~4/17(金)23:59まで\n一般先着：4/18(土)0:00~4/25(土)12:00まで\nhttps://timetr.ee/p/tebasen_info/2924145180594865325
-SUMMARY:『Road To RAD JAM』
-UID:3999eff0-ff9b-41fd-ac50-a2490035d6b8@3999.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260502
-DTEND;VALUE=DATE:20260503
-DESCRIPTION:『工藤鈴菜生誕祭2026』\n\n■Zephyr Hall\n■開場16:30/開演17:00\n\n🎫SSチケット 12\,000円/Sチケット 4\,000円/通常チケット 1\,500円/当日券 2\,000円(別途1D)\n\n購入▶︎https://ticketdive.com/event/suzuna_birthday2026\n一般先着:3/31(火)22:00〜5/1(金)23:59\nhttps://timetr.ee/p/tebasen_info/2920331293122561426
-SUMMARY:『工藤鈴菜生誕祭2026』
-UID:67de3b24-faef-44fb-9d86-dce2c6e045c9@67de.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260428
-DTEND;VALUE=DATE:20260429
-DESCRIPTION:『 手羽先センセーショントークライブ～おしゃべりセンセーション～ 』\n\n■シアターギルド代官山\n■開場18:30 / 開演19:00\n■出演 宮代柚花/夏姫えれな/工藤鈴菜/瀬名えま/MC:クマムシ\n\n🎫S席4\,500円/A席2\,500円/当日券・立見席Bチケット 2\,500円\n\n🎁S席特典:出演者アイドル全員との集合写メ\n\n購入▶︎https://ticketdive.com/event/talklive_0428\nhttps://timetr.ee/p/tebasen_info/2938685423679375123
-SUMMARY:『 手羽先センセーショントークライブ～おしゃべりセンセーション～ 』
-UID:720039d3-3a0b-4bb2-8956-8b21ea3aab75@7200.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260517
-DTEND;VALUE=DATE:20260518
-DESCRIPTION:『rock field ULTRA LIVE in 上野 SPRING DAY2』\n\n■上野恩賜公園野外ステージ\n■開場9:45 / 開演10:00\n\n🎤18:15-18:40\n📸18:40-20:00【A】\n\n🎫Sチケット¥6\,000/ Aチケット¥2\,000(当日各＋¥1\,000)（各＋D代）\n\n購入▶︎ buzz-ticket.com/e/rf_0517\nhttps://timetr.ee/p/tebasen_info/2938691194118931767
-SUMMARY:『rock field ULTRA LIVE in 上野 SPRING DAY2』
-UID:f6eb3f41-898e-4308-9ec2-d67c6a696465@f6eb.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260613
-DTEND;VALUE=DATE:20260614
-DESCRIPTION:なみだ色の消しごむ presents\n 『Neat Meets vol.19』\n\n■白金高輪SELENE b2\n■開場10:00 / 開演10:30\n\n🎤15:00-15:25\n📸15:30-16:30【B】\n\n🎁ノーマルチェキ券\n\n🎫前方5\,000円 / 一般2\,500円 / 当日＋500円 (各＋1D)\n\n購入▶︎t-dv.com/nm_vol19\nhttps://timetr.ee/p/tebasen_info/2973537498141492424
-SUMMARY:『Neat Meets vol.19』
-UID:cf23ee8c-2b3d-4f7a-a681-f76bf3ad3f8e@cf23.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261219
-DTEND;VALUE=DATE:20261220
-DESCRIPTION:https://timetr.ee/p/tebasen_info/3080763686697501858
-SUMMARY:名古屋 イベント予定
-UID:6ff3cea3-05b2-4775-bb30-3525a0f2e3f6@6ff3.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261219
-DTEND;VALUE=DATE:20261220
-DESCRIPTION:https://timetr.ee/p/tebasen_info/3080763458040825733
-SUMMARY:名古屋 イベント予定
-UID:6f953e50-10eb-4194-8033-6b6bb390b3f3@6f95.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260719
-DTEND;VALUE=DATE:20260720
-DESCRIPTION:『SEKIGAHARA IDOL WARS 2026-関ケ原唄姫合戦-』\n\n■桃配運動公園\n\n1️⃣\n🎤12:30-12:45【戦国ステージ】\n📸13:15-14:35【12】\n\n2️⃣\n🎤19:25-19:45【豊臣ステージ】\n📸20:15-21:35【2】\n\n🎫チケット購入▶︎t-dv.com/SEKIGAHARA_2026\nhttps://timetr.ee/p/tebasen_info/3007708886884354006
-SUMMARY:『 SEKIGAHARA IDOL WARS 2026 - 関ケ原唄姫合戦- 』
-UID:9a84b87c-a676-4f50-8a7a-348a792c483b@9a84.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260623
-DTEND;VALUE=DATE:20260624
-DESCRIPTION:『渚沙きこ生誕祭』\n\n■渋谷DESEOmini\n■開場18:30 / 開演19:00\n\n※瀬名えまのみゲスト出演となります🪼\n\n🎫Sチケット￥10\,000 / Aチケット¥3\,000 / 一般チケット¥1\,000 (各＋1D)\n\n購入▶︎tiget.net/events/492324\nhttps://timetr.ee/p/tebasen_info/2989449009904944730
-SUMMARY:『渚沙きこ生誕祭』
-UID:eb1c719c-79f8-4b00-89a8-173f6e8e8047@eb1c.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260717
-DTEND;VALUE=DATE:20260718
-DESCRIPTION:『お試し手羽セン公演』\n\n■THE BOTTOM LINE\n■開場19:00 / 開演19:20\n\n🎁来場者全員にお試しチェキ券1枚配布\n\n🎫優先エリア2\,000円/一般入場 0円(要予約)/当日券各＋500円（各+1D）\n\n購入▶︎https://ticketdive.com/event/otameshi_teba0717\nhttps://timetr.ee/p/tebasen_info/2973536590695433411
-SUMMARY:『お試し手羽セン公演』
-UID:949727fd-e1e6-4dca-b1b7-454c9b5eaf8c@9497.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261031
-DTEND;VALUE=DATE:20261101
-DESCRIPTION:『アイドル甲子園 in KANDA SQUARE HALL』supported by My-th -DAY1-\n\n■KANDA SQUARE HALL\n■開場09:15/開演09:30\n出演時間等後日公開🗓️\n\n🎁コメント付きチェキ券\n\n🎫前方エリア8\,500円/一般エリア3\,500円/当日券各+1\,000円(各+1D)\n\n購入▶︎https://user.my-th.jp/?redirect=/tickets/event/aikou_1031\nhttps://timetr.ee/p/tebasen_info/3064030388709426761
-SUMMARY:『アイドル甲子園 in KANDA SQUARE HALL』supported by My-th -DAY1-
-UID:25bb0138-0f8b-4150-9071-601603d1f7d1@25bb.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261018
-DTEND;VALUE=DATE:20261019
-DESCRIPTION:■グレースバリ銀座\n■開場12:30/開演13:00\n\n🎫優先3\,000円/前売1\,500円/当日2\,000円(各+1D)\n\n購入▶︎ t-dv.com/toyko_1018\nhttps://timetr.ee/p/tebasen_info/3065640274438325624
-SUMMARY:『東京定期公演』
-UID:77cf13a7-8a36-4b2a-b227-6c21a9d7d54c@77cf.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260523
-DTEND;VALUE=DATE:20260524
-DESCRIPTION:『GIRLS GIRLS FESTIVAL 2026』\n\n■さがみ湖MORI MORI\n■開場 未定/開演 未定\n出演時間等後日公開🗓️\n\n🎫VIP16000円 / 通常6600円 /当日+1500円\n(さがみ湖MORI MORI入園料込/入場時1ドリンク代700円必須/再入場自由)\n購入▶︎tiget.net/events/483124\n\nVIP抽選販売：4/20(月)20:00~4/27(月)23:59\n先着販売：4/28(火)20:00~販売開始‼️\nhttps://timetr.ee/p/tebasen_info/2938691502442218758
-SUMMARY:『GIRLS GIRLS FESTIVAL 2026』
-UID:e9051999-041b-4f81-9e9f-10ea8562e1d5@e905.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260817
-DTEND;VALUE=DATE:20260818
-DESCRIPTION:『手羽先センセーショントークライブ～おしゃべりセンセーション～』\n\n■シアターギルド代官山\n■開場18:30/開演19:00\n\n※手羽先センセーションからは宮代柚花、雛汰ゆら、瀬名えま のみの出演となります。\n\n🎫S席 4\,500円/A席 2\,500円/当日券・立見席Bチケット 2\,500円\n\n購入▶︎t-dv.com/takelive_0817\n8/14(金)20:00〜販売開始\nhttps://timetr.ee/p/tebasen_info/3027839906639971348
-SUMMARY:『手羽先センセーショントークライブ～おしゃべりセンセーション～』
-UID:3ea41fd3-8c39-4b54-b99a-2b313b176e9e@3ea4.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260505
-DTEND;VALUE=DATE:20260506
-DESCRIPTION:『歌舞伎町UP GATE↑↑2026』\n\n■MUSIC RESTAURANT APEXIA\n■開場12:00/開演13:00\n\n🎤17:05-17:30\n📸17:45-18:45【APEXIA】\n\n🎫各日 7\,700円/通し券 14\,000円\n購入▶︎https://ticket.rakuten.co.jp/music/jpop/idle/RTZPBBP/?scid=su_16699\nhttps://timetr.ee/p/tebasen_info/2951585649792583469
-SUMMARY:『歌舞伎町UP GATE↑↑2026』
-UID:8592938c-0e84-40ab-92f7-5f183f4d70ec@8592.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260331
-DTEND;VALUE=DATE:20260401
-DESCRIPTION:『超十代 -ULTRA TEENS FES- 2026 presented by docomo』\n\n■国立代々木競技場第一体育館\n\n🐣雛汰ゆらのみの出演となります\n\n公式HP⏬\nhttps://event.chojudai.com\nhttps://timetr.ee/p/tebasen_info/2926740021728184115
-SUMMARY:『超十代 -ULTRA TEENS FES- 2026 presented by docomo』
-UID:7f22c5d6-3bbc-43ce-aaf2-22c948a738f3@7f22.org
+DTSTART;VALUE=DATE:20260530
+DTEND;VALUE=DATE:20260531
+DESCRIPTION:『ッスッゴイ3マンSpecialLive』\n\n■神田明神ホール\n■開場12:00 / 開演12:30 \n\n🎤13:00-13:30\n📸14:00-15:00【終演後】\n\n🎫前方¥4\,000 / 一般¥1\,500（各ドリンク代別）\n\n購入▶︎https://ticketdive.com/event/ssuggoi3manSpecialLive0530\nhttps://timetr.ee/p/tebasen_info/2951596080129050406
+SUMMARY:『ッスッゴイ3マンSpecialLive』
+UID:6c7843fb-1684-4321-8004-df2fd7d107b2@6c78.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260822
 DTEND;VALUE=DATE:20260823
 DESCRIPTION:『ドラゴン クイーンズ フェスティバル2026』\n\n■国営木曽三川公園センター\n\n🎫購入▶︎ticketdive.com/event/DQFES2026\nhttps://timetr.ee/p/tebasen_info/2986562648352949859
 SUMMARY:『ドラゴン クイーンズ フェスティバル2026』
-UID:645ffee6-651b-481d-9cad-88ddd8d28291@645f.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260616
-DTEND;VALUE=DATE:20260617
-DESCRIPTION:『松山綺利5周年記念ライブ』\n\n■Twinbox GARAGE\n■開場19:00 / 開演19:20\n■出演：松山綺利\n \n🎫前売券2000円 / 当日券2500円(各別途1D代)\n\n購入▶︎https://ticketdive.com/event/kiri_5th_anniversary\n先着販売:5/25(月)21:00〜\nhttps://timetr.ee/p/tebasen_info/2973528042401891425
-SUMMARY:『松山綺利5周年記念ライブ』
-UID:22389712-e5d0-471e-87bf-eee5def779f4@2238.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260808
-DTEND;VALUE=DATE:20260809
-DESCRIPTION:『手羽セン夏まつり2026』\n\n■Lives NAGOYA\n■開場17:00/開演17:30\n\n🎫優先入場3\,000円/一般入場0円🉐(各+1D)\n\n🏮工藤鈴菜プロデュース公演衣装🏮\n\n購入▶︎https://ticketdive.com/event/tebasen_summerfes2026\nhttps://timetr.ee/p/tebasen_info/2986559492642506204
-SUMMARY:『手羽セン夏まつり2026』
-UID:81446d4d-be0a-497e-b27b-dbdff117be37@8144.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260919
-DTEND;VALUE=DATE:20260920
-DESCRIPTION:『手羽先セッションvol.19』\n\n■NAGOYA ReNY limited\n■開場12:15/開演12:45\n\n■ Zephyr Hall\n■開場12:40/開演13:10\n\n1️⃣NAGOYA ReNY limited\n🎤12:45-13:00\n2️⃣Zephyr Hall\n🎤15:15-15:40\n📸15:50-16:50【C】\n3️⃣NAGOYA ReNY limited\n🎤19:55-20:20\n📸終演後\n\n■出演：手羽先センセーション/カラフルスクリーム/君に、胸キュン。/テンシンランマン/HIBANA/ナナコロビヤオキ/サクヤコノハナ/W.ダブルヴィー/シャニムニ=パレード/ヒロインズ研究生大阪/AQA/逆転ねこぱんちっ！/Malcolm Mask McLaren/XINXIN/AIWO\n\n🎫前売5\,000円/当日券5\,500円(各+1D)\n\n購入▶︎ t-dv.com/tebasession_19\n先行抽選：〜8/27(木)12:00\n先着販売：8/27(木)22:00〜9/18(金)23:59\nhttps://timetr.ee/p/tebasen_info/3027841357659440267
-SUMMARY:『手羽先セッションvol.19』
-UID:e672c2d0-6ba1-4191-8781-56cce376945b@e672.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260923
-DTEND;VALUE=DATE:20260924
-DESCRIPTION:『SPARK 2026 in YAMANAKAKO』\n\n■山中湖交流プラザきらら\n■開場9:00/開演10:00  \n\n🎫SPARKチケット¥30\,000/一般チケット¥7\,500(各日＋1D)\n\n購入▶︎https://ticketdive.com/event/spark2026yamanakako\nhttps://timetr.ee/p/tebasen_info/3032105348149741277
-SUMMARY:『SPARK 2026 in YAMANAKAKO』
-UID:5608b32d-d6e5-42ac-adcf-d18a55cdca2b@5608.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260704
-DTEND;VALUE=DATE:20260705
-DESCRIPTION:『KAWAII PARTY』\n\n■品川インターシティホール\n■開場10:00 / 開演10:15\n\n🎤19:45-20:10\n📸終演後特典会\n\n🎁コメント付きチェキ券\n\n🎫前方8\,000円 / 通常4\,000円 / 当日＋1\,000円 (各＋1D)\n\n購入▶︎ t-dv.com/KP_0704\nhttps://timetr.ee/p/tebasen_info/2973536315314210220
-SUMMARY:『KAWAII PARTY』
-UID:b383951a-d085-4d5d-b1f3-1b155dc307ee@b383.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260801
-DTEND;VALUE=DATE:20260802
-DESCRIPTION:『TOKYO IDOL FESTIVAL 2026 supported by にしたんクリニック』\n\n📍お台場・青海周辺エリア\n\n🎤12:10-12:35【HEAT GARAGE】\n\n🎫チケット購入はこちら⏬\nhttps://official.idolfes.com/s/tif2026/page/ticket?ima=0000\n\n詳細はこちら⏬\nhttps://official.idolfes.com/s/tif2026/\nhttps://timetr.ee/p/tebasen_info/2951593143562601798
-SUMMARY:『TOKYO IDOL FESTIVAL 2026 supported by にしたんクリニック』
-UID:3155ff64-dbff-42c6-a855-97ae198eb67d@3155.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260530
-DTEND;VALUE=DATE:20260531
-DESCRIPTION:『ッスッゴイ3マンSpecialLive』\n\n■神田明神ホール\n■開場12:00 / 開演12:30 \n\n🎤13:00-13:30\n📸14:00-15:00【終演後】\n\n🎫前方¥4\,000 / 一般¥1\,500（各ドリンク代別）\n\n購入▶︎https://ticketdive.com/event/ssuggoi3manSpecialLive0530\nhttps://timetr.ee/p/tebasen_info/2951596080129050406
-SUMMARY:『ッスッゴイ3マンSpecialLive』
-UID:af4b92f5-fb2a-44f6-a58c-70fb48d62bf6@af4b.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260407
-DTEND;VALUE=DATE:20260408
-DESCRIPTION:『東京定期公演』\n\n■日暮里ネコシアター\n■開場19:00/開演19:20\n\n🌸春のデート私服特典会🌸\n\n🎫優先エリア2\,500円/前売1\,000円/当日1\,500円(各+1D)\n\n購入▶︎ t-dv.com/tokyo_0407\n先行抽選:〜3/16(月)12:00\n一般先着:3/16(月)22:00〜4/6(月)23:59\nhttps://timetr.ee/p/tebasen_info/2919093302093874277
-SUMMARY:東京定期公演
-UID:69038e4a-05d1-4946-90b2-8fd57d759463@6903.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260912
-DTEND;VALUE=DATE:20260913
-DESCRIPTION:『LEADING NAGOYA』\n\n■Zephyr Hall\n■開場16:15/開演16:45\n\n🎤18:20-18:50\n📸19:10-20:20【B】\n\n🎁コメント付きチェキ券\n\n🎫優先エリアチケット8\,000円/通常エリアチケット3\,500円(各＋1D)\n\n購入▶︎ticketvillage.jp/events/13854\nhttps://timetr.ee/p/tebasen_info/3027840630325183528
-SUMMARY:『LEADING NAGOYA』
-UID:06fb0838-b159-4e25-b15b-51eb2800b8b9@06fb.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260610
-DTEND;VALUE=DATE:20260611
-DESCRIPTION:『IDOL KINGDOM TOKYO』\n\n■恵比寿LIQUIDROOM\n■開場12:30 / 開演13:00\n\n🎤16:30-16:55\n📸17:05-18:05【L3】\n\n🎁コメント付きチェキ券\n\n🎫SSチケット11\,000円/Sチケット7\,000円/一般チケット3\,000円/女性チケット2\,000円/U-20チケット1\,000円(各＋1D)\n\n購入▶︎t-dv.com/0610ebisu\nhttps://timetr.ee/p/tebasen_info/2963985344695306182
-SUMMARY:『IDOL KINGDOM TOKYO』
-UID:21de4502-c59c-48f5-8525-2fcc4a9130ea@21de.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260906
-DTEND;VALUE=DATE:20260907
-DESCRIPTION:『お試し手羽セン公演』\n\n■INSA Fukuoka\n■開場12:00/開演12:20\n\n🎤12:40-13:05\n📸13:10-14:10\n\n🎁来場者全員に特典券1枚配布\n\n🎫優先エリア 2\,000円/一般入場 0円(要予約)/当日券各＋500円（各+1D）\n\n購入▶︎ t-dv.com/otameshi_teba0906\n8/14(金)22:00~販売開始✨\nhttps://timetr.ee/p/tebasen_info/3032101600060966672
-SUMMARY:『お試し手羽セン公演』
-UID:23c72cee-a844-4ab4-9734-7184d30d31ba@23c7.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261122
-DTEND;VALUE=DATE:20261123
-DESCRIPTION:https://timetr.ee/p/tebasen_info/3065641429969077868
-SUMMARY:名古屋 イベント予定
-UID:992b5c7f-bc99-4e4b-a94d-6e94c86798c5@992b.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260522
-DTEND;VALUE=DATE:20260523
-DESCRIPTION:小織りあ生誕祭2026『りあのしゅわしゅわ夏炭酸』\n\n■五反田BLAZE\n■開場18:30 / 開演19:00\n\n🎤19:15-19:35\n📸20:25-21:45【終演後】\n\n🎫VIP ¥7000 / 前方 ¥4000 / 一般 ¥2000 / 当日+¥1000(各+1D)\n\n購入⏬\nhttps://kirafore-fc.bitfan.id/contents/menu/148624\nFC先行抽選：4/23(木)21:00~4/26(日)21:00\n\nhttps://ticketdive.com/event/riaShuwashuwa2026\n一般販売：04/27(月)21:00~\nhttps://timetr.ee/p/tebasen_info/2938691422507173407
-SUMMARY:小織りあ生誕祭2026『りあのしゅわしゅわ夏炭酸』
-UID:1f4fa5bc-2707-4f73-a2ab-c88a89d35b93@1f4f.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260511
-DTEND;VALUE=DATE:20260512
-DESCRIPTION:『ICONIC MOMENTS LIVE！』\n\n■ZephyrHall\n■開場15:30 / 開演16:15\n\n🎤17:50-18:10\n📸18:25-19:25【C】\n\n🎁コメント付きチェキ券＋10秒動画\n\n🎫前方エリア7\,700円/一般エリア5\,500円(各＋1D)\n\n購入▶︎ tiget.net/events/472061\nhttps://timetr.ee/p/tebasen_info/2920333371903510421
-SUMMARY:『ICONIC MOMENTS LIVE！』
-UID:8dfe835e-6db9-473f-8c2c-f7f7936b4306@8dfe.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260809
-DTEND;VALUE=DATE:20260810
-DESCRIPTION:『IDOL SUMMER JUNGLE 2026』\n\n■お台場R地区\n■開場9:00/開演10:00\n\n🏮15:15-16:25 【縁日12】\n📸18:00-19:00【9】\n🎤20:00-20:20【MONKEY STAGE】\n\n🎁コメント付きチェキ券\n\n🎫VIP28\,000円 / 一般5\,000円 / 女性4\,000円 (各+1D)\n\n購入▶︎https://ticketdive.com/event/idolsummerjungle2026\nhttps://timetr.ee/p/tebasen_info/2986559934285940336
-SUMMARY:『IDOL SUMMER JUNGLE 2026』
-UID:7408ac11-3efd-46e0-a5ec-f431476215d6@7408.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260920
-DTEND;VALUE=DATE:20260921
-DESCRIPTION:手羽先センセーション単独公演\n『手羽センユニフォーム公演』\n\n■RAD NINE\n■開場11:20/開演11:40\n\n⋆˙⟡⚾️ユニフォーム特典会⚾️⟡.·\n\n\n\n🎫前売券1\,500円/当日券2\,000円(別途1D)\n\n購入▶︎https://ticketdive.com/event/uniformlive_0920\nhttps://timetr.ee/p/tebasen_info/3052858078858249401
-SUMMARY:手羽先センセーション単独公演『手羽センユニフォーム公演』
-UID:80fa440e-fe96-49a1-aaf2-b85b4b949a2b@80fa.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261017
-DTEND;VALUE=DATE:20261018
-DESCRIPTION:『瀬名えま生誕祭2026』\n\n■NAGOYA JAMMIN’\n■開場16:30/開演17:00\n\n🎫SSチケット12\,000円 / Sチケット4\,000円 / 通常チケット前売1\,500円/当日2\,000円 (各＋1D代)\n\n購入▶︎https://ticketdive.com/event/ema_birthday2026\nhttps://timetr.ee/p/tebasen_info/3032106188629542520
-SUMMARY:『瀬名えま生誕祭2026』
-UID:4e5334af-fa1b-4630-a9fc-5fc106fb49ce@4e53.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260808
-DTEND;VALUE=DATE:20260809
-DESCRIPTION:『旋回』\n\n■LivesNAGOYA\n■開場10:20 / 開演10:40\n\n🎤13:40-14:00\n📸14:30-15:30【終演後】\n\n🎁グレードアップ券\n\n🎫前方エリア3\,500円 / 一般\n1\,500円 / 当日各＋500円 (各+1D)\n\n購入▶︎t-dv.com/senkai_0808\nhttps://timetr.ee/p/tebasen_info/2986559390603478183
-SUMMARY:『旋回』
-UID:6fdd1284-9420-417f-b971-5971d70cd298@6fdd.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261213
-DTEND;VALUE=DATE:20261214
-DESCRIPTION:https://timetr.ee/p/tebasen_info/3080762778144147319
-SUMMARY:名古屋 イベント予定
-UID:d144c0d9-fc13-46c2-a89f-c241c973993b@d144.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261010
-DTEND;VALUE=DATE:20261011
-DESCRIPTION:『手羽先セッションvol.20』\n\n■THE BOTTOM LINE\n■開場11:30/開演12:00\n■出演\n手羽先センセーション/なみだ色の消しごむ/SEKAIE⭐︎/Malcolm Mask McLaren\n\n🎤13:15-13:40\n📸13:50-15:00\n\n🎫前方4\,500円/後方1\,000円/当日各+500(各別途1D)\n\n購入▶︎ t-dv.com/tebasession_20\nhttps://timetr.ee/p/tebasen_info/3032105847842342564
-SUMMARY:『手羽先セッションvol.20』
-UID:676fffe8-bb55-4c71-abd6-2c18f6f653a9@676f.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260905
-DTEND;VALUE=DATE:20260906
-DESCRIPTION:『VS LIVE』\n\n■開場11:20/開演11:40\n■The Voodoo Lounge\n\n🎤12:40-13:05\n📸13:40-14:40\n\n🎫前方3\,000円/一般1\,500円/当日各+1\,000円(各＋1D)\n\n購入▶︎t-dv.com/VSLIVE0905\nhttps://timetr.ee/p/tebasen_info/3027840355707323954
-SUMMARY:『VS LIVE』
-UID:3441fad5-ef6d-4772-b9dd-0d99372a527f@3441.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260621
-DTEND;VALUE=DATE:20260622
-DESCRIPTION:『雛汰ゆら生誕祭2026』\n\n■THE BOTTOM LINE\n■開場16:30 / 開演17:00\n\n🎫SSチケット12\,000円 / Sチケット4\,000円 / 通常チケット前売1\,500円/当日2\,000円 (各＋1D代)\n\n購入▶︎https://ticketdive.com/event/yura_birthday2026\n先行抽選：~5/16(土)12:00まで【SSチケットのみ】\n一般先着：5/16(土)22:00~6/20(土)23:59\nhttps://timetr.ee/p/tebasen_info/2963986124491916809
-SUMMARY:『雛汰ゆら生誕祭2026』
-UID:5d489360-8b23-48c0-8a98-d5c704ce6507@5d48.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260517
-DTEND;VALUE=DATE:20260518
-DESCRIPTION:『IDOL MIX』\n\n■グレースバリ銀座\n■開場12:00 / 開演12:30\n\n🎁ソロ自撮り写メ\n\n🎫優先エリア3\,500円/一般入場1\,500円/当日券各＋500円(各＋1D)\n購入▶︎t-dv.com/idolmix_0517\nhttps://timetr.ee/p/tebasen_info/2938691261244572968
-SUMMARY:『IDOL MIX』
-UID:ea7748c7-539c-45dd-a0b2-a906f2234807@ea77.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260918
-DTEND;VALUE=DATE:20260919
-DESCRIPTION:『名古屋定期公演vol.1』\n\n■NAGOYA JAMMIN'\n■開場19:00/開演19:20\n\n🎫優先エリア3\,000円/前売1\,000円/当日各+500円(各+1D)\n\n購入▶︎ t-dv.com/nagoya_01\n先行抽選：〜8/16(日)12:00\n一般先着：8/16(日)22:00〜9/17(木)23:59\nhttps://timetr.ee/p/tebasen_info/3027841254387287246
-SUMMARY:『名古屋定期公演vol.1』
-UID:d945b36d-51c2-4a7b-b3ce-ffe14ea7edc1@d945.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260629
-DTEND;VALUE=DATE:20260630
-DESCRIPTION:『手羽先センセーショントークライブ～おしゃべりセンセーション～』\n\n■シアターギルド代官山\n■開場18:30 / 開演19:00\n\n※手羽先センセーションからは宮代柚花、工藤鈴菜、瀬名えま のみの出演となります。\n\n🎫S席 4\,500円/A席 2\,500円/当日券・立見席Bチケット 2\,500円\n購入▶︎ t-dv.com/talklive_0629\nhttps://timetr.ee/p/tebasen_info/2986555585723827863
-SUMMARY:『手羽先センセーショントークライブ～おしゃべりセンセーション～』
-UID:466acbe2-d419-4389-ab06-0bbba9954673@466a.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260506
-DTEND;VALUE=DATE:20260507
-DESCRIPTION:『TOKYO GIRLS GIRLS』\n\n■品川ステラボール\n■開場12:30 / 開演12:45\n\n🎤14:00~14:25\n📸14:35~15:55【D】\n\n🎫前方8\,000円/通常0円/当日各+1000円(各＋1D)\n\n購入▶︎tiget.net/events/486595\nhttps://timetr.ee/p/tebasen_info/2951586214505285534
-SUMMARY:『TOKYO GIRLS GIRLS』
-UID:7b596e05-512f-451f-952b-552ccc3f6be5@7b59.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260509
-DTEND;VALUE=DATE:20260510
-DESCRIPTION:MyDearDarlin’ presents『Live Loud! - 名古屋3マンSP-』\n\n■Zephyr Hall\n■開場12:00/開演12:30\n\n🎤12:55-13:20\n📸13:50-15:00【終演後】\n\n🎁コメント付きチェキ券\n\n🎫前方¥4\,000/一般¥1\,500(各＋1D)\n\n購入▶︎https://ticketdive.com/event/LiveLoud-Nagoya3manSP\n前方チケット：4/23(木)20:00~5/8(金)23:59\n一般チケット：4/23(木)20:30~5/8(金)23:59\nhttps://timetr.ee/p/tebasen_info/2920333288143258865
-SUMMARY:MyDearDarlin’ presents『Live Loud! - 名古屋3マンSP-』
-UID:b7c7ae93-1d4f-454d-93ff-9fd6386d4b31@b7c7.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260618
-DTEND;VALUE=DATE:20260619
-DESCRIPTION:『名古屋合同定期公演 大阪編』\n\n■Music Club JANUS\n■開場18:30 / 開演18:55\n\n出演順は当日決定🐙\n\n🎫前方2\,000円 / 一般500円 / 当日＋500円(各＋1D)\n\n購入▶︎https://livepocket.jp/e/nagoyagodo_osaka\nhttps://timetr.ee/p/tebasen_info/2973535506803394487
-SUMMARY:『名古屋合同定期公演 大阪編』
-UID:4dfaed14-0605-40ef-99b1-ccb215909881@4dfa.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260426
-DTEND;VALUE=DATE:20260427
-DESCRIPTION:『大阪造船所アイドルフェス』\n\n■ CCOクリエイティブセンター\n（大阪名村造船所跡地）\n■開場10:30/開演11:30\n\n 📍RED FLAME\n🎤17:35-17:55 \n📸18:10-19:10【A】\n\n🎁コメント付きチェキ券\n\n🎫優先6\,000円/一般3\,000円 / 当日＋1\,000(各+1D)\n購入▶︎ tiget.net/events/475949\nhttps://timetr.ee/p/tebasen_info/2924147125502018849
-SUMMARY:『大阪造船所アイドルフェス』
-UID:d47314b2-cfed-4423-b006-fd98df1ae2c7@d473.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260427
-DTEND;VALUE=DATE:20260428
-DESCRIPTION:『 宮代柚花 手羽先センセーション加入2周年記念公演 』\n\n■THE BOTTOM LINE\n■開場18:40 / 開演19:00\n\n🎫Sチケット4\,000円/一般チケット1\,500円/当日各＋500円 （各+1D）\n\n購入▶︎https://ticketdive.com/event/yuzuka_2ndAnniv\n先行抽選：~2026.4.5(日)12:00まで\n一般先着：2026.4.5(日)22:00~4.26(日)23:59\nhttps://timetr.ee/p/tebasen_info/2920330102963635531
-SUMMARY:『 宮代柚花 手羽先センセーション加入2周年記念公演 』
-UID:db49514a-dcc0-40f7-87a7-d5fbcdb36e51@db49.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260425
-DTEND;VALUE=DATE:20260426
-DESCRIPTION:手羽先センセーション単独公演\n『#手羽センセトリ考え隊』\n\n■名古屋RAD NINE\n■開場19:00 / 開演19:20\n\n■募集方法\n『#手羽センセトリ考え隊』をつけて"6曲分"のセトリをポストしてください。\nポストの中からセトリを選んで披露します！\n※4/23(木)24:00まで\n\n🎫前売り2\,000円/当日2\,500円（各+1D)\n購入▶︎ t-dv.com/tebasen_0425\nhttps://timetr.ee/p/tebasen_info/2924145267735725457
-SUMMARY:手羽先センセーション単独公演『#手羽センセトリ考え隊』
-UID:7e65ba3e-06d8-470b-82fc-191461e3eed3@7e65.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260412
-DTEND;VALUE=DATE:20260413
-DESCRIPTION:手羽先センセーション3rdワンマンライブ 『未完成-LEGIT-』\n\n■DIAMOND HALL\n■開場16:00/開演17:00\n\n🎫4\,000円(別途1D)\n\n購入▶︎https://ticketdive.com/event/tebasen_0412oneman\nhttps://timetr.ee/p/tebasen_info/2870859698851480959
-SUMMARY:3rd ワンマンライブ 『未完成-LEGIT-』
-UID:13447ef2-b484-4228-97cb-2b5dca69442a@1344.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260914
-DTEND;VALUE=DATE:20260915
-DESCRIPTION:『手羽先センセーショントークライブ～おしゃべりセンセーション～』\n\n■シアターギルド代官山\n■開場18:30/開演19:00\n\n※手羽先センセーションからは、👽松山綺利、🧸夏姫えれな、🥞工藤鈴菜のみの出演となります。\n\n🎫S席 4\,500円/A席 2\,500円/当日券立見席Bチケット 2\,500円\n\n購入▶︎t-dv.com/talklive_0914\nhttps://timetr.ee/p/tebasen_info/3050222151681901624
-SUMMARY:『手羽先センセーショントークライブ～おしゃべりセンセーション～』
-UID:8af7c90c-db87-4755-b526-bee232b0f66a@8af7.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261029
-DTEND;VALUE=DATE:20261030
-DESCRIPTION:『神奈川単独公演』\n\n■川崎セルビアンナイト\n■開場18:40/開演19:00\n\n🎃ハロウィン仮装コス特典会👻⟡.·\n\n🎫優先チケット3\,000円/前売1\,500円/当日2\,000円(各+1D)\n\n購入▶︎ t-dv.com/kanagawa_1029\n先行抽選：〜10/12(月祝)12:00\n一般先着：10/12(月祝)22:00〜10/28(水)23:59\nhttps://timetr.ee/p/tebasen_info/3065640964585883104
-SUMMARY:『神奈川単独公演』
-UID:cd152345-4c18-473c-9dbb-f318e307e0ca@cd15.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260527
-DTEND;VALUE=DATE:20260528
-DESCRIPTION:『名古屋合同定期公演vol.7』\n\n■ZephyrHall\n■開場18:30 / 開演18:55\n\n📢出演順は当日決定\n\n🎫前方チケット 2\,000円/前売券500円/当日＋500円(各別途1D代)\n\n購入▶︎t-dv.com/nagoyagodo_vol7\nhttps://timetr.ee/p/tebasen_info/2938689982074128023
-SUMMARY:『名古屋合同定期公演vol.7』
-UID:e5098d69-8ebf-4889-896e-a01b063165f2@e509.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261107
-DTEND;VALUE=DATE:20261108
-DESCRIPTION:手羽先センセーション\n『New mini Album 配信記念公演』\n\n■Lives Nagoya\n■開場17:00/開演17:30\n\n━━━━━━━━━━━\nﾟ⋆˙⟡ 新曲初披露 ⟡˙⋆ﾟ\n━━━━━━━━━━━\n\n🎫前方エリア8\,000円(定点DVD付き)/一般チケット2\,000円/後方無料\n\n購入▶︎ t-dv.com/tebasen_1107\nhttps://timetr.ee/p/tebasen_info/3053599725153879555
-SUMMARY:『New mini Album 配信記念公演』
-UID:7bc9052d-22c6-423e-b443-6ded4cdbb49f@7bc9.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260723
-DTEND;VALUE=DATE:20260724
-DESCRIPTION:『手羽先センセーショントークライブ～おしゃべりセンセーション～』\n\n■シアターギルド代官山\n■開場18:30/開演19:00\n\n※手羽先センセーションからは、松山綺利、夏姫えれな、雛汰ゆらのみの出演となります。\n\n🎫S席 4\,500円/A席 2\,500円/当日券・立見席Bチケット 2\,500円\n\n購入▶︎ t-dv.com/talklive_0723\nhttps://timetr.ee/p/tebasen_info/2986558811219101539
-SUMMARY:『手羽先センセーショントークライブ～おしゃべりセンセーション～』
-UID:0c4268df-e6a2-4372-80d5-783357ddc4d9@0c42.org
+UID:8bf0f1aa-f64b-4552-9ff2-4e04557c2615@8bf0.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260906
 DTEND;VALUE=DATE:20260907
 DESCRIPTION:手羽先センセーション\n『選抜ツアー2026』福岡公演\n\n■INSA Fukuoka\n■開場15:30/開演16:00\n\n🎫優先エリア￥4\,000/一般チケット￥1\,500/当日各＋￥500 (各＋1D)\n\n購入▶︎https://ticketdive.com/event/tour2026_fukuoka\n先行抽選：~8/9(日)12:00\n一般先着：8/9(日)22:00~9/5(土)23:59\nhttps://timetr.ee/p/tebasen_info/2965479206051841870
 SUMMARY:手羽先センセーション『選抜ツアー2026』福岡公演
-UID:b0286365-64eb-4939-89c3-2d8c60a8de5a@b028.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260526
-DTEND;VALUE=DATE:20260527
-DESCRIPTION:『ハルライズ FREE』\n\n■川崎 CLUB CITTA'\n■開場14:45 / 開演15:15\n\n🎤17:45-18:10\n📸18:20-19:30【A】\n\n🎫優先エリア¥5\,000/ 一般¥0（各＋D代）\n購入▶︎ t-dv.com/HNSRise_vol3\nhttps://timetr.ee/p/tebasen_info/2938691678611375595
-SUMMARY:『ハルライズ FREE』
-UID:f2c83547-a289-4641-91d5-b96255504ada@f2c8.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260718
-DTEND;VALUE=DATE:20260719
-DESCRIPTION:『SEKIGAHARA IDOL WARS 2026-関ケ原唄姫合戦-』\n\n■桃配運動公園\n\n🎤19:30-19:55【徳川ステージ】\n📸20:15-21:35【1】\n\n🎫チケット購入▶︎t-dv.com/SEKIGAHARA_2026\nhttps://timetr.ee/p/tebasen_info/2951589717126612990
-SUMMARY:『 SEKIGAHARA IDOL WARS 2026 - 関ケ原唄姫合戦- 』
-UID:60b008b8-5e2a-4392-9d52-6caeb57a6d06@60b0.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261003
-DTEND;VALUE=DATE:20261004
-DESCRIPTION:『手羽先センセーション ONE MAN LIVE IN TAIPEI presented by @JAM TAIPEI』\n\n■MOON DOG\n■開場19:30/開演20:00\n\n🎫チケット料金\n前売り限定Sチケット：3\,500NTD\nVIPチケット：2\,200NTD\nGAチケット：800NTD\n\n購入▶︎https://tickets.funone.io/activity/activity_detail/1003tebasen\nhttps://timetr.ee/p/tebasen_info/3064037127596999916
-SUMMARY:『手羽先センセーション ONE MAN LIVE IN TAIPEI presented by @JAM TAIPEI』
-UID:ea6cca7c-1ab8-4a11-b57d-b79b3d4c84cb@ea6c.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260725
-DTEND;VALUE=DATE:20260726
-DESCRIPTION:『TOKYO GIRLS GIRLS~6th Anniversary day2~』\n\n■品川インターシティホール / 品川グランドホール\n■開場8:00/開演8:15 ※変更の可能性あり\n🗓️出演時間等後日公開\n\n🎁コメント付きチェキ券\n\n🎫前方10\,000円 / 通常4\,000円 / 当日5\,000円(各＋1D)\n\n購入▶︎tiget.net/events/502976\nhttps://timetr.ee/p/tebasen_info/2973536943428011267
-SUMMARY:『TOKYO GIRLS GIRLS~6th Anniversary day2~』
-UID:07b8e092-df18-4802-a336-8d62cf8dc5ab@07b8.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260429
-DTEND;VALUE=DATE:20260430
-DESCRIPTION:『UP-T FESTIVAL vol.7』\n\n■神田スクエアホール\n■開場10:45/開演11:00\n\n🎤20:40-21:00\n📸21:30-22:30【終演後】\n\n🎁コメント付きチェキ券\n\n🎫前方6\,500円/一般3\,000円/当日各＋1\,000円（各D(700円)別）\n\n購入▶︎ tiget.net/events/477125\nhttps://timetr.ee/p/tebasen_info/2919094350292386983
-SUMMARY:『UP-T FESTIVAL vol.7』
-UID:1cb702ff-6520-4460-a0bf-a420d54a7cf7@1cb7.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260726
-DTEND;VALUE=DATE:20260727
-DESCRIPTION:手羽先センセーション\n『選抜ツアー2026』静岡公演\n\n■Livehouse 浜松窓枠\n■開場17:30 / 開演18:00\n\n🎫優先エリア￥4\,000/一般チケット￥1\,500/当日各＋￥500 (各＋1D)\n\n購入▶︎https://ticketdive.com/event/tour2026_shizuoka\n先行抽選：~7/5(日)12:00\n一般先着：7/5(日)22:00~7/25(土)23:59\nhttps://timetr.ee/p/tebasen_info/2965478782989174499
-SUMMARY:手羽先センセーション『選抜ツアー2026』静岡公演
-UID:0d8613a0-c622-4a49-a56a-28433f68492a@0d86.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260607
-DTEND;VALUE=DATE:20260608
-DESCRIPTION:『手羽先センセーション新体制1周年記念公演』\n\n■Zephyr Hall\n■開場18:00 / 開演18:30\n\n🎫Sチケット3\,000円/Aチケット1\,000円/当日各＋500円 (各+1D）\n\n購入▶︎https://ticketdive.com/event/1st_year_anniversary_0607\nhttps://timetr.ee/p/tebasen_info/2973535362091517658
-SUMMARY:『手羽先センセーション新体制1周年記念公演』
-UID:aa5092ef-2d42-467b-b5c6-91b0f2ff8883@aa50.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261019
-DTEND;VALUE=DATE:20261020
-DESCRIPTION:■P.A.R.M.S秋葉原\n■開場19:00/開演19:30\n\n🎁来場者全員に特典券1枚配布⟡.·\n\n🎫優先エリア3\,000円/🉐一般エリア0円🉐(要予約)/当日券各+500円(各+1D)\n\n購入▶︎https://ticketdive.com/event/otameshi_teba1019\nhttps://timetr.ee/p/tebasen_info/3067438494357325761
-SUMMARY:『お試し手羽セン公演』
-UID:5e0f8af6-9875-4f9b-ae6d-f6ae5efb363c@5e0f.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260516
-DTEND;VALUE=DATE:20260517
-DESCRIPTION:『ッスッゴイライブin名古屋』\n\n■DIAMONDHALL\n■開場11:00 / 開演11:30\n\n🎤18:45-19:10\n📸20:30-21:30【終演後】\n\n🎁コメント付きチェキ券\n\n🎫前方5\,000円/一般2\,500円/当日各＋1\,000円(各＋1D)\n\n購入▶︎https://ticketdive.com/event/ssuggoiLiveNagoya0516\nhttps://timetr.ee/p/tebasen_info/2920333463205119130
-SUMMARY:『ッスッゴイライブin名古屋』
-UID:b365363c-2a44-4a41-ad22-ca28a1356da0@b365.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261101
-DTEND;VALUE=DATE:20261102
-DESCRIPTION:『アイドル甲子園 in KANDA SQUARE HALL』supported by My-th -DAY2-\n\n■KANDA SQUARE HALL\n■開場09:00/開演09:15\n出演時間等後日公開🗓️\n\n🎁コメント付きチェキ券\n\n🎫前方エリア8\,500円/一般エリア3\,500円/当日券各+1\,000円(各+1D)\n\n購入▶︎https://user.my-th.jp/?redirect=/tickets/event/aikou_1101\nhttps://timetr.ee/p/tebasen_info/3064030602753148143
-SUMMARY:『アイドル甲子園 in KANDA SQUARE HALL』supported by My-th -DAY2-
-UID:f2c2bfe1-03d1-4e71-becc-79dcaacc9425@f2c2.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261226
-DTEND;VALUE=DATE:20261227
-DESCRIPTION:https://timetr.ee/p/tebasen_info/3080764243575244679
-SUMMARY:名古屋 イベント予定
-UID:13b2d864-cbe0-4f72-8899-fb765282e98a@13b2.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260605
-DTEND;VALUE=DATE:20260606
-DESCRIPTION:https://timetr.ee/p/tebasen_info/2963984242516100313
-SUMMARY:『手羽先サミット2026』
-UID:f045d908-64fd-4de2-985d-b67b5d423e89@f045.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260922
-DTEND;VALUE=DATE:20260923
-DESCRIPTION:手羽先センセーション\n『選抜ツアー2026』名古屋公演\n\n■DIAMOND HALL\n■開場15:00/開演16:00\n\n🎫優先エリア￥4\,000/一般チケット￥1\,500/当日各＋￥500 (各＋1D)\n\n購入▶︎https://ticketdive.com/event/tour2026_nagoya\n先行抽選：~8/25(火)12:00\n一般先着：8/25(火)22:00~9/21(月)23:59\nhttps://timetr.ee/p/tebasen_info/2965479401338635293
-SUMMARY:手羽先センセーション『選抜ツアー2026』名古屋公演
-UID:d59a1cba-6c3f-4d56-89bb-b0ebfd8a0339@d59a.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261117
-DTEND;VALUE=DATE:20261118
-DESCRIPTION:『MARQUEE Fes.』\n\n■Spotify O-EAST\n■開場14:00/開演14:30\n\n 🎤17:00-17:20\n📸17:35-18:35【ブースB(2F)】\n\n🎁コメント付きチェキ券\n\n🎫前方エリア11\,000円/前売4\,500円/当日5\,500円(各+1D)\nhttps://timetr.ee/p/tebasen_info/3067443732925581196
-SUMMARY:『MARQUEE Fes.』
-UID:a4bddda1-7ea1-4f16-9cb9-7710b5f919fa@a4bd.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261221
-DTEND;VALUE=DATE:20261222
-DESCRIPTION:https://timetr.ee/p/tebasen_info/3080763893862565589
-SUMMARY:都内 イベント予定
-UID:b366b535-cea5-42c8-bdfc-7aea07754cbc@b366.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261118
-DTEND;VALUE=DATE:20261119
-DESCRIPTION:『2MAN LIVE』\n\n■NAGOYA JAMMIN'\n■開場18:30/開演19:00\n\n🎫前方3\,000円/後方500円/当日各+500円(各別途1D)\n\n購入▶︎ t-dv.com/2MAN_1118\n※一般先着：10/1(木)22:00〜11/17(火)23:59\nhttps://timetr.ee/p/tebasen_info/3067443255546676698
-SUMMARY:『2MAN LIVE』
-UID:1fa7acfc-c797-4629-9832-3b65cb9141c8@1fa7.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260510
-DTEND;VALUE=DATE:20260511
-DESCRIPTION:『お試し手羽セン公演』\n\n■新栄シャングリラ\n■開場15:00 / 開演15:20\n\n🎁来場者全員にお試しチェキ券1枚配布✧*｡\n\n🎫優先エリア2\,000円/一般入場 0円(要予約)/当日券各＋500円（各+1D）\n\n購入▶︎https://ticketdive.com/event/otameshi_teba0510\n5/6(水)22:00~販売開始\nhttps://timetr.ee/p/tebasen_info/2938689837731349831
-SUMMARY:『お試し手羽セン公演』
-UID:848f7428-8336-49e6-8340-5dd9b47b1e24@848f.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260814
-DTEND;VALUE=DATE:20260815
-DESCRIPTION:『SHOW TIME』\n\n■ヒューリックホール東京\n■開場13:40/開演14:10 \n\n🎤19:15-19:40\n📸20:40-21:40【終演後】\n\n🎁コメント付きチェキ券\n\n🎫前方5\,000円 / 一般2\,000円(各＋1D)\n\n購入▶︎t-dv.com/SHOWTIME0814\nhttps://timetr.ee/p/tebasen_info/2986560128599655522
-SUMMARY:『SHOW TIME』
-UID:21ac95ac-b24d-47b8-9ec5-9fb2a0019340@21ac.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260504
-DTEND;VALUE=DATE:20260505
-DESCRIPTION:『JAPAN CENTRAL IDOL FESTIVAL 2026 COAST IN UTSUMI』\n\n■内海海岸 Comas hui beach park\n■開場9:00/開演10:00\n\n1️⃣\n🎤13:50-14:10 【SKY STAGE】\n📸14:25-15:35 【24】\n\n2️⃣\n🎤18:05-18:25 【CENTRAL STAGE】\n📸18:40-19:50 【2】\n\n🎫4\,500円〜\n\n購入▶︎https://ticketdive.com/event/JCIF2026_02_03_04\nhttps://timetr.ee/p/tebasen_info/2938697927142868721
-SUMMARY:『JAPAN CENTRAL IDOL FESTIVAL 2026 COAST IN UTSUMI』
-UID:3353482f-1346-486c-a404-8f5b4bf68b1d@3353.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261012
-DTEND;VALUE=DATE:20261013
-DESCRIPTION:『HERO GATE』\n\n■代々木公園野外ステージ\n■開場10:45/開演11:05\n\n🎤12:35-12:54\n📸13:15-14:15【F･G】\n\n🎫前方エリア9\,900円/後方エリア5\,500円(各+1D)\n※前方エリア完売、後方エリア残りわずか\n購入▶︎tiget.net/events/503971\n\n詳細はこちら⏬\nherogate.jp\nhttps://timetr.ee/p/tebasen_info/3027847039288804393
-SUMMARY:『HERO GATE』
-UID:b509f23d-b777-4208-93b6-e9dec058f08b@b509.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261109
-DTEND;VALUE=DATE:20261110
-DESCRIPTION:『名古屋定期公演vol.3』\n\n■NAGOYA JAMMIN'\n■開場19:00/開演19:20\n\n🏃‍♀️メンカラジャージ公演🏃‍♀️\n\n🎫優先エリア3\,000円/前売1\,000円/当日各+500円(各+1D)\n\n購入▶︎ t-dv.com/nagoya_03\n先行抽選：〜10/23(金)12:00\n一般先着：10/23(金)22:00〜11/8(日)23:59\nhttps://timetr.ee/p/tebasen_info/3053599926539192319
-SUMMARY:『名古屋定期公演vol.3』
-UID:58943cd8-6b4f-4edb-9cd3-bc74a43e7916@5894.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260716
-DTEND;VALUE=DATE:20260717
-DESCRIPTION:『絆（キズナ）presents 名阪交流戦』\n\n■バナナホール\n■開場18:10 / 開演18:35\n\n🎤20:15-20:40\n📸21:10-22:20【終演後】\n\n🎁コメント付きチェキ券\n\n🎫前方エリア4\,000円 / 一般エリア2\,000円 / 当日券各＋1\,000円 (各＋1D)\n\n購入▶︎livepocket.jp/e/68iew\nhttps://timetr.ee/p/tebasen_info/2973536683322443564
-SUMMARY:『絆（キズナ）presents 名阪交流戦』
-UID:b8adaf38-5540-41c7-919f-7398577b1db3@b8ad.org
+UID:38ef251d-db0a-4266-a5f6-baea10f61044@38ef.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260706
 DTEND;VALUE=DATE:20260707
 DESCRIPTION:『手羽先セッション出張版-in Tokyo-』\n\n■神田明神ホール\n■開場17:30 / 開演18:00\n\n1️⃣🎤18:00-18:15\n2️⃣🎤20:45-21:10\n📸21:10-22:10【終演後】\n\n🎁ノーマルチェキ券\n\n🎫前方4\,000円 / 一般2\,000円 / 当日各＋500円 (各＋1D)\n\n購入▶︎https://ticketdive.com/event/tebasession_tokyo\nhttps://timetr.ee/p/tebasen_info/2973536450161083828
 SUMMARY:『手羽先セッション出張版-in Tokyo-』
-UID:fe2962a5-f67d-4190-9a06-7936e36d3b26@fe29.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261121
-DTEND;VALUE=DATE:20261122
-DESCRIPTION:『DOLLttoFes2026』\n\n■ElectricLadyLand/ell.FITS ALL/ell.SIZE\n■開場13:00/開演14:00\n出演時間等後日公開🗓️\n\n🎫Sチケット8\,800円(ElectricLadyLand前方エリア)/一般前売5\,500円/一般当日6\,500円(各+1D)\n\n購入▶︎https://t.pia.jp/pia/event/event.do?eventCd=2637257\n\n詳細はこちらから⏬\ndollttofes.info\nhttps://timetr.ee/p/tebasen_info/3053600166017172761
-SUMMARY:『DOLLttoFes2026』
-UID:0668212c-10c0-4965-90df-ea823c95063f@0668.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261230
-DTEND;VALUE=DATE:20261231
-DESCRIPTION:https://timetr.ee/p/tebasen_info/3080764335581496479
-SUMMARY:名古屋 イベント予定
-UID:f61a3294-306c-4d44-99f7-f9fc8be9a59c@f61a.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261214
-DTEND;VALUE=DATE:20261215
-DESCRIPTION:https://timetr.ee/p/tebasen_info/3080763273558558016
-SUMMARY:名古屋 イベント予定
-UID:d421fac1-dd63-465a-8bf1-f4367d47b2fd@d421.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261022
-DTEND;VALUE=DATE:20261023
-DESCRIPTION:『手羽先センセーショントークライブ～おしゃべりセンセーション～』\n\n■シアターギルド代官山\n■開場18:30/開演19:00\n\n※手羽先センセーションからは、🐩宮代柚花👽松山綺利、🪼瀬名えまのみの出演となります。\n\n🎫S席 4\,500円/A席 2\,500円/当日券立見席Bチケット 2\,500円\n購入▶︎ t-dv.com/talklive_1022\nhttps://timetr.ee/p/tebasen_info/3079547535200028432
-SUMMARY:『手羽先センセーショントークライブ～おしゃべりセンセーション～』
-UID:03c08df3-492f-4873-a1ac-30acecf0f768@03c0.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261025
-DTEND;VALUE=DATE:20261026
-DESCRIPTION:『HALLOWEENチェキ会』\n\n■ ナカトウ丸の内ビル\n📍名古屋市中区丸の内3-17-6 ナカトウ丸の内ビル２階\n■受付開始 13:50〜/チェキ会 14:00〜15:30\n\n入場無料🉐(予約不要)\n\n･特典券1枚…写メ\n･特典券2枚…コメント付きチェキ\n📸特別レギュレーション📸\n･特典券1枚…15秒静止画撮影(1sのみ)\nhttps://timetr.ee/p/tebasen_info/3080748433565746302
-SUMMARY:『HALLOWEENチェキ会』
-UID:508c0af3-648b-44b7-9c90-5b67a5324b3a@508c.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260926
-DTEND;VALUE=DATE:20260927
-DESCRIPTION:『アイドル甲子園 in 品川インターシティホールsupported by My-th』\n\n■品川インターシティホール\n■開場8:45/開演9:00\n\n🎤18:05-18:30\n📸18:50-20:10【E】\n\n🎁コメント付きチェキ券\n\n🎫前方エリア8\,500円/一般チケット3\,500円当日券各＋1\,000円/(各＋1D)\n\n購入▶︎https://user.my-th.jp/?redirect=/tickets/event/aikou_0926\nhttps://timetr.ee/p/tebasen_info/3027841813999715474
-SUMMARY:『アイドル甲子園 in 品川インターシティホールsupported by My-th』
-UID:c06d96df-a511-493d-a13c-c7d5cce191bf@c06d.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261119
-DTEND;VALUE=DATE:20261120
-DESCRIPTION:https://timetr.ee/p/tebasen_info/3080749234350654853
-SUMMARY:大阪 イベント予定
-UID:2162d68d-2577-4b58-a1bd-7d641da2043b@2162.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260830
-DTEND;VALUE=DATE:20260831
-DESCRIPTION:@ JAM EXPO 2026 supported by UP-T『アイドル大運動会』\n\n詳細は近日公開🗓️\nhttps://timetr.ee/p/tebasen_info/3027845870227227778
-SUMMARY:@ JAM EXPO 2026 supported by UP-T『アイドル大運動会』
-UID:89ac89a7-496d-4cfb-b0b9-7ad9060e1642@89ac.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260725
-DTEND;VALUE=DATE:20260726
-DESCRIPTION:『10年目記念で有明に引っ越しだよ！\n六本木アイドルフェスティバル2026』\n\n■東京ドリームパーク(SGCホール有明\,ドリームテラス) / TFTホール\n\n🎤15:45-16:05【GOLD STAGE】\n📸16:35-17:35【G】\n\n🎫一般チケット8\,500円 / DREAMチケット28\,000円\n \n購入▶︎ https://ticket.tv-asahi.co.jp/ex/project/rif2026\n\nイベント詳細はこちら▶︎tv-asahi.co.jp/idolfes/\nhttps://timetr.ee/p/tebasen_info/2997912003919938563
-SUMMARY:『10年目記念で有明に引っ越しだよ！六本木アイドルフェスティバル2026』
-UID:b26a3ee2-0911-4c13-97ba-95ff21de0a90@b26a.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261106
-DTEND;VALUE=DATE:20261107
-DESCRIPTION:https://timetr.ee/p/tebasen_info/3053598962008655639
-SUMMARY:名古屋 イベント予定
-UID:a32d23ac-9edc-4f09-a3a2-6bf56d48394a@a32d.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260712
-DTEND;VALUE=DATE:20260713
-DESCRIPTION:『GMO 渋谷エンタメ祭2026』 \n\n■代々木公園 野外ステージ\n\n🎤14:50-15:10【代々木公園 野外ステージ】\n🎤15:40-16:00【代々木公園 やぐらステージ】\n📸16:00-17:00【野外ステージ横物販テント内】\n\n🎫入場無料✨\n\n🫧イベント詳細🫧\nhttps://www.jame.or.jp/gmo_shibuya_entertainment_fes/\nhttps://timetr.ee/p/tebasen_info/2986559025690642069
-SUMMARY:『GMO 渋谷エンタメ祭2026』
-UID:5164a391-b23a-48b2-9410-e1534f1fc57d@5164.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260528
-DTEND;VALUE=DATE:20260529
-DESCRIPTION:『瀬名えまプロデュース公演』\n\n■NAGOYA JAMMIN'\n■開場18:30/開演19:00\n\n🎁定点DVD\n※Sチケット購入者のみ\n\n🎫Sチケット4\,000円/前売1\,500円/当日各＋500円(各+1D)\n\n購入▶︎ t-dv.com/ema_produce\nhttps://timetr.ee/p/tebasen_info/2938683492646979534
-SUMMARY:『瀬名えまプロデュース公演
-UID:9c9b768a-ba45-439a-a902-261dda197247@9c9b.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261026
-DTEND;VALUE=DATE:20261027
-DESCRIPTION:『名古屋定期公演vol.2』\n\n■NAGOYA JAMMIN'\n■開場19:00/開演19:20\n\n👻ハロウィン衣装公演🎃\n\n🎫優先エリア3\,000円/前売1\,000円/当日各+500円(各+1D)\n\n購入▶︎ t-dv.com/nagoya_02\nhttps://timetr.ee/p/tebasen_info/3032106416170534117
-SUMMARY:『名古屋定期公演vol.2』
-UID:735a25f0-a162-479a-8cc7-0f17385f56d5@735a.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260419
-DTEND;VALUE=DATE:20260420
-DESCRIPTION:『かがやきフェスSpring2026』\n\n■開場10:30/開演11:00\n\n■Eight Hall\n🎤14:15〜14:40\n📸15:10〜16:10【Eight Hall 4F B】\n\n🎫2日通し券12\,000円/1日券6\,600円(各+1D)\n\n購入▶︎ tiget.net/events/457086\n\n公式HPはこちら⏬\nkagayaki-fes.jp/spring2026/\nhttps://timetr.ee/p/tebasen_info/2884358225443358631
-SUMMARY:『かがやきフェスSpring2026』
-UID:ef47c948-f595-4980-88a6-458478b00956@ef47.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260811
-DTEND;VALUE=DATE:20260812
-DESCRIPTION:手羽先センセーション『選抜ツアー2026』大阪公演\n\n■ESAKA MUSE\n■開場17:30/開演18:00\n\n🎫優先エリア￥4\,000/一般チケット￥1\,500/当日各＋￥500 (各＋1D)\n\nチケット購入▶︎t-dv.com/tour2026_osaka\n先行抽選：〜7/19(日)12:00\n一般先着：7/19(日)22:00〜8/10(月)23:59\nhttps://timetr.ee/p/tebasen_info/2965478936928519444
-SUMMARY:手羽先センセーション『選抜ツアー2026』大阪公演
-UID:72c1b923-bf0b-4e71-9cf3-8fd1ac424e24@72c1.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260619
-DTEND;VALUE=DATE:20260620
-DESCRIPTION:『∞Beats』\n\n■名村造船所跡地\n📢出演日、チケット詳細等後日公開\nhttps://timetr.ee/p/tebasen_info/2951616100078913513
-SUMMARY:『∞Beats』
-UID:5d247f3c-6f06-4799-b040-1f9a99fb6975@5d24.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261108
-DTEND;VALUE=DATE:20261109
-DESCRIPTION:『第27回静大祭in浜松』\n\n■静岡大学浜松キャンパス\n■開場13:00/開演13:30\n\n🎤14:00-14:30\n📸15:00-17:00\n\n🉐ライブ観覧無料🉐\n🎫優先入場チケットはこちらから⏬\nhttps://ticketdive.com/event/shizuokaunivfes2026\n※10/20(火)22:00〜受付開始💫\nhttps://timetr.ee/p/tebasen_info/3053600426684778304
-SUMMARY:『第27回静大祭in浜松』
-UID:1abb9b48-5c24-48c7-9d7d-79f6ecd0e0f2@1abb.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261011
-DTEND;VALUE=DATE:20261012
-DESCRIPTION:『新星堂presents iPop fes. in Nagoya』\n@ アスナル金山〜vol.1〜\n\n■アスナル金山 明日なる！広場　\n\n🉐一般観覧無料🉐\n🎤12:30〜12:50\n📸13:00〜14:30\n\n詳細はこちらから⏬\nhttps://www.asunal.jp/sp/event/detail/?cd=000688\nhttps://timetr.ee/p/tebasen_info/3032106072522818828
-SUMMARY:『新星堂presents iPop fes. in Nagoya』@ アスナル金山〜vol.1〜
-UID:11e0ccd0-c457-443e-8a66-8c76450cd08f@11e0.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260611
-DTEND;VALUE=DATE:20260612
-DESCRIPTION:https://timetr.ee/p/tebasen_info/2963985526015067221
-SUMMARY:手羽先センセーション選抜ツアー　東京公演
-UID:9325ee65-f21f-4cf7-9c3a-586bd3d3c01c@9325.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261004
-DTEND;VALUE=DATE:20261005
-DESCRIPTION:『手羽先センセーション オフ会in TAIPEI』\n\n■台北市内レストラン\n■START 11:00\n■参加費 1\,600NTD\n\nオフ会申し込みフォーム⏬\nhttps://docs.google.com/forms/d/e/1FAIpQLSf4mHmINJBesr8DCXl8lTq5YqAk1sjAArh_H_T0IgM9kDKmnQ/viewform\nhttps://timetr.ee/p/tebasen_info/3064037757933782948
-SUMMARY:『手羽先センセーション オフ会in TAIPEI』
-UID:6ba3ad95-3bad-4ba8-be68-1bff4c4487e8@6ba3.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260916
-DTEND;VALUE=DATE:20260917
-DESCRIPTION:『MARQUEE Fes.』\n\n■Spotify O-EAST\n■開場14:00/開演14:30\n\n🎤18:05-18:30\n📸18:45-19:45【ブースD(3F)】\n\n🎁コメント付きチェキ券\n\n🎫前方11\,000円/一般4\,500円/当日5\,500円(各＋1D)\n\n購入▶︎https://eplus.jp/sf/detail/2029630001-P0030563P021001?P1=0175\nhttps://timetr.ee/p/tebasen_info/3027841062925698811
-SUMMARY:『MARQUEE Fes.』
-UID:51dc28d6-e2dd-45b6-9618-3ab39fd77dd5@51dc.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261115
-DTEND;VALUE=DATE:20261116
-DESCRIPTION:https://timetr.ee/p/tebasen_info/3053600038678103384
-SUMMARY:名古屋 イベント予定
-UID:39353946-088a-43db-bcdc-0aa6794461f0@3935.org
+UID:93558168-6d85-4fb7-ac2f-f42e99fb479c@9355.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
 DESCRIPTION:ART SOUND 15th Anniversary\n『SOUND GARDEN』\n\n■名古屋 栄・大須エリアサーキット\n\n🗓️出演時間等後日公開\n\n🎫2daysチケット11\,500円(2D代込み) / 1dayチケット6\,500円(1D代込み)\n\n購入▶︎https://livepocket.jp/e/soundgarden2026\nhttps://timetr.ee/p/tebasen_info/3064055228459844866
 SUMMARY:『SOUND GARDEN』
-UID:7118c908-8a06-4d8c-9aa8-6c0398fd2947@7118.org
+UID:404085fa-96f3-4bd1-9651-7ddea52f8c43@4040.org
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260630
-DTEND;VALUE=DATE:20260701
-DESCRIPTION:『PAS THE HEAT vol.2』\n\n■duo MUSIC EXCHANGE\n■開場17:00/開演17:30 \n\n🎤18:20-18:45\n📸18:55-19:55【C】\n\n🎁グレードアップ券\n\n🎫前方6\,000円 / 一般1\,000円(各＋1D)\n\n購入▶︎https://ticketdive.com/event/PASTHEHEATvol2\nhttps://timetr.ee/p/tebasen_info/2963986016404702637
-SUMMARY:『PAS THE HEAT vol.2』
-UID:8f2db162-148f-45d1-b892-8540d34674f5@8f2d.org
+DTSTART;VALUE=DATE:20261010
+DTEND;VALUE=DATE:20261011
+DESCRIPTION:『手羽先セッションvol.20』\n\n■THE BOTTOM LINE\n■開場11:30/開演12:00\n■出演\n手羽先センセーション/なみだ色の消しごむ/SEKAIE⭐︎/Malcolm Mask McLaren\n\n🎤13:15-13:40\n📸13:50-15:00\n\n🎫前方4\,500円/後方1\,000円/当日各+500(各別途1D)\n\n購入▶︎ t-dv.com/tebasession_20\nhttps://timetr.ee/p/tebasen_info/3032105847842342564
+SUMMARY:『手羽先セッションvol.20』
+UID:0db74a80-a99d-4a29-ab15-f661e2b26c9e@0db7.org
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260728
-DTEND;VALUE=DATE:20260729
-DESCRIPTION:『欲張りワンダーランドMAX〜ワンウィの生まれた日〜』\n\n■品川ステラボール\n■開場15:00 / 開演15:30\n🗓️出演時間等後日公開\n\n🎁コメント付きチェキ券\n\n🎫Sチケット(前方)7\,500円 / Ａチケット(中央)4\,000円 / Bチケット(後方\,上下見切れ)2\,500円 (各＋1D)\n\n購入▶︎https://ticketdive.com/event/WWTENpresents_0728\nhttps://timetr.ee/p/tebasen_info/2973538059263870856
-SUMMARY:『欲張りワンダーランドMAX〜ワンウィの生まれた日〜』
-UID:7e906ba3-39fc-44fb-a8f9-2a79360ba5e9@7e90.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260802
-DTEND;VALUE=DATE:20260803
-DESCRIPTION:『TOKYO IDOL FESTIVAL 2026 supported by にしたんクリニック』\n\n📍お台場・青海周辺エリア\n\n1️⃣🎤15:00-15:15【SKY STAGE】\n\n2️⃣🎤18:05-18:25【TOROCCO PARK】\n\n🎫チケット購入はこちら⏬\nhttps://official.idolfes.com/s/tif2026/page/ticket?ima=0000\n\n詳細はこちら⏬\nhttps://official.idolfes.com/s/tif2026/\nhttps://timetr.ee/p/tebasen_info/3007717539934832488
-SUMMARY:『TOKYO IDOL FESTIVAL 2026 supported by にしたんクリニック』
-UID:f33d6a40-c754-4104-8ae1-e5b6af820fd7@f33d.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260529
-DTEND;VALUE=DATE:20260530
-DESCRIPTION:『手羽先センセーショントークライブ～おしゃべりセンセーション～』\n\n■シアターギルド代官山\n■開場18:30 / 開演19:00\n\n※松山綺利、雛汰ゆらのみの出演となります。\n\n🎫S席 4\,500円/A席 2\,500円/当日券・立見席Bチケット 2\,500円\n購入▶︎t-dv.com/talklive_0529\nhttps://timetr.ee/p/tebasen_info/2973533175080748199
-SUMMARY:『手羽先センセーショントークライブ～おしゃべりセンセーション～』
-UID:c0bce891-1379-496c-9d76-9fc3c8b0b794@c0bc.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261025
-DTEND;VALUE=DATE:20261026
-DESCRIPTION:ハルニシオンPRESENTS\n『ハルライズ NAGOYA』\n\n■DIAMOND HALL\n■開場12:30/開演13:00\n\n🎤18:45-19:10\n📸終演後\n\n🎁コメント付きチェキ券\n\n🎫優先エリア7\,000円/一般3\,000円(各+1D)\n\n購入▶︎t-dv.com/HNSRise_vol4\nhttps://timetr.ee/p/tebasen_info/3032106309878482549
-SUMMARY:『ハルライズ NAGOYA』
-UID:9b738b12-2cd2-4006-88f4-fe1d66bb0175@9b73.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260530
-DTEND;VALUE=DATE:20260531
-DESCRIPTION:『＠JAM 2026 Day1  2 部〜メインステージ争奪 LIVE〜』\n\n■ZeppDiverCity\n■開場17:00 / 開演18:00\n\n🎫 1F スタンディング¥4\,500(＋1D)\n\n購入▶︎ atjam.jp/ticket\n公式 HP 有料会員先行：4/7(火)12:00~4/18(土)23:59\n公式 HP 有料/無料会員先行：4/19(日)12:00~5/1(金)23:59\n一般販売：5/2(土)10:00~\nhttps://timetr.ee/p/tebasen_info/2938696673196967652
-SUMMARY:『＠JAM 2026 Day1  2 部〜メインステージ争奪 LIVE〜』
-UID:ba7d9592-69b6-46a7-ac62-a51af1db8ca1@ba7d.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260705
-DTEND;VALUE=DATE:20260706
-DESCRIPTION:『超NATSUZOME 2026』\n\n■幕張海浜公園Gブロック特設会場 \n■開場9:00 / 開演10:00\n\n1️⃣🎤10:15-10:30【SOMARIステージ】\n\n📸12:00-13:00【G】\n\n2️⃣🎤13:55-14:10【ZOMEステージ】\n\n🎫一般8\,000円 / VIP27\,000円(各+1D)\n\n購入▶︎https://idol-spot.tstar.jp/event/rileaas/?scid=su_16699\nhttps://timetr.ee/p/tebasen_info/2951602601617458315
-SUMMARY:『超NATSUZOME 2026』
-UID:b9d15d66-b11f-418c-a5c4-34084847f840@b9d1.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260418
-DTEND;VALUE=DATE:20260419
-DESCRIPTION:『かがやきフェスSpring2026』\n\n■開場10:30/開演11:00\n\n1️⃣\n■RED SUN\n🎤14:00〜14:20\n📸14:50〜15:50【HARMONIE 2F F】\n2️⃣\n■石川県教育会館\n🎤17:40〜18:00\n📸18:30〜19:30【石川県教育会館4F 3会議室J】\n\n\n🎫2日通し券12\,000円/1日券6\,600円(各+1D)\n\n購入▶︎ tiget.net/events/457086\n\n公式HPはこちら⏬\nkagayaki-fes.jp/spring2026/\nhttps://timetr.ee/p/tebasen_info/2884358084799956634
-SUMMARY:『かがやきフェスSpring2026』
-UID:ab5f8ce6-3923-481c-a185-a415a648adc5@ab5f.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260404
-DTEND;VALUE=DATE:20260405
-DESCRIPTION:『GIRLS☆DELIGHT#392』\n\n■Zephyr Hall\n■開場11:30/開演12:00\n\n🎤18:10-18:35\n📸20:05-21:25 【終演後】\n\n🎁コメント付きチェキ券\n\n🎫前売り優先5\,000円/前売り一般2\,000円/当日各+1\,000円(各+1D)\n\n購入▶︎https://livepocket.jp/e/girlsdelight392\nhttps://timetr.ee/p/tebasen_info/2919093669741398010
-SUMMARY:『GIRLS☆DELIGHT#392』
-UID:24064574-2be5-4f06-9ef1-0be5ef1fe46e@2406.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261103
-DTEND;VALUE=DATE:20261104
-DESCRIPTION:『宮代柚花生誕祭2026』\n\n■NAGOYA ReNY limited\n■開場16:30/開演17:00\n\n🎫SSチケット12\,000円 / Sチケット5\,000円/ 通常チケット前売1\,500円/当日2\,000円 (各＋1D代)\n\n購入▶︎https://ticketdive.com/event/yuzuka_birthday2026\n先行抽選：〜9/13(日)12:00(SSチケットのみ)\n一般先着：9/13(日)22:00〜11/2(月)23:59\nhttps://timetr.ee/p/tebasen_info/3053595740086928767
-SUMMARY:『宮代柚花生誕祭2026』
-UID:b77026be-ed87-4b88-b225-89a91c0b02e7@b770.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260606
-DTEND;VALUE=DATE:20260607
-DESCRIPTION:https://timetr.ee/p/tebasen_info/2973534600456242366
-SUMMARY:『手羽先サミット2026』
-UID:09480460-d3e9-4da2-9d90-d734bff80aaa@0948.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260628
-DTEND;VALUE=DATE:20260629
-DESCRIPTION:『IDOL MIX 2』\n\n■グレースバリ渋谷\n■開場18:00 / 開演18:20\n\n🎤19:50-20:20\n📸20:30-21:30【終演後】\n\n🎁ソロ自撮り写メ\n\n🎫優先エリア3\,500円/一般入場1\,500円/当日券各+500円（各＋1D）\n\n購入▶︎t-dv.com/idolmix_0628\nhttps://timetr.ee/p/tebasen_info/2974926300839871563
-SUMMARY:『IDOL MIX 2』
-UID:845c28a0-ab2b-4ab0-aefa-98025796c74c@845c.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260823
-DTEND;VALUE=DATE:20260824
-DESCRIPTION:『夏姫えれな生誕祭2026』\n\n■THE BOTTOM LINE\n■開場16:30 / 開演17:00\n\n🎫SSチケット12\,000円 / Sチケット4\,000円 / 通常チケット前売1\,500円/当日2\,000円 (各＋1D代)\n\n購入▶︎https://ticketdive.com/event/erena_birthday2026\n先行抽選：~7/1(水)12:00まで【SSチケットのみ】\n一般先着：7/1(水)22:00~8/22(土)23:59まで\nhttps://timetr.ee/p/tebasen_info/2997912968811185768
-SUMMARY:『夏姫えれな生誕祭2026』
-UID:bbdf4159-40ba-49e8-85f6-f6e1de82f366@bbdf.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260614
-DTEND;VALUE=DATE:20260615
-DESCRIPTION:『rock field ULTRA LIVE in GOTANDA』\n\n■五反田シティホール\n■開場12:00/開演12:10\n\n🎤13:10-13:30\n📸13:35-14:35【D】\n\n🎁ノーマルチェキ券\n\n🎫 Sチケット 6\,000円 (前方エリア、指定グループ静止画撮影可能) / Aチケット 2\,000円(撮影不可) / 当日 各+¥1\,000 (各＋1D)\n\n購入▶︎buzz-ticket.com/e/rf0614\n　\n※手羽先センセーションのライブは撮影不可となります。ご了承ください。\nhttps://timetr.ee/p/tebasen_info/2963985795440379080
-SUMMARY:『rock field ULTRA LIVE in GOTANDA』
-UID:412a0c7e-f15f-4882-af04-f5dbfe52bfba@412a.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260518
-DTEND;VALUE=DATE:20260519
-DESCRIPTION:『Buzz Buzz Premium!!』\n\n■Spotify O-EAST\n■開場13:30 / 開演13:50\n\n🎤18:15-18:35\n📸19:10-20:20【C】\n\n🎁コメント付きチェキ券\n\n🎫前方8\,000円 / 一般3\,500円 / 当日各+500円 (各＋1D)\n\n購入▶︎t-dv.com/BBP_260518\nhttps://timetr.ee/p/tebasen_info/2960132074335831285
-SUMMARY:『 Buzz Buzz Premium!! 』
-UID:a6d7ffe3-f9b0-4703-ba10-63b97011e102@a6d7.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260815
-DTEND;VALUE=DATE:20260816
-DESCRIPTION:『POP GALAXY 2026』\n\n■お台場R地区\n■開場9:00 / 開演10:00（予定）\n🗓️出演時間等後日発表\n\n🎫VIPチケット20\,000円 / 一般チケット4\,500円 (各＋1D)\nhttps://timetr.ee/p/tebasen_info/2986560240856008089
-SUMMARY:『POP GALAXY 2026』
-UID:8500d8eb-a00e-4d7d-a7bd-c65de0d5c2c9@8500.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261015
-DTEND;VALUE=DATE:20261016
-DESCRIPTION:『テンラン会』\n\n■NAGOYA ReNY limited\n■開場15:00/開演15:40\n\n🎤17:40-18:05\n📸18:15-19:15【3】\n\n🎁コメント付きチェキ券\n\n🎫優先エリア 6\,000円/一般エリア2\,500円/女性 2\,000円/当日各+500円(各別途1D)\n\n購入▶︎ t-dv.com/tenrankai_1015\nhttps://timetr.ee/p/tebasen_info/3040900441191155681
-SUMMARY:『テンラン会』
-UID:764944b9-e092-48bf-a41d-bfb03f2ab33f@7649.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260926
-DTEND;VALUE=DATE:20260927
-DESCRIPTION:『手羽先センセーション』×『BRODY』コラボイベント\n\n■高田馬場BSホール\n■開場12:15/開演12:30\n\n会場限定オリジナルグッズの購入で特典会への参加が可能📸\n\n🎫前売券500円/当日券1\,000円\n\n購入▶︎ tiget.net/events/521821\nhttps://timetr.ee/p/tebasen_info/3032103271231064011
-SUMMARY:『手羽先センセーション』×『BRODY』コラボイベント
-UID:3a2034cf-110a-4150-8ff8-58ee2495ecfa@3a20.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260405
-DTEND;VALUE=DATE:20260406
-DESCRIPTION:『手羽先セッションvol.18』\n\n■THE BOTTOM LINE\n■開場17:00/開演17:30\n\n🎤18:45-19:10\n📸19:10-20:30\n\n🎫前方エリア 3\,300円/一般チケット1\,300円/女性チケット 500円/当日各+500円(各+1D)\n\n■出演　\n手羽先センセーション/Sweet Alley/THE ENCORE/VVSiS\n\n購入▶︎ t-dv.com/tebasession_18\n先行抽選:〜3/16(月)12:00\n一般先着:3/16(月)22:00〜4/4(土)23:59\nhttps://timetr.ee/p/tebasen_info/2919093763215656219
-SUMMARY:『手羽先セッションvol.18』
-UID:825a60ec-e5ac-4874-8e28-8b9d4c7f16e8@825a.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260704
-DTEND;VALUE=DATE:20260705
-DESCRIPTION:『浴衣チェキ会』\n\n■ふれあい貸し会議室 五反田松楽\n📍東京都品川区東五反田2-2-2\n\n■受付15:50 / 開始16:00\n\n🉐入場無料🉐(予約不要)\n\n特典券1枚→写メ(トークあり)\n特典券2枚→コメント付きチェキ\n\n🫧特別レギュレーション🫧\n特典券1枚→15秒静止画撮影(ソロのみ)\n特典券1枚→あなたへの願い短冊🎋\nhttps://timetr.ee/p/tebasen_info/3000979478572107343
-SUMMARY:『浴衣チェキ会』
-UID:86779c06-520e-43aa-8034-18091f779482@8677.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261130
-DTEND;VALUE=DATE:20261201
-DESCRIPTION:■なんばhatch\n■開場11:30/開演12:00\n出演時間等後日公開🗓️\n\n🎫優先6\,000円/一般3\,000円/当日+各1\,000円(各+1D)\n\n購入▶︎ t-dv.com/VIVIDSOUND1130\nhttps://timetr.ee/p/tebasen_info/3064042158421379056
-SUMMARY:『VIVID SOUND
-UID:114fca9e-3115-4cd5-a939-1b575ba94d60@114f.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261201
-DTEND;VALUE=DATE:20261202
-DESCRIPTION:https://timetr.ee/p/tebasen_info/3068031585493649035
-SUMMARY:名古屋 イベント予定
-UID:c2a17653-2c22-40b1-8a4f-667cd2a65920@c2a1.org
+DTSTART;VALUE=DATE:20260510
+DTEND;VALUE=DATE:20260511
+DESCRIPTION:『お試し手羽セン公演』\n\n■新栄シャングリラ\n■開場15:00 / 開演15:20\n\n🎁来場者全員にお試しチェキ券1枚配布✧*｡\n\n🎫優先エリア2\,000円/一般入場 0円(要予約)/当日券各＋500円（各+1D）\n\n購入▶︎https://ticketdive.com/event/otameshi_teba0510\n5/6(水)22:00~販売開始\nhttps://timetr.ee/p/tebasen_info/2938689837731349831
+SUMMARY:『お試し手羽セン公演』
+UID:623ed693-56f2-42ab-b187-7fbb2411a3b3@623e.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260726
 DTEND;VALUE=DATE:20260727
-DESCRIPTION:『お試し手羽セン公演』\n\n■Live House 浜松窓枠\n■開場12:00/開演12:30\n\n🎁来場者全員に特典券1枚配布\n\n🎤12:50-13:15\n📸13:15-14:30\n\n🎫優先エリア 2\,000円/一般入場 0円(要予約)/当日券各＋500円（各+1D）\n\n購入▶︎https://ticketdive.com/event/otameshi_teba0726\nhttps://timetr.ee/p/tebasen_info/3015292882078074852
-SUMMARY:『お試し手羽セン公演』
-UID:dadef099-300e-4579-af66-53f0d22a9a80@dade.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261027
-DTEND;VALUE=DATE:20261028
-DESCRIPTION:『水月みる生誕祭2026』\n\n■NAGOYA ReNY limited\n■開場18:00/開演18:20\n\n水月みるさんの生誕祭に工藤鈴菜がゲストとして出演させていただきます🥞\n(終演後特典会あり📸)\n\n🎫前方チケット2\,500円/通常チケット500円/当日券各+1\,000円(各+1D)\n\n購入▶︎https://livepocket.jp/e/miru_hapiba2026\nhttps://timetr.ee/p/tebasen_info/3080750816106579250
-SUMMARY:『水月みる生誕祭2026』
-UID:ce8d0932-fa85-4ded-a8e9-2a6b6dd8fd96@ce8d.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260810
-DTEND;VALUE=DATE:20260811
-DESCRIPTION:「NEO KASSEN2026」\n\n■Spotify O-EAST他全12会場\n■開場11:00/開演11:30\n\n🎤12:45-13:10【MIDORI STAGE(WOMB LIVE)】\n📸13:25-14:25【WOMB 4F-15】\n\n🎫KASSEN 10\,000円/ 前売り 6\,500円/ 当日 7\,500円 (各＋1D)\n\n購入▶︎ l-tike.com/neokassen/\nhttps://timetr.ee/p/tebasen_info/2986560017492543182
-SUMMARY:「NEO KASSEN2026」
-UID:a03175d4-1f75-4e5e-ac6f-e1ef559e7e31@a031.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261206
-DTEND;VALUE=DATE:20261207
-DESCRIPTION:https://timetr.ee/p/tebasen_info/3080762190304053049
-SUMMARY:都内 イベント予定
-UID:d47f4f35-a943-4273-96e5-8cb8ac4056f7@d47f.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261220
-DTEND;VALUE=DATE:20261221
-DESCRIPTION:https://timetr.ee/p/tebasen_info/3080763798769304741
-SUMMARY:都内 イベント予定
-UID:9c51447e-5d64-4e20-acad-705e164639f3@9c51.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261120
-DTEND;VALUE=DATE:20261121
-DESCRIPTION:https://timetr.ee/p/tebasen_info/3053600264960804235
-SUMMARY:大阪 イベント予定
-UID:3a610ab0-c8a2-4e6d-8b8c-e141a297c3f5@3a61.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261031
-DTEND;VALUE=DATE:20261101
-DESCRIPTION:『Girl’sBomb!! -Halloween🎃special-』\n\n■Spotify O-EAST\n■開場11:00/開演11:30\n出演時間等後日公開🗓️\n\n🎫Sチケット7\,000円/Aチケット3\,500円(各+1D)\n\n購入▶︎ t-dv.com/GB_HalloweenSP\nhttps://timetr.ee/p/tebasen_info/3064030504614823037
-SUMMARY:『Girl’sBomb!! -Halloween🎃special-』
-UID:01c0f6dc-67e1-41d4-a959-370c9852f1a6@01c0.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260829
-DTEND;VALUE=DATE:20260830
-DESCRIPTION:『@ JAM EXPO 2026 supported by UP-T』\n\n■横浜アリーナ\n\n1️⃣🎤12:25-12:40【オレンジステージ🍊】\n📸13:40-14:40【5】\n2️⃣🎤19:05-19:25【ブルーベリーステージ🫐】\n\n購入▶︎atjam.jp/expo2026/ticket\n\n詳細はこちらから⏬\nhttps://atjam.jp/expo2026/news/detail/WnFAffTFXyHvOvBaeOqL\nhttps://timetr.ee/p/tebasen_info/2986562341950654456
-SUMMARY:『@JAM EXPO 2026 supported by UP-T』
-UID:b535732f-290a-4afe-acb9-8454aacae8c0@b535.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261206
-DTEND;VALUE=DATE:20261207
-DESCRIPTION:https://timetr.ee/p/tebasen_info/3080762462791206332
-SUMMARY:都内 イベント予定
-UID:463026d7-1f00-4866-ba0f-cbaf99bf2f16@4630.org
+DESCRIPTION:手羽先センセーション\n『選抜ツアー2026』静岡公演\n\n■Livehouse 浜松窓枠\n■開場17:30 / 開演18:00\n\n🎫優先エリア￥4\,000/一般チケット￥1\,500/当日各＋￥500 (各＋1D)\n\n購入▶︎https://ticketdive.com/event/tour2026_shizuoka\n先行抽選：~7/5(日)12:00\n一般先着：7/5(日)22:00~7/25(土)23:59\nhttps://timetr.ee/p/tebasen_info/2965478782989174499
+SUMMARY:手羽先センセーション『選抜ツアー2026』静岡公演
+UID:a892bfec-2c2e-469d-9935-c6c46672e46e@a892.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260811
 DTEND;VALUE=DATE:20260812
 DESCRIPTION:『手羽先セッション出張版-in OSAKA-』\n\n■ESAKA MUSE\n■開場12:00/開演12:30\n\n🎤13:30-14:00\n📸14:00-15:10\n\n🎫優先エリア3\,500円/一般チケット1\,500円/当日各+500円 (各＋1D)\n\n購入▶︎https://ticketdive.com/event/tebasession_0811\nhttps://timetr.ee/p/tebasen_info/3026431075728950309
 SUMMARY:『手羽先セッション出張版-in OSAKA-』
-UID:9c122547-b8d6-4327-9fac-1c21a0708bfa@9c12.org
+UID:dcbd0327-56a3-422a-b154-5dafcf2bc686@dcbd.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260728
+DTEND;VALUE=DATE:20260729
+DESCRIPTION:『欲張りワンダーランドMAX〜ワンウィの生まれた日〜』\n\n■品川ステラボール\n■開場15:00 / 開演15:30\n🗓️出演時間等後日公開\n\n🎁コメント付きチェキ券\n\n🎫Sチケット(前方)7\,500円 / Ａチケット(中央)4\,000円 / Bチケット(後方\,上下見切れ)2\,500円 (各＋1D)\n\n購入▶︎https://ticketdive.com/event/WWTENpresents_0728\nhttps://timetr.ee/p/tebasen_info/2973538059263870856
+SUMMARY:『欲張りワンダーランドMAX〜ワンウィの生まれた日〜』
+UID:77fda7f4-c54e-4c76-af6d-e5ef98dcbec5@77fd.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261117
+DTEND;VALUE=DATE:20261118
+DESCRIPTION:『MARQUEE Fes.』\n\n■Spotify O-EAST\n■開場14:00/開演14:30\n\n 🎤17:00-17:20\n📸17:35-18:35【ブースB(2F)】\n\n🎁コメント付きチェキ券\n\n🎫前方エリア11\,000円/前売4\,500円/当日5\,500円(各+1D)\nhttps://timetr.ee/p/tebasen_info/3067443732925581196
+SUMMARY:『MARQUEE Fes.』
+UID:120042d4-f763-4c34-acda-73b4463cd479@1200.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261107
+DTEND;VALUE=DATE:20261108
+DESCRIPTION:手羽先センセーション\n『New mini Album 配信記念公演』\n\n■Lives Nagoya\n■開場17:00/開演17:30\n\n━━━━━━━━━━━\nﾟ⋆˙⟡ 新曲初披露 ⟡˙⋆ﾟ\n━━━━━━━━━━━\n\n🎫前方エリア8\,000円(定点DVD付き)/一般チケット2\,000円/後方無料\n\n購入▶︎ t-dv.com/tebasen_1107\nhttps://timetr.ee/p/tebasen_info/3053599725153879555
+SUMMARY:『New mini Album 配信記念公演』
+UID:9c798541-2b5d-4e2f-b5e4-c62d2ec80a8d@9c79.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260426
+DTEND;VALUE=DATE:20260427
+DESCRIPTION:『大阪造船所アイドルフェス』\n\n■ CCOクリエイティブセンター\n（大阪名村造船所跡地）\n■開場10:30/開演11:30\n\n 📍RED FLAME\n🎤17:35-17:55 \n📸18:10-19:10【A】\n\n🎁コメント付きチェキ券\n\n🎫優先6\,000円/一般3\,000円 / 当日＋1\,000(各+1D)\n購入▶︎ tiget.net/events/475949\nhttps://timetr.ee/p/tebasen_info/2924147125502018849
+SUMMARY:『大阪造船所アイドルフェス』
+UID:412832c5-b6c0-41f3-8a81-46425582a0e3@4128.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261122
+DESCRIPTION:『DOLLttoFes2026』\n\n■ElectricLadyLand/ell.FITS ALL/ell.SIZE\n■開場13:00/開演14:00\n出演時間等後日公開🗓️\n\n🎫Sチケット8\,800円(ElectricLadyLand前方エリア)/一般前売5\,500円/一般当日6\,500円(各+1D)\n\n購入▶︎https://t.pia.jp/pia/event/event.do?eventCd=2637257\n\n詳細はこちらから⏬\ndollttofes.info\nhttps://timetr.ee/p/tebasen_info/3053600166017172761
+SUMMARY:『DOLLttoFes2026』
+UID:1a268dd6-ca1f-4852-8bf1-e2f6b03e53ec@1a26.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260922
+DTEND;VALUE=DATE:20260923
+DESCRIPTION:手羽先センセーション\n『選抜ツアー2026』名古屋公演\n\n■DIAMOND HALL\n■開場15:00/開演16:00\n\n🎫優先エリア￥4\,000/一般チケット￥1\,500/当日各＋￥500 (各＋1D)\n\n購入▶︎https://ticketdive.com/event/tour2026_nagoya\n先行抽選：~8/25(火)12:00\n一般先着：8/25(火)22:00~9/21(月)23:59\nhttps://timetr.ee/p/tebasen_info/2965479401338635293
+SUMMARY:手羽先センセーション『選抜ツアー2026』名古屋公演
+UID:923abb59-7398-408f-9bc4-71efd55f90d4@923a.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260905
+DTEND;VALUE=DATE:20260906
+DESCRIPTION:『VS LIVE』\n\n■開場11:20/開演11:40\n■The Voodoo Lounge\n\n🎤12:40-13:05\n📸13:40-14:40\n\n🎫前方3\,000円/一般1\,500円/当日各+1\,000円(各＋1D)\n\n購入▶︎t-dv.com/VSLIVE0905\nhttps://timetr.ee/p/tebasen_info/3027840355707323954
+SUMMARY:『VS LIVE』
+UID:b65ff385-2629-4131-9ee8-80414ea2822a@b65f.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260504
+DTEND;VALUE=DATE:20260505
+DESCRIPTION:『JAPAN CENTRAL IDOL FESTIVAL 2026 COAST IN UTSUMI』\n\n■内海海岸 Comas hui beach park\n■開場9:00/開演10:00\n\n1️⃣\n🎤13:50-14:10 【SKY STAGE】\n📸14:25-15:35 【24】\n\n2️⃣\n🎤18:05-18:25 【CENTRAL STAGE】\n📸18:40-19:50 【2】\n\n🎫4\,500円〜\n\n購入▶︎https://ticketdive.com/event/JCIF2026_02_03_04\nhttps://timetr.ee/p/tebasen_info/2938697927142868721
+SUMMARY:『JAPAN CENTRAL IDOL FESTIVAL 2026 COAST IN UTSUMI』
+UID:98b2a60e-630c-4b13-9d1a-dd1ff5ccfb30@98b2.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260726
+DTEND;VALUE=DATE:20260727
+DESCRIPTION:『お試し手羽セン公演』\n\n■Live House 浜松窓枠\n■開場12:00/開演12:30\n\n🎁来場者全員に特典券1枚配布\n\n🎤12:50-13:15\n📸13:15-14:30\n\n🎫優先エリア 2\,000円/一般入場 0円(要予約)/当日券各＋500円（各+1D）\n\n購入▶︎https://ticketdive.com/event/otameshi_teba0726\nhttps://timetr.ee/p/tebasen_info/3015292882078074852
+SUMMARY:『お試し手羽セン公演』
+UID:56f65571-f68f-435e-bb71-60b6c296aa8d@56f6.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261101
+DESCRIPTION:『Girl’sBomb!! -Halloween🎃special-』\n\n■Spotify O-EAST\n■開場11:00/開演11:30\n出演時間等後日公開🗓️\n\n🎫Sチケット7\,000円/Aチケット3\,500円(各+1D)\n\n購入▶︎ t-dv.com/GB_HalloweenSP\nhttps://timetr.ee/p/tebasen_info/3064030504614823037
+SUMMARY:『Girl’sBomb!! -Halloween🎃special-』
+UID:c464d234-1b11-468e-8fe4-4f98695bb1a8@c464.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260927
+DTEND;VALUE=DATE:20260928
+DESCRIPTION:『アイドル甲子園 in KANDA SQUARE HALL \nsupported by My-th』\n\n■KANDA SQUARE HALL\n■開場9:15/開演9:30\n\n🎤14:35-15:00\n📸15:20-16:40【B】\n\n🎁コメント付きチェキ券\n \n🎫前方エリア8\,500円/一般チケット3\,500円当日券各＋1\,000円/(各＋1D)\n\n購入▶︎https://user.my-th.jp/?redirect=/tickets/event/aikou_0927\nhttps://timetr.ee/p/tebasen_info/3032103361324713497
+SUMMARY:『アイドル甲子園 in KANDA SQUARE HALL supported by My-th』
+UID:6692703e-1d93-4a89-82e7-b90479705be2@6692.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260426
 DTEND;VALUE=DATE:20260427
 DESCRIPTION:『お試し手羽セン公演』\n\n■大阪 BANANA HALL\n■開場11:40 / 開演12:00\n\n🎁来場者全員にお試しチェキ券1枚配布\n\n🎫優先エリア 2\,000円/一般入場 0円(要予約)/当日券各＋500円（各+1D）\n\n購入▶︎https://ticketdive.com/event/otameshi_teba0426\n一般先着4/7(日)22:00~販売開始‼️\nhttps://timetr.ee/p/tebasen_info/2926742802006475971
 SUMMARY:『お試し手羽セン公演』
-UID:537e6975-73dc-4725-9e22-c480cfb9958e@537e.org
+UID:60f3035f-9608-48f0-9ef6-df777a005585@60f3.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261206
+DTEND;VALUE=DATE:20261207
+DESCRIPTION:https://timetr.ee/p/tebasen_info/3080762190304053049
+SUMMARY:都内 イベント予定
+UID:77da60e7-83d6-459a-9126-3c042792f29f@77da.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260407
+DTEND;VALUE=DATE:20260408
+DESCRIPTION:『東京定期公演』\n\n■日暮里ネコシアター\n■開場19:00/開演19:20\n\n🌸春のデート私服特典会🌸\n\n🎫優先エリア2\,500円/前売1\,000円/当日1\,500円(各+1D)\n\n購入▶︎ t-dv.com/tokyo_0407\n先行抽選:〜3/16(月)12:00\n一般先着:3/16(月)22:00〜4/6(月)23:59\nhttps://timetr.ee/p/tebasen_info/2919093302093874277
+SUMMARY:東京定期公演
+UID:419c3375-9268-4b34-971e-543f98d792d6@419c.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260412
+DTEND;VALUE=DATE:20260413
+DESCRIPTION:手羽先センセーション3rdワンマンライブ 『未完成-LEGIT-』\n\n■DIAMOND HALL\n■開場16:00/開演17:00\n\n🎫4\,000円(別途1D)\n\n購入▶︎https://ticketdive.com/event/tebasen_0412oneman\nhttps://timetr.ee/p/tebasen_info/2870859698851480959
+SUMMARY:3rd ワンマンライブ 『未完成-LEGIT-』
+UID:5b799059-5ea3-4384-b9b5-fb100dcfc8b6@5b79.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260418
+DTEND;VALUE=DATE:20260419
+DESCRIPTION:『かがやきフェスSpring2026』\n\n■開場10:30/開演11:00\n\n1️⃣\n■RED SUN\n🎤14:00〜14:20\n📸14:50〜15:50【HARMONIE 2F F】\n2️⃣\n■石川県教育会館\n🎤17:40〜18:00\n📸18:30〜19:30【石川県教育会館4F 3会議室J】\n\n\n🎫2日通し券12\,000円/1日券6\,600円(各+1D)\n\n購入▶︎ tiget.net/events/457086\n\n公式HPはこちら⏬\nkagayaki-fes.jp/spring2026/\nhttps://timetr.ee/p/tebasen_info/2884358084799956634
+SUMMARY:『かがやきフェスSpring2026』
+UID:93289d5a-29cd-40ce-a585-78d0d55ede2f@9328.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260611
+DTEND;VALUE=DATE:20260612
+DESCRIPTION:https://timetr.ee/p/tebasen_info/2963985526015067221
+SUMMARY:手羽先センセーション選抜ツアー　東京公演
+UID:e45868d9-4252-4442-bc2f-b613ccf5da14@e458.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260815
+DTEND;VALUE=DATE:20260816
+DESCRIPTION:『POP GALAXY 2026』\n\n■お台場R地区\n■開場9:00 / 開演10:00（予定）\n🗓️出演時間等後日発表\n\n🎫VIPチケット20\,000円 / 一般チケット4\,500円 (各＋1D)\nhttps://timetr.ee/p/tebasen_info/2986560240856008089
+SUMMARY:『POP GALAXY 2026』
+UID:75ec5b2e-81d2-48f6-a9f8-a53817e6fd86@75ec.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261025
+DTEND;VALUE=DATE:20261026
+DESCRIPTION:『HALLOWEENチェキ会』\n\n■ ナカトウ丸の内ビル\n📍名古屋市中区丸の内3-17-6 ナカトウ丸の内ビル２階\n■受付開始 13:50〜/チェキ会 14:00〜15:30\n\n入場無料🉐(予約不要)\n\n･特典券1枚…写メ\n･特典券2枚…コメント付きチェキ\n📸特別レギュレーション📸\n･特典券1枚…15秒静止画撮影(1sのみ)\nhttps://timetr.ee/p/tebasen_info/3080748433565746302
+SUMMARY:『HALLOWEENチェキ会』
+UID:e8dfbfde-1b80-461b-867c-08188e2b7c68@e8df.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260923
+DTEND;VALUE=DATE:20260924
+DESCRIPTION:『SPARK 2026 in YAMANAKAKO』\n\n■山中湖交流プラザきらら\n■開場9:00/開演10:00  \n\n🎫SPARKチケット¥30\,000/一般チケット¥7\,500(各日＋1D)\n\n購入▶︎https://ticketdive.com/event/spark2026yamanakako\nhttps://timetr.ee/p/tebasen_info/3032105348149741277
+SUMMARY:『SPARK 2026 in YAMANAKAKO』
+UID:61128504-6b09-4cac-8864-9d6838ee74db@6112.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260906
+DTEND;VALUE=DATE:20260907
+DESCRIPTION:『お試し手羽セン公演』\n\n■INSA Fukuoka\n■開場12:00/開演12:20\n\n🎤12:40-13:05\n📸13:10-14:10\n\n🎁来場者全員に特典券1枚配布\n\n🎫優先エリア 2\,000円/一般入場 0円(要予約)/当日券各＋500円（各+1D）\n\n購入▶︎ t-dv.com/otameshi_teba0906\n8/14(金)22:00~販売開始✨\nhttps://timetr.ee/p/tebasen_info/3032101600060966672
+SUMMARY:『お試し手羽セン公演』
+UID:36ba991e-f785-4c9f-acc4-9fc020911b11@36ba.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261018
+DTEND;VALUE=DATE:20261019
+DESCRIPTION:■グレースバリ銀座\n■開場12:30/開演13:00\n\n🎫優先3\,000円/前売1\,500円/当日2\,000円(各+1D)\n\n購入▶︎ t-dv.com/toyko_1018\nhttps://timetr.ee/p/tebasen_info/3065640274438325624
+SUMMARY:『東京定期公演』
+UID:ab2fe50e-fa13-47fe-84a6-86d69043ff13@ab2f.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260619
+DTEND;VALUE=DATE:20260620
+DESCRIPTION:『∞Beats』\n\n■名村造船所跡地\n📢出演日、チケット詳細等後日公開\nhttps://timetr.ee/p/tebasen_info/2951616100078913513
+SUMMARY:『∞Beats』
+UID:d9fc68dc-c92e-40fb-8795-d5ef4d49dd92@d9fc.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260920
+DTEND;VALUE=DATE:20260921
+DESCRIPTION:手羽先センセーション単独公演\n『手羽センユニフォーム公演』\n\n■RAD NINE\n■開場11:20/開演11:40\n\n⋆˙⟡⚾️ユニフォーム特典会⚾️⟡.·\n\n\n\n🎫前売券1\,500円/当日券2\,000円(別途1D)\n\n購入▶︎https://ticketdive.com/event/uniformlive_0920\nhttps://timetr.ee/p/tebasen_info/3052858078858249401
+SUMMARY:手羽先センセーション単独公演『手羽センユニフォーム公演』
+UID:13e5822a-5a10-4827-ab50-49a8a5e84695@13e5.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260605
+DTEND;VALUE=DATE:20260606
+DESCRIPTION:https://timetr.ee/p/tebasen_info/2963984242516100313
+SUMMARY:『手羽先サミット2026』
+UID:8730c367-d459-4a8c-96ab-f915dbec5422@8730.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261221
+DTEND;VALUE=DATE:20261222
+DESCRIPTION:https://timetr.ee/p/tebasen_info/3080763893862565589
+SUMMARY:都内 イベント予定
+UID:fe6cc192-1a4e-41ae-8ad2-b0e6f85e6d1c@fe6c.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260719
+DTEND;VALUE=DATE:20260720
+DESCRIPTION:『SEKIGAHARA IDOL WARS 2026-関ケ原唄姫合戦-』\n\n■桃配運動公園\n\n1️⃣\n🎤12:30-12:45【戦国ステージ】\n📸13:15-14:35【12】\n\n2️⃣\n🎤19:25-19:45【豊臣ステージ】\n📸20:15-21:35【2】\n\n🎫チケット購入▶︎t-dv.com/SEKIGAHARA_2026\nhttps://timetr.ee/p/tebasen_info/3007708886884354006
+SUMMARY:『 SEKIGAHARA IDOL WARS 2026 - 関ケ原唄姫合戦- 』
+UID:ec13e2aa-9c50-4c92-bd66-1eb70a647c73@ec13.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260613
+DTEND;VALUE=DATE:20260614
+DESCRIPTION:なみだ色の消しごむ presents\n 『Neat Meets vol.19』\n\n■白金高輪SELENE b2\n■開場10:00 / 開演10:30\n\n🎤15:00-15:25\n📸15:30-16:30【B】\n\n🎁ノーマルチェキ券\n\n🎫前方5\,000円 / 一般2\,500円 / 当日＋500円 (各＋1D)\n\n購入▶︎t-dv.com/nm_vol19\nhttps://timetr.ee/p/tebasen_info/2973537498141492424
+SUMMARY:『Neat Meets vol.19』
+UID:cde0542b-2e11-418d-ad74-4bed3dbdf391@cde0.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261011
+DTEND;VALUE=DATE:20261012
+DESCRIPTION:『新星堂presents iPop fes. in Nagoya』\n@ アスナル金山〜vol.1〜\n\n■アスナル金山 明日なる！広場　\n\n🉐一般観覧無料🉐\n🎤12:30〜12:50\n📸13:00〜14:30\n\n詳細はこちらから⏬\nhttps://www.asunal.jp/sp/event/detail/?cd=000688\nhttps://timetr.ee/p/tebasen_info/3032106072522818828
+SUMMARY:『新星堂presents iPop fes. in Nagoya』@ アスナル金山〜vol.1〜
+UID:43c517c4-54dc-4693-81e2-0840dc5cb7f9@43c5.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260405
+DTEND;VALUE=DATE:20260406
+DESCRIPTION:『手羽先セッションvol.18』\n\n■THE BOTTOM LINE\n■開場17:00/開演17:30\n\n🎤18:45-19:10\n📸19:10-20:30\n\n🎫前方エリア 3\,300円/一般チケット1\,300円/女性チケット 500円/当日各+500円(各+1D)\n\n■出演　\n手羽先センセーション/Sweet Alley/THE ENCORE/VVSiS\n\n購入▶︎ t-dv.com/tebasession_18\n先行抽選:〜3/16(月)12:00\n一般先着:3/16(月)22:00〜4/4(土)23:59\nhttps://timetr.ee/p/tebasen_info/2919093763215656219
+SUMMARY:『手羽先セッションvol.18』
+UID:d6cb9a36-16a1-48f9-ae90-dfb68b2724ca@d6cb.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260712
+DTEND;VALUE=DATE:20260713
+DESCRIPTION:『GMO 渋谷エンタメ祭2026』 \n\n■代々木公園 野外ステージ\n\n🎤14:50-15:10【代々木公園 野外ステージ】\n🎤15:40-16:00【代々木公園 やぐらステージ】\n📸16:00-17:00【野外ステージ横物販テント内】\n\n🎫入場無料✨\n\n🫧イベント詳細🫧\nhttps://www.jame.or.jp/gmo_shibuya_entertainment_fes/\nhttps://timetr.ee/p/tebasen_info/2986559025690642069
+SUMMARY:『GMO 渋谷エンタメ祭2026』
+UID:6497930a-0441-4f6e-9b17-d2e418a3898e@6497.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261012
+DTEND;VALUE=DATE:20261013
+DESCRIPTION:『HERO GATE』\n\n■代々木公園野外ステージ\n■開場10:45/開演11:05\n\n🎤12:35-12:54\n📸13:15-14:15【F･G】\n\n🎫前方エリア9\,900円/後方エリア5\,500円(各+1D)\n※前方エリア完売、後方エリア残りわずか\n購入▶︎tiget.net/events/503971\n\n詳細はこちら⏬\nherogate.jp\nhttps://timetr.ee/p/tebasen_info/3027847039288804393
+SUMMARY:『HERO GATE』
+UID:bd570264-6d43-42ad-ab95-ec0c3018361b@bd57.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261122
+DTEND;VALUE=DATE:20261123
+DESCRIPTION:https://timetr.ee/p/tebasen_info/3065641429969077868
+SUMMARY:名古屋 イベント予定
+UID:2920e697-c512-4544-848a-eb5394664113@2920.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260808
+DTEND;VALUE=DATE:20260809
+DESCRIPTION:『手羽セン夏まつり2026』\n\n■Lives NAGOYA\n■開場17:00/開演17:30\n\n🎫優先入場3\,000円/一般入場0円🉐(各+1D)\n\n🏮工藤鈴菜プロデュース公演衣装🏮\n\n購入▶︎https://ticketdive.com/event/tebasen_summerfes2026\nhttps://timetr.ee/p/tebasen_info/2986559492642506204
+SUMMARY:『手羽セン夏まつり2026』
+UID:8cc4f33c-8d66-4d9c-a168-b1c7673ef8e5@8cc4.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261103
+DTEND;VALUE=DATE:20261104
+DESCRIPTION:『宮代柚花生誕祭2026』\n\n■NAGOYA ReNY limited\n■開場16:30/開演17:00\n\n🎫SSチケット12\,000円 / Sチケット5\,000円/ 通常チケット前売1\,500円/当日2\,000円 (各＋1D代)\n\n購入▶︎https://ticketdive.com/event/yuzuka_birthday2026\n先行抽選：〜9/13(日)12:00(SSチケットのみ)\n一般先着：9/13(日)22:00〜11/2(月)23:59\nhttps://timetr.ee/p/tebasen_info/3053595740086928767
+SUMMARY:『宮代柚花生誕祭2026』
+UID:3b5ce7cf-7ead-4166-a524-7be55c1157d8@3b5c.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260606
+DTEND;VALUE=DATE:20260607
+DESCRIPTION:『GIRLS☆DELIGHT#404』\n\n■Zephyr Hall\n■開場11:30 / 開演11:50\n\n🎤18:40-19:00\n📸19:35-20:50【終演後】\n\n🎁グレードアップ券\n\n🎫S(前方エリア)¥3\,000/A(後方エリア)¥1\,000/各当日+¥1\,000(各＋1D)\n\n購入▶︎https://livepocket.jp/e/girls_delight404\nhttps://timetr.ee/p/tebasen_info/2973535203471328524
+SUMMARY:『GIRLS☆DELIGHT#404』
+UID:9a8afe0a-751b-4e9f-a147-eccc76b3fa05@9a8a.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260824
 DTEND;VALUE=DATE:20260825
 DESCRIPTION:手羽先センセーション単独公演\n『手羽セン納涼祭』\n\n■NAGOYA JAMMIN′\n■開場19:00 / 開演19:20\n\n🎐浴衣特典会🎐\n\n🎫優先エリア3\,000円/一般1\,000円/当日1\,500円(各＋1D)\n\n購入▶︎ t-dv.com/tebasen_0824\n先行抽選：〜7/17(金)12:00\n一般先着：7/17(金)22:00〜 販売開始\nhttps://timetr.ee/p/tebasen_info/3007690230125233485
 SUMMARY:『手羽セン納涼祭』
-UID:36d2a447-8980-4470-b7cf-79b1609c3497@36d2.org
+UID:c2974263-5f73-4b5a-9c65-60692c6da941@c297.org
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261024
-DTEND;VALUE=DATE:20261025
-DESCRIPTION:『Road To RAD JAM』\n\n■Zepp Nagoya\n■開場12:30/開演13:00\n\n🎤18:50-19:20\n📸21:05-22:25【終演後】\n\n🎁特典券1枚\n\n🎫 前方エリア7\,000円/通常4\,000円\n\n購入▶︎ t-dv.com/rtr_1024zepp\nhttps://timetr.ee/p/tebasen_info/3053598219549738901
-SUMMARY:『Road To RAD JAM』
-UID:8790de59-6688-49d5-88a5-1df3b2647603@8790.org
+DTSTART;VALUE=DATE:20260926
+DTEND;VALUE=DATE:20260927
+DESCRIPTION:『アイドル甲子園 in 品川インターシティホールsupported by My-th』\n\n■品川インターシティホール\n■開場8:45/開演9:00\n\n🎤18:05-18:30\n📸18:50-20:10【E】\n\n🎁コメント付きチェキ券\n\n🎫前方エリア8\,500円/一般チケット3\,500円当日券各＋1\,000円/(各＋1D)\n\n購入▶︎https://user.my-th.jp/?redirect=/tickets/event/aikou_0926\nhttps://timetr.ee/p/tebasen_info/3027841813999715474
+SUMMARY:『アイドル甲子園 in 品川インターシティホールsupported by My-th』
+UID:6edf5165-a3b9-4853-b1d2-189df9c25a87@6edf.org
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260416
-DTEND;VALUE=DATE:20260417
-DESCRIPTION:『テンラン会』\n\n■ZephyrHall\n■開場17:30/開演18:00\n\n🎤18:00-18:30\n📸20:00-21:30 \n\n🎁コメント付きチェキ券\n\n🎫前売前方5000円 / 前売通常2000円 / 前売女性1000円 / 当日+500円 (各＋1D)\n\n購入▶︎ t-dv.com/tenrankai0416\nhttps://timetr.ee/p/tebasen_info/2919094179735209758
-SUMMARY:『テンラン会』
-UID:1580bf3e-a042-4b93-8cff-f16361710065@1580.org
+DTSTART;VALUE=DATE:20261226
+DTEND;VALUE=DATE:20261227
+DESCRIPTION:https://timetr.ee/p/tebasen_info/3080764243575244679
+SUMMARY:名古屋 イベント予定
+UID:0963f3d4-6626-4740-9de0-56825d1b8214@0963.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260522
+DTEND;VALUE=DATE:20260523
+DESCRIPTION:小織りあ生誕祭2026『りあのしゅわしゅわ夏炭酸』\n\n■五反田BLAZE\n■開場18:30 / 開演19:00\n\n🎤19:15-19:35\n📸20:25-21:45【終演後】\n\n🎫VIP ¥7000 / 前方 ¥4000 / 一般 ¥2000 / 当日+¥1000(各+1D)\n\n購入⏬\nhttps://kirafore-fc.bitfan.id/contents/menu/148624\nFC先行抽選：4/23(木)21:00~4/26(日)21:00\n\nhttps://ticketdive.com/event/riaShuwashuwa2026\n一般販売：04/27(月)21:00~\nhttps://timetr.ee/p/tebasen_info/2938691422507173407
+SUMMARY:小織りあ生誕祭2026『りあのしゅわしゅわ夏炭酸』
+UID:337cc1ea-15ee-428b-aac3-ec826e7292cf@337c.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260526
+DTEND;VALUE=DATE:20260527
+DESCRIPTION:『ハルライズ FREE』\n\n■川崎 CLUB CITTA'\n■開場14:45 / 開演15:15\n\n🎤17:45-18:10\n📸18:20-19:30【A】\n\n🎫優先エリア¥5\,000/ 一般¥0（各＋D代）\n購入▶︎ t-dv.com/HNSRise_vol3\nhttps://timetr.ee/p/tebasen_info/2938691678611375595
+SUMMARY:『ハルライズ FREE』
+UID:84cd5bb5-d237-45d7-bdf0-9b71ec48465e@84cd.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261107
+DESCRIPTION:https://timetr.ee/p/tebasen_info/3053598962008655639
+SUMMARY:名古屋 イベント予定
+UID:98580333-7a55-4e9b-a5bc-962021e523d8@9858.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260516
+DTEND;VALUE=DATE:20260517
+DESCRIPTION:『ッスッゴイライブin名古屋』\n\n■DIAMONDHALL\n■開場11:00 / 開演11:30\n\n🎤18:45-19:10\n📸20:30-21:30【終演後】\n\n🎁コメント付きチェキ券\n\n🎫前方5\,000円/一般2\,500円/当日各＋1\,000円(各＋1D)\n\n購入▶︎https://ticketdive.com/event/ssuggoiLiveNagoya0516\nhttps://timetr.ee/p/tebasen_info/2920333463205119130
+SUMMARY:『ッスッゴイライブin名古屋』
+UID:6f95fb58-96a6-447f-9fa7-a0fedb527d15@6f95.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261004
+DTEND;VALUE=DATE:20261005
+DESCRIPTION:『@JAM TAIPEI POP vol.2』🇹🇼\n\n■MOONDOG\n■開場10:00/開演10:30\n\n出演時間等後日公開🗓️\n\n🎫チケット料金\n前方エリア：前売1\,500NTD/当日1\,700NTD\n一般エリア：前売800NTD/当日1\,000NTD\n\n購入▶︎https://tickets.funone.io/activity/activity_detail/atjamtaipeipop02\nhttps://timetr.ee/p/tebasen_info/3064036488024360171
+SUMMARY:『@JAM TAIPEI POP vol.2』🇹🇼
+UID:6ae52998-f34f-4f0c-ada3-39df2a25edbf@6ae5.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261207
 DTEND;VALUE=DATE:20261208
 DESCRIPTION:『2MAN LIVE』\n\n■NAGOYA JAMMIN'\n■開場18:30/開演19:00\n\n🎫前方3\,000円/後方500円/当日各+500円(各+1D)\n\n購入▶︎ t-dv.com/2MAN_1207\nhttps://timetr.ee/p/tebasen_info/3080754514367022871
 SUMMARY:『2MAN LIVE』
-UID:57968c68-baca-4c7b-bb05-5f530aa903e0@5796.org
+UID:b3047bf8-6eb5-4b9c-9c76-d0aaff0ab04b@b304.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260531
+DTEND;VALUE=DATE:20260601
+DESCRIPTION:『アイドルアラモードVol.30』\n\n■横浜1000CLUB\n■開場9:30 / 開演9:45\n\n🎤20:15-20:40\n📸終演後物販\n\n🎁コメント付きチェキ券\n\n🎫前方エリア6\,000円/一般エリア3\,500円/当日各+500円(各＋1D)\n購入▶︎t-dv.com/idolalamode_30\nhttps://timetr.ee/p/tebasen_info/2938691818248144105
+SUMMARY:『アイドルアラモードVol.30』
+UID:5970b821-217a-40ea-aa35-33664548d083@5970.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260625
+DTEND;VALUE=DATE:20260626
+DESCRIPTION:『神奈川単独公演』\n\n■川崎セルビアンナイト\n■開場18:40 / 開演19:00\n\n☂️梅雨のデート服特典会☂️\n\n🎫優先3\,000円/前売1\,500円/当日2\,000円 (各+1D)\n\n購入▶︎ t-dv.com/kanagawa_0625\n先行抽選 ：〜6/16(火)12:00\n一般先着：6/16(火)22:00〜6/24(水)23:59\nhttps://timetr.ee/p/tebasen_info/2986553448130348717
+SUMMARY:『神奈川単独公演』
+UID:10ae4d70-66a4-4998-80eb-343d1eef2450@10ae.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260618
+DTEND;VALUE=DATE:20260619
+DESCRIPTION:『名古屋合同定期公演 大阪編』\n\n■Music Club JANUS\n■開場18:30 / 開演18:55\n\n出演順は当日決定🐙\n\n🎫前方2\,000円 / 一般500円 / 当日＋500円(各＋1D)\n\n購入▶︎https://livepocket.jp/e/nagoyagodo_osaka\nhttps://timetr.ee/p/tebasen_info/2973535506803394487
+SUMMARY:『名古屋合同定期公演 大阪編』
+UID:8b2c5295-00d0-4544-880d-0ad8373e203c@8b2c.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260914
+DTEND;VALUE=DATE:20260915
+DESCRIPTION:『手羽先センセーショントークライブ～おしゃべりセンセーション～』\n\n■シアターギルド代官山\n■開場18:30/開演19:00\n\n※手羽先センセーションからは、👽松山綺利、🧸夏姫えれな、🥞工藤鈴菜のみの出演となります。\n\n🎫S席 4\,500円/A席 2\,500円/当日券立見席Bチケット 2\,500円\n\n購入▶︎t-dv.com/talklive_0914\nhttps://timetr.ee/p/tebasen_info/3050222151681901624
+SUMMARY:『手羽先センセーショントークライブ～おしゃべりセンセーション～』
+UID:ca87cb52-f946-43bb-bb46-fa04d4d722b9@ca87.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261101
+DESCRIPTION:『アイドル甲子園 in KANDA SQUARE HALL』supported by My-th -DAY1-\n\n■KANDA SQUARE HALL\n■開場09:15/開演09:30\n出演時間等後日公開🗓️\n\n🎁コメント付きチェキ券\n\n🎫前方エリア8\,500円/一般エリア3\,500円/当日券各+1\,000円(各+1D)\n\n購入▶︎https://user.my-th.jp/?redirect=/tickets/event/aikou_1031\nhttps://timetr.ee/p/tebasen_info/3064030388709426761
+SUMMARY:『アイドル甲子園 in KANDA SQUARE HALL』supported by My-th -DAY1-
+UID:a5b6c133-b47b-4e73-8dbf-0090931253f9@a5b6.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260607
+DTEND;VALUE=DATE:20260608
+DESCRIPTION:『手羽先センセーション新体制1周年記念公演』\n\n■Zephyr Hall\n■開場18:00 / 開演18:30\n\n🎫Sチケット3\,000円/Aチケット1\,000円/当日各＋500円 (各+1D）\n\n購入▶︎https://ticketdive.com/event/1st_year_anniversary_0607\nhttps://timetr.ee/p/tebasen_info/2973535362091517658
+SUMMARY:『手羽先センセーション新体制1周年記念公演』
+UID:3fb94327-f4a6-4c15-9fea-5bb74ee5dc90@3fb9.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260716
+DTEND;VALUE=DATE:20260717
+DESCRIPTION:『絆（キズナ）presents 名阪交流戦』\n\n■バナナホール\n■開場18:10 / 開演18:35\n\n🎤20:15-20:40\n📸21:10-22:20【終演後】\n\n🎁コメント付きチェキ券\n\n🎫前方エリア4\,000円 / 一般エリア2\,000円 / 当日券各＋1\,000円 (各＋1D)\n\n購入▶︎livepocket.jp/e/68iew\nhttps://timetr.ee/p/tebasen_info/2973536683322443564
+SUMMARY:『絆（キズナ）presents 名阪交流戦』
+UID:3d47ce3f-d445-4c03-9f26-7db6d609b23d@3d47.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260528
+DTEND;VALUE=DATE:20260529
+DESCRIPTION:『瀬名えまプロデュース公演』\n\n■NAGOYA JAMMIN'\n■開場18:30/開演19:00\n\n🎁定点DVD\n※Sチケット購入者のみ\n\n🎫Sチケット4\,000円/前売1\,500円/当日各＋500円(各+1D)\n\n購入▶︎ t-dv.com/ema_produce\nhttps://timetr.ee/p/tebasen_info/2938683492646979534
+SUMMARY:『瀬名えまプロデュース公演
+UID:515773b8-7901-4569-b76b-48978554b0a3@5157.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260616
+DTEND;VALUE=DATE:20260617
+DESCRIPTION:『松山綺利5周年記念ライブ』\n\n■Twinbox GARAGE\n■開場19:00 / 開演19:20\n■出演：松山綺利\n \n🎫前売券2000円 / 当日券2500円(各別途1D代)\n\n購入▶︎https://ticketdive.com/event/kiri_5th_anniversary\n先着販売:5/25(月)21:00〜\nhttps://timetr.ee/p/tebasen_info/2973528042401891425
+SUMMARY:『松山綺利5周年記念ライブ』
+UID:3010c893-5c3a-45cb-846c-f91c41ca7565@3010.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261214
+DTEND;VALUE=DATE:20261215
+DESCRIPTION:https://timetr.ee/p/tebasen_info/3080763273558558016
+SUMMARY:名古屋 イベント予定
+UID:4566369d-6caf-401a-b529-cf88692bb7f6@4566.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260629
+DTEND;VALUE=DATE:20260630
+DESCRIPTION:『手羽先センセーショントークライブ～おしゃべりセンセーション～』\n\n■シアターギルド代官山\n■開場18:30 / 開演19:00\n\n※手羽先センセーションからは宮代柚花、工藤鈴菜、瀬名えま のみの出演となります。\n\n🎫S席 4\,500円/A席 2\,500円/当日券・立見席Bチケット 2\,500円\n購入▶︎ t-dv.com/talklive_0629\nhttps://timetr.ee/p/tebasen_info/2986555585723827863
+SUMMARY:『手羽先センセーショントークライブ～おしゃべりセンセーション～』
+UID:dff2d9b6-f391-4066-a19d-208904531382@dff2.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261003
+DTEND;VALUE=DATE:20261004
+DESCRIPTION:『手羽先センセーション ONE MAN LIVE IN TAIPEI presented by @JAM TAIPEI』\n\n■MOON DOG\n■開場19:30/開演20:00\n\n🎫チケット料金\n前売り限定Sチケット：3\,500NTD\nVIPチケット：2\,200NTD\nGAチケット：800NTD\n\n購入▶︎https://tickets.funone.io/activity/activity_detail/1003tebasen\nhttps://timetr.ee/p/tebasen_info/3064037127596999916
+SUMMARY:『手羽先センセーション ONE MAN LIVE IN TAIPEI presented by @JAM TAIPEI』
+UID:a77f3d5a-1ee7-44b0-98e2-c88480927f41@a77f.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261025
+DTEND;VALUE=DATE:20261026
+DESCRIPTION:ハルニシオンPRESENTS\n『ハルライズ NAGOYA』\n\n■DIAMOND HALL\n■開場12:30/開演13:00\n\n🎤18:45-19:10\n📸終演後\n\n🎁コメント付きチェキ券\n\n🎫優先エリア7\,000円/一般3\,000円(各+1D)\n\n購入▶︎t-dv.com/HNSRise_vol4\nhttps://timetr.ee/p/tebasen_info/3032106309878482549
+SUMMARY:『ハルライズ NAGOYA』
+UID:a99e69a4-1a10-44d9-8120-f4d68036f977@a99e.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260830
+DTEND;VALUE=DATE:20260831
+DESCRIPTION:@ JAM EXPO 2026 supported by UP-T『アイドル大運動会』\n\n詳細は近日公開🗓️\nhttps://timetr.ee/p/tebasen_info/3027845870227227778
+SUMMARY:@ JAM EXPO 2026 supported by UP-T『アイドル大運動会』
+UID:0ffa8045-f391-4e12-b77e-5a52c6ea60d2@0ffa.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261026
+DTEND;VALUE=DATE:20261027
+DESCRIPTION:『名古屋定期公演vol.2』\n\n■NAGOYA JAMMIN'\n■開場19:00/開演19:20\n\n👻ハロウィン衣装公演🎃\n\n🎫優先エリア3\,000円/前売1\,000円/当日各+500円(各+1D)\n\n購入▶︎ t-dv.com/nagoya_02\nhttps://timetr.ee/p/tebasen_info/3032106416170534117
+SUMMARY:『名古屋定期公演vol.2』
+UID:870ec06e-cb23-47b0-9167-814d8c8e5229@870e.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260529
+DTEND;VALUE=DATE:20260530
+DESCRIPTION:『手羽先センセーショントークライブ～おしゃべりセンセーション～』\n\n■シアターギルド代官山\n■開場18:30 / 開演19:00\n\n※松山綺利、雛汰ゆらのみの出演となります。\n\n🎫S席 4\,500円/A席 2\,500円/当日券・立見席Bチケット 2\,500円\n購入▶︎t-dv.com/talklive_0529\nhttps://timetr.ee/p/tebasen_info/2973533175080748199
+SUMMARY:『手羽先センセーショントークライブ～おしゃべりセンセーション～』
+UID:b0840527-5d47-44b5-8570-cc20486efd9a@b084.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260814
+DTEND;VALUE=DATE:20260815
+DESCRIPTION:『SHOW TIME』\n\n■ヒューリックホール東京\n■開場13:40/開演14:10 \n\n🎤19:15-19:40\n📸20:40-21:40【終演後】\n\n🎁コメント付きチェキ券\n\n🎫前方5\,000円 / 一般2\,000円(各＋1D)\n\n購入▶︎t-dv.com/SHOWTIME0814\nhttps://timetr.ee/p/tebasen_info/2986560128599655522
+SUMMARY:『SHOW TIME』
+UID:9bcd98ee-5419-4557-9287-42a089ba44d3@9bcd.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260823
+DTEND;VALUE=DATE:20260824
+DESCRIPTION:『夏姫えれな生誕祭2026』\n\n■THE BOTTOM LINE\n■開場16:30 / 開演17:00\n\n🎫SSチケット12\,000円 / Sチケット4\,000円 / 通常チケット前売1\,500円/当日2\,000円 (各＋1D代)\n\n購入▶︎https://ticketdive.com/event/erena_birthday2026\n先行抽選：~7/1(水)12:00まで【SSチケットのみ】\n一般先着：7/1(水)22:00~8/22(土)23:59まで\nhttps://timetr.ee/p/tebasen_info/2997912968811185768
+SUMMARY:『夏姫えれな生誕祭2026』
+UID:9d0f50e5-7e67-471f-83d6-e628c5c808a6@9d0f.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260505
+DTEND;VALUE=DATE:20260506
+DESCRIPTION:『歌舞伎町UP GATE↑↑2026』\n\n■MUSIC RESTAURANT APEXIA\n■開場12:00/開演13:00\n\n🎤17:05-17:30\n📸17:45-18:45【APEXIA】\n\n🎫各日 7\,700円/通し券 14\,000円\n購入▶︎https://ticket.rakuten.co.jp/music/jpop/idle/RTZPBBP/?scid=su_16699\nhttps://timetr.ee/p/tebasen_info/2951585649792583469
+SUMMARY:『歌舞伎町UP GATE↑↑2026』
+UID:9c44d185-de9a-423b-beed-7df93ab57dc0@9c44.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260704
+DTEND;VALUE=DATE:20260705
+DESCRIPTION:『浴衣チェキ会』\n\n■ふれあい貸し会議室 五反田松楽\n📍東京都品川区東五反田2-2-2\n\n■受付15:50 / 開始16:00\n\n🉐入場無料🉐(予約不要)\n\n特典券1枚→写メ(トークあり)\n特典券2枚→コメント付きチェキ\n\n🫧特別レギュレーション🫧\n特典券1枚→15秒静止画撮影(ソロのみ)\n特典券1枚→あなたへの願い短冊🎋\nhttps://timetr.ee/p/tebasen_info/3000979478572107343
+SUMMARY:『浴衣チェキ会』
+UID:445b4aee-1a01-4f4e-b099-9dd6b9d8b123@445b.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261101
+DTEND;VALUE=DATE:20261102
+DESCRIPTION:千葉開府900年記念\n『千葉日報アイドルフェス』\n\n■千葉県文化会館 大ホール\n■開場12:00/開演13:00\n出演時間等後日公開🗓️\n\n🎁コメント付きチェキ券\n\n🎫前方席8\,000円/一般席4\,000円\n\n購入▶︎ t-dv.com/chibaidolfes\nhttps://timetr.ee/p/tebasen_info/3064030728833926832
+SUMMARY:『千葉日報アイドルフェス』
+UID:7e5ca735-206d-40bd-9b13-cc9c74700dd8@7e5c.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261017
+DTEND;VALUE=DATE:20261018
+DESCRIPTION:『瀬名えま生誕祭2026』\n\n■NAGOYA JAMMIN’\n■開場16:30/開演17:00\n\n🎫SSチケット12\,000円 / Sチケット4\,000円 / 通常チケット前売1\,500円/当日2\,000円 (各＋1D代)\n\n購入▶︎https://ticketdive.com/event/ema_birthday2026\nhttps://timetr.ee/p/tebasen_info/3032106188629542520
+SUMMARY:『瀬名えま生誕祭2026』
+UID:5ec0c59b-3ce8-409a-9bff-7df4c6267b1c@5ec0.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261109
+DTEND;VALUE=DATE:20261110
+DESCRIPTION:『名古屋定期公演vol.3』\n\n■NAGOYA JAMMIN'\n■開場19:00/開演19:20\n\n🏃‍♀️メンカラジャージ公演🏃‍♀️\n\n🎫優先エリア3\,000円/前売1\,000円/当日各+500円(各+1D)\n\n購入▶︎ t-dv.com/nagoya_03\n先行抽選：〜10/23(金)12:00\n一般先着：10/23(金)22:00〜11/8(日)23:59\nhttps://timetr.ee/p/tebasen_info/3053599926539192319
+SUMMARY:『名古屋定期公演vol.3』
+UID:89a562a1-17ff-4f71-af74-c99229a41411@89a5.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260801
+DTEND;VALUE=DATE:20260802
+DESCRIPTION:『TOKYO IDOL FESTIVAL 2026 supported by にしたんクリニック』\n\n📍お台場・青海周辺エリア\n\n🎤12:10-12:35【HEAT GARAGE】\n\n🎫チケット購入はこちら⏬\nhttps://official.idolfes.com/s/tif2026/page/ticket?ima=0000\n\n詳細はこちら⏬\nhttps://official.idolfes.com/s/tif2026/\nhttps://timetr.ee/p/tebasen_info/2951593143562601798
+SUMMARY:『TOKYO IDOL FESTIVAL 2026 supported by にしたんクリニック』
+UID:2fee4d4a-c66e-4d07-9d89-6af719ab9bcd@2fee.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260916
+DTEND;VALUE=DATE:20260917
+DESCRIPTION:『MARQUEE Fes.』\n\n■Spotify O-EAST\n■開場14:00/開演14:30\n\n🎤18:05-18:30\n📸18:45-19:45【ブースD(3F)】\n\n🎁コメント付きチェキ券\n\n🎫前方11\,000円/一般4\,500円/当日5\,500円(各＋1D)\n\n購入▶︎https://eplus.jp/sf/detail/2029630001-P0030563P021001?P1=0175\nhttps://timetr.ee/p/tebasen_info/3027841062925698811
+SUMMARY:『MARQUEE Fes.』
+UID:14638947-2627-4128-b564-537a6e6f409c@1463.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260628
+DTEND;VALUE=DATE:20260629
+DESCRIPTION:『IDOL MIX 2』\n\n■グレースバリ渋谷\n■開場18:00 / 開演18:20\n\n🎤19:50-20:20\n📸20:30-21:30【終演後】\n\n🎁ソロ自撮り写メ\n\n🎫優先エリア3\,500円/一般入場1\,500円/当日券各+500円（各＋1D）\n\n購入▶︎t-dv.com/idolmix_0628\nhttps://timetr.ee/p/tebasen_info/2974926300839871563
+SUMMARY:『IDOL MIX 2』
+UID:8a2033df-7401-4dce-a419-e2aafb995fb0@8a20.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260913
+DTEND;VALUE=DATE:20260914
+DESCRIPTION:『GIRLS BOX VOL.294』\n\n■名古屋ReNY Limited\n■開場11:00/開演11:30\n\n🎤14:05-14:35\n📸14:40-15:50\n\n🎁特典券1枚\n\n🎫Sチケット(前方)4\,000円/Aチケット(一般)2\,000円(各＋1D)　\n\n購入▶︎https://ticketdive.com/event/rCemETsbsyc8tAEWFcjA\nhttps://timetr.ee/p/tebasen_info/3027840855148267178
+SUMMARY:『GIRLS BOX VOL.294』
+UID:d4441aad-6359-4e2b-b814-6cd25015debf@d444.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260425
+DTEND;VALUE=DATE:20260426
+DESCRIPTION:手羽先センセーション単独公演\n『#手羽センセトリ考え隊』\n\n■名古屋RAD NINE\n■開場19:00 / 開演19:20\n\n■募集方法\n『#手羽センセトリ考え隊』をつけて"6曲分"のセトリをポストしてください。\nポストの中からセトリを選んで披露します！\n※4/23(木)24:00まで\n\n🎫前売り2\,000円/当日2\,500円（各+1D)\n購入▶︎ t-dv.com/tebasen_0425\nhttps://timetr.ee/p/tebasen_info/2924145267735725457
+SUMMARY:手羽先センセーション単独公演『#手羽センセトリ考え隊』
+UID:e4a0fff4-4335-49cc-ac3d-110c53843aa6@e4a0.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260530
+DTEND;VALUE=DATE:20260531
+DESCRIPTION:『＠JAM 2026 Day1  2 部〜メインステージ争奪 LIVE〜』\n\n■ZeppDiverCity\n■開場17:00 / 開演18:00\n\n🎫 1F スタンディング¥4\,500(＋1D)\n\n購入▶︎ atjam.jp/ticket\n公式 HP 有料会員先行：4/7(火)12:00~4/18(土)23:59\n公式 HP 有料/無料会員先行：4/19(日)12:00~5/1(金)23:59\n一般販売：5/2(土)10:00~\nhttps://timetr.ee/p/tebasen_info/2938696673196967652
+SUMMARY:『＠JAM 2026 Day1  2 部〜メインステージ争奪 LIVE〜』
+UID:6458da24-6e98-4fd0-a399-b637013b301d@6458.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261029
+DTEND;VALUE=DATE:20261030
+DESCRIPTION:『神奈川単独公演』\n\n■川崎セルビアンナイト\n■開場18:40/開演19:00\n\n🎃ハロウィン仮装コス特典会👻⟡.·\n\n🎫優先チケット3\,000円/前売1\,500円/当日2\,000円(各+1D)\n\n購入▶︎ t-dv.com/kanagawa_1029\n先行抽選：〜10/12(月祝)12:00\n一般先着：10/12(月祝)22:00〜10/28(水)23:59\nhttps://timetr.ee/p/tebasen_info/3065640964585883104
+SUMMARY:『神奈川単独公演』
+UID:17da7735-bb2c-4c51-89d2-40edd7489db7@17da.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260731
 DTEND;VALUE=DATE:20260801
 DESCRIPTION:『渋原FES in SHIBUYA SUMMER PARK 2026 DAY1』\n\n■代々木公園 野外ステージ\n■開場13:00 / 開演14:00\n\n🗓️出演時間後日公開\n\n🎫S席8\,800円 / A席5\,500円 / 当日券＋1\,000円 (各＋1D)\n\n購入▶︎buzz-ticket.com/e/tphxy6qmz3\nhttps://timetr.ee/p/tebasen_info/3007693034873095972
 SUMMARY:『渋原FES in SHIBUYA SUMMER PARK 2026 DAY1』
-UID:6a58814a-1464-49d1-84f4-2c0dbaae17aa@6a58.org
+UID:b927c633-0a6e-46df-8a25-a76ce4081c5a@b927.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260912
+DTEND;VALUE=DATE:20260913
+DESCRIPTION:『LEADING NAGOYA』\n\n■Zephyr Hall\n■開場16:15/開演16:45\n\n🎤18:20-18:50\n📸19:10-20:20【B】\n\n🎁コメント付きチェキ券\n\n🎫優先エリアチケット8\,000円/通常エリアチケット3\,500円(各＋1D)\n\n購入▶︎ticketvillage.jp/events/13854\nhttps://timetr.ee/p/tebasen_info/3027840630325183528
+SUMMARY:『LEADING NAGOYA』
+UID:bd3afc09-43f3-4d07-aba3-51b9489d3433@bd3a.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260428
+DTEND;VALUE=DATE:20260429
+DESCRIPTION:『 手羽先センセーショントークライブ～おしゃべりセンセーション～ 』\n\n■シアターギルド代官山\n■開場18:30 / 開演19:00\n■出演 宮代柚花/夏姫えれな/工藤鈴菜/瀬名えま/MC:クマムシ\n\n🎫S席4\,500円/A席2\,500円/当日券・立見席Bチケット 2\,500円\n\n🎁S席特典:出演者アイドル全員との集合写メ\n\n購入▶︎https://ticketdive.com/event/talklive_0428\nhttps://timetr.ee/p/tebasen_info/2938685423679375123
+SUMMARY:『 手羽先センセーショントークライブ～おしゃべりセンセーション～ 』
+UID:928ab80e-19a1-401b-b8ad-14bcd9fe09c1@928a.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261101
+DTEND;VALUE=DATE:20261102
+DESCRIPTION:『アイドル甲子園 in KANDA SQUARE HALL』supported by My-th -DAY2-\n\n■KANDA SQUARE HALL\n■開場09:00/開演09:15\n出演時間等後日公開🗓️\n\n🎁コメント付きチェキ券\n\n🎫前方エリア8\,500円/一般エリア3\,500円/当日券各+1\,000円(各+1D)\n\n購入▶︎https://user.my-th.jp/?redirect=/tickets/event/aikou_1101\nhttps://timetr.ee/p/tebasen_info/3064030602753148143
+SUMMARY:『アイドル甲子園 in KANDA SQUARE HALL』supported by My-th -DAY2-
+UID:b83a2ea6-0ec8-4340-9bf6-228b4046e9e5@b83a.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260410
+DTEND;VALUE=DATE:20260411
+DESCRIPTION:『 カラフルパーティーCOUNTDOWN to Zepp Shinjuku Vol.5 』\n\n■白金高輪SELENE b2\n■開場18:30 / 開演19:00 \n\n🎤19:10-19:40\n📸20:50-22:10 【終演後】\n\n🎫前方¥4\,000 / 一般¥500（各D代別）\n購入▶︎https://ticketdive.com/event/ColorfulPartyVol5\nhttps://timetr.ee/p/tebasen_info/2919094005193442972
+SUMMARY:『 カラフルパーティーCOUNTDOWN to Zepp Shinjuku Vol.5 』
+UID:23edc043-5573-4913-9b9e-2dd9ac41ccc3@23ed.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261219
+DTEND;VALUE=DATE:20261220
+DESCRIPTION:https://timetr.ee/p/tebasen_info/3080763458040825733
+SUMMARY:名古屋 イベント予定
+UID:a605c933-2f74-4a04-a8a7-22bf856bd622@a605.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260705
+DTEND;VALUE=DATE:20260706
+DESCRIPTION:『超NATSUZOME 2026』\n\n■幕張海浜公園Gブロック特設会場 \n■開場9:00 / 開演10:00\n\n1️⃣🎤10:15-10:30【SOMARIステージ】\n\n📸12:00-13:00【G】\n\n2️⃣🎤13:55-14:10【ZOMEステージ】\n\n🎫一般8\,000円 / VIP27\,000円(各+1D)\n\n購入▶︎https://idol-spot.tstar.jp/event/rileaas/?scid=su_16699\nhttps://timetr.ee/p/tebasen_info/2951602601617458315
+SUMMARY:『超NATSUZOME 2026』
+UID:d14394e9-09b7-4e6b-80ac-531151d5180a@d143.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260523
+DTEND;VALUE=DATE:20260524
+DESCRIPTION:『GIRLS GIRLS FESTIVAL 2026』\n\n■さがみ湖MORI MORI\n■開場 未定/開演 未定\n出演時間等後日公開🗓️\n\n🎫VIP16000円 / 通常6600円 /当日+1500円\n(さがみ湖MORI MORI入園料込/入場時1ドリンク代700円必須/再入場自由)\n購入▶︎tiget.net/events/483124\n\nVIP抽選販売：4/20(月)20:00~4/27(月)23:59\n先着販売：4/28(火)20:00~販売開始‼️\nhttps://timetr.ee/p/tebasen_info/2938691502442218758
+SUMMARY:『GIRLS GIRLS FESTIVAL 2026』
+UID:820f069c-0884-4176-8784-39dde5383396@820f.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260809
+DTEND;VALUE=DATE:20260810
+DESCRIPTION:『IDOL SUMMER JUNGLE 2026』\n\n■お台場R地区\n■開場9:00/開演10:00\n\n🏮15:15-16:25 【縁日12】\n📸18:00-19:00【9】\n🎤20:00-20:20【MONKEY STAGE】\n\n🎁コメント付きチェキ券\n\n🎫VIP28\,000円 / 一般5\,000円 / 女性4\,000円 (各+1D)\n\n購入▶︎https://ticketdive.com/event/idolsummerjungle2026\nhttps://timetr.ee/p/tebasen_info/2986559934285940336
+SUMMARY:『IDOL SUMMER JUNGLE 2026』
+UID:5379372c-0be8-4756-800c-2b8f6f0f70f8@5379.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261027
+DTEND;VALUE=DATE:20261028
+DESCRIPTION:『水月みる生誕祭2026』\n\n■NAGOYA ReNY limited\n■開場18:00/開演18:20\n\n水月みるさんの生誕祭に工藤鈴菜がゲストとして出演させていただきます🥞\n(終演後特典会あり📸)\n\n🎫前方チケット2\,500円/通常チケット500円/当日券各+1\,000円(各+1D)\n\n購入▶︎https://livepocket.jp/e/miru_hapiba2026\nhttps://timetr.ee/p/tebasen_info/3080750816106579250
+SUMMARY:『水月みる生誕祭2026』
+UID:86d0af2d-e6ec-4bfa-83d5-c8feaab75a67@86d0.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261201
+DTEND;VALUE=DATE:20261202
+DESCRIPTION:https://timetr.ee/p/tebasen_info/3068031585493649035
+SUMMARY:名古屋 イベント予定
+UID:5c5f5f48-d538-47b7-8c1d-cc5b1d3128f6@5c5f.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261220
+DTEND;VALUE=DATE:20261221
+DESCRIPTION:https://timetr.ee/p/tebasen_info/3080763798769304741
+SUMMARY:都内 イベント予定
+UID:1884d8f5-c1f1-4901-86bb-2a3a775964df@1884.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260621
+DTEND;VALUE=DATE:20260622
+DESCRIPTION:『雛汰ゆら生誕祭2026』\n\n■THE BOTTOM LINE\n■開場16:30 / 開演17:00\n\n🎫SSチケット12\,000円 / Sチケット4\,000円 / 通常チケット前売1\,500円/当日2\,000円 (各＋1D代)\n\n購入▶︎https://ticketdive.com/event/yura_birthday2026\n先行抽選：~5/16(土)12:00まで【SSチケットのみ】\n一般先着：5/16(土)22:00~6/20(土)23:59\nhttps://timetr.ee/p/tebasen_info/2963986124491916809
+SUMMARY:『雛汰ゆら生誕祭2026』
+UID:18cd3cf3-abd9-45ec-8160-8403ce1d2210@18cd.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260725
+DTEND;VALUE=DATE:20260726
+DESCRIPTION:『10年目記念で有明に引っ越しだよ！\n六本木アイドルフェスティバル2026』\n\n■東京ドリームパーク(SGCホール有明\,ドリームテラス) / TFTホール\n\n🎤15:45-16:05【GOLD STAGE】\n📸16:35-17:35【G】\n\n🎫一般チケット8\,500円 / DREAMチケット28\,000円\n \n購入▶︎ https://ticket.tv-asahi.co.jp/ex/project/rif2026\n\nイベント詳細はこちら▶︎tv-asahi.co.jp/idolfes/\nhttps://timetr.ee/p/tebasen_info/2997912003919938563
+SUMMARY:『10年目記念で有明に引っ越しだよ！六本木アイドルフェスティバル2026』
+UID:15cfaaa4-8359-47e8-9e24-dddd46b85c9c@15cf.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260429
+DTEND;VALUE=DATE:20260430
+DESCRIPTION:『UP-T FESTIVAL vol.7』\n\n■神田スクエアホール\n■開場10:45/開演11:00\n\n🎤20:40-21:00\n📸21:30-22:30【終演後】\n\n🎁コメント付きチェキ券\n\n🎫前方6\,500円/一般3\,000円/当日各＋1\,000円（各D(700円)別）\n\n購入▶︎ tiget.net/events/477125\nhttps://timetr.ee/p/tebasen_info/2919094350292386983
+SUMMARY:『UP-T FESTIVAL vol.7』
+UID:3abfb3a8-3e8f-413b-9ad6-083d7bd70e2b@3abf.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260331
+DTEND;VALUE=DATE:20260401
+DESCRIPTION:『超十代 -ULTRA TEENS FES- 2026 presented by docomo』\n\n■国立代々木競技場第一体育館\n\n🐣雛汰ゆらのみの出演となります\n\n公式HP⏬\nhttps://event.chojudai.com\nhttps://timetr.ee/p/tebasen_info/2926740021728184115
+SUMMARY:『超十代 -ULTRA TEENS FES- 2026 presented by docomo』
+UID:122492eb-1c4e-4f1e-bd88-ce321e9180e4@1224.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260606
+DTEND;VALUE=DATE:20260607
+DESCRIPTION:https://timetr.ee/p/tebasen_info/2973534600456242366
+SUMMARY:『手羽先サミット2026』
+UID:c15e040c-f702-4ae3-bc38-d385135601ac@c15e.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260729
 DTEND;VALUE=DATE:20260730
 DESCRIPTION:『IDOL MIX 3』\n\n■グレースバリ銀座\n■開場18:00 / 開演18:20\n\n🎤20:20-20:50\n📸21:00-22:00\n\n🎁ソロ自撮り写メ\n\n🎫優先エリア3\,500円/一般入場1\,500円/当日券各+500円(各＋1D)\n購入▶︎t-dv.com/idolmix_0729\n\n#手羽先センセーション\nhttps://timetr.ee/p/tebasen_info/3007721700776675236
 SUMMARY:『IDOL MIX 3』
-UID:e4bb1654-7110-4b76-9a05-2d33b06d3ad6@e4bb.org
+UID:09457ab6-c1fa-4d84-bd05-227bc2065582@0945.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260928
+DTEND;VALUE=DATE:20260929
+DESCRIPTION:FES☆TIVE Presentts 『金鯱祭』\n\n■Zephyr Hall\n■開場18:00/開演18:35\n\n🎤19:25-19:50\n📸終演後\n\n🎁コメント付きチェキ券\n\n🎫優先5\,000円/一般2\,500円(各別途1D)\n\n購入▶︎https://ticketdive.com/event/I2HYkXVxDtsFq2OWZHpd\nhttps://timetr.ee/p/tebasen_info/3027841958694815689
+SUMMARY:「金鯱祭」
+UID:bcb07866-93b8-4d5b-8246-c49709488270@bcb0.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261024
+DTEND;VALUE=DATE:20261025
+DESCRIPTION:『Road To RAD JAM』\n\n■Zepp Nagoya\n■開場12:30/開演13:00\n\n🎤18:50-19:20\n📸21:05-22:25【終演後】\n\n🎁特典券1枚\n\n🎫 前方エリア7\,000円/通常4\,000円\n\n購入▶︎ t-dv.com/rtr_1024zepp\nhttps://timetr.ee/p/tebasen_info/3053598219549738901
+SUMMARY:『Road To RAD JAM』
+UID:d921dea8-f9b6-4486-ae50-d1f7f69d679f@d921.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261115
+DTEND;VALUE=DATE:20261116
+DESCRIPTION:https://timetr.ee/p/tebasen_info/3053600038678103384
+SUMMARY:名古屋 イベント予定
+UID:ca7cbce7-e306-45e7-9bb6-09bec1beb2b3@ca7c.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261230
+DTEND;VALUE=DATE:20261231
+DESCRIPTION:https://timetr.ee/p/tebasen_info/3080764335581496479
+SUMMARY:名古屋 イベント予定
+UID:b527d37c-f6a2-410f-94c2-641ae284a2d0@b527.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260517
+DTEND;VALUE=DATE:20260518
+DESCRIPTION:『rock field ULTRA LIVE in 上野 SPRING DAY2』\n\n■上野恩賜公園野外ステージ\n■開場9:45 / 開演10:00\n\n🎤18:15-18:40\n📸18:40-20:00【A】\n\n🎫Sチケット¥6\,000/ Aチケット¥2\,000(当日各＋¥1\,000)（各＋D代）\n\n購入▶︎ buzz-ticket.com/e/rf_0517\nhttps://timetr.ee/p/tebasen_info/2938691194118931767
+SUMMARY:『rock field ULTRA LIVE in 上野 SPRING DAY2』
+UID:024b2661-9542-45e4-b543-290f1f97034d@024b.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261224
+DTEND;VALUE=DATE:20261225
+DESCRIPTION:https://timetr.ee/p/tebasen_info/3080764094341907632
+SUMMARY:都内 イベント予定
+UID:5733c448-818a-48cc-90d1-be2b3a156079@5733.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260704
+DTEND;VALUE=DATE:20260705
+DESCRIPTION:『KAWAII PARTY』\n\n■品川インターシティホール\n■開場10:00 / 開演10:15\n\n🎤19:45-20:10\n📸終演後特典会\n\n🎁コメント付きチェキ券\n\n🎫前方8\,000円 / 通常4\,000円 / 当日＋1\,000円 (各＋1D)\n\n購入▶︎ t-dv.com/KP_0704\nhttps://timetr.ee/p/tebasen_info/2973536315314210220
+SUMMARY:『KAWAII PARTY』
+UID:29ed085c-4b72-47be-a96e-99909eaddb56@29ed.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261003
+DTEND;VALUE=DATE:20261004
+DESCRIPTION:『@JAM TAIPEI POP vol.2』🇹🇼\n\n■MOONDOG\n■開場10:00/開演10:30\n\n出演時間等後日公開🗓️\n\n🎫チケット料金\n前方エリア：前売1\,500NTD/当日1\,700NTD\n一般エリア：前売800NTD/当日1\,000NTD\n\n購入▶︎https://tickets.funone.io/activity/activity_detail/atjamtaipeipop02\nhttps://timetr.ee/p/tebasen_info/3052858495621072884
+SUMMARY:『@JAM TAIPEI POP vol.2』🇹🇼
+UID:7b7e31dc-b917-4c98-8f25-96856e69667e@7b7e.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260918
+DTEND;VALUE=DATE:20260919
+DESCRIPTION:『名古屋定期公演vol.1』\n\n■NAGOYA JAMMIN'\n■開場19:00/開演19:20\n\n🎫優先エリア3\,000円/前売1\,000円/当日各+500円(各+1D)\n\n購入▶︎ t-dv.com/nagoya_01\n先行抽選：〜8/16(日)12:00\n一般先着：8/16(日)22:00〜9/17(木)23:59\nhttps://timetr.ee/p/tebasen_info/3027841254387287246
+SUMMARY:『名古屋定期公演vol.1』
+UID:1670c62f-8e66-4442-9726-ffd1720da744@1670.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260817
+DTEND;VALUE=DATE:20260818
+DESCRIPTION:『手羽先センセーショントークライブ～おしゃべりセンセーション～』\n\n■シアターギルド代官山\n■開場18:30/開演19:00\n\n※手羽先センセーションからは宮代柚花、雛汰ゆら、瀬名えま のみの出演となります。\n\n🎫S席 4\,500円/A席 2\,500円/当日券・立見席Bチケット 2\,500円\n\n購入▶︎t-dv.com/takelive_0817\n8/14(金)20:00〜販売開始\nhttps://timetr.ee/p/tebasen_info/3027839906639971348
+SUMMARY:『手羽先センセーショントークライブ～おしゃべりセンセーション～』
+UID:8e807c6b-012a-4dbf-b453-949636ed64b3@8e80.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261219
+DTEND;VALUE=DATE:20261220
+DESCRIPTION:https://timetr.ee/p/tebasen_info/3080763686697501858
+SUMMARY:名古屋 イベント予定
+UID:a9bcd1a0-4d72-4834-b984-217e203dec2e@a9bc.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260509
+DTEND;VALUE=DATE:20260510
+DESCRIPTION:MyDearDarlin’ presents『Live Loud! - 名古屋3マンSP-』\n\n■Zephyr Hall\n■開場12:00/開演12:30\n\n🎤12:55-13:20\n📸13:50-15:00【終演後】\n\n🎁コメント付きチェキ券\n\n🎫前方¥4\,000/一般¥1\,500(各＋1D)\n\n購入▶︎https://ticketdive.com/event/LiveLoud-Nagoya3manSP\n前方チケット：4/23(木)20:00~5/8(金)23:59\n一般チケット：4/23(木)20:30~5/8(金)23:59\nhttps://timetr.ee/p/tebasen_info/2920333288143258865
+SUMMARY:MyDearDarlin’ presents『Live Loud! - 名古屋3マンSP-』
+UID:f44aa714-3c11-40bb-a460-a48bbde798b6@f44a.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260718
+DTEND;VALUE=DATE:20260719
+DESCRIPTION:『SEKIGAHARA IDOL WARS 2026-関ケ原唄姫合戦-』\n\n■桃配運動公園\n\n🎤19:30-19:55【徳川ステージ】\n📸20:15-21:35【1】\n\n🎫チケット購入▶︎t-dv.com/SEKIGAHARA_2026\nhttps://timetr.ee/p/tebasen_info/2951589717126612990
+SUMMARY:『 SEKIGAHARA IDOL WARS 2026 - 関ケ原唄姫合戦- 』
+UID:e04a97d3-6148-4c4a-b444-4b0c7a5586dc@e04a.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260610
+DTEND;VALUE=DATE:20260611
+DESCRIPTION:『IDOL KINGDOM TOKYO』\n\n■恵比寿LIQUIDROOM\n■開場12:30 / 開演13:00\n\n🎤16:30-16:55\n📸17:05-18:05【L3】\n\n🎁コメント付きチェキ券\n\n🎫SSチケット11\,000円/Sチケット7\,000円/一般チケット3\,000円/女性チケット2\,000円/U-20チケット1\,000円(各＋1D)\n\n購入▶︎t-dv.com/0610ebisu\nhttps://timetr.ee/p/tebasen_info/2963985344695306182
+SUMMARY:『IDOL KINGDOM TOKYO』
+UID:f81cbb5a-fc1f-424f-ad67-dcfb82a8a7c8@f81c.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261108
+DTEND;VALUE=DATE:20261109
+DESCRIPTION:『第27回静大祭in浜松』\n\n■静岡大学浜松キャンパス\n■開場13:00/開演13:30\n\n🎤14:00-14:30\n📸15:00-17:00\n\n🉐ライブ観覧無料🉐\n🎫優先入場チケットはこちらから⏬\nhttps://ticketdive.com/event/shizuokaunivfes2026\n※10/20(火)22:00〜受付開始💫\nhttps://timetr.ee/p/tebasen_info/3053600426684778304
+SUMMARY:『第27回静大祭in浜松』
+UID:d0eade6a-7f0c-40dd-87a9-e0e67442216e@d0ea.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260919
+DTEND;VALUE=DATE:20260920
+DESCRIPTION:『手羽先セッションvol.19』\n\n■NAGOYA ReNY limited\n■開場12:15/開演12:45\n\n■ Zephyr Hall\n■開場12:40/開演13:10\n\n1️⃣NAGOYA ReNY limited\n🎤12:45-13:00\n2️⃣Zephyr Hall\n🎤15:15-15:40\n📸15:50-16:50【C】\n3️⃣NAGOYA ReNY limited\n🎤19:55-20:20\n📸終演後\n\n■出演：手羽先センセーション/カラフルスクリーム/君に、胸キュン。/テンシンランマン/HIBANA/ナナコロビヤオキ/サクヤコノハナ/W.ダブルヴィー/シャニムニ=パレード/ヒロインズ研究生大阪/AQA/逆転ねこぱんちっ！/Malcolm Mask McLaren/XINXIN/AIWO\n\n🎫前売5\,000円/当日券5\,500円(各+1D)\n\n購入▶︎ t-dv.com/tebasession_19\n先行抽選：〜8/27(木)12:00\n先着販売：8/27(木)22:00〜9/18(金)23:59\nhttps://timetr.ee/p/tebasen_info/3027841357659440267
+SUMMARY:『手羽先セッションvol.19』
+UID:257687ce-7740-4962-beba-c6807f762991@2576.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261119
+DTEND;VALUE=DATE:20261120
+DESCRIPTION:https://timetr.ee/p/tebasen_info/3080749234350654853
+SUMMARY:大阪 イベント予定
+UID:6aafca84-d8a6-4e84-908b-50ab3fe5ace2@6aaf.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260628
+DTEND;VALUE=DATE:20260629
+DESCRIPTION:『HYPE IDOL！DX』 \n\n■Zeep Haneda（TOKYO）\n■開場10:15 / 開演10:45\n\n🎤14:15-14:35\n📸14:45-15:55【A】\n\n🎁コメント付きチェキ券\n\n🎫前方¥10\,000/ 一般¥2\,500（ドリンク代なし）\n\n購入▶︎t-dv.com/HYPEDX_0628\nhttps://timetr.ee/p/tebasen_info/2997416488308507741
+SUMMARY:『HYPE IDOL！DX』
+UID:7f326632-e0b2-434b-a215-71e1ca01abdd@7f32.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260808
+DTEND;VALUE=DATE:20260809
+DESCRIPTION:『旋回』\n\n■LivesNAGOYA\n■開場10:20 / 開演10:40\n\n🎤13:40-14:00\n📸14:30-15:30【終演後】\n\n🎁グレードアップ券\n\n🎫前方エリア3\,500円 / 一般\n1\,500円 / 当日各＋500円 (各+1D)\n\n購入▶︎t-dv.com/senkai_0808\nhttps://timetr.ee/p/tebasen_info/2986559390603478183
+SUMMARY:『旋回』
+UID:09b3533b-a7a1-4a5e-8ca9-b2326104366e@09b3.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260427
+DTEND;VALUE=DATE:20260428
+DESCRIPTION:『 宮代柚花 手羽先センセーション加入2周年記念公演 』\n\n■THE BOTTOM LINE\n■開場18:40 / 開演19:00\n\n🎫Sチケット4\,000円/一般チケット1\,500円/当日各＋500円 （各+1D）\n\n購入▶︎https://ticketdive.com/event/yuzuka_2ndAnniv\n先行抽選：~2026.4.5(日)12:00まで\n一般先着：2026.4.5(日)22:00~4.26(日)23:59\nhttps://timetr.ee/p/tebasen_info/2920330102963635531
+SUMMARY:『 宮代柚花 手羽先センセーション加入2周年記念公演 』
+UID:cb09dede-f6af-4c72-8f28-9ce34d69d185@cb09.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260829
+DTEND;VALUE=DATE:20260830
+DESCRIPTION:『@ JAM EXPO 2026 supported by UP-T』\n\n■横浜アリーナ\n\n1️⃣🎤12:25-12:40【オレンジステージ🍊】\n📸13:40-14:40【5】\n2️⃣🎤19:05-19:25【ブルーベリーステージ🫐】\n\n購入▶︎atjam.jp/expo2026/ticket\n\n詳細はこちらから⏬\nhttps://atjam.jp/expo2026/news/detail/WnFAffTFXyHvOvBaeOqL\nhttps://timetr.ee/p/tebasen_info/2986562341950654456
+SUMMARY:『@JAM EXPO 2026 supported by UP-T』
+UID:efc1d9ce-053a-47ae-afd9-5c7f7b2e225f@efc1.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260717
+DTEND;VALUE=DATE:20260718
+DESCRIPTION:『お試し手羽セン公演』\n\n■THE BOTTOM LINE\n■開場19:00 / 開演19:20\n\n🎁来場者全員にお試しチェキ券1枚配布\n\n🎫優先エリア2\,000円/一般入場 0円(要予約)/当日券各＋500円（各+1D）\n\n購入▶︎https://ticketdive.com/event/otameshi_teba0717\nhttps://timetr.ee/p/tebasen_info/2973536590695433411
+SUMMARY:『お試し手羽セン公演』
+UID:b2d3aa99-5b2a-4e57-922e-83ccace26f7c@b2d3.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260810
+DTEND;VALUE=DATE:20260811
+DESCRIPTION:「NEO KASSEN2026」\n\n■Spotify O-EAST他全12会場\n■開場11:00/開演11:30\n\n🎤12:45-13:10【MIDORI STAGE(WOMB LIVE)】\n📸13:25-14:25【WOMB 4F-15】\n\n🎫KASSEN 10\,000円/ 前売り 6\,500円/ 当日 7\,500円 (各＋1D)\n\n購入▶︎ l-tike.com/neokassen/\nhttps://timetr.ee/p/tebasen_info/2986560017492543182
+SUMMARY:「NEO KASSEN2026」
+UID:4df7ff23-c5ef-4061-8e33-037bf090f53e@4df7.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261015
+DTEND;VALUE=DATE:20261016
+DESCRIPTION:『テンラン会』\n\n■NAGOYA ReNY limited\n■開場15:00/開演15:40\n\n🎤17:40-18:05\n📸18:15-19:15【3】\n\n🎁コメント付きチェキ券\n\n🎫優先エリア 6\,000円/一般エリア2\,500円/女性 2\,000円/当日各+500円(各別途1D)\n\n購入▶︎ t-dv.com/tenrankai_1015\nhttps://timetr.ee/p/tebasen_info/3040900441191155681
+SUMMARY:『テンラン会』
+UID:28b4702c-3c52-4b94-b094-530be08b8402@28b4.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260405
+DTEND;VALUE=DATE:20260406
+DESCRIPTION:『GIRLS☆DELIGHT#393』\n\n■NAGOYA ReNY limited\n■開場10:30/開演11:00\n\n🎤13:10-13:35\n📸13:50-15:10【B】\n\n🎁コメント付きチェキ券\n\n🎫前売り優先5\,000円/前売り一般2\,000円/当日各+1\,000円(各+1D)\n\n購入▶︎https://livepocket.jp/e/girlsdelight393\nhttps://timetr.ee/p/tebasen_info/2919093832044185240
+SUMMARY:『GIRLS☆DELIGHT#393』
+UID:8aaffb85-b809-4d40-a270-f932ac089eb2@8aaf.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260416
+DTEND;VALUE=DATE:20260417
+DESCRIPTION:『テンラン会』\n\n■ZephyrHall\n■開場17:30/開演18:00\n\n🎤18:00-18:30\n📸20:00-21:30 \n\n🎁コメント付きチェキ券\n\n🎫前売前方5000円 / 前売通常2000円 / 前売女性1000円 / 当日+500円 (各＋1D)\n\n購入▶︎ t-dv.com/tenrankai0416\nhttps://timetr.ee/p/tebasen_info/2919094179735209758
+SUMMARY:『テンラン会』
+UID:5e785e36-d044-43f2-b05e-2a905f4c73d9@5e78.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260723
+DTEND;VALUE=DATE:20260724
+DESCRIPTION:『手羽先センセーショントークライブ～おしゃべりセンセーション～』\n\n■シアターギルド代官山\n■開場18:30/開演19:00\n\n※手羽先センセーションからは、松山綺利、夏姫えれな、雛汰ゆらのみの出演となります。\n\n🎫S席 4\,500円/A席 2\,500円/当日券・立見席Bチケット 2\,500円\n\n購入▶︎ t-dv.com/talklive_0723\nhttps://timetr.ee/p/tebasen_info/2986558811219101539
+SUMMARY:『手羽先センセーショントークライブ～おしゃべりセンセーション～』
+UID:db81b75b-a2dd-44ee-941f-5efdd26fa2f2@db81.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261004
+DTEND;VALUE=DATE:20261005
+DESCRIPTION:『手羽先センセーション オフ会in TAIPEI』\n\n■台北市内レストラン\n■START 11:00\n■参加費 1\,600NTD\n\nオフ会申し込みフォーム⏬\nhttps://docs.google.com/forms/d/e/1FAIpQLSf4mHmINJBesr8DCXl8lTq5YqAk1sjAArh_H_T0IgM9kDKmnQ/viewform\nhttps://timetr.ee/p/tebasen_info/3064037757933782948
+SUMMARY:『手羽先センセーション オフ会in TAIPEI』
+UID:be970b7a-df00-428b-af89-d0eb672262e5@be97.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260506
+DTEND;VALUE=DATE:20260507
+DESCRIPTION:『東京定期公演』\n\n■渋谷スターラウンジ\n■開場18:00 / 開演18:20\n\n💛工藤鈴菜プロデュース衣装公演💛\n\n🎫優先3\,000円/前売1\,500円/当日2\,000円 (各+1D)\n購入▶ t-dv.com/tokyo_0506\nhttps://timetr.ee/p/tebasen_info/2920332274019272458
+SUMMARY:『東京定期公演』
+UID:b243c5d2-0d52-4276-b001-23024a1d1b91@b243.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260417
 DTEND;VALUE=DATE:20260418
 DESCRIPTION:手羽先センセーション単独公演『満開サクライロ』 \n\n■名古屋RAD NINE\n■開場19:00 / 開演19:20\n\n꒰ 🌸春のデート服特典会🌸 ꒱\n\n🎫優先入場 2\,300円/前売 800円（各+1D)\n購入▶︎t-dv.com/sakurairo_0417\n抽選受付~4/7(火)12:00まで\n4/7(火)22:00~先着販売開始‼️\nhttps://timetr.ee/p/tebasen_info/2924145045051737286
 SUMMARY:手羽先センセーション単独公演 『満開サクライロ』
-UID:d346fada-f276-4ac1-9f5f-17c1fae4e20b@d346.org
+UID:0a6ad663-50f8-4bea-829e-94d69578a6ae@0a6a.org
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260720
-DTEND;VALUE=DATE:20260721
-DESCRIPTION:『SEKIGAHARA IDOL WARS 2026-関ケ原唄姫合戦-』\n\n■桃配運動公園\n\n1️⃣\n🎤13:50-14:05【戦国ステージ】\n📸14:34-15:55【13】\n\n2️⃣\n🎤19:00-19:25【徳川ステージ】\n📸19:45-21:05【3】\n\n\n🎫チケット購入▶︎t-dv.com/SEKIGAHARA_2026\nhttps://timetr.ee/p/tebasen_info/3007709216070108816
-SUMMARY:『 SEKIGAHARA IDOL WARS 2026 - 関ケ原唄姫合戦- 』
-UID:933ce8a6-f4a2-4884-a617-2e04c4690023@933c.org
+DTSTART;VALUE=DATE:20260926
+DTEND;VALUE=DATE:20260927
+DESCRIPTION:『手羽先センセーション』×『BRODY』コラボイベント\n\n■高田馬場BSホール\n■開場12:15/開演12:30\n\n会場限定オリジナルグッズの購入で特典会への参加が可能📸\n\n🎫前売券500円/当日券1\,000円\n\n購入▶︎ tiget.net/events/521821\nhttps://timetr.ee/p/tebasen_info/3032103271231064011
+SUMMARY:『手羽先センセーション』×『BRODY』コラボイベント
+UID:f73567b5-ab7b-44f9-8740-f183290943c5@f735.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260517
+DTEND;VALUE=DATE:20260518
+DESCRIPTION:『IDOL MIX』\n\n■グレースバリ銀座\n■開場12:00 / 開演12:30\n\n🎁ソロ自撮り写メ\n\n🎫優先エリア3\,500円/一般入場1\,500円/当日券各＋500円(各＋1D)\n購入▶︎t-dv.com/idolmix_0517\nhttps://timetr.ee/p/tebasen_info/2938691261244572968
+SUMMARY:『IDOL MIX』
+UID:35a52c73-c4f4-42e4-8e0d-dce72a8f7b37@35a5.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260330
+DTEND;VALUE=DATE:20260331
+DESCRIPTION:『工藤鈴菜プロデュース公演』\n\n■NAGOYA JAMMIN'\n■開場18:30/開演19:00\n\n🎫Sチケット4\,000円/前売1\,500円/当日各＋500円(各+1D)\n\n🎁定点DVD\n※Sチケット購入者のみ\n\n購入▶︎ t-dv.com/suzuna_produce\n先行抽選 3.11(水)23:00〜3.15(日)12:00\n一般先着 3.15(日)21:00〜3.29(日)23:59\nhttps://timetr.ee/p/tebasen_info/2878191344390964850
+SUMMARY:『工藤鈴菜プロデュース公演』
+UID:c5668485-5391-4ca0-a875-5e3fba3bfe98@c566.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260711
+DTEND;VALUE=DATE:20260712
+DESCRIPTION:『SPARK 2026 渋谷納涼祭』\n\n■ベルサール渋谷ガーデン\n■開場9:00/開演9:30\n\n🎤10:10-10:30【ベルサールメイン】\n📸10:40-12:10【C】\n🏮12:40-13:30【縁日ブース４】\n\n🎁コメント付きチェキ券\n\n🎫VIP15\,000円 / 一般4\,000円(各＋１D）\n\n購入▶︎https://ticketdive.com/event/spark2026_summer\nhttps://timetr.ee/p/tebasen_info/2986559135816288066
+SUMMARY:『SPARK 2026 渋谷納涼祭』
+UID:8da3f5da-190c-4c65-9898-8eb0594f2b4f@8da3.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261019
+DTEND;VALUE=DATE:20261020
+DESCRIPTION:■P.A.R.M.S秋葉原\n■開場19:00/開演19:30\n\n🎁来場者全員に特典券1枚配布⟡.·\n\n🎫優先エリア3\,000円/🉐一般エリア0円🉐(要予約)/当日券各+500円(各+1D)\n\n購入▶︎https://ticketdive.com/event/otameshi_teba1019\nhttps://timetr.ee/p/tebasen_info/3067438494357325761
+SUMMARY:『お試し手羽セン公演』
+UID:92efbc93-3466-436d-ac84-7df9889d1ba3@92ef.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260511
+DTEND;VALUE=DATE:20260512
+DESCRIPTION:『ICONIC MOMENTS LIVE！』\n\n■ZephyrHall\n■開場15:30 / 開演16:15\n\n🎤17:50-18:10\n📸18:25-19:25【C】\n\n🎁コメント付きチェキ券＋10秒動画\n\n🎫前方エリア7\,700円/一般エリア5\,500円(各＋1D)\n\n購入▶︎ tiget.net/events/472061\nhttps://timetr.ee/p/tebasen_info/2920333371903510421
+SUMMARY:『ICONIC MOMENTS LIVE！』
+UID:2a81a29c-379f-4e4d-a3c1-2032f42a6a10@2a81.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260527
+DTEND;VALUE=DATE:20260528
+DESCRIPTION:『名古屋合同定期公演vol.7』\n\n■ZephyrHall\n■開場18:30 / 開演18:55\n\n📢出演順は当日決定\n\n🎫前方チケット 2\,000円/前売券500円/当日＋500円(各別途1D代)\n\n購入▶︎t-dv.com/nagoyagodo_vol7\nhttps://timetr.ee/p/tebasen_info/2938689982074128023
+SUMMARY:『名古屋合同定期公演vol.7』
+UID:a5edcc1e-07d6-4860-a83c-c2d598fe02fc@a5ed.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260607
+DTEND;VALUE=DATE:20260608
+DESCRIPTION:https://timetr.ee/p/tebasen_info/2973534835890914612
+SUMMARY:『手羽先サミット2026』
+UID:c4279805-ae0f-4bc6-adb6-564955cf443b@c427.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260404
+DTEND;VALUE=DATE:20260405
+DESCRIPTION:『GIRLS☆DELIGHT#392』\n\n■Zephyr Hall\n■開場11:30/開演12:00\n\n🎤18:10-18:35\n📸20:05-21:25 【終演後】\n\n🎁コメント付きチェキ券\n\n🎫前売り優先5\,000円/前売り一般2\,000円/当日各+1\,000円(各+1D)\n\n購入▶︎https://livepocket.jp/e/girlsdelight392\nhttps://timetr.ee/p/tebasen_info/2919093669741398010
+SUMMARY:『GIRLS☆DELIGHT#392』
+UID:03a23859-a518-4b73-b165-4f559ea9a814@03a2.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260506
+DTEND;VALUE=DATE:20260507
+DESCRIPTION:『TOKYO GIRLS GIRLS』\n\n■品川ステラボール\n■開場12:30 / 開演12:45\n\n🎤14:00~14:25\n📸14:35~15:55【D】\n\n🎫前方8\,000円/通常0円/当日各+1000円(各＋1D)\n\n購入▶︎tiget.net/events/486595\nhttps://timetr.ee/p/tebasen_info/2951586214505285534
+SUMMARY:『TOKYO GIRLS GIRLS』
+UID:f20a6216-faf6-4ec3-8eb5-34c8f9cce0b3@f20a.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260425
+DTEND;VALUE=DATE:20260426
+DESCRIPTION:『Road To RAD JAM』\n\n■THE BOTTOM LINE\n■開場13:30 / 開演13:50\n\n🎤13:50-14:20\n📸16:05-17:20【終演後】\n\n🎁コメント付きチェキ券\n\n🎫前方エリア¥4\,500/ 通常¥2\,500（各＋D代）\n早割前方エリア¥3\,000/早割通常¥1\,500(各＋D代)\n\n購入▶︎ t-dv.com/rtrj0425\n早割：4/13(月)22:00~4/17(金)23:59まで\n一般先着：4/18(土)0:00~4/25(土)12:00まで\nhttps://timetr.ee/p/tebasen_info/2924145180594865325
+SUMMARY:『Road To RAD JAM』
+UID:9d2603b8-fe7b-47dd-a206-ac70747f7ca1@9d26.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260802
+DTEND;VALUE=DATE:20260803
+DESCRIPTION:『TOKYO IDOL FESTIVAL 2026 supported by にしたんクリニック』\n\n📍お台場・青海周辺エリア\n\n1️⃣🎤15:00-15:15【SKY STAGE】\n\n2️⃣🎤18:05-18:25【TOROCCO PARK】\n\n🎫チケット購入はこちら⏬\nhttps://official.idolfes.com/s/tif2026/page/ticket?ima=0000\n\n詳細はこちら⏬\nhttps://official.idolfes.com/s/tif2026/\nhttps://timetr.ee/p/tebasen_info/3007717539934832488
+SUMMARY:『TOKYO IDOL FESTIVAL 2026 supported by にしたんクリニック』
+UID:6cd3e6c7-521b-411f-9b5a-84aa2882eb67@6cd3.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260623
+DTEND;VALUE=DATE:20260624
+DESCRIPTION:『渚沙きこ生誕祭』\n\n■渋谷DESEOmini\n■開場18:30 / 開演19:00\n\n※瀬名えまのみゲスト出演となります🪼\n\n🎫Sチケット￥10\,000 / Aチケット¥3\,000 / 一般チケット¥1\,000 (各＋1D)\n\n購入▶︎tiget.net/events/492324\nhttps://timetr.ee/p/tebasen_info/2989449009904944730
+SUMMARY:『渚沙きこ生誕祭』
+UID:352a7a91-6f78-45e7-8471-a3c8da2fe0f4@352a.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260502
+DTEND;VALUE=DATE:20260503
+DESCRIPTION:『工藤鈴菜生誕祭2026』\n\n■Zephyr Hall\n■開場16:30/開演17:00\n\n🎫SSチケット 12\,000円/Sチケット 4\,000円/通常チケット 1\,500円/当日券 2\,000円(別途1D)\n\n購入▶︎https://ticketdive.com/event/suzuna_birthday2026\n一般先着:3/31(火)22:00〜5/1(金)23:59\nhttps://timetr.ee/p/tebasen_info/2920331293122561426
+SUMMARY:『工藤鈴菜生誕祭2026』
+UID:539cb0ec-93e1-4031-aba7-52b48d7b29df@539c.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260614
+DTEND;VALUE=DATE:20260615
+DESCRIPTION:『rock field ULTRA LIVE in GOTANDA』\n\n■五反田シティホール\n■開場12:00/開演12:10\n\n🎤13:10-13:30\n📸13:35-14:35【D】\n\n🎁ノーマルチェキ券\n\n🎫 Sチケット 6\,000円 (前方エリア、指定グループ静止画撮影可能) / Aチケット 2\,000円(撮影不可) / 当日 各+¥1\,000 (各＋1D)\n\n購入▶︎buzz-ticket.com/e/rf0614\n　\n※手羽先センセーションのライブは撮影不可となります。ご了承ください。\nhttps://timetr.ee/p/tebasen_info/2963985795440379080
+SUMMARY:『rock field ULTRA LIVE in GOTANDA』
+UID:be3918f6-1a46-4089-bda5-169f6c0fba96@be39.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261130
+DTEND;VALUE=DATE:20261201
+DESCRIPTION:■なんばhatch\n■開場11:30/開演12:00\n出演時間等後日公開🗓️\n\n🎫優先6\,000円/一般3\,000円/当日+各1\,000円(各+1D)\n\n購入▶︎ t-dv.com/VIVIDSOUND1130\nhttps://timetr.ee/p/tebasen_info/3064042158421379056
+SUMMARY:『VIVID SOUND
+UID:ea6ac020-f10e-4f0d-9a04-8554edca69ba@ea6a.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260419
+DTEND;VALUE=DATE:20260420
+DESCRIPTION:『かがやきフェスSpring2026』\n\n■開場10:30/開演11:00\n\n■Eight Hall\n🎤14:15〜14:40\n📸15:10〜16:10【Eight Hall 4F B】\n\n🎫2日通し券12\,000円/1日券6\,600円(各+1D)\n\n購入▶︎ tiget.net/events/457086\n\n公式HPはこちら⏬\nkagayaki-fes.jp/spring2026/\nhttps://timetr.ee/p/tebasen_info/2884358225443358631
+SUMMARY:『かがやきフェスSpring2026』
+UID:7f645cdd-fdff-47df-958d-ce29bf6b78fb@7f64.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260614
+DTEND;VALUE=DATE:20260615
+DESCRIPTION:『IDOL CREAM SODA W.ダブル vol.17』\n\n■赤羽ReNY alpha\n■開場18:00/開演18:30\n\n🎫優先入場6\,000円 / 前方4\,000円 / 一般2\,000円 / 当日+1\,000円(各+1D)\n\n購入▶︎https://ticketdive.com/event/IDOLCREAMSODAWdoublevol17\nhttps://timetr.ee/p/tebasen_info/2963985720463001561
+SUMMARY:『IDOL CREAM SODA W.ダブル vol.17』
+UID:af605ba4-0477-436c-ae18-85366a651bef@af60.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261116
 DTEND;VALUE=DATE:20261117
 DESCRIPTION:『恋白まりな生誕祭〜まりなのにゃんにゃん祭〜』\n\n■X-HALL ZEN\n■開場18:40/開演19:00\n\n恋白まりなさんの生誕祭に工藤鈴菜がゲストとして出演させていただきます🥞\n(終演後特典会あり📸)\n\n🎫Sチケット10\,000円/Aチケット4\,000円/Bチケット1\,000円(各+1D)\n\n購入▶︎https://ticketdive.com/event/MF_marina_birthday_1116?pvtoken=r75AVs20\nhttps://timetr.ee/p/tebasen_info/3080751604073694441
 SUMMARY:『恋白まりな生誕祭〜まりなのにゃんにゃん祭〜』
-UID:25c489b0-8cd5-499a-8819-f259d0e5d2b6@25c4.org
+UID:d4990e4c-beb1-4e80-8d25-24c3af7190be@d499.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261118
+DTEND;VALUE=DATE:20261119
+DESCRIPTION:『2MAN LIVE』\n\n■NAGOYA JAMMIN'\n■開場18:30/開演19:00\n\n🎫前方3\,000円/後方500円/当日各+500円(各別途1D)\n\n購入▶︎ t-dv.com/2MAN_1118\n※一般先着：10/1(木)22:00〜11/17(火)23:59\nhttps://timetr.ee/p/tebasen_info/3067443255546676698
+SUMMARY:『2MAN LIVE』
+UID:c5d93d72-dbdb-48d5-a242-90c3a7c5f8a1@c5d9.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260630
+DTEND;VALUE=DATE:20260701
+DESCRIPTION:『PAS THE HEAT vol.2』\n\n■duo MUSIC EXCHANGE\n■開場17:00/開演17:30 \n\n🎤18:20-18:45\n📸18:55-19:55【C】\n\n🎁グレードアップ券\n\n🎫前方6\,000円 / 一般1\,000円(各＋1D)\n\n購入▶︎https://ticketdive.com/event/PASTHEHEATvol2\nhttps://timetr.ee/p/tebasen_info/2963986016404702637
+SUMMARY:『PAS THE HEAT vol.2』
+UID:e2c938dd-d0f0-410d-97c3-2647804f0eed@e2c9.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260722
+DTEND;VALUE=DATE:20260723
+DESCRIPTION:『UTAGE FES Vol.5』 \n\n■Zepp Shinjuku / KABUKICHO TOWER STAGE 他\n■開場10:00 /開演10:30※変更の可能性あり\n\n🎤13:55-14:15【KABUKICHO TOWER STAGE】\n\n🎫VIP ¥10\,000 (Tシャツ付) / 一般¥2\,500\n※全会場前方エリアあり\n\n購入▶︎t-dv.com/0722_UTAGEFES\nhttps://timetr.ee/p/tebasen_info/2973536808488862856
+SUMMARY:『UTAGE FES Vol.5』
+UID:e4aa2b36-c3e9-47f9-b35c-4c0467dbbc5d@e4aa.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261010
+DTEND;VALUE=DATE:20261011
+DESCRIPTION:『アイドルアラモードVol.33～名古屋出張SP～』\n\n■名古屋COMTEC PORTBASE\n■開場9:30/開演10:00\n\n🎤19:50-20:15\n📸終演後\n\n🎁コメント付きチェキ券\n\n🎫前方エリア9\,000円/一般エリア4\,500円（別途1D）/当日各+1000円\n\n購入▶︎t-dv.com/idolalamode_33\nhttps://timetr.ee/p/tebasen_info/3032105942180628271
+SUMMARY:『アイドルアラモードVol.33～名古屋出張SP～』
+UID:0f8aafb0-2ac2-4c66-93ea-05b2461c8570@0f8a.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261121
+DESCRIPTION:https://timetr.ee/p/tebasen_info/3053600264960804235
+SUMMARY:大阪 イベント予定
+UID:e24343cf-f3fa-4ef5-bf9f-ddc0bb2ede67@e243.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260518
+DTEND;VALUE=DATE:20260519
+DESCRIPTION:『Buzz Buzz Premium!!』\n\n■Spotify O-EAST\n■開場13:30 / 開演13:50\n\n🎤18:15-18:35\n📸19:10-20:20【C】\n\n🎁コメント付きチェキ券\n\n🎫前方8\,000円 / 一般3\,500円 / 当日各+500円 (各＋1D)\n\n購入▶︎t-dv.com/BBP_260518\nhttps://timetr.ee/p/tebasen_info/2960132074335831285
+SUMMARY:『 Buzz Buzz Premium!! 』
+UID:ac6aaa54-b652-4a36-9fe2-2c5b0c13b2fa@ac6a.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261022
+DTEND;VALUE=DATE:20261023
+DESCRIPTION:『手羽先センセーショントークライブ～おしゃべりセンセーション～』\n\n■シアターギルド代官山\n■開場18:30/開演19:00\n\n※手羽先センセーションからは、🐩宮代柚花👽松山綺利、🪼瀬名えまのみの出演となります。\n\n🎫S席 4\,500円/A席 2\,500円/当日券立見席Bチケット 2\,500円\n購入▶︎ t-dv.com/talklive_1022\nhttps://timetr.ee/p/tebasen_info/3079547535200028432
+SUMMARY:『手羽先センセーショントークライブ～おしゃべりセンセーション～』
+UID:d36bd8a5-aa26-434b-b152-0919302e4019@d36b.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260720
+DTEND;VALUE=DATE:20260721
+DESCRIPTION:『SEKIGAHARA IDOL WARS 2026-関ケ原唄姫合戦-』\n\n■桃配運動公園\n\n1️⃣\n🎤13:50-14:05【戦国ステージ】\n📸14:34-15:55【13】\n\n2️⃣\n🎤19:00-19:25【徳川ステージ】\n📸19:45-21:05【3】\n\n\n🎫チケット購入▶︎t-dv.com/SEKIGAHARA_2026\nhttps://timetr.ee/p/tebasen_info/3007709216070108816
+SUMMARY:『 SEKIGAHARA IDOL WARS 2026 - 関ケ原唄姫合戦- 』
+UID:96405a87-125e-485d-b3f5-089c00983e8a@9640.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261213
+DTEND;VALUE=DATE:20261214
+DESCRIPTION:https://timetr.ee/p/tebasen_info/3080762778144147319
+SUMMARY:名古屋 イベント予定
+UID:18b3d6eb-3845-4f8d-8a8b-28dc6a051dd3@18b3.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261206
+DTEND;VALUE=DATE:20261207
+DESCRIPTION:https://timetr.ee/p/tebasen_info/3080762462791206332
+SUMMARY:都内 イベント予定
+UID:9b3a3816-0631-45e3-a843-f2600cd326c2@9b3a.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260811
+DTEND;VALUE=DATE:20260812
+DESCRIPTION:手羽先センセーション『選抜ツアー2026』大阪公演\n\n■ESAKA MUSE\n■開場17:30/開演18:00\n\n🎫優先エリア￥4\,000/一般チケット￥1\,500/当日各＋￥500 (各＋1D)\n\nチケット購入▶︎t-dv.com/tour2026_osaka\n先行抽選：〜7/19(日)12:00\n一般先着：7/19(日)22:00〜8/10(月)23:59\nhttps://timetr.ee/p/tebasen_info/2965478936928519444
+SUMMARY:手羽先センセーション『選抜ツアー2026』大阪公演
+UID:42ede10a-7b96-4d70-adee-d6bd3dd82649@42ed.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260725
+DTEND;VALUE=DATE:20260726
+DESCRIPTION:『TOKYO GIRLS GIRLS~6th Anniversary day2~』\n\n■品川インターシティホール / 品川グランドホール\n■開場8:00/開演8:15 ※変更の可能性あり\n🗓️出演時間等後日公開\n\n🎁コメント付きチェキ券\n\n🎫前方10\,000円 / 通常4\,000円 / 当日5\,000円(各＋1D)\n\n購入▶︎tiget.net/events/502976\nhttps://timetr.ee/p/tebasen_info/2973536943428011267
+SUMMARY:『TOKYO GIRLS GIRLS~6th Anniversary day2~』
+UID:c7dca276-7438-4914-8f22-7186ada48a03@c7dc.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260503
+DTEND;VALUE=DATE:20260504
+DESCRIPTION:『JAPAN CENTRAL IDOL FESTIVAL 2026 COAST IN UTSUMI』\n\n■内海海岸 Comas hui beach park\n■開場9:00/開演10:00\n\n1️⃣\n🎤12:45-13:00【OCEAN STAGE】\n📸13:15-14:25【7】\n\n2️⃣\n🎤18:10-18:30 ライブ②【SKY STAGE】\n📸18:45-19:55 特典会②【24】\n\n🎫4\,500円〜\n\n購入▶︎https://ticketdive.com/event/JCIF2026_02_03_04\nhttps://timetr.ee/p/tebasen_info/2920331713802863998
+SUMMARY:『JAPAN CENTRAL IDOL FESTIVAL 2026 COAST IN UTSUMI』
+UID:8873b84d-718b-4f9a-a503-616f4ea67941@8873.org
 END:VEVENT
 END:VCALENDAR

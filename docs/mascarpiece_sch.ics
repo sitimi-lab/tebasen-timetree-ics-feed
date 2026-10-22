@@ -2,983 +2,983 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261012
-DTEND;VALUE=DATE:20261013
-DESCRIPTION:AFTERS presents「CAKES & ALE」\n📍SHIBUYA CYCLON\n\n🎫 チケット\nhttps://ticketdive.com/event/cakes_ale\n\n▼ライブ\n17:30-17:55\n\n▼特典会\nhttps://timetr.ee/p/mascarpiece_sch/3054267777789328351
-SUMMARY:AFTERS presents「CAKES & ALE」
-UID:522a6c12-4af4-4c74-9901-ab9ea7b63b7c@522a.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260915
-DTEND;VALUE=DATE:20260916
-DESCRIPTION:#ﾆｷﾌﾟﾚ『カンシャサイ。秋』\n📍渋谷音楽堂/Shibuya Milkyway/SHIBUYA THE GAME/Star Lounge/CHELSEA HOTEL/TAKE OFF7/GARRET UDAGAWA\n\n🎫チケット\nhttps://t-dv.com/20260915_nikipre\n\n▼ライブ\n\n\n▼特典会\n\n\nhttps://timetr.ee/p/mascarpiece_sch/3045133368146393913
-SUMMARY:#ﾆｷﾌﾟﾚ『カンシャサイ。秋』
-UID:60b396b9-804a-490a-b5ee-e953ef31c6a2@60b3.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260628
-DTEND;VALUE=DATE:20260629
-DESCRIPTION:IDOL ∞ INFINITY vol.21\n📍CITY HALL & GALLERY GOTANDA\n\n🎫チケット\nhttps://ticketdive.com/event/idol_infinity_vol21\n\n▼ライブ\n18:30-18:50\n\n▼特典会\n19:00-20:00 B\n※新規無料券あり\n※エマージェンザチケット販売\n\n特典会レギュレーションはこちら\nhttps://mascarpiece-fc.com/static/caution/\nhttps://timetr.ee/p/mascarpiece_sch/2985144725550266376
-SUMMARY:IDOL ∞ INFINITY vol.21
-UID:a1b5b56b-d39b-45ce-ad2a-0b3ab85ca303@a1b5.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261024
-DTEND;VALUE=DATE:20261025
-DESCRIPTION:Ma’Scar’Pieceコラボカフェ来店イベント☕️\n\n時間：お昼頃予定\n場所：中目黒 The World Cafe\n住所：東京都目黒区青葉台2-20-7 1F\n\n詳細は後日お知らせいたします。\nhttps://timetr.ee/p/mascarpiece_sch/3077614718279351195
-SUMMARY:Ma’Scar’Pieceコラボカフェ来店イベント
-UID:b2cc2162-9110-4d01-9e09-df4ca38f0640@b2cc.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260923
-DTEND;VALUE=DATE:20260924
-DESCRIPTION:西村歩乃果秋開催ライブ\n「夏、未完。 -LAST LIVE OF SEPTEMBER-」\n📍原宿RUIDO\n\n大森莉緒、山本愛梨が出演いたします。\n\n🎫チケット\nhttps://tiget.net/events/489871\n開場 17:00 / 開演 17:30\n\n※特典会の実施は予定しておりません。\nhttps://timetr.ee/p/mascarpiece_sch/3041531281290426619
-SUMMARY:夏、未完。 -LAST LIVE OF SEPTEMBER-
-UID:9861db33-514c-43d6-a68c-03d18d86864c@9861.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260720
-DTEND;VALUE=DATE:20260721
-DESCRIPTION:SEKIGAHARA IDOL WARS 2026 - 関ケ原唄姫合戦 -\n📍桃配運動公園 (岐阜県不破郡関ケ原町野上)\n\n🎫チケット\n【TicketDive先着販売 】\nt-dv.com/SEKIGAHARA_2026\n\n\n▼ライブ\n①11:20-11:40 @徳川⚔️\n②16:05-16:20 @桃配🍑\n\n▼特典会\n①12:10-13:30 (2)\n②16:50-18:10 (14)\nhttps://timetr.ee/p/mascarpiece_sch/3010528946816940032
-SUMMARY:SEKIGAHARA IDOL WARS 2026 - 関ケ原唄姫合戦 - DAY3
-UID:1ffb1e45-8a1a-4cca-b316-af9ef636c648@1ffb.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260919
-DTEND;VALUE=DATE:20260920
-DESCRIPTION:RE：PLAY extra.\n📍Spotify O-Crest\n\n🎫チケット\n https://tiget.net/events/509743\n\n▼ライブ\n18:00-18:25 マスピ撮可🙆‍♀️\n\n▼特典会\n18:35-19:35 新規無料券あり\nhttps://timetr.ee/p/mascarpiece_sch/3019630480271997617
-SUMMARY:RE：PLAY extra.
-UID:ea0a1c8f-b3d6-4845-a7f6-20605abca3f0@ea0a.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260613
-DTEND;VALUE=DATE:20260614
-DESCRIPTION:なみだ色の消しごむ presents 『Neat Meets vol.19』\n📍白金高輪SELENE b2\n\n🎫チケット\nhttps://t-dv.com/nm_vol19\n\n▼ライブ\n13:15-13:35\n\n▼特典会\n13:40-14:40\n\n※大森莉緒はお休みとなります\nhttps://timetr.ee/p/mascarpiece_sch/2968408666787412226
-SUMMARY:なみだ色の消しごむ presents 『Neat Meets vol.19』
-UID:f4d562d0-3a2b-4b38-af8f-02493154f777@f4d5.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260813
-DTEND;VALUE=DATE:20260814
-DESCRIPTION:LIVES FIGHT!! - DAY2 -\n📍club asia\n\n🎫チケット\nhttps://ticketdive.com/event/m55MWTBcnndieFZN6v8f\n\n▼ライブ\n19:30~19:55\n\n▼特典会\n終演後 20:50~22:00\nhttps://timetr.ee/p/mascarpiece_sch/2985146716049504550
-SUMMARY:LIVES FIGHT!! - DAY2 -
-UID:25d55c28-d300-4e29-bacc-a63e579a539f@25d5.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260519
-DTEND;VALUE=DATE:20260520
-DESCRIPTION:『おGiG。』\n📍渋谷近未来会館\n\n🎫チケット\nhttps://ticketdive.com/event/20260519_nikipre\n\n\n▼ライブ\n20:30-21:00 \n\n▼特典会\n21:10-22:10\n※甘崎結依梨は22:00までの実施となります。\nhttps://timetr.ee/p/mascarpiece_sch/2943671654033520933
-SUMMARY:#ﾆｷﾌﾟﾚ『おGiG。』
-UID:3fef1fe9-aed1-4e30-8b84-aadb791d5fe8@3fef.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260506
-DTEND;VALUE=DATE:20260507
-DESCRIPTION:#ﾆｷﾌﾟﾚ『おGiG。…mix??』\n📍Shibuya Milkyway\n\n🎫チケット\nhttps://t-dv.com/20260506_nikipre_milkyway_night\n\n▼ライブ\n19:30-20:00\n\n▼特典会\n終演後\n※甘崎結依梨は22:00までの実施となります。\nhttps://timetr.ee/p/mascarpiece_sch/2949280048450763220
-SUMMARY:#ﾆｷﾌﾟﾚ『おGiG。…mix??』
-UID:fd550593-2ebe-40e3-aac9-6e4faa0bca3c@fd55.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260620
-DTEND;VALUE=DATE:20260621
-DESCRIPTION:〇〇FES 2026\n📍横浜BUNTAI\n\n🎫チケット\noo-fes.com/#ticket\n\nHP：https://oo-fes.com/\n\n▼ライブ\n15:15-15:35\n\n▼特典会\n15:45-16:20\n\nhttps://timetr.ee/p/mascarpiece_sch/2978338052076599339
-SUMMARY:〇〇FES 2026
-UID:826b9dd1-1e76-47f5-828a-60e460a155d4@826b.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261004
-DTEND;VALUE=DATE:20261005
-DESCRIPTION:LEADING 4MAN\n📍下北沢シャングリラ\n\n🎫チケット\nhttp://ticketvillage.jp/events/13896\n\n▼ライブ\n14:45-15:10 \n\n▼特典会\n終演後 15:20-16:30\n ※新規無料券あり\nhttps://timetr.ee/p/mascarpiece_sch/3064739377416370176
-SUMMARY:LEADING 4MAN
-UID:bf7a1229-67e5-437a-b191-32fe247f1a41@bf7a.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260410
-DTEND;VALUE=DATE:20260411
-DESCRIPTION:MIX TOKYO DJ PARTY 08\n📍namco TOKYO\n\n🎫チケット\nlivepocket.jp/e/mixtokyo08\n\n▼ライブ\n未定\n\n▼特典会\n未定\n\nhttps://timetr.ee/p/mascarpiece_sch/2935745641433659636
-SUMMARY:MIX TOKYO DJ PARTY 08
-UID:cc267203-f5ae-4958-8798-d808704a5c3a@cc26.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260801
-DTEND;VALUE=DATE:20260802
-DESCRIPTION:TOKYO IDOL FESTIVAL 2026 DAY2\n📍お台場・青海周辺エリア\n\n🎫チケット\nhttps://official.idolfes.com/s/tif2026/page/ticket?ima=0000\n\n15:00-16:30 LOVE&PEACE TIFプロレス2026\nイベント出演決定\n\nライブ・特典会を予定しております。\n\n▼特典会\n13:00-14:00\nhttps://timetr.ee/p/mascarpiece_sch/3016118084010113639
-SUMMARY:TOKYO IDOL FESTIVAL 2026 DAY2
-UID:72527078-740a-452c-8b80-232ea6706b84@7252.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260723
-DTEND;VALUE=DATE:20260724
-DESCRIPTION:https://timetr.ee/p/mascarpiece_sch/2993756148434074548
-SUMMARY:NATSLIVE「マスピスマッシュシスターズ」
-UID:882d55d0-6e58-4b96-8afa-4250098fa956@882d.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261222
-DTEND;VALUE=DATE:20261223
-DESCRIPTION:https://timetr.ee/p/mascarpiece_sch/2993741772826212763
-SUMMARY:⛓️大森莉緒 BIRTHDAY⛓️
-UID:af225ccd-56a5-4eb2-b64d-80f27d565efe@af22.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261205
-DTEND;VALUE=DATE:20261206
-DESCRIPTION:https://timetr.ee/p/mascarpiece_sch/3077514272994883904
-SUMMARY:対バン予定
-UID:712e8193-ab66-4e3b-af6b-c9fc21ce5d06@712e.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261026
-DTEND;VALUE=DATE:20261027
-DESCRIPTION:アイドルミラーボールpremium vol.4\n📍SHIBUYA WWWX\n\n🎫https://ticketdive.com/event/idol_mirrorball_pre4\n\n\n▼ライブ\n\n\n▼特典会\nhttps://timetr.ee/p/mascarpiece_sch/3047141409356119037
-SUMMARY:アイドルミラーボールpremium vol.4
-UID:04a1d1a3-4d94-4fe4-8703-d08e879d34a1@04a1.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260528
-DTEND;VALUE=DATE:20260529
-DESCRIPTION:SABORIRYU\n📍恵比寿LIQUIDROOM\n\n🎫チケット\nhttps://ticketdive.com/event/saboriryuliquidroom528\n・先行抽選：4/27(月) 21:00 - 5/3(日) 23:59まで\n・一般先着：5/4(月)  21:00 - 5/27(水) 23:59まで\n\n▼ライブ\n18:05-18:25\n\n▼特典会\n18:35-19:45 A\nhttps://timetr.ee/p/mascarpiece_sch/2953143664857971183
-SUMMARY:SABORIRYU
-UID:5571a5ed-2f81-409a-a115-fc7891df942c@5571.org
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260429
 DTEND;VALUE=DATE:20260430
 DESCRIPTION:『LEADING UMIKAZE』\n📍うみかぜ公園 特設野外ステージ\n\n🎫チケット\nhttp://ticketvillage.jp/events/13746\n\n▼ライブ\n14:55〜15:15\n\n▼特典会\n15:30〜16:30\n※新規無料券あり🎟️\nhttps://timetr.ee/p/mascarpiece_sch/2940776769899067719
 SUMMARY:LEADING UMIKAZE
-UID:33d634be-b486-42ec-aae6-42f975d8d8c6@33d6.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260509
-DTEND;VALUE=DATE:20260510
-DESCRIPTION:「ICONIC MOMENTS FES！」\n📍名古屋COMTEC PORTBASE\n\n🎫チケット\niconicfes.info/ticket/\n\n\n▼ライブ\n17:20-17:40\n\n▼特典会\n17:55-18:55\n\nhttps://timetr.ee/p/mascarpiece_sch/2921952415149062814
-SUMMARY:ICONIC MOMENTS FES！
-UID:71342261-9fae-4607-a587-95ae060a2754@7134.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260411
-DTEND;VALUE=DATE:20260412
-DESCRIPTION:https://timetr.ee/p/mascarpiece_sch/2909686713310641128
-SUMMARY:LEADING
-UID:88ff7da9-d128-41e3-993a-653a69e03f4d@88ff.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260503
-DTEND;VALUE=DATE:20260504
-DESCRIPTION:NATSLIVE FES 2026\n📍戸板女子短期大学\n\n🎫チケット\nhttps://cafe.natslive.jp/fes/202605/tickets\n\n\n公式HPはこちら💁\nhttps://cafe.natslive.jp/fes/202605\nhttps://timetr.ee/p/mascarpiece_sch/2909683769177668087
-SUMMARY:NATSLIVE FES
-UID:b3e30610-4623-4824-979b-f6b2c171ce2e@b3e3.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260711
-DTEND;VALUE=DATE:20260712
-DESCRIPTION:https://timetr.ee/p/mascarpiece_sch/2978309617698601839
-SUMMARY:EMERGENZA JAPAN 2026 JAPAN FINAL
-UID:9f57c096-9e78-4de8-a135-bbf047ea94e0@9f57.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260913
-DTEND;VALUE=DATE:20260914
-DESCRIPTION:Anibeats Vol.3\n📍秋葉原MOGRA\n\n🎫https://anibeats.zaiko.io/login\n\n\n▼出演時間\nhttps://timetr.ee/p/mascarpiece_sch/3021316616031697741
-SUMMARY:Anibeats Vol.3
-UID:7dd336f3-60d4-4883-bf96-071a466d7e2d@7dd3.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261026
-DTEND;VALUE=DATE:20261027
-DESCRIPTION:https://timetr.ee/p/mascarpiece_sch/2911939385866713853
-SUMMARY:🏴多々良ゆら BIRTHDAY🏴
-UID:1630ceca-fe64-4397-a144-cc50442ceaa2@1630.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260502
-DTEND;VALUE=DATE:20260503
-DESCRIPTION:大森莉緒が出演いたします\nhttps://timetr.ee/p/mascarpiece_sch/2948730982859930088
-SUMMARY:朗読劇「4月の花嫁」
-UID:032f9135-37bd-493c-b42c-a2efe63cc833@032f.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261011
-DTEND;VALUE=DATE:20261012
-DESCRIPTION:能登半島地震 熊本地震 復興支援イベント\n「思いを形に」\n📍高松葬祭 ひすい野ホール\n\n▼ライブ\n12:20-12:50 マスピ撮可\n※ライブ終了後に抽選会実施予定🎁\n\n▼特典会\n13:30-14:30\n※新規無料券あり\nhttps://timetr.ee/p/mascarpiece_sch/3070420096474020432
-SUMMARY:能登半島地震 熊本地震 復興支援イベント「思いを形に」
-UID:89a0910a-a79a-42ed-a7dc-cee3b2c49326@89a0.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260419
-DTEND;VALUE=DATE:20260420
-DESCRIPTION:MCMC\n📍Zepp Shinjuku(TOKYO)\n\n甘崎結依梨、多々良ゆらの2名が出演いたします。\n\nOP 12:30 / ST 13:30\n\n【チケット代】\n■ TICKET\n \n\n▶︎ VVIPチケット〈グッズ付〉\nTシャツ（フリーサイズ）\nイヤープラグ（ライブ用耳栓）\nステッカー\nVIPエリア入場可能\n前方エリア入場可能（Z-HALLのみ）\n先行入場可能\n料金：15\,000円税込 + 1Drink\n※Tシャツ、イヤープラグ、ステッカーのデザインは後日公開予定となります。\n\n \n\n▶︎ VIPチケット\n・VIPエリア入場可能\n・ステッカー\n\n料金：9\,000円税込 + 1Drink\n※ステッカーのデザインは後日公開予定となります。\n\n \n▶︎ 一般チケット\n・通常入場チケット\n料金：7\,000円税込 + 1Drink\n\n \n■ TICKET SCHEDULE\n＜抽選販売＞\n2025年12月22日(日) 12:00 ~ 2026年1月18日(日) 23:59\n\n＜一般販売＞\n調整中\n\n※チケット販売はZAIKOのみで実施しております\n※予定枚数に達し次第、販売終了いたします\n\n🎫https://motto.zaiko.io/e/mcmclive\n\n\nお楽しみに🐘🍔\nhttps://timetr.ee/p/mascarpiece_sch/2942329790596511754
-SUMMARY:MCMC(モコモコ)
-UID:f2cca652-93ae-4f0a-b81a-5062012b0009@f2cc.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260504
-DTEND;VALUE=DATE:20260505
-DESCRIPTION:#ﾆｷﾌﾟﾚ『おGiG。』\n📍渋谷近未来会館\n\n🎫チケット\nhttps://ticketdive.com/event/20260504_nikipre_night\n\n▼ライブ\n18:30-19:00\n\n▼特典会\n終演後\n※甘崎結依梨は22:00までの実施となります。\nhttps://timetr.ee/p/mascarpiece_sch/2943663507260701470
-SUMMARY:#ﾆｷﾌﾟﾚ『おGiG。』
-UID:0ef3e1f3-f91c-49de-a3b2-2b207bc88983@0ef3.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261015
-DTEND;VALUE=DATE:20261016
-DESCRIPTION:Ma’Scar’Pieceコラボカフェ来店イベント☕️\n\n時間：18:45頃~20:00頃終了予定\n場所：中目黒 The World Cafe\n住所：東京都目黒区青葉台2-20-7 1F\n\n\n▼詳細\nマスピメンバーによるDJを実施!\nスタッフとしてドリンク提供もしちゃうかも!!\n\n注意事項\n・1オーダー必須(フードのオーダーは19:00までとなります)\n・入店にあたりチケットや整理券等の配布はございません\n・入場制限がかかる可能性がございます。あらかじめご了承ください\n・近隣のご迷惑になる行為等はお控えください\n・イベント中は着席不可\n\nまた、来店イベント中限定で、生写真販売も決定！\nこの機会にぜひお買い求めください！\nhttps://timetr.ee/p/mascarpiece_sch/3077613870316911110
-SUMMARY:Ma’Scar’Pieceコラボカフェ来店イベント
-UID:e5826c83-a695-45dd-b374-ce44df6a4584@e582.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261220
-DTEND;VALUE=DATE:20261221
-DESCRIPTION:山本愛梨生誕祭\n📍TwinBox GARAGE\nhttps://timetr.ee/p/mascarpiece_sch/3070433517558954276
-SUMMARY:山本愛梨生誕祭
-UID:2cc78166-85b9-4bb2-9ec9-6f1f2fe36555@2cc7.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260412
-DTEND;VALUE=DATE:20260413
-DESCRIPTION:『LEADING』 DAY2\n📍品川インターシティホール\n\n🎫チケット\nhttps://ticketvillage.jp/events/13725\n\n▼ライブ\n19:35-19:55\n\n▼特典会\n20:15-21:25\nhttps://timetr.ee/p/mascarpiece_sch/2922322243558963740
-SUMMARY:LEADING DAY2
-UID:2e8542b5-9cfe-4b76-a7e5-5a96efe13231@2e85.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260922
-DTEND;VALUE=DATE:20260923
-DESCRIPTION:SPARK2026 in YAMANAKAKO\n📍山中湖交流プラザきらら\n\n日程： 9/22(火祝)\n\n🎫チケットはこちら\nhttps://ticketdive.com/event/spark2026yamanakako\n\n▼特典会\n🧨線香花火 14:00-15:00\n📸通常特典会 15:30-16:30\n\n▼ライブ\n18:30-18:50 @HANARAIステージ\nhttps://timetr.ee/p/mascarpiece_sch/3032819817469835902
-SUMMARY:SPARK2026 in YAMANAKAKO
-UID:d92b9cc9-0655-4994-b01f-1f94ef04a911@d92b.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260406
-DTEND;VALUE=DATE:20260407
-DESCRIPTION:「TAIPEI CITY IDOL EXPO 2026」\n📍Zepp New Taipei\n\nOPEN 10:00 / START 10:30\n\n前方エリア\n前売り：1日券 12500円／3日券30000\n\n一般チケット\n前売り：1日券 8500円／3日券20000\n(入場時にD代などの別途料金はございません)\n\n🎫チケット\nhttps://tiget.net/events/473665\n\n\n▼ライブ\n18:40-19:00 マスピ撮可\n\n▼特典会\n19:10-20:40(D) 新規券なし🙅\n\n\n\nhttps://timetr.ee/p/mascarpiece_sch/2897677383598209329
-SUMMARY:TAIPEI CITY IDOL EXPO 2026
-UID:586f6140-4168-4563-9d72-9d3034eec95f@586f.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260715
-DTEND;VALUE=DATE:20260716
-DESCRIPTION:MOKEMOKE / 02\n📍Spotify O-nest\n\n🎫チケット\nhttps://t-dv.com/MOKEMOKE2\n\n\n▼ライブ\n19:20-19:45\n\n▼特典会\n20:40-21:40\nhttps://timetr.ee/p/mascarpiece_sch/2992032280539429274
-SUMMARY:MOKEMOKE / 02
-UID:df1263ae-c751-47b8-9fcc-c414a3c6902a@df12.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260616
-DTEND;VALUE=DATE:20260617
-DESCRIPTION:TOKYO GIRLS GIRLS\n📍KABUKICHO TOWER STAGE\n\nOP 11:40 / ST 12:00\n※変更の可能性あり\n\n🎫チケット\n前方10000円/通常4000円 ※当日各+1000円(+1D)\ntiget.net/events/489362\n\n▼ライブ\n16:45-17:05\n\n▼特典会\n17:15-18:15\n@シネシティ広場後方\nhttps://timetr.ee/p/mascarpiece_sch/2981411314515966524
-SUMMARY:TOKYO GIRLS GIRLS
-UID:b35be47d-1af1-4cc9-a23b-bae3ed8fca89@b35b.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260904
-DTEND;VALUE=DATE:20260905
-DESCRIPTION:TOKYO RAMBLE\n📍SHIBUYA XXI\n\n🎫https://livepocket.jp/e/8e39e\n\n▼特典会\n23:30〜0:00\n※実施場所は当日お知らせ📢\n\n▼出演時間\n1:00-1:30\nhttps://timetr.ee/p/mascarpiece_sch/3032799131489663061
-SUMMARY:TOKYO RAMBLE
-UID:510a56b3-a1db-4229-ac39-2acc4518a688@510a.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260925
-DTEND;VALUE=DATE:20260926
-DESCRIPTION:藍良あれれ生誕祭2026『あれれの大侵略！』\n📍clubasia\n\n🎫 チケット\nhttps://livepocket.jp/e/20260925_arr_bd\n\n▼ライブ\n19:25-19:50 マスピ撮可\n\n▼特典会\n20:30-21:30 新規無料券あり\nhttps://timetr.ee/p/mascarpiece_sch/3054269733794609692
-SUMMARY:藍良あれれ生誕祭2026『あれれの大侵略！』
-UID:e777d33e-b26d-42dc-94b2-de8c494791f6@e777.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260702
-DTEND;VALUE=DATE:20260703
-DESCRIPTION:ミツドモエ。-#ﾆｷﾌﾟﾚ 2th Anniversary!!-\n📍渋谷近未来会館\n\n🎫チケット\nhttps://ticketdive.com/event/20260702_nikipre\n\n▼ライブ\n19:40-20:20\n\n▼特典会\n21:10-22:20\n※甘崎結依梨は22:00までの実施となります\n※新規無料券あり\n※エマージェンザチケット販売\n\n特典会レギュレーションはこちら\nhttps://mascarpiece-fc.com/static/caution/\nhttps://timetr.ee/p/mascarpiece_sch/2998666810054540072
-SUMMARY:#ﾆｷﾌﾟﾚ 「ミツドモエ。」
-UID:0ede64f1-e47b-4fe5-a1f3-97bda3889472@0ede.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260829
-DTEND;VALUE=DATE:20260830
-DESCRIPTION:@JAM EXPO 2026 supported by UP-T\n📍横浜アリーナ\n\n🎫チケット\nhttps://atjam.jp/expo2026/ticket\n\n▼ライブ\n11:20-11:40 キウイ\n18:55-19:10 ピーチ\n※マスピ撮可\n\n▼特典会\n12:30-13:30 横浜アリーナ3F(8)\n※新規無料券あり\nhttps://timetr.ee/p/mascarpiece_sch/3016787554579905067
-SUMMARY:@JAM EXPO 2026 supported by UP-T
-UID:a5aeca7b-db84-4841-aa1f-6b27ee5e5c96@a5ae.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260524
-DTEND;VALUE=DATE:20260525
-DESCRIPTION:ONE AND ONLY Vol.35\n📍白金高輪SELENE b2\n\n🎫チケット\nhttps://l-tike.com/concert/mevent/?mid=732837\n料金：前方優先エリア8\,500円 一般 4\,500円\n女性/学生 3\,500円 当日5\,000円\n\n▼ライブ\n15:10-15:35\n\n▼特典会\n15:50-16:50\nhttps://timetr.ee/p/mascarpiece_sch/2949289878079011698
-SUMMARY:ONE AND ONLY Vol.35
-UID:a9018676-49a6-4706-b820-ff63db7bdcd3@a901.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261103
-DTEND;VALUE=DATE:20261104
-DESCRIPTION:「Fly 2 Zenith 東名阪TOUR」 名古屋公演\n\n会場：CLUB SANGO\n開場/開演：OP TBA / ST TBA\n\n詳細は後日お知らせいたします！\n\n📷特典会\n未定\n※新規無料券あり\n※列途切れ次第終了\nhttps://timetr.ee/p/mascarpiece_sch/3048069526522296855
-SUMMARY:Fly 2 Zenith 東名阪TOUR 名古屋公演🍤
-UID:58003494-7746-4c71-aa88-c130507080bf@5800.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260623
-DTEND;VALUE=DATE:20260624
-DESCRIPTION:1対1のコミュニケーションが実現するライブトーク（ビデオ通話）サービス「SPACE MAKE」にて「オンライン個別お話し会」を開催いたします！\n\n\n◆料金\n1枠 3\,300円\nご購入はMa’Scar’Piece公式LINEの予約スケジュールから！\nMa’Scar’Piece公式LINE：https://line.me/R/ti/p/@598djyjp?oat_content=url&ts=08252205\n\n◆販売日時\n6月17日(水) 12:00~\n※完売次第終了\n※各枠の実施直前まで販売予定\n\n◆実施日時\n6月23日(火) 20:00～22:00\n20:00～20:30　大森莉緒、山本愛梨\n20:30～21:00　甘崎結依梨、咲間なぎ、多々良ゆら、大森莉緒、山本愛梨\n21:00～21:30　甘崎結依梨、咲間なぎ、多々良ゆら、大森莉緒、山本愛梨\n21:30～22:00　大森莉緒、山本愛梨\n\n※メンバーにより実施時間が異なりますのでご注意ください\n\n\n【動作環境】\n●Androidスマートフォンをご利用の場合\n《推奨環境》\n対応OS：Android 7以降\n対応ブラウザ：LINEアプリ内ブラウザ\n※お使いのスマートフォンに「Google Chrome」がインストールされているかを必ずご確認ください。\n推奨通信速度：上り10Mbps以上、下り15Mbps以上\n※LINE以外の起動中アプリを事前に終了してご利用ください。\n※Androidスマートフォンの一予約枠機種において、推奨環境を満たしていても正常動作しない場合がございます。\n※全ての機種の動作保証はできかねますので予めご了承下さい。\n\n\n●iPhoneをご利用の場合\n《推奨環境》\n対応OS：iOS14～14.1及び14.3以降（14.2、14.2.1は除く）\n対応ブラウザ：LINEアプリ内ブラウザ\n推奨通信速度：上り10Mbps以上、下り15Mbps以上\n※LINE以外の起動中アプリを事前に終了してご利用ください。\n※iPhoneでご参加の際、iOS14.2（14.2.1含む）の場合、音声不具合が確認されております。\n必ず上記の推奨環境をご確認の上でご参加くださいますようお願いいたします。\n推奨環境以外でご参加された場合、不具合の保障対応はできませんのでご了承下さい。\n\n\n◆SPACE MAKEの使い方はこちら\nhttps://lp.spacemake.jp/\nhttps://timetr.ee/p/mascarpiece_sch/2994124614005553988
-SUMMARY:6月オンラインお話し会
-UID:fa57488d-c066-4bf5-b925-2434d4714800@fa57.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260725
-DTEND;VALUE=DATE:20260726
-DESCRIPTION:10年目記念で有明に引っ越しだよ❗️「六本木アイドルフェスティバル2026」\n📍有明 東京ドリームパーク中心に4ステージ\n\n🎫チケット\nhttps://ticket.tv-asahi.co.jp/ex/project/rif2026\n\n▼ライブ\n13:10-13:30 ＠GOLD STAGE\n17:35-18:00 ＠PRIME STAGE\n\n▼特典会\n14:10-15:10 特典会G\nhttps://timetr.ee/p/mascarpiece_sch/2955025675721767693
-SUMMARY:10年目記念で有明に引っ越しだよ❗️「六本木アイドルフェスティバル2026」
-UID:6fa08736-8e82-415a-a5e1-88e9d278d3cc@6fa0.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260802
-DTEND;VALUE=DATE:20260803
-DESCRIPTION:TOKYO IDOL FESTIVAL 2026 DAY3\n📍お台場・青海周辺エリア\n\n🎫チケット\nhttps://official.idolfes.com/s/tif2026/page/ticket?ima=0000\n\n▼ライブ\n16:35-16:55 DOLL FACTORY\n\n▼特典会\n14:00-15:30\nhttps://timetr.ee/p/mascarpiece_sch/2985146179916790252
-SUMMARY:TOKYO IDOL FESTIVAL 2026 DAY3
-UID:2a86b071-6d2f-4973-a3e7-51220f9b4e78@2a86.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261107
-DTEND;VALUE=DATE:20261108
-DESCRIPTION:https://timetr.ee/p/mascarpiece_sch/3077509050239154816
-SUMMARY:ライブ予定
-UID:36d7dc3e-89d2-4a35-886e-be192b06daca@36d7.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260613
-DTEND;VALUE=DATE:20260614
-DESCRIPTION:#アニナイト presents #阿沙薙帯生誕祭2026\n📍池袋アニメイトシアター\n\n🎫チケット\nhttps://animate-ticket.com/events/193?utm_source=x_animateticket&utm_medium=social&utm_campaign=x_animateticket_193\n\n一緒にお祝いしましょう！\n\n※大森莉緒はお休みとなります。\nhttps://timetr.ee/p/mascarpiece_sch/2968408500592311228
-SUMMARY:#アニナイト presents #阿沙薙帯生誕祭2026
-UID:59c42ddf-fc77-4573-8c89-5fd41b6df8c1@59c4.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260903
-DTEND;VALUE=DATE:20260904
-DESCRIPTION:Buzz Buzz Premium!!\n📍Spotify O-EAST\n\n🎫チケット\nhttps://t-dv.com/BBP_260903\n\n出演：\n NANIMONO / まねきケチャ / ドレスコード / STAiNY / ラストシーン / Maison de Queen / RiNCENT♯ / パラディーク / Ma’Scar’Piece  / ルージュブック / ハニースパイスRe. / 月に足跡を残した少女達は一体何を見たのか… /  I MY ME MINE / 君と見るそら / オカシリゾート / スプスラッシュ / しろもん / NEFRALISE / Aurora / 玉響storage/ IWI! /Aivery \n\n\n\n▼ライブ\n\n▼特典会\n\nhttps://timetr.ee/p/mascarpiece_sch/3032797140721990188
-SUMMARY:Buzz Buzz Premium!!
-UID:5abaec1d-a51a-4327-b0db-54be40d8e431@5aba.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240917
-DTEND;VALUE=DATE:20240918
-DESCRIPTION:♦︎キャラ紹介♦︎\n\n駒場 伶音（こまば れいね）\nCV.多々良ゆら\n\n🙋‍♀️年齢　16歳（高1）\n🎂誕生日　9月17日\n👭身長　165cm\n🤍性格　クール、天然\n\n「いいよ、なんでも。たぶんボクが勝つから」\nhttps://timetr.ee/p/mascarpiece_sch/2589705229772389128
-SUMMARY:駒場 伶音 BIRTHDAY!!
-UID:85a11faf-7f5c-4961-9478-66e7ebf8ce81@85a1.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261028
-DTEND;VALUE=DATE:20261029
-DESCRIPTION:HelloYouth東京定期 vol.7 LIVE THE YOUTH\n📍SHIBUYA DESEO\n\nOPEN 19:25 / START 19:45\n\n🎫 チケット\nhttps://t-dv.com/helloyouth_teikivol7\n\n▼ライブ\n20:10-20:35\n\n▼特典会\n21:05-22:15\nhttps://timetr.ee/p/mascarpiece_sch/3064739928505972790
-SUMMARY:HelloYouth東京定期 vol.7 LIVE THE YOUTH
-UID:134a58a3-f0f3-4396-bdec-2d214b83f826@134a.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261030
-DTEND;VALUE=DATE:20261031
-DESCRIPTION:IDOL HALLOWEEN JAPAN 2026 Supported by Malymoon\n📍埼玉スタジアム2002 野外特設ステージ\n\n🎫チケット\nt-dv.com/IHJ2026 \n\n公式HP：idolhalloweenjapan.com\n\n▼ライブ\n\n\n▼特典会\nhttps://timetr.ee/p/mascarpiece_sch/3064740077235993184
-SUMMARY:IDOL HALLOWEEN JAPAN 2026 Supported by Malymoon
-UID:882995db-9c2d-4b05-863c-f5b2ca8d1efb@8829.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260822
-DTEND;VALUE=DATE:20260823
-DESCRIPTION:詳細は後日お知らせ！\nhttps://timetr.ee/p/mascarpiece_sch/2935747145930505176
-SUMMARY:Ma’Scar’Piece 2nd Anniversary Live「Fly 2 zenith」
-UID:6421abf3-4d9e-411f-be1e-5603950402b9@6421.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250606
-DTEND;VALUE=DATE:20250607
-DESCRIPTION:♦️キャラ紹介♦️\n\n明前 魅音（めいぜん みおん）\nCV. 甘崎結依梨\n\n🙋‍♀️年齢　17歳（高2）\n🎂誕生日　6月6日\n👭身長　157cm\n❤️性格　自信家、リーダー肌、勢い任せ\n\n「勝利は必然、敗北は伏線！　最後に輝くのは我々だ！」\nhttps://timetr.ee/p/mascarpiece_sch/2589706200091065199
-SUMMARY:明前 魅音 BIRTHDAY!!
-UID:9522d74d-f810-4c0e-a335-b29ff1e19013@9522.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261015
-DTEND;VALUE=DATE:20261031
-DESCRIPTION:Ma’Scar’Pieceコラボカフェ開催決定☕️✨\n\n場所：中目黒 The World Cafe\n住所：東京都目黒区青葉台2-20-7 B1F・1F\n通常営業時間：10:00-19:00\n\n期間：10月15日(木)〜10月31日(土)\n\nオープン初日の10月15日(木)と10月24日(土)は、来店イベントも実施予定です！\n\n\n▼10月15日(木)来店イベント詳細\n\n時間：18:45頃~20:00頃終了予定\n場所：The World Cafe店内\n\nマスピメンバーによるDJを実施!\nスタッフとしてドリンク提供もしちゃうかも!!\n\n注意事項\n・1オーダー必須(フードのオーダーは19:00までとなります)\n・入店にあたりチケットや整理券等の配布はございません\n・入場制限がかかる可能性がございます。あらかじめご了承ください\n・近隣のご迷惑になる行為等はお控えください\n・イベント中は着席不可\n\nまた、来店イベント中限定で、生写真販売も決定！\nこの機会にぜひお買い求めください！\n\n\nhttps://timetr.ee/p/mascarpiece_sch/3070424231428619081
-SUMMARY:Ma’Scar’Piece×The World Cafe コラボカフェ
-UID:6e6817db-b87b-40d8-ab05-8b448b763f1f@6e68.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260917
-DTEND;VALUE=DATE:20260918
-DESCRIPTION:LOVE CHANTさん主催「らぶちゃんと！vol.01」\n📍SHIBUYA DIVE\n\n🎫チケット\nticketdive.com/event/LOVECHANT-rabuchanto-vol1\n\n▼ライブ\n19:20〜19:45\n\n▼特典会\n終演後〜21:30\n※新規無料券あり🎟️\n\nhttps://timetr.ee/p/mascarpiece_sch/3050083750446496125
-SUMMARY:らぶちゃんと！vol.01
-UID:99b6606f-e75d-4745-ad3c-0dd4596e56e6@99b6.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260927
-DTEND;VALUE=DATE:20260928
-DESCRIPTION:「エンタパークフェス2026」\n📍イオンモールむさし村山 つむぐ広場 野外特設会場\n\n🎫チケット\nentaparkfes.jp/#ticket\n\n▼ライブ\n\n▼特典会\n\nhttps://timetr.ee/p/mascarpiece_sch/3048056585156688609
-SUMMARY:エンタパークフェス2026
-UID:e0c991dd-4c2f-4572-b1ca-e9580db51e2f@e0c9.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260828
-DTEND;VALUE=DATE:20260829
-DESCRIPTION:NOXACTIIC.\n📍duo MUSIC EXCHANGE\n\n🎫チケット\nhttps://t-dv.com/20260814_nikipre_mn\n\nLIVE and DJ ACTとして出演！\n\n▼特典会\n前物販 23:00-24:00\n\n▼出演時間\n24:20-24:50 ライブ出演 (撮影可)\n24:50-25:20 DJ出演 (撮影可)\n\n※深夜のため甘崎結依梨は出演いたしません。\nhttps://timetr.ee/p/mascarpiece_sch/3025499444717943040
-SUMMARY:NOXACTIIC.
-UID:686ff814-8bf7-49ad-b545-65fd5966d5e5@686f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:8月のオンライン個別お話し会開催決定🌻✨\n\n🏴開催日\n8/31(月) 20:00~\n\n🏴販売開始\n8/24(月) 21:00~\n\n詳細💁‍♀️https://mascarpiece-fc.com/news/public/_/9au7g0bdk3468saj.html\n\nMa’Scar’Piece公式LINEアカウントとのお友達登録が必要です。\n\n公式LINE➡http://lin.ee/tsGzIae\nhttps://timetr.ee/p/mascarpiece_sch/3039479074999105609
-DTEND:20260831T130000Z
-DTSTART:20260831T110000Z
-SUMMARY:SPACE MAKE
-UID:08b636ad-da17-4161-aeca-195ffe3487a8@08b6.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261129
-DTEND;VALUE=DATE:20261130
-DESCRIPTION:https://timetr.ee/p/mascarpiece_sch/3070433735838923452
-SUMMARY:対バン予定
-UID:ae8078dd-e9c0-4faa-9769-d7fa372ecb7a@ae80.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260812
-DTEND;VALUE=DATE:20260813
-DESCRIPTION:https://timetr.ee/p/mascarpiece_sch/2911938973080091597
-SUMMARY:🎧咲間なぎ BIRTHDAY🎧
-UID:baf6b436-1122-4dbb-97b6-2303540e445c@baf6.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260817
-DTEND;VALUE=DATE:20260818
-DESCRIPTION:QUEENLAND\n📍Clubasia\n\n🎫チケット\nhttps://t-dv.com/0817shibuya\n\n▼ライブ\n19:25~19:50 \n\n▼特典会\n19:55~20:55 L3\n※新規無料券あり\nhttps://timetr.ee/p/mascarpiece_sch/3016788792226740669
-SUMMARY:QUEENLAND
-UID:689bdeb5-1e1b-47ac-837c-c9b2a0c45567@689b.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261108
-DTEND;VALUE=DATE:20261109
-DESCRIPTION:https://timetr.ee/p/mascarpiece_sch/2993740765949983510
-SUMMARY:🐱山本愛梨 BIRTHDAY🐱
-UID:30c004c7-6801-4da7-972e-9bc27acef134@30c0.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260424
-DTEND;VALUE=DATE:20260425
-DESCRIPTION:IMMERSE\n📍下北沢シャングリラ\n\n早割 ¥2\,000- / 一般 ¥2\,500-（別途1D代）\n\n🎫チケット\nt-dv.com/260424_IMMERSE\n\n▼ライブ\n19:50-20:15\n\n▼特典会\n21:10-22:15\n🎟️新規無料券あり\n\n※大森莉緒は個人仕事のためお休みとなります\nhttps://timetr.ee/p/mascarpiece_sch/2931196843080416100
-SUMMARY:IMMERSE
-UID:ddfc3540-8cde-4913-90c8-aa415a046beb@ddfc.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260511
-DTEND;VALUE=DATE:20260512
-DESCRIPTION:IDOL∞INFINITY PREMIUM vol.9\n📍Spotify O-nest\n\n🎫チケット\nhttps://ticketdive.com/event/idol_infinity_premium_vol9\n\n▼ライブ\n16:20-16:45\n\n▼特典会\n終演後\nhttps://timetr.ee/p/mascarpiece_sch/2952373218952738998
-SUMMARY:IDOL∞INFINITY PREMIUM vol.9
-UID:27f234d2-ec0b-410e-ad1e-aeddfe51c616@27f2.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260612
-DTEND;VALUE=DATE:20260613
-DESCRIPTION:#ﾆｷﾌﾟﾚ 『カンシャ後夜サイ。-夏、Day ２-』\n📍渋谷近未来会館\n\n🎫チケット\nhttps://ticketdive.com/event/20260612_nikipre\n\n▼ライブ\n20:20-20:50\n\n▼特典会\n終演後 21:20-\n\n※大森莉緒はお休みとなります\nhttps://timetr.ee/p/mascarpiece_sch/2968408099398744603
-SUMMARY:#ﾆｷﾌﾟﾚ 『カンシャ後夜サイ。-夏、Day ２-』
-UID:08deb40a-f2ae-4bc4-a989-baaa45a1c621@08de.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260516
-DTEND;VALUE=DATE:20260517
-DESCRIPTION:rock field ULTRA LIVE in 上野 SPRING DAY1\n📍上野恩賜公園野外ステージ\n\n🎫チケット\nbuzz-ticket.com/e/rf_0516\n\n▼ライブ\n17:05-17:25\n\n▼特典会\n17:30-18:30\nhttps://timetr.ee/p/mascarpiece_sch/2953917711707405036
-SUMMARY:rock field ULTRA LIVE in 上野 SPRING DAY1
-UID:05a03f34-45e8-4f4f-bc20-2a3ca96e41a7@05a0.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260628
-DTEND;VALUE=DATE:20260629
-DESCRIPTION:BEEEEM FES\n📍飛行船シアター\n\n🎫チケット\nhttp://l-tike.com/beeeemfes/\n一般発売 6/20(土)20:00～6/27(土)23:59\n\n▼ライブ\n12:20-12:45\n\n▼特典会\n12:55-13:55 C\n※新規無料券あり\n\n特典会レギュレーションはこちら\nhttps://mascarpiece-fc.com/static/caution/\nhttps://timetr.ee/p/mascarpiece_sch/2978339873067235351
-SUMMARY:BEEEEM FES
-UID:889584a3-872a-4cd3-9edc-dfaa1b81df3c@8895.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250219
-DTEND;VALUE=DATE:20250220
-DESCRIPTION:🟡キャラ紹介🟡\n\n三軒 神楽（さんげん かぐら）\nCV.山本愛梨\n\n🙋‍♀️年齢　17歳（高2）\n🎂誕生日　2月19日\n👭身長　154cm\n💛性格　真面目、ストイック、厳しい\n\n「お客さんに半端なものは見せられませんから」\nhttps://timetr.ee/p/mascarpiece_sch/2631403941296732594
-SUMMARY:三軒 神楽 BIRTHDAY!!
-UID:0eca40fa-6105-449b-b383-33d3ea56979d@0eca.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261122
-DTEND;VALUE=DATE:20261123
-DESCRIPTION:咲間なぎ生誕祭\n📍TwinBox AKIHABARA\nhttps://timetr.ee/p/mascarpiece_sch/3041527843429153770
-SUMMARY:咲間なぎ生誕祭
-UID:4d5c7eba-5bf8-4777-9542-c25cd6368813@4d5c.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260708
-DTEND;VALUE=DATE:20260709
-DESCRIPTION:#エイアイ界隈 〜 Road to LIQUID!!! 〜 vol.4\n📍代官山SPACE ODD\n\n🎫チケット\n6/12(金)20:00〜 発売開始\nt-dv.com/aikaiwai_0708\n\n▼ライブ\n19:05-19:30\nエンディングトークにも出演いたします！\n\n▼特典会\n終演後\nhttps://timetr.ee/p/mascarpiece_sch/2950704794321157048
-SUMMARY:エイアイ界隈 〜 Road to LIQUID!!! 〜 vol.4
-UID:e816c6d6-b201-460f-b676-b704c4a15a30@e816.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260712
-DTEND;VALUE=DATE:20260713
-DESCRIPTION:たかねこフェス vol.6 〜サマーセッション〜\n📍EX THEATER ROPPONGI\n\n🎫チケット\nイープラス：https://eplus.jp/takanenonadeshiko/\n・前方エリアスタンディング　¥10\,000(税込)\n・女性専用前方エリアスタンディング¥10\,000(税込)\n・一般エリアスタンディング　¥3\,000(税込)\n・女性専用エリアスタンディング¥3\,000(税込)\n・B3F指定席 ¥10\,000（税込）\n\n※全券種共通：入場時ドリンク代600円別途必要/再入場時ドリンク代600円必要/未就学児童入場不可\n\n▼ライブ\n12:30-12:55\n\n▼特典会\n13:05-14:15 B\nhttps://timetr.ee/p/mascarpiece_sch/2955026176530053760
-SUMMARY:たかねこフェス vol.6 〜サマーセッション〜
-UID:44e4d66b-ceff-4a83-8213-64161d7f2728@44e4.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260430
-DTEND;VALUE=DATE:20260501
-DESCRIPTION:buGG × Ma’Scar’Piece 2MAN LIVE\n「アイドリックラブ」\n📍Z MARUYAMA\n\n🎫チケット ※各+1D\nhttps://ticketdive.com/event/dOYntJ5jAvGUgx6e4UVi\n・VIPチケット ¥4\,000\n・一般チケット ¥2\,000\n\n■ 出演　buGG / Ma'Scar'Piece / DJ raydrop\n\nお楽しみに！\nhttps://timetr.ee/p/mascarpiece_sch/2935746440171748062
-SUMMARY:buGG × Ma’Scar’Piece 2MAN LIVE 「アイドリックラブ」
-UID:da0d04a0-c8e1-42d5-b28b-7f3f588fca8e@da0d.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260728
-DTEND;VALUE=DATE:20260729
-DESCRIPTION:TIF2026 TIF début Special LIVE\n📍WWW X\n\n🎫チケットはこちら\nlivepocket.jp/e/tif2026wwwx\n優先 5\,000円 / 一般 1\,000円\n\n▼ライブ\n18:50-19:15\n\n▼特典会\n終演後 20:00-21:00\nhttps://timetr.ee/p/mascarpiece_sch/3001652766210652802
-SUMMARY:TIF2026 TIF début Special LIVE
-UID:26a06d39-bb3a-48a3-9cd4-4753894e9e89@26a0.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261004
-DTEND;VALUE=DATE:20261005
-DESCRIPTION:IDOL ∞ INFINITY vol.24\n📍CITY HALL & GALLERY GOTANDA\n\n\n🎫チケット\nhttps://ticketdive.com/event/idol_infinity_vol24\n\n\n\n▼ライブ\n18:30-18:50 \n\n\n▼特典会\n19:00-20:00(C)\n ※新規無料券あり\nhttps://timetr.ee/p/mascarpiece_sch/3061799919045966765
-SUMMARY:IDOL ∞ INFINITY vol.24
-UID:483d8f99-483a-4f0d-8944-5280be77df64@483d.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260827
-DTEND;VALUE=DATE:20260828
-DESCRIPTION:Ma'Scar'Piece & Suupeas\n「ツーマンフリーライブ」\n\n📍：ヨドバシカメラマルチメディアAkiba 1F \n第一エントランス特設会場\n\n開演 19:45 (整列開始19:30〜)\n\n▼特典会\n20:30−21:30\nhttps://timetr.ee/p/mascarpiece_sch/3040410487462165415
-SUMMARY:Ma'Scar'Piece & Suupeas「ツーマンフリーライブ」
-UID:d9a90920-bbcb-4021-bcfd-84143712dc28@d9a9.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261117
-DTEND;VALUE=DATE:20261118
-DESCRIPTION:#ﾆｷﾌﾟﾚ『おGiG。』\n📍渋谷近未来会館\n\n🎫チケット\nhttps://t-dv.com/20261117_nikipre\n\n\n▼ライブ\n20:00-20:30 #マスピ 撮可🙆‍♀️\n\n▼特典会\n終演後 21:10-22:20\n ※新規無料券あり🎟️\n※甘崎結依梨は22時までの実施です\nhttps://timetr.ee/p/mascarpiece_sch/3077512932226890405
-SUMMARY:#ﾆｷﾌﾟﾚ『おGiG。』
-UID:b7bf7a4d-175c-4ac8-ba89-41dbc20f439a@b7bf.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261027
-DTEND;VALUE=DATE:20261028
-DESCRIPTION:1対1のコミュニケーションが実現するライブトーク（ビデオ通話）サービス「SPACE MAKE」にて「オンライン個別お話し会」を開催いたします！\n\n\n◆料金\n1枠 3\,300円\nご購入はMa’Scar’Piece公式LINEの予約スケジュールから！\nMa’Scar’Piece公式LINE：https://line.me/R/ti/p/@598djyjp?oat_content=url&ts=08252205\n\n\n◆販売日時\n10月18日(日) 12:00~\n※完売次第終了\n※各枠の実施直前まで販売予定\n\n\n◆実施日時\n10月27日(火) 20:00～22:00\n20:00～20:30 大森莉緒、山本愛梨\n20:30～21:00 大森莉緒、山本愛梨\n21:00～21:30 甘崎結依梨、咲間なぎ、多々良ゆら、大森莉緒、山本愛梨\n21:30～22:00 甘崎結依梨、咲間なぎ、多々良ゆら、大森莉緒、山本愛梨\n\n※メンバーにより実施時間が異なりますのでご注意ください\n\n\n【動作環境】\n●Androidスマートフォンをご利用の場合\n《推奨環境》\n対応OS：Android 7以降\n対応ブラウザ：LINEアプリ内ブラウザ\n※お使いのスマートフォンに「Google Chrome」がインストールされているかを必ずご確認ください。\n推奨通信速度：上り10Mbps以上、下り15Mbps以上\n※LINE以外の起動中アプリを事前に終了してご利用ください。\n※Androidスマートフォンの一予約枠機種において、推奨環境を満たしていても正常動作しない場合がございます。\n※全ての機種の動作保証はできかねますので予めご了承下さい。\n\n\n●iPhoneをご利用の場合\n《推奨環境》\n対応OS：iOS14～14.1及び14.3以降（14.2、14.2.1は除く）\n対応ブラウザ：LINEアプリ内ブラウザ\n推奨通信速度：上り10Mbps以上、下り15Mbps以上\n※LINE以外の起動中アプリを事前に終了してご利用ください。\n※iPhoneでご参加の際、iOS14.2（14.2.1含む）の場合、音声不具合が確認されております。\n必ず上記の推奨環境をご確認の上でご参加くださいますようお願いいたします。\n推奨環境以外でご参加された場合、不具合の保障対応はできませんのでご了承下さい。\n\n\n◆SPACE MAKEの使い方はこちら\nhttps://lp.spacemake.jp/\nhttps://timetr.ee/p/mascarpiece_sch/3078949479895660814
-SUMMARY:10月オンラインお話し会
-UID:f6fbecf4-ac8f-42d0-a4ce-58eedefbd1ca@f6fb.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260814
-DTEND;VALUE=DATE:20260815
-DESCRIPTION:NOXACTIIC.\n📍duo MUSIC EXCHANGE\n\n🎫チケット\nhttps://t-dv.com/20260814_nikipre_mn\n\nLIVE and DJ ACTとして出演！\n\n▼特典会\n23:00-24:00\n\n▼出演時間\n🎤ライブ：24:50-25:20\n🎧DJ：25:20-26:00\n※特典会は前物販にて実施予定\nhttps://timetr.ee/p/mascarpiece_sch/3025498359542446988
-SUMMARY:NOXACTIIC.
-UID:2f51c452-b855-40e4-a5c7-b0bda3af1821@2f51.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260905
-DTEND;VALUE=DATE:20260906
-DESCRIPTION:The Rumbling vol.3\n📍YOKOHAMA COAST garage+\n\n🎫チケット\n前売3300円 / 当日3800円（各+1D¥700）\n🔗tiget.net/events/509586\n※前売は9/5 10:00まで販売中\n\n\n▼ライブ\n15:00-15:30 @LIVE FLOOR\n\n▼DJ\n17:20-18:00 @VARIETY FLOOR\n→甘崎結依梨&山本愛梨(B2B)\n\n▼物販\n15:40-16:40\n※終演後の物販はございません🙇‍♀️\nhttps://timetr.ee/p/mascarpiece_sch/3041526260347828482
-SUMMARY:Hellzapoppin' Pre. 『The Rumbling vol.3』
-UID:6b9f948f-6f92-4579-8bd9-4bbf5dc491f4@6b9f.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260812
-DTEND;VALUE=DATE:20260813
-DESCRIPTION:https://timetr.ee/p/mascarpiece_sch/2911938696021146035
-SUMMARY:📣甘崎結依梨 BIRTHDAY📣
-UID:9cbe68ac-a706-47cc-bee2-897ecdb64a46@9cbe.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261023
-DTEND;VALUE=DATE:20261024
-DESCRIPTION:THE ENCORE presents「ラブコール vol.21」\n📍Spotify O-nest\n\nOPEN16:30 / START17:00\n\n🎫チケット\n前方4000円 / 一般0円(D代事前徴収) / 当日各+500円(前方・当日のみ1D)\nhttps://t-dv.com/lc_vol21\n\n\n▼ライブ\n17:00-17:25 マスピ撮可⭕️\n\n▼特典会\n終演後物販 18:20-19:30\nhttps://timetr.ee/p/mascarpiece_sch/3073261504759200618
-SUMMARY:THE ENCORE presents「ラブコール vol.21」
-UID:8afa05c8-af59-43ea-92ed-0b794b4b685b@8afa.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260609
-DTEND;VALUE=DATE:20260610
-DESCRIPTION:NEFRAMODE#7\n📍SHIBUYA DESEO\n\n🎫チケット\n前方¥3\,000- / 一般¥1\,000-\nhttps://t-dv.com/NEFRAMODE_7\n\n▼ライブ\n18:35-19:00\n\n▼特典会\n20:25-21:25\n\n※大森莉緒はお休みとなります\nhttps://timetr.ee/p/mascarpiece_sch/2964696832897054878
-SUMMARY:NEFRAMODE#7
-UID:d40228ef-4fa9-44e1-8f0f-44112a56a9c7@d402.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260722
-DTEND;VALUE=DATE:20260723
-DESCRIPTION:UTAGE FES Vol.5\n📍Zepp Shinjuku / KABUKICHO TOWER STAGE / 新宿LOFT / SHINJUKU WALLY / Zirco Tokyo / 新宿Marble / YOANI LIVE STATION / 新宿ACB HALL / Music Restaurant APEXIA\n\n🎫チケット\nhttps://ticketdive.com/event/0722_UTAGEFES\n\nHP：utagefes.com\n\n▼ライブ\n13:45-14:05 @新宿LOFT\n\n▼特典会\n14:20-15:20 @新宿LOFT(B)\nhttps://timetr.ee/p/mascarpiece_sch/2993749431314937924
-SUMMARY:UTAGE FES Vol.5
-UID:3115b93c-a541-40b9-9013-01d133d34ebd@3115.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260731
-DTEND;VALUE=DATE:20260801
-DESCRIPTION:TOKYO IDOL FESTIVAL 2026 DAY1\n📍お台場・青海周辺エリア\n\n🎫チケット\nhttps://official.idolfes.com/s/tif2026/page/ticket?ima=0000\n\n▼ライブ\n①11:35-11:50 @浮島STAGE\n②17:00-17:20 @TOROCCO PARK\n\n▼特典会\n13:30-15:00 G-3\nhttps://timetr.ee/p/mascarpiece_sch/2985145850596817856
-SUMMARY:TOKYO IDOL FESTIVAL 2026 DAY1
-UID:e6b38d42-deec-4d00-b76d-33b7e4ff6c89@e6b3.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260513
-DTEND;VALUE=DATE:20260514
-DESCRIPTION:Creora supported by My-th\n📍WOMB LIVE\n\n時間：OPEN 15:30  / START 15:50\n\n🎫チケット\n前方 ¥5\,500 / 一般¥2\,500 / 当日各+¥1\,000（各D代別）\n\n🔗https://user.my-th.jp/tickets/event/creora_20260513\n※先着販売 4/24(金)21:00〜5/12(火)23:59\n\n▼ライブ\n17:05-17:30\n\n▼特典会\n17:40-18:40\nhttps://timetr.ee/p/mascarpiece_sch/2943671428522571947
-SUMMARY:Creora supported by My-th
-UID:92021b75-c09b-4004-a1c5-002e3ae3f78b@9202.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260629
-DTEND;VALUE=DATE:20260630
-DESCRIPTION:『シキサイ。』\n📍渋谷近未来会館\n\n🎫チケット\nhttps://ticketdive.com/event/20260629_nikipre\n\n▼ライブ\n20:00-20:30\n\n▼特典会\n21:10-22:20\n※甘崎結依梨は22:00までの実施となります\n※新規無料券あり\n※エマージェンザチケット販売\n\n特典会レギュレーションはこちら\nhttps://mascarpiece-fc.com/static/caution/\nhttps://timetr.ee/p/mascarpiece_sch/2993470446739782281
-SUMMARY:#ﾆｷﾌﾟﾚ 「シキサイ。」
-UID:a7ce391e-410a-4527-88fb-f3b15ff229b2@a7ce.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260807
-DTEND;VALUE=DATE:20260809
-DESCRIPTION:https://timetr.ee/p/mascarpiece_sch/3019536009899408035
-SUMMARY:カナダ遠征✈️
-UID:39876673-2e7b-4e09-a7da-1e2df1ad1c51@3987.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260726
-DTEND;VALUE=DATE:20260727
-DESCRIPTION:Oshi Fes in IKEBUKURO\n📍池袋西口公園野外劇場\n\n🎫チケット\nS席抽選受付7/5(日)22時〜\n🔗https://tiget.net/events/499115\n\n▼ライブ\n16:50-17:15\n\n▼特典会\n18:45-19:45\n※列途切れ次第終了します\n※新規無料券あり\nhttps://timetr.ee/p/mascarpiece_sch/2985147393924528188
-SUMMARY:Oshi Fes in IKEBUKURO
-UID:d5584097-f6b7-411c-b0bc-25140aea69ae@d558.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260827
-DTEND;VALUE=DATE:20260828
-DESCRIPTION:RAViDAViさん主催「#ラビサマ」\n📍duo MUSIC EXCHANGE\n\n🎫チケット\n ticketvillage.jp/events/13843\n\n▼ライブ\n14:00-14:25\n\n▼特典会\n14:35-15:50 (C)\nhttps://timetr.ee/p/mascarpiece_sch/3019762880842955614
-SUMMARY:#ラビサマ
-UID:66b275a8-92a3-4941-bb5b-b4bf3d292506@66b2.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260825
-DTEND;VALUE=DATE:20260826
-DESCRIPTION:エンドレスサマー2026\n📍WOMB\n\n🎫チケット\nhttps://ticketdive.com/event/endlessummer2026\n\n▼ライブ\n13:50-14:15 マスピ撮可\n\n▼特典会\n14:30-15:30\n※新規無料券あり\nhttps://timetr.ee/p/mascarpiece_sch/3033526428467329915
-SUMMARY:エンドレスサマー2026
-UID:e42cf29c-8ef1-47f9-871f-1282fe82b1be@e42c.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260825
-DTEND;VALUE=DATE:20260826
-DESCRIPTION:https://timetr.ee/p/mascarpiece_sch/3039943799058856943
-SUMMARY:NATSLIVE「マスピスマッシュシスターズ」
-UID:43b1e736-3af6-4b5f-bfe8-183274460503@43b1.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261213
-DTEND;VALUE=DATE:20261214
-DESCRIPTION:https://timetr.ee/p/mascarpiece_sch/3077513763873487533
-SUMMARY:(仮)DJイベント出演予定
-UID:b4b3807f-8582-4459-8c25-8810f485c2fd@b4b3.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20241224
-DTEND;VALUE=DATE:20241225
-DESCRIPTION:🟪キャラ紹介🟪\n\n松蔭 聖那（しょういん せな）\nCV.咲間なぎ\n\n🙋‍♀️年齢　17歳（高2）\n🎂誕生日　12月24日\n👭身長　149cm\n💜性格　ダウナー、努力家\n\n「へー、いいじゃん最高じゃん。で、何の話？」\nhttps://timetr.ee/p/mascarpiece_sch/2589704421748112016
-SUMMARY:松蔭 聖那 BIRTHDAY!!
-UID:544cb454-3c75-4afc-9159-48672341f525@544c.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261122
-DTEND;VALUE=DATE:20261123
-DESCRIPTION:甘崎結依梨生誕祭\n📍TwinBox AKIHABARA\nhttps://timetr.ee/p/mascarpiece_sch/3036856028018636892
-SUMMARY:甘崎結依梨生誕祭
-UID:6a47c1da-d838-4909-96e6-e453cf9ccc9a@6a47.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261014
-DTEND;VALUE=DATE:20261015
-DESCRIPTION:#ﾆｷﾌﾟﾚ『シキサイ。』\n📍渋谷近未来会館\n\n🎫チケット\nhttps://ticketdive.com/event/20261014_nikipre\n\n▼ライブ\n20:30-21:00 \n\n▼特典会\n終演後 21:10-22:20\n\n ※新規無料券あり🎟️\n※甘崎結依梨は22時までの実施です\nhttps://timetr.ee/p/mascarpiece_sch/3054266698972396235
-SUMMARY:#ﾆｷﾌﾟﾚ『シキサイ。』
-UID:5ffe5f46-2346-42fa-a1f3-701be5d0fb24@5ffe.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261212
-DTEND;VALUE=DATE:20261213
-DESCRIPTION:https://timetr.ee/p/mascarpiece_sch/3077521308897900828
-SUMMARY:ライブ予定
-UID:3777d79f-fb2b-4ad9-bbf8-2a74421d3f0b@3777.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260425
-DTEND;VALUE=DATE:20260426
-DESCRIPTION:GIRLS☆DELIGHT#395\n📍シティホール五反田\n\n時間　開場10:00／開演10:15\n\n料金\n前売優先エリア5\,000円\n前売一般エリア2\,000円\n当日各+1\,000円（1D代別）\n\n🎫チケット\nhttps://livepocket.jp/e/girlsdelight395\n\n\n▼ライブ\n11:55-12:15\n\n▼特典会\n12:25-13:25(B)\n\n※大森莉緒は個人仕事のためお休みとなります\nhttps://timetr.ee/p/mascarpiece_sch/2935690938012269473
-SUMMARY:GIRLS☆DELIGHT#395
-UID:c82118b7-4a24-4822-a1e9-37fd649ff682@c821.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261031
-DTEND;VALUE=DATE:20261101
-DESCRIPTION:Halloween DECA DANCE\n📍川崎CLUB CITTA’\nOPEN 24:00 / START 24:15\n\nチケット🎫\nhttps://livepocket.jp/e/20261031_hdd\n\n▼ライブ\n\n▼特典会\nhttps://timetr.ee/p/mascarpiece_sch/3064741508475124160
-SUMMARY:Halloween DECA DANCE
-UID:2239c259-7150-4420-bbf8-15f2580c6ff2@2239.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260409
-DTEND;VALUE=DATE:20260410
-DESCRIPTION:いどみん生誕祭2026 渋谷編\n📍Spotify O-EAST\n\nOPEN 14:00 / START 14:30(予定)\n優先チケット 9\,000円 / 一般チケット 4\,000円(1ドリンク代別途)\n\n🎫チケット\n https://ticketvillage.jp/events/13736\n\n▼ライブ\n15:35-16:00\n\n▼特典会\n16:15-17:15 B\nhttps://timetr.ee/p/mascarpiece_sch/2935733761025636648
-SUMMARY:いどみん生誕祭2026 渋谷編
-UID:bd3b39f6-afb9-4be9-b7b8-4a3e0fa0c6c7@bd3b.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260610
-DTEND;VALUE=DATE:20260611
-DESCRIPTION:『カンシャサイ。-夏-』\n📍CHELSEA HOTEL\n\n🎫チケット\nhttps://ticketdive.com/event/20260610_nikipre\n\n▼ライブ\n19:40-20:10\n\n▼特典会\n20:50-22:00\n\n※大森莉緒はお休みとなります\nhttps://timetr.ee/p/mascarpiece_sch/2968407938840787035
-SUMMARY:#ﾆｷﾌﾟﾚ カンシャサイ。-夏-
-UID:db659b4c-3158-4f1d-9376-ae01c068c5af@db65.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261031
-DTEND;VALUE=DATE:20261101
-DESCRIPTION:NASUSHIOBARA COMER CON 2026\n📍那須塩原駅西口広場 メインステージ\n\n入場無料！🆓\n\n▼ライブ\n12:30〜13:00\n\nみなさまのご来場お待ちしております！🍙✨\nhttps://timetr.ee/p/mascarpiece_sch/3077534656095976413
-SUMMARY:NASUSHIOBARA COMER CON 2026
-UID:74a05ed9-23c9-47ed-879a-27ca53bed498@74a0.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260407
-DTEND;VALUE=DATE:20260408
-DESCRIPTION:「いどみん生誕祭2026 新宿編」\n📍AiSOTOPE LOUNGE\n\nOPEN17:00 / START17:30(予定)\n\n🎫チケット\nhttps://ticketvillage.jp/events/13737\n先行抽選：3/21(土)21:00-3/30(月)23:59迄\n一般販売：4/1(水)21:00-\n\n▼ライブ\n19:00-19:30\n\n▼特典会\n終演後\nhttps://timetr.ee/p/mascarpiece_sch/2897677583976888602
-SUMMARY:いどみん生誕祭2026 新宿編
-UID:42e6d907-3934-4ec7-9f5c-64a7b1ea4cb6@42e6.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260823
-DTEND;VALUE=DATE:20260824
-DESCRIPTION:ッスッゴイライブ\n📍東急歌舞伎タワーシネシティ広場\n\n🎫チケット\nhttps://ticketvillage.jp/events/13860\n\n\n\n▼ライブ\n\n\n▼特典会\nhttps://timetr.ee/p/mascarpiece_sch/3035624190268799547
-SUMMARY:ッスッゴイライブ
-UID:9819bfca-1460-41ea-9ba3-0ff0743024d7@9819.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260418
-DTEND;VALUE=DATE:20260426
-DESCRIPTION:舞台「アサルトリリィ・シュツルム」サングリーズル編 第2弾\n📍こくみん共済 coop ホール／スペース・ゼロ\n\n※大森莉緒のみ出演いたします\n\n＜期間＞\n 2026年4月18日 (土) 〜 2026年4月26日 (日)\n\n🎫チケット\nhttps://www.confetti-web.com/events/14827\n\n▼公式HP\nhttps://assaultlily-stage.jp/2604stage/\n\n\n■あらすじ\n近未来、世界は謎の⽣命体\n｢ヒュージ｣ との戦闘に明け暮れていた ――。\n 近未来の地球、⼈類は「HUGE（ヒュージ）」と呼ばれる謎の巨⼤⽣命体の出現で破滅の危機にあった。\n全世界が対ヒュージという⼀事に団結し、科学と魔法の⼒を結集した「CHARM（チャーム）」と呼ばれる決戦兵器の開発に成功する。\nCHARM は10 代の⼥性に⾼いシンクロを⽰すことが多く、CHARM を扱う⼥性は「リリィ」と呼ばれ英雄視されていく。\nヒュージに対抗するためリリィ養成機関「ガーデン」が世界各地に設⽴され拠点として⼈々を守り、導く存在となっていった。\nこれはそんなガーデンでの、⽴派なリリィを⽬指して戦う少⼥たちの物語である。\nhttps://timetr.ee/p/mascarpiece_sch/2942323544959089534
-SUMMARY:舞台「アサルトリリィ・シュツルム」サングリーズル編 第2弾
-UID:d3a645dc-27ce-4e51-9b6b-2f949c4bf4a6@d3a6.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261108
-DTEND;VALUE=DATE:20261109
-DESCRIPTION:IDOL STORM\n📍新宿 Music Restaurant APEXIA\n\n🎫チケット\n前売前方7000円/前売通常2500円 / 当日+500円(D別)\nhttps://t-dv.com/IDOLSTORM_1108\n\n入場順：①前売前方整理番号順 ②前売通常整理番号順 ③当日\n\n▼ライブ\n\n\n▼特典会\nhttps://timetr.ee/p/mascarpiece_sch/3070424743704132146
-SUMMARY:IDOL STORM
-UID:7e0d7b65-1f21-4cb3-93ef-471b4a581579@7e0d.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260626
-DTEND;VALUE=DATE:20260627
-DESCRIPTION:buGG × Ma’Scar’Piece 2MAN LIVE\n「アイドリックラブ」OP 18:00 / ST 19:00\n📍shibuya eggman\n\n🎫チケット ※各+1D\n・一般チケット ¥1\,500\n・撮影エリアチケット ¥4\,000\n・学生、女性チケット ￥500\nhttps://ticketdive.com/event/mgJG95QU7YR3zxfQRlpX\n\n■ 出演　buGG / Ma'Scar'Piece / DJ raydrop\n\nお楽しみに！\nhttps://timetr.ee/p/mascarpiece_sch/2978337800636463358
-SUMMARY:buGG × Ma’Scar’Piece 2MAN LIVE 「アイドリックラブ」
-UID:518027c2-f7b0-4b59-b354-20e5713f4db5@5180.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260505
-DTEND;VALUE=DATE:20260506
-DESCRIPTION:「歌舞伎町 UP GATE↑↑2026」\n📍新宿11会場\n\n🎫チケット\nhttps://r10.to/kabukiage2026\n※3/15(日)23:59まで先行受付中🎟️\n\n\n▼ライブ\n\n\n▼特典会\n\n\nhttps://timetr.ee/p/mascarpiece_sch/2909684141422147716
-SUMMARY:歌舞伎町 UP GATE↑↑2026
-UID:44664d1c-cd50-45a5-bfe1-69893322e9c6@4466.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261007
-DTEND;VALUE=DATE:20261008
-DESCRIPTION:衛星とカラテアPresents「超 明星現象 2026」\n📍WOMB\n\n🎫 チケット\nhttps://ticketdive.com/event/chomyojo_1007\n\n▼ライブ\n15:20-15:45 ライブ撮可\n\n▼特典会\n16:00-17:10 WOMB LOUNGE\n※新規無料券あり\nhttps://timetr.ee/p/mascarpiece_sch/3026012397535885476
-SUMMARY:衛星とカラテアPresents「超 明星現象 2026」
-UID:93f416fc-44c2-40fc-b641-bebb1bbf989f@93f4.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261107
-DTEND;VALUE=DATE:20261108
-DESCRIPTION:GIRLS FANTASIA vol.4\n📍神田明神ホール\n\n🎫https://ticketdive.com/event/Cv0Vp8fZ8daa9sa0DI6o\n\n\n▼ライブ\n\n\n▼特典会\nhttps://timetr.ee/p/mascarpiece_sch/3062600290387490994
-SUMMARY:GIRLS FANTASIA vol.4
-UID:d56db357-a6c2-42dc-863b-955679aff3da@d56d.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260405
-DTEND;VALUE=DATE:20260406
-DESCRIPTION:アニレヴ NEW LIFE!!!!!\n📍CLUB CITTA'川崎\n\n🎫チケット\nhttps://livepocket.jp/e/20260405anirave\n\n▼ライブ\n未定\n\n※特典会の実施はございません\n\nお楽しみに⚡️\nhttps://timetr.ee/p/mascarpiece_sch/2878929826126625216
-SUMMARY:アニレヴ NEW LIFE!!!!!
-UID:872182b9-8c72-4277-9ffc-06338f267dab@8721.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260705
-DTEND;VALUE=DATE:20260706
-DESCRIPTION:超NATSUZOME2026\n📍幕張海浜公園 Gブロック特設会場\n\n🎫チケット\n一般 ¥8\,000\nVIP ¥27\,000(+1D)\n🔗https://idol-spot.tstar.jp/event/rileaas/?scid=su_16699\n\n\n▼ライブ\n①12:50-13:05 @UMIステージ\n②14:50-15:05 @BAKUステージ\n\n▼縁日\n15:25-16:25 (9)\n\n▼特典会\n17:20-18:20 P\nhttps://timetr.ee/p/mascarpiece_sch/2950315513098402167
-SUMMARY:超NATSUZOME2026
-UID:6691388f-bbc6-4b62-967a-f90b12519063@6691.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260830
-DTEND;VALUE=DATE:20260831
-DESCRIPTION:「@ JAM EXPO 2026 supported by UP-T」【アイドル大運動会】\n📍岩崎学園横浜デジタルアーツ専門学校 体育館\n\nチケット\n🎫atjam.jp/expo2026/ticket\n\n開場 12:30 / 開演 13:00\n\n出演グループ：As a Cutie Pomeranian / SAKURADOLL / Sweet Alley / すーぱーぷーばぁー!! / 虜なるプレリュード / Brave Mental Orchestra / ポラライト / Ma’Scar’Piece / ルージュブック / ワガママなラストノート\n\n\n▼特典会\n14:50-15:50\nhttps://timetr.ee/p/mascarpiece_sch/3021026381544683895
-SUMMARY:@ JAM EXPO 2026 supported by UP-T【アイドル大運動会】
-UID:3a4914e1-06c1-451a-b570-0c9436ae47e6@3a49.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260719
-DTEND;VALUE=DATE:20260720
-DESCRIPTION:SEKIGAHARA IDOL WARS 2026 - 関ケ原唄姫合戦 -\n📍桃配運動公園 (岐阜県不破郡関ケ原町野上)\n\n🎫チケット\n【TicketDive先着販売 】\nt-dv.com/SEKIGAHARA_2026\n\n▼ライブ\n14:30-14:50 @豊臣🏯\n\n▼特典会\n15:20-16:30 (7)\nhttps://timetr.ee/p/mascarpiece_sch/2968414101179332708
-SUMMARY:SEKIGAHARA IDOL WARS 2026 - 関ケ原唄姫合戦 -
-UID:6420390e-7f7b-4919-b4d7-7e37783f3138@6420.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260426
-DTEND;VALUE=DATE:20260427
-DESCRIPTION:#ﾆｷﾌﾟﾚ 『シキサイ。』\n📍TKAE OFF 7\n\n🎫チケット\nhttps://livepocket.jp/e/20260426_nikipre\n\n▼ライブ\n11:30〜12:00\n\n▼特典会\n13:10-14:10\n\n※大森莉緒は個人仕事のためお休みとなります\nhttps://timetr.ee/p/mascarpiece_sch/2940763852474546745
-SUMMARY:シキサイ。
-UID:8dcc46ff-a27c-4b42-bd24-7c4011108144@8dcc.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260506
-DTEND;VALUE=DATE:20260507
-DESCRIPTION:「LIVE IT FES!! VOL.1」\n📍渋谷音楽堂\n\n🎫チケット\nhttps://t-dv.com/liveitfes_vol1\n前方：3/21(土)21:00〜\n一般：3/21(土)22:00〜\n\n※タイムテーブル非公開\nhttps://timetr.ee/p/mascarpiece_sch/2909684254609635747
-SUMMARY:LIVE IT FES!! VOL.1
-UID:cf8897af-6dda-4843-a835-5b67e7a763ca@cf88.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260424
-DTEND;VALUE=DATE:20260425
-DESCRIPTION:「CRAYON Fes」\n📍duo MUSIC EXCHANGE\n\n開場 12:00 / 開演 12:20\n料金：前方 5\,000円 一般 2\,500円\n\n🎫チケット\nhttps://t-dv.com/crayonfes20260424\n2026/3/2(月) 21:00 ~ 4/24(月)12:20\n\n▼ライブ\n17:05-17:25　マスピ撮可\n\n▼特典会\n17:30-18:30(C) 新規無料券あり\n\n※大森莉緒は個人仕事のためお休みとなります\n\nhttps://timetr.ee/p/mascarpiece_sch/2931196457514825908
-SUMMARY:CRAYON Fes
-UID:43fd852e-44ad-47cd-92d6-cf39e1e1fa0f@43fd.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260621
-DTEND;VALUE=DATE:20260622
-DESCRIPTION:https://timetr.ee/p/mascarpiece_sch/2978341327635085340
-SUMMARY:NATSLIVE「マスピスマッシュシスターズ」
-UID:f76bd1a6-b89f-4d45-88d3-d00b3c2cb275@f76b.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260816
-DTEND;VALUE=DATE:20260817
-DESCRIPTION:「Cybercruise #サイクル」\n📍ROSA ALBA（クルーズ船）\n\n🎫チケット\nhttps://nakanodennou.fanpla.jp/news/detail/82163\n中野電脳FC先行抽選受付締切：7/3(金)23:59\n\n🎧ACT\n中野電脳 from 電音部\nOKINI☆PARTY’S\n咲間なぎ＆多々良ゆら（Ma’Scar’Piece from 電音部）\nDJ犬甘うる（中野電脳 from 電音部）\nGigandect\n神と和解せよ\nnaePi-YO\nhttps://timetr.ee/p/mascarpiece_sch/2993738778529364159
-SUMMARY:Cybercruise #サイクル
-UID:a8d383d1-bf58-4e3e-8f00-ed27ae3ac974@a8d3.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260624
-DTEND;VALUE=DATE:20260625
-DESCRIPTION:FLAG FES\n📍新代田FEVER\n\nOP 18:40 /ST 19:00\n※変更の可能性あり\n\n🎫チケット\nhttps://t-dv.com/flag0624\n優先入場 3\,500円\n前売り一般2\,800円\n当日券3\,800円\n\n▼ライブ\n20:00-20:30\n\n▼特典会\n21:10-22:10\n※🎟️新規無料券あり\n※甘崎結依梨は22時までの実施です\n※エマージェンザチケット販売\n\n特典会レギュレーションはこちら\nhttps://mascarpiece-fc.com/static/caution/\nhttps://timetr.ee/p/mascarpiece_sch/2984765299390019586
-SUMMARY:FLAG FES
-UID:ade5d6d0-bbe2-4a62-a532-30b8597d93d8@ade5.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261220
-DTEND;VALUE=DATE:20261221
-DESCRIPTION:多々良ゆら生誕祭\n📍TwinBox GARAGE\nhttps://timetr.ee/p/mascarpiece_sch/3070433163752635213
-SUMMARY:多々良ゆら生誕祭
-UID:f9a14366-4dbb-41d6-a482-264e35b67cc0@f9a1.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250413
-DTEND;VALUE=DATE:20250414
-DESCRIPTION:💗キャラ紹介💗\n\n笹塚 舞歌（ささづか まいか）\nCV.大森莉緒\n\n🙋‍♀️年齢　18歳（高3）\n🎂誕生日　4月13日\n👭身長　160cm\n🩷性格　お姉さん、やや腹黒\n\n「あれあれあれー？お姉さんまだやれるよー？なんで床舐めてるのかなー？」\nhttps://timetr.ee/p/mascarpiece_sch/2631405302608427823
-SUMMARY:笹塚 舞歌 BIRTHDAY!!
-UID:0c1bf837-d482-4065-89ac-1fd97a80c87d@0c1b.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261206
-DTEND;VALUE=DATE:20261207
-DESCRIPTION:「Fly 2 Zenith 東名阪TOUR」 東京公演\n\n会場：WARP SHINJUKU\n開場/開演：OP 14:30 / ST 15:00\n\n詳細は後日お知らせいたします！\nhttps://timetr.ee/p/mascarpiece_sch/3048070233807780382
-SUMMARY:Fly 2 Zenith 東名阪TOUR 東京公演🗼
-UID:d91533ad-99ce-48d0-915f-c633580f92c3@d915.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260417
-DTEND;VALUE=DATE:20260418
-DESCRIPTION:酒まつりジャパン\n📍上野恩賜公園 竹の台広場（噴水広場）\n\n入場無料!!🆓\n\n▼ライブ\n13:10〜13:30\n\n▼特典会\n13:40~14:40\n\n\n公式HP：sakefesta.jp/2026/\nhttps://timetr.ee/p/mascarpiece_sch/2935687948857637651
-SUMMARY:酒まつりジャパン
-UID:227caa3c-0e1d-411a-a632-9556383856ce@227c.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260415
-DTEND;VALUE=DATE:20260416
-DESCRIPTION:#ﾆｷﾌﾟﾚ『おGiG。』\n📍渋谷近未来会館\n\nOPEN/START...18:00/18:30\nADV/DOOR…3\,000/3\,500\n\n🎫チケット\nhttps://t.livepocket.jp/e/20260415_nikipre\n\n▼ライブ\n19:30-20:00\n\n▼特典会\n終演後21:10-22:20\n※甘崎結依梨は22時までの参加となります\nhttps://timetr.ee/p/mascarpiece_sch/2931196969085696008
-SUMMARY:#ﾆｷﾌﾟﾚ『おGiG。』
-UID:4e84c153-cecc-408e-853a-8b3b4051f75e@4e84.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261017
-DTEND;VALUE=DATE:20261018
-DESCRIPTION:電音部 エリア混合 SPORTS BATTLE\n📍浅草花劇場\n\n甘崎結依梨のみ出演！\n※終演後ランダムチェキ販売予定\n※ 本公演は、写真・動画の撮影および録音は禁止となっております。\n\nOP 17:30 / ST 18:00\n\n🎫チケット\nhttps://dearstage.zaiko.io/ja/item/383422\n\n🏃‍♀️出演\n・OKINI☆PARTY’S（Noa・Lico・Mone）\n・POCHI\n・藤咲めぐみ\n・矢吹真央\n・谷真理佳\n・甘崎結依梨\n・天音みほ\n・たこやん\n\n\nお楽しみに🏋️‍♀️✨\nhttps://timetr.ee/p/mascarpiece_sch/3070422150676347808
-SUMMARY:電音部 エリア混合 SPORTS BATTLE
-UID:c602e18c-313c-4415-b948-ae4c58dcc8dd@c602.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260721
-DTEND;VALUE=DATE:20260722
-DESCRIPTION:Maison de Queen主催対バン「MAKE THE QUEEN」\n📍WOMB LIVE\n\n🎫チケット\nhttps://ticketdive.com/event/MAKE_THE_QUEEN_VOL7\n\n▼ライブ\n\n\n▼特典会\nhttps://timetr.ee/p/mascarpiece_sch/2955027016313600142
-SUMMARY:MAKE THE QUEEN
-UID:4bf919cf-32f5-4e34-b635-b38ebd3fbe8d@4bf9.org
+UID:9fbd9f13-8631-4f10-8c56-7800f4c0f94a@9fbd.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261003
 DTEND;VALUE=DATE:20261004
 DESCRIPTION:「Fly 2 Zenith 東名阪TOUR」 大阪公演\n\n会場：PICCADILLY PREMIUM\n開場/開演：OP TBA / ST TBA\n\n詳細は後日お知らせいたします！\n\n📷特典会\n未定\n※新規無料券あり\n※列途切れ次第終了\nhttps://timetr.ee/p/mascarpiece_sch/3048068952053643871
 SUMMARY:Fly 2 Zenith 東名阪TOUR 大阪公演🐙
-UID:21d9c9a4-652e-4c67-89a4-8fb9f307c289@21d9.org
+UID:b3fc832d-5d83-4e78-9f6f-145fb7d9967b@b3fc.org
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260730
-DTEND;VALUE=DATE:20260731
-DESCRIPTION:超SUMMER FEST 2026\n📍品川ステラボール\n\n🎫チケット\nhttps://tiget.net/events/504191\nSS席：12\,000円\nS席：5\,000円\nA席：3\,000円\n\n▼出演時間\n19:30-19:50\n\n▼特典会\n21:00-22:15\n※甘崎結依梨は22:00までの参加となります\n※新規無料券あり\nhttps://timetr.ee/p/mascarpiece_sch/3000819133929355898
-SUMMARY:超SUMMER FEST 2026
-UID:13530fac-e12d-4748-ae81-f0f81a24abd0@1353.org
+DTSTART;VALUE=DATE:20260506
+DTEND;VALUE=DATE:20260507
+DESCRIPTION:#ﾆｷﾌﾟﾚ『おGiG。…mix??』\n📍Shibuya Milkyway\n\n🎫チケット\nhttps://t-dv.com/20260506_nikipre_milkyway_night\n\n▼ライブ\n19:30-20:00\n\n▼特典会\n終演後\n※甘崎結依梨は22:00までの実施となります。\nhttps://timetr.ee/p/mascarpiece_sch/2949280048450763220
+SUMMARY:#ﾆｷﾌﾟﾚ『おGiG。…mix??』
+UID:9bfaf307-743a-49b2-8637-f1083b52f47d@9bfa.org
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260627
-DTEND;VALUE=DATE:20260628
-DESCRIPTION:Starlight Memorial\n📍神田明神ホール\n\n🎫チケット\nhttps://ticketdive.com/event/X3N3vEopEnpZ0Zk7W0zA\n\n▼ライブ\n17:20-17:40\n\n▼特典会\n終演後 18:00-\n※新規無料券あり\n※エマージェンザチケット販売\n\n特典会レギュレーションはこちら\nhttps://mascarpiece-fc.com/static/caution/\nhttps://timetr.ee/p/mascarpiece_sch/2968408998162594187
-SUMMARY:Starlight Memorial
-UID:215214c0-5034-4377-af10-9e874b5a5a45@2152.org
+DTSTART;VALUE=DATE:20261030
+DTEND;VALUE=DATE:20261031
+DESCRIPTION:IDOL HALLOWEEN JAPAN 2026 Supported by Malymoon\n📍埼玉スタジアム2002 野外特設ステージ\n\n🎫チケット\nt-dv.com/IHJ2026 \n\n公式HP：idolhalloweenjapan.com\n\n▼ライブ\n\n\n▼特典会\nhttps://timetr.ee/p/mascarpiece_sch/3064740077235993184
+SUMMARY:IDOL HALLOWEEN JAPAN 2026 Supported by Malymoon
+UID:31a5bf2b-4251-42da-b22c-ec70f95d5e86@31a5.org
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260413
-DTEND;VALUE=DATE:20260414
-DESCRIPTION:「SWEET CIRCUIT 2026」\n📍VeatsSHIBUYA\n\n時間：開場TBA／開演TBA\n料金：前売優先エリア8\,000円／前売一般エリア3\,000円／当日各+1\,000円（1D代別）※前売1D代事前徴収\n\n\n🎫チケット\nhttps://livepocket.jp/e/sweetcircuit2026\n\n▼ライブ\n15:30〜15:55\n\n▼特典会\n16:05〜17:15\nhttps://timetr.ee/p/mascarpiece_sch/2931197297826855035
-SUMMARY:SWEET CIRCUIT 2026
-UID:bfe079d1-b396-43f9-b6c9-9815b3e92eee@bfe0.org
+DTSTART;VALUE=DATE:20260825
+DTEND;VALUE=DATE:20260826
+DESCRIPTION:https://timetr.ee/p/mascarpiece_sch/3039943799058856943
+SUMMARY:NATSLIVE「マスピスマッシュシスターズ」
+UID:4d822bd8-b1eb-4642-904f-b909363ee616@4d82.org
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260606
-DTEND;VALUE=DATE:20260607
-DESCRIPTION:SugarNote Debut LIVE\n📍新宿ReNY\n\n🎫チケット\n一般エリア：2\,000円（＋1D）\n前方エリア：5\,000円（＋1D）\nhttps://livepocket.jp/e/sugarnote_20260606\n\n▼ライブ\n18:45-19:10\n\n▼特典会\n20:00-21:00\nhttps://timetr.ee/p/mascarpiece_sch/2978335421325245033
-SUMMARY:SugarNote Debut LIVE
-UID:adf73d02-b1d8-4b39-9af2-3b50198203f0@adf7.org
+DTSTART;VALUE=DATE:20260801
+DTEND;VALUE=DATE:20260802
+DESCRIPTION:TOKYO IDOL FESTIVAL 2026 DAY2\n📍お台場・青海周辺エリア\n\n🎫チケット\nhttps://official.idolfes.com/s/tif2026/page/ticket?ima=0000\n\n15:00-16:30 LOVE&PEACE TIFプロレス2026\nイベント出演決定\n\nライブ・特典会を予定しております。\n\n▼特典会\n13:00-14:00\nhttps://timetr.ee/p/mascarpiece_sch/3016118084010113639
+SUMMARY:TOKYO IDOL FESTIVAL 2026 DAY2
+UID:b75e36a6-24d4-4214-b0ad-677eae45aafe@b75e.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260415
+DTEND;VALUE=DATE:20260416
+DESCRIPTION:#ﾆｷﾌﾟﾚ『おGiG。』\n📍渋谷近未来会館\n\nOPEN/START...18:00/18:30\nADV/DOOR…3\,000/3\,500\n\n🎫チケット\nhttps://t.livepocket.jp/e/20260415_nikipre\n\n▼ライブ\n19:30-20:00\n\n▼特典会\n終演後21:10-22:20\n※甘崎結依梨は22時までの参加となります\nhttps://timetr.ee/p/mascarpiece_sch/2931196969085696008
+SUMMARY:#ﾆｷﾌﾟﾚ『おGiG。』
+UID:1d6f24db-0075-4afa-9d31-a5b8525a1c1f@1d6f.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260712
+DTEND;VALUE=DATE:20260713
+DESCRIPTION:たかねこフェス vol.6 〜サマーセッション〜\n📍EX THEATER ROPPONGI\n\n🎫チケット\nイープラス：https://eplus.jp/takanenonadeshiko/\n・前方エリアスタンディング　¥10\,000(税込)\n・女性専用前方エリアスタンディング¥10\,000(税込)\n・一般エリアスタンディング　¥3\,000(税込)\n・女性専用エリアスタンディング¥3\,000(税込)\n・B3F指定席 ¥10\,000（税込）\n\n※全券種共通：入場時ドリンク代600円別途必要/再入場時ドリンク代600円必要/未就学児童入場不可\n\n▼ライブ\n12:30-12:55\n\n▼特典会\n13:05-14:15 B\nhttps://timetr.ee/p/mascarpiece_sch/2955026176530053760
+SUMMARY:たかねこフェス vol.6 〜サマーセッション〜
+UID:bcbff4fa-5b5d-487f-bd20-0b2f9afe40ca@bcbf.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260731
+DTEND;VALUE=DATE:20260801
+DESCRIPTION:TOKYO IDOL FESTIVAL 2026 DAY1\n📍お台場・青海周辺エリア\n\n🎫チケット\nhttps://official.idolfes.com/s/tif2026/page/ticket?ima=0000\n\n▼ライブ\n①11:35-11:50 @浮島STAGE\n②17:00-17:20 @TOROCCO PARK\n\n▼特典会\n13:30-15:00 G-3\nhttps://timetr.ee/p/mascarpiece_sch/2985145850596817856
+SUMMARY:TOKYO IDOL FESTIVAL 2026 DAY1
+UID:4841d2c4-014d-4731-b2df-8ce985a18df4@4841.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:8月のオンライン個別お話し会開催決定🌻✨\n\n🏴開催日\n8/31(月) 20:00~\n\n🏴販売開始\n8/24(月) 21:00~\n\n詳細💁‍♀️https://mascarpiece-fc.com/news/public/_/9au7g0bdk3468saj.html\n\nMa’Scar’Piece公式LINEアカウントとのお友達登録が必要です。\n\n公式LINE➡http://lin.ee/tsGzIae\nhttps://timetr.ee/p/mascarpiece_sch/3039479074999105609
+DTEND:20260831T130000Z
+DTSTART:20260831T110000Z
+SUMMARY:SPACE MAKE
+UID:4c63a8ae-b1d4-4123-997c-9320c4baccd1@4c63.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260913
+DTEND;VALUE=DATE:20260914
+DESCRIPTION:Anibeats Vol.3\n📍秋葉原MOGRA\n\n🎫https://anibeats.zaiko.io/login\n\n\n▼出演時間\nhttps://timetr.ee/p/mascarpiece_sch/3021316616031697741
+SUMMARY:Anibeats Vol.3
+UID:8b13b880-25c4-4cde-bcb5-1b3ebf9bcbcd@8b13.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260721
+DTEND;VALUE=DATE:20260722
+DESCRIPTION:Maison de Queen主催対バン「MAKE THE QUEEN」\n📍WOMB LIVE\n\n🎫チケット\nhttps://ticketdive.com/event/MAKE_THE_QUEEN_VOL7\n\n▼ライブ\n\n\n▼特典会\nhttps://timetr.ee/p/mascarpiece_sch/2955027016313600142
+SUMMARY:MAKE THE QUEEN
+UID:d965aa9b-997b-4a42-b3af-506387afb5b2@d965.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261122
+DTEND;VALUE=DATE:20261123
+DESCRIPTION:甘崎結依梨生誕祭\n📍TwinBox AKIHABARA\nhttps://timetr.ee/p/mascarpiece_sch/3036856028018636892
+SUMMARY:甘崎結依梨生誕祭
+UID:284c8468-9940-49dc-870c-ab7efa793f3d@284c.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260628
+DTEND;VALUE=DATE:20260629
+DESCRIPTION:BEEEEM FES\n📍飛行船シアター\n\n🎫チケット\nhttp://l-tike.com/beeeemfes/\n一般発売 6/20(土)20:00～6/27(土)23:59\n\n▼ライブ\n12:20-12:45\n\n▼特典会\n12:55-13:55 C\n※新規無料券あり\n\n特典会レギュレーションはこちら\nhttps://mascarpiece-fc.com/static/caution/\nhttps://timetr.ee/p/mascarpiece_sch/2978339873067235351
+SUMMARY:BEEEEM FES
+UID:c8b2ff12-3730-4c5a-87c8-92e50dbaf209@c8b2.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260412
+DTEND;VALUE=DATE:20260413
+DESCRIPTION:『LEADING』 DAY2\n📍品川インターシティホール\n\n🎫チケット\nhttps://ticketvillage.jp/events/13725\n\n▼ライブ\n19:35-19:55\n\n▼特典会\n20:15-21:25\nhttps://timetr.ee/p/mascarpiece_sch/2922322243558963740
+SUMMARY:LEADING DAY2
+UID:2186b041-c4cf-41a3-a04d-cb429661b7aa@2186.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261017
+DTEND;VALUE=DATE:20261018
+DESCRIPTION:電音部 エリア混合 SPORTS BATTLE\n📍浅草花劇場\n\n甘崎結依梨のみ出演！\n※終演後ランダムチェキ販売予定\n※ 本公演は、写真・動画の撮影および録音は禁止となっております。\n\nOP 17:30 / ST 18:00\n\n🎫チケット\nhttps://dearstage.zaiko.io/ja/item/383422\n\n🏃‍♀️出演\n・OKINI☆PARTY’S（Noa・Lico・Mone）\n・POCHI\n・藤咲めぐみ\n・矢吹真央\n・谷真理佳\n・甘崎結依梨\n・天音みほ\n・たこやん\n\n\nお楽しみに🏋️‍♀️✨\nhttps://timetr.ee/p/mascarpiece_sch/3070422150676347808
+SUMMARY:電音部 エリア混合 SPORTS BATTLE
+UID:6e6313c9-b5a1-46da-acea-4f75ec1177b2@6e63.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260405
+DTEND;VALUE=DATE:20260406
+DESCRIPTION:アニレヴ NEW LIFE!!!!!\n📍CLUB CITTA'川崎\n\n🎫チケット\nhttps://livepocket.jp/e/20260405anirave\n\n▼ライブ\n未定\n\n※特典会の実施はございません\n\nお楽しみに⚡️\nhttps://timetr.ee/p/mascarpiece_sch/2878929826126625216
+SUMMARY:アニレヴ NEW LIFE!!!!!
+UID:6622bf17-c2b1-4358-9b07-c9ed16de9edb@6622.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260813
+DTEND;VALUE=DATE:20260814
+DESCRIPTION:LIVES FIGHT!! - DAY2 -\n📍club asia\n\n🎫チケット\nhttps://ticketdive.com/event/m55MWTBcnndieFZN6v8f\n\n▼ライブ\n19:30~19:55\n\n▼特典会\n終演後 20:50~22:00\nhttps://timetr.ee/p/mascarpiece_sch/2985146716049504550
+SUMMARY:LIVES FIGHT!! - DAY2 -
+UID:01837d1d-515b-42ae-9d08-9bebae1caf19@0183.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261107
+DTEND;VALUE=DATE:20261108
+DESCRIPTION:東京少女\n📍SHIBUYA DESEO\n\n🎫https://ticketdive.com/event/SUirwGwH7hXqPED1BsHe\n\n\n▼ライブ\n\n20:05〜20:30\n\n▼特典会\n\n21:00〜22:10\n\n※甘崎結依梨は22時までの実施です\nhttps://timetr.ee/p/mascarpiece_sch/3077509050239154816
+SUMMARY:東京少女
+UID:ea0eb1bf-9cd0-4462-bee2-a67ca5cfc15d@ea0e.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261027
+DTEND;VALUE=DATE:20261028
+DESCRIPTION:1対1のコミュニケーションが実現するライブトーク（ビデオ通話）サービス「SPACE MAKE」にて「オンライン個別お話し会」を開催いたします！\n\n\n◆料金\n1枠 3\,300円\nご購入はMa’Scar’Piece公式LINEの予約スケジュールから！\nMa’Scar’Piece公式LINE：https://line.me/R/ti/p/@598djyjp?oat_content=url&ts=08252205\n\n\n◆販売日時\n10月18日(日) 12:00~\n※完売次第終了\n※各枠の実施直前まで販売予定\n\n\n◆実施日時\n10月27日(火) 20:00～22:00\n20:00～20:30 大森莉緒、山本愛梨\n20:30～21:00 大森莉緒、山本愛梨\n21:00～21:30 甘崎結依梨、咲間なぎ、多々良ゆら、大森莉緒、山本愛梨\n21:30～22:00 甘崎結依梨、咲間なぎ、多々良ゆら、大森莉緒、山本愛梨\n\n※メンバーにより実施時間が異なりますのでご注意ください\n\n\n【動作環境】\n●Androidスマートフォンをご利用の場合\n《推奨環境》\n対応OS：Android 7以降\n対応ブラウザ：LINEアプリ内ブラウザ\n※お使いのスマートフォンに「Google Chrome」がインストールされているかを必ずご確認ください。\n推奨通信速度：上り10Mbps以上、下り15Mbps以上\n※LINE以外の起動中アプリを事前に終了してご利用ください。\n※Androidスマートフォンの一予約枠機種において、推奨環境を満たしていても正常動作しない場合がございます。\n※全ての機種の動作保証はできかねますので予めご了承下さい。\n\n\n●iPhoneをご利用の場合\n《推奨環境》\n対応OS：iOS14～14.1及び14.3以降（14.2、14.2.1は除く）\n対応ブラウザ：LINEアプリ内ブラウザ\n推奨通信速度：上り10Mbps以上、下り15Mbps以上\n※LINE以外の起動中アプリを事前に終了してご利用ください。\n※iPhoneでご参加の際、iOS14.2（14.2.1含む）の場合、音声不具合が確認されております。\n必ず上記の推奨環境をご確認の上でご参加くださいますようお願いいたします。\n推奨環境以外でご参加された場合、不具合の保障対応はできませんのでご了承下さい。\n\n\n◆SPACE MAKEの使い方はこちら\nhttps://lp.spacemake.jp/\nhttps://timetr.ee/p/mascarpiece_sch/3078949479895660814
+SUMMARY:10月オンラインお話し会
+UID:494abdf6-b6b1-41c6-9391-dda5274a206a@494a.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260406
+DTEND;VALUE=DATE:20260407
+DESCRIPTION:「TAIPEI CITY IDOL EXPO 2026」\n📍Zepp New Taipei\n\nOPEN 10:00 / START 10:30\n\n前方エリア\n前売り：1日券 12500円／3日券30000\n\n一般チケット\n前売り：1日券 8500円／3日券20000\n(入場時にD代などの別途料金はございません)\n\n🎫チケット\nhttps://tiget.net/events/473665\n\n\n▼ライブ\n18:40-19:00 マスピ撮可\n\n▼特典会\n19:10-20:40(D) 新規券なし🙅\n\n\n\nhttps://timetr.ee/p/mascarpiece_sch/2897677383598209329
+SUMMARY:TAIPEI CITY IDOL EXPO 2026
+UID:d17588db-80e5-4a27-93c8-e0443496a4ff@d175.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260807
+DTEND;VALUE=DATE:20260809
+DESCRIPTION:https://timetr.ee/p/mascarpiece_sch/3019536009899408035
+SUMMARY:カナダ遠征✈️
+UID:ad1df813-8e4b-403a-b8e3-1198a6237528@ad1d.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260509
+DTEND;VALUE=DATE:20260510
+DESCRIPTION:「ICONIC MOMENTS FES！」\n📍名古屋COMTEC PORTBASE\n\n🎫チケット\niconicfes.info/ticket/\n\n\n▼ライブ\n17:20-17:40\n\n▼特典会\n17:55-18:55\n\nhttps://timetr.ee/p/mascarpiece_sch/2921952415149062814
+SUMMARY:ICONIC MOMENTS FES！
+UID:04836689-7853-4971-92d1-95abb3f1ce0a@0483.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260621
+DTEND;VALUE=DATE:20260622
+DESCRIPTION:https://timetr.ee/p/mascarpiece_sch/2978341327635085340
+SUMMARY:NATSLIVE「マスピスマッシュシスターズ」
+UID:4b13485a-6227-4d5f-a6dc-04b58af9366c@4b13.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260711
+DTEND;VALUE=DATE:20260712
+DESCRIPTION:https://timetr.ee/p/mascarpiece_sch/2978309617698601839
+SUMMARY:EMERGENZA JAPAN 2026 JAPAN FINAL
+UID:ab402911-261a-4627-88f8-ee8508323103@ab40.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260827
+DTEND;VALUE=DATE:20260828
+DESCRIPTION:RAViDAViさん主催「#ラビサマ」\n📍duo MUSIC EXCHANGE\n\n🎫チケット\n ticketvillage.jp/events/13843\n\n▼ライブ\n14:00-14:25\n\n▼特典会\n14:35-15:50 (C)\nhttps://timetr.ee/p/mascarpiece_sch/3019762880842955614
+SUMMARY:#ラビサマ
+UID:6d462ae7-35c6-4e47-8221-7dd643c890b9@6d46.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260812
+DTEND;VALUE=DATE:20260813
+DESCRIPTION:https://timetr.ee/p/mascarpiece_sch/2911938696021146035
+SUMMARY:📣甘崎結依梨 BIRTHDAY📣
+UID:f317c220-0a9c-413d-999f-87a62c78175c@f317.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260524
+DTEND;VALUE=DATE:20260525
+DESCRIPTION:ONE AND ONLY Vol.35\n📍白金高輪SELENE b2\n\n🎫チケット\nhttps://l-tike.com/concert/mevent/?mid=732837\n料金：前方優先エリア8\,500円 一般 4\,500円\n女性/学生 3\,500円 当日5\,000円\n\n▼ライブ\n15:10-15:35\n\n▼特典会\n15:50-16:50\nhttps://timetr.ee/p/mascarpiece_sch/2949289878079011698
+SUMMARY:ONE AND ONLY Vol.35
+UID:fe1480b3-a39f-4cc2-9dc3-7542094d1f5a@fe14.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261101
+DESCRIPTION:Halloween DECA DANCE\n📍川崎CLUB CITTA’\nOPEN 24:00 / START 24:15\n\nチケット🎫\nhttps://livepocket.jp/e/20261031_hdd\n\n▼ライブ\n\n▼特典会\nhttps://timetr.ee/p/mascarpiece_sch/3064741508475124160
+SUMMARY:Halloween DECA DANCE
+UID:76f0c80c-38ca-4813-84da-cdd549df2644@76f0.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260620
+DTEND;VALUE=DATE:20260621
+DESCRIPTION:〇〇FES 2026\n📍横浜BUNTAI\n\n🎫チケット\noo-fes.com/#ticket\n\nHP：https://oo-fes.com/\n\n▼ライブ\n15:15-15:35\n\n▼特典会\n15:45-16:20\n\nhttps://timetr.ee/p/mascarpiece_sch/2978338052076599339
+SUMMARY:〇〇FES 2026
+UID:6fb151d4-a361-47d9-8fbe-cb4623293df1@6fb1.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260419
+DTEND;VALUE=DATE:20260420
+DESCRIPTION:MCMC\n📍Zepp Shinjuku(TOKYO)\n\n甘崎結依梨、多々良ゆらの2名が出演いたします。\n\nOP 12:30 / ST 13:30\n\n【チケット代】\n■ TICKET\n \n\n▶︎ VVIPチケット〈グッズ付〉\nTシャツ（フリーサイズ）\nイヤープラグ（ライブ用耳栓）\nステッカー\nVIPエリア入場可能\n前方エリア入場可能（Z-HALLのみ）\n先行入場可能\n料金：15\,000円税込 + 1Drink\n※Tシャツ、イヤープラグ、ステッカーのデザインは後日公開予定となります。\n\n \n\n▶︎ VIPチケット\n・VIPエリア入場可能\n・ステッカー\n\n料金：9\,000円税込 + 1Drink\n※ステッカーのデザインは後日公開予定となります。\n\n \n▶︎ 一般チケット\n・通常入場チケット\n料金：7\,000円税込 + 1Drink\n\n \n■ TICKET SCHEDULE\n＜抽選販売＞\n2025年12月22日(日) 12:00 ~ 2026年1月18日(日) 23:59\n\n＜一般販売＞\n調整中\n\n※チケット販売はZAIKOのみで実施しております\n※予定枚数に達し次第、販売終了いたします\n\n🎫https://motto.zaiko.io/e/mcmclive\n\n\nお楽しみに🐘🍔\nhttps://timetr.ee/p/mascarpiece_sch/2942329790596511754
+SUMMARY:MCMC(モコモコ)
+UID:75960a79-5e35-4d4f-ae66-9807e50f3fe1@7596.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260822
+DTEND;VALUE=DATE:20260823
+DESCRIPTION:詳細は後日お知らせ！\nhttps://timetr.ee/p/mascarpiece_sch/2935747145930505176
+SUMMARY:Ma’Scar’Piece 2nd Anniversary Live「Fly 2 zenith」
+UID:8af21652-aac4-4941-abc1-e17c7482b0b1@8af2.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260505
+DTEND;VALUE=DATE:20260506
+DESCRIPTION:「歌舞伎町 UP GATE↑↑2026」\n📍新宿11会場\n\n🎫チケット\nhttps://r10.to/kabukiage2026\n※3/15(日)23:59まで先行受付中🎟️\n\n\n▼ライブ\n\n\n▼特典会\n\n\nhttps://timetr.ee/p/mascarpiece_sch/2909684141422147716
+SUMMARY:歌舞伎町 UP GATE↑↑2026
+UID:2ad0dfbe-541b-477b-a0e9-0138dec9507e@2ad0.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260915
+DTEND;VALUE=DATE:20260916
+DESCRIPTION:#ﾆｷﾌﾟﾚ『カンシャサイ。秋』\n📍渋谷音楽堂/Shibuya Milkyway/SHIBUYA THE GAME/Star Lounge/CHELSEA HOTEL/TAKE OFF7/GARRET UDAGAWA\n\n🎫チケット\nhttps://t-dv.com/20260915_nikipre\n\n▼ライブ\n\n\n▼特典会\n\n\nhttps://timetr.ee/p/mascarpiece_sch/3045133368146393913
+SUMMARY:#ﾆｷﾌﾟﾚ『カンシャサイ。秋』
+UID:cde4c781-91e5-49e9-8265-80ed446b0117@cde4.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260814
+DTEND;VALUE=DATE:20260815
+DESCRIPTION:NOXACTIIC.\n📍duo MUSIC EXCHANGE\n\n🎫チケット\nhttps://t-dv.com/20260814_nikipre_mn\n\nLIVE and DJ ACTとして出演！\n\n▼特典会\n23:00-24:00\n\n▼出演時間\n🎤ライブ：24:50-25:20\n🎧DJ：25:20-26:00\n※特典会は前物販にて実施予定\nhttps://timetr.ee/p/mascarpiece_sch/3025498359542446988
+SUMMARY:NOXACTIIC.
+UID:887e98ce-1ae7-4656-90be-770cfdc7c514@887e.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260925
+DTEND;VALUE=DATE:20260926
+DESCRIPTION:藍良あれれ生誕祭2026『あれれの大侵略！』\n📍clubasia\n\n🎫 チケット\nhttps://livepocket.jp/e/20260925_arr_bd\n\n▼ライブ\n19:25-19:50 マスピ撮可\n\n▼特典会\n20:30-21:30 新規無料券あり\nhttps://timetr.ee/p/mascarpiece_sch/3054269733794609692
+SUMMARY:藍良あれれ生誕祭2026『あれれの大侵略！』
+UID:d6a1df43-019e-416d-997d-8dc8b68b1598@d6a1.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261015
+DTEND;VALUE=DATE:20261031
+DESCRIPTION:Ma’Scar’Pieceコラボカフェ開催決定☕️✨\n\n場所：中目黒 The World Cafe\n住所：東京都目黒区青葉台2-20-7 B1F・1F\n通常営業時間：10:00-19:00\n\n期間：10月15日(木)〜10月31日(土)\n\nオープン初日の10月15日(木)と10月24日(土)は、来店イベントも実施予定です！\n\n\n▼10月15日(木)来店イベント詳細\n\n時間：18:45頃~20:00頃終了予定\n場所：The World Cafe店内\n\nマスピメンバーによるDJを実施!\nスタッフとしてドリンク提供もしちゃうかも!!\n\n注意事項\n・1オーダー必須(フードのオーダーは19:00までとなります)\n・入店にあたりチケットや整理券等の配布はございません\n・入場制限がかかる可能性がございます。あらかじめご了承ください\n・近隣のご迷惑になる行為等はお控えください\n・イベント中は着席不可\n\nまた、来店イベント中限定で、生写真販売も決定！\nこの機会にぜひお買い求めください！\n\n\nhttps://timetr.ee/p/mascarpiece_sch/3070424231428619081
+SUMMARY:Ma’Scar’Piece×The World Cafe コラボカフェ
+UID:71ecdeb4-d4ca-4c56-9837-1fc513961539@71ec.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250219
+DTEND;VALUE=DATE:20250220
+DESCRIPTION:🟡キャラ紹介🟡\n\n三軒 神楽（さんげん かぐら）\nCV.山本愛梨\n\n🙋‍♀️年齢　17歳（高2）\n🎂誕生日　2月19日\n👭身長　154cm\n💛性格　真面目、ストイック、厳しい\n\n「お客さんに半端なものは見せられませんから」\nhttps://timetr.ee/p/mascarpiece_sch/2631403941296732594
+SUMMARY:三軒 神楽 BIRTHDAY!!
+UID:6b0f7822-a12a-4149-bd75-47b2fb8f711e@6b0f.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260919
+DTEND;VALUE=DATE:20260920
+DESCRIPTION:RE：PLAY extra.\n📍Spotify O-Crest\n\n🎫チケット\n https://tiget.net/events/509743\n\n▼ライブ\n18:00-18:25 マスピ撮可🙆‍♀️\n\n▼特典会\n18:35-19:35 新規無料券あり\nhttps://timetr.ee/p/mascarpiece_sch/3019630480271997617
+SUMMARY:RE：PLAY extra.
+UID:2e346f4b-dfea-4bf7-a8d6-695bd1a27b13@2e34.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260613
+DTEND;VALUE=DATE:20260614
+DESCRIPTION:#アニナイト presents #阿沙薙帯生誕祭2026\n📍池袋アニメイトシアター\n\n🎫チケット\nhttps://animate-ticket.com/events/193?utm_source=x_animateticket&utm_medium=social&utm_campaign=x_animateticket_193\n\n一緒にお祝いしましょう！\n\n※大森莉緒はお休みとなります。\nhttps://timetr.ee/p/mascarpiece_sch/2968408500592311228
+SUMMARY:#アニナイト presents #阿沙薙帯生誕祭2026
+UID:f88cebc3-0aca-46bf-a8a8-eaee49df1513@f88c.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261015
+DTEND;VALUE=DATE:20261016
+DESCRIPTION:Ma’Scar’Pieceコラボカフェ来店イベント☕️\n\n時間：18:45頃~20:00頃終了予定\n場所：中目黒 The World Cafe\n住所：東京都目黒区青葉台2-20-7 1F\n\n\n▼詳細\nマスピメンバーによるDJを実施!\nスタッフとしてドリンク提供もしちゃうかも!!\n\n注意事項\n・1オーダー必須(フードのオーダーは19:00までとなります)\n・入店にあたりチケットや整理券等の配布はございません\n・入場制限がかかる可能性がございます。あらかじめご了承ください\n・近隣のご迷惑になる行為等はお控えください\n・イベント中は着席不可\n\nまた、来店イベント中限定で、生写真販売も決定！\nこの機会にぜひお買い求めください！\nhttps://timetr.ee/p/mascarpiece_sch/3077613870316911110
+SUMMARY:Ma’Scar’Pieceコラボカフェ来店イベント
+UID:51257c43-41bf-46fb-a0d4-d45ecd231a94@5125.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261103
+DTEND;VALUE=DATE:20261104
+DESCRIPTION:「Fly 2 Zenith 東名阪TOUR」 名古屋公演\n\n会場：CLUB SANGO\n開場/開演：OPEN 14:30 / START 15:00\n\n🎫https://eplus.jp/sf/detail/4543050001-P0030002P0030003P0030004?P6=001&P1=0402&P59=1&block=true\n\n📷特典会\n未定\n\n※列途切れ次第終了\nhttps://timetr.ee/p/mascarpiece_sch/3048069526522296855
+SUMMARY:Fly 2 Zenith 東名阪TOUR 名古屋公演🍤
+UID:49deb461-313d-45ea-a90f-2ae2c44510b1@49de.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261212
+DTEND;VALUE=DATE:20261213
+DESCRIPTION:https://timetr.ee/p/mascarpiece_sch/3077521308897900828
+SUMMARY:ライブ予定
+UID:b39f4159-a66b-48b5-a16a-fea13fe38d89@b39f.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260922
+DTEND;VALUE=DATE:20260923
+DESCRIPTION:SPARK2026 in YAMANAKAKO\n📍山中湖交流プラザきらら\n\n日程： 9/22(火祝)\n\n🎫チケットはこちら\nhttps://ticketdive.com/event/spark2026yamanakako\n\n▼特典会\n🧨線香花火 14:00-15:00\n📸通常特典会 15:30-16:30\n\n▼ライブ\n18:30-18:50 @HANARAIステージ\nhttps://timetr.ee/p/mascarpiece_sch/3032819817469835902
+SUMMARY:SPARK2026 in YAMANAKAKO
+UID:d5c0f0e6-a5e7-41d8-8a2e-e6e8c5ada802@d5c0.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261220
+DTEND;VALUE=DATE:20261221
+DESCRIPTION:多々良ゆら生誕祭\n📍TwinBox GARAGE\nhttps://timetr.ee/p/mascarpiece_sch/3070433163752635213
+SUMMARY:多々良ゆら生誕祭
+UID:0a2cd0d7-7f30-45c6-9e17-7883c310cce0@0a2c.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260424
+DTEND;VALUE=DATE:20260425
+DESCRIPTION:「CRAYON Fes」\n📍duo MUSIC EXCHANGE\n\n開場 12:00 / 開演 12:20\n料金：前方 5\,000円 一般 2\,500円\n\n🎫チケット\nhttps://t-dv.com/crayonfes20260424\n2026/3/2(月) 21:00 ~ 4/24(月)12:20\n\n▼ライブ\n17:05-17:25　マスピ撮可\n\n▼特典会\n17:30-18:30(C) 新規無料券あり\n\n※大森莉緒は個人仕事のためお休みとなります\n\nhttps://timetr.ee/p/mascarpiece_sch/2931196457514825908
+SUMMARY:CRAYON Fes
+UID:c72fcdc2-b4c7-44e5-8618-732816d61e59@c72f.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260511
+DTEND;VALUE=DATE:20260512
+DESCRIPTION:IDOL∞INFINITY PREMIUM vol.9\n📍Spotify O-nest\n\n🎫チケット\nhttps://ticketdive.com/event/idol_infinity_premium_vol9\n\n▼ライブ\n16:20-16:45\n\n▼特典会\n終演後\nhttps://timetr.ee/p/mascarpiece_sch/2952373218952738998
+SUMMARY:IDOL∞INFINITY PREMIUM vol.9
+UID:d8920ffc-6b56-4673-9f6a-18879b58a79b@d892.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260530
 DTEND;VALUE=DATE:20260531
 DESCRIPTION:https://timetr.ee/p/mascarpiece_sch/2943675139927964075
 SUMMARY:EMERGENZA JAPAN 2026 準決勝
-UID:b6fd5e07-ccfb-41df-be3b-b3584d034c5b@b6fd.org
+UID:c67ac6f5-e596-4616-ad89-ec2f9b93fdc4@c67a.org
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260510
-DTEND;VALUE=DATE:20260511
-DESCRIPTION:MAWA LOOP OSAKA 2026\n📍大阪・心斎橋エリアライブハウス8会場\nBIGCAT / Music Club JANUS / OSAKA MUSE / FANJtwice / LiveHouseANIMA / DROP / BEYOND / Pangea\n\n🎫チケット\n◆1dayチケット：¥7\,300(税込)\n◆2daysチケット：¥13\,800(税込)\n◆ライブハウス入場整理券：¥500(税込/システム利用料として) ※詳細は後日お知らせいたします。\n\n◆一般発売\nイープラス　https://eplus.jp/mawaloop/\nオフィシャルアプリ　https://mawaloop.link.fespli.com\n取り扱い：2daysチケット、1dayチケット\n\n\n▼ライブ\n18:10-18:35 📍BEYOND\n\n▼特典会\n18:55-20:10 SUNHALL\nhttps://timetr.ee/p/mascarpiece_sch/2943666631421590506
-SUMMARY:MAWA LOOP OSAKA 2026
-UID:fc8bb3be-9cf0-4758-a1fe-ba1a172f7540@fc8b.org
+DTSTART;VALUE=DATE:20260503
+DTEND;VALUE=DATE:20260504
+DESCRIPTION:NATSLIVE FES 2026\n📍戸板女子短期大学\n\n🎫チケット\nhttps://cafe.natslive.jp/fes/202605/tickets\n\n\n公式HPはこちら💁\nhttps://cafe.natslive.jp/fes/202605\nhttps://timetr.ee/p/mascarpiece_sch/2909683769177668087
+SUMMARY:NATSLIVE FES
+UID:cbcb2dfa-8b97-4e70-891f-3e68cf7c12c0@cbcb.org
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260515
-DTEND;VALUE=DATE:20260516
-DESCRIPTION:『RE：PLAY vol.9』\n📍Spotify O-nest\n\n時間：OPEN 17:15  / START 17:40\n\n🎫チケット\n前方 ¥5\,000 / 一般 ¥2\,500 ※+1D\ntiget.net/events/485137\n※4/26 19:00より発売開始\n\n▼ライブ\n18:40-19:10\n\n▼特典会\n20:15-21:40\nhttps://timetr.ee/p/mascarpiece_sch/2952540575146833925
-SUMMARY:RE：PLAY vol.9
-UID:63ec7c7d-5e96-4e1f-a70d-63a713906bd4@63ec.org
+DTSTART;VALUE=DATE:20260513
+DTEND;VALUE=DATE:20260514
+DESCRIPTION:Creora supported by My-th\n📍WOMB LIVE\n\n時間：OPEN 15:30  / START 15:50\n\n🎫チケット\n前方 ¥5\,500 / 一般¥2\,500 / 当日各+¥1\,000（各D代別）\n\n🔗https://user.my-th.jp/tickets/event/creora_20260513\n※先着販売 4/24(金)21:00〜5/12(火)23:59\n\n▼ライブ\n17:05-17:30\n\n▼特典会\n17:40-18:40\nhttps://timetr.ee/p/mascarpiece_sch/2943671428522571947
+SUMMARY:Creora supported by My-th
+UID:7b4e23cd-fbb5-417d-b776-73b172f6febb@7b4e.org
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261102
-DTEND;VALUE=DATE:20261103
-DESCRIPTION:『NOCTIVA』Vol.1 【IDOL TIME】\n📍TwinBoxAKIHABARA/TwinBoxGARAGE(特典会会場)/ANTHEM AKIBA\nOPEN 16:00 / START 16:30\n\nチケット🎫\nhttps://ticketdive.com/event/noctiva\n\n▼ライブ\n\n▼特典会\nhttps://timetr.ee/p/mascarpiece_sch/3081977781963061855
-SUMMARY:『NOCTIVA』Vol.1
-UID:c8d00e1b-40b4-469a-a7da-6bebcf5f9e00@c8d0.org
+DTSTART;VALUE=DATE:20261108
+DTEND;VALUE=DATE:20261109
+DESCRIPTION:https://timetr.ee/p/mascarpiece_sch/2993740765949983510
+SUMMARY:🐱山本愛梨 BIRTHDAY🐱
+UID:96fa034c-8aa2-4192-bf2f-0507467c2038@96fa.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261213
+DTEND;VALUE=DATE:20261214
+DESCRIPTION:https://timetr.ee/p/mascarpiece_sch/3077513763873487533
+SUMMARY:(仮)DJイベント出演予定
+UID:18c46aaa-9d54-4f02-b3fa-007b647b5a73@18c4.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260823
+DTEND;VALUE=DATE:20260824
+DESCRIPTION:ッスッゴイライブ\n📍東急歌舞伎タワーシネシティ広場\n\n🎫チケット\nhttps://ticketvillage.jp/events/13860\n\n\n\n▼ライブ\n\n\n▼特典会\nhttps://timetr.ee/p/mascarpiece_sch/3035624190268799547
+SUMMARY:ッスッゴイライブ
+UID:4508ddb4-c4d6-4942-82a8-1beb296fda02@4508.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260624
+DTEND;VALUE=DATE:20260625
+DESCRIPTION:FLAG FES\n📍新代田FEVER\n\nOP 18:40 /ST 19:00\n※変更の可能性あり\n\n🎫チケット\nhttps://t-dv.com/flag0624\n優先入場 3\,500円\n前売り一般2\,800円\n当日券3\,800円\n\n▼ライブ\n20:00-20:30\n\n▼特典会\n21:10-22:10\n※🎟️新規無料券あり\n※甘崎結依梨は22時までの実施です\n※エマージェンザチケット販売\n\n特典会レギュレーションはこちら\nhttps://mascarpiece-fc.com/static/caution/\nhttps://timetr.ee/p/mascarpiece_sch/2984765299390019586
+SUMMARY:FLAG FES
+UID:c4c9b7db-4333-496c-ae61-82d7916fd9b0@c4c9.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260702
+DTEND;VALUE=DATE:20260703
+DESCRIPTION:ミツドモエ。-#ﾆｷﾌﾟﾚ 2th Anniversary!!-\n📍渋谷近未来会館\n\n🎫チケット\nhttps://ticketdive.com/event/20260702_nikipre\n\n▼ライブ\n19:40-20:20\n\n▼特典会\n21:10-22:20\n※甘崎結依梨は22:00までの実施となります\n※新規無料券あり\n※エマージェンザチケット販売\n\n特典会レギュレーションはこちら\nhttps://mascarpiece-fc.com/static/caution/\nhttps://timetr.ee/p/mascarpiece_sch/2998666810054540072
+SUMMARY:#ﾆｷﾌﾟﾚ 「ミツドモエ。」
+UID:b253b7a6-5714-4039-92ca-503de8c37ecc@b253.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260502
+DTEND;VALUE=DATE:20260503
+DESCRIPTION:大森莉緒が出演いたします\nhttps://timetr.ee/p/mascarpiece_sch/2948730982859930088
+SUMMARY:朗読劇「4月の花嫁」
+UID:c5d3b74d-33c6-46f3-96d0-f3adacab8011@c5d3.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260827
+DTEND;VALUE=DATE:20260828
+DESCRIPTION:Ma'Scar'Piece & Suupeas\n「ツーマンフリーライブ」\n\n📍：ヨドバシカメラマルチメディアAkiba 1F \n第一エントランス特設会場\n\n開演 19:45 (整列開始19:30〜)\n\n▼特典会\n20:30−21:30\nhttps://timetr.ee/p/mascarpiece_sch/3040410487462165415
+SUMMARY:Ma'Scar'Piece & Suupeas「ツーマンフリーライブ」
+UID:3a7c8b46-e95f-470c-a76c-50d8031f1a73@3a7c.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261012
+DTEND;VALUE=DATE:20261013
+DESCRIPTION:AFTERS presents「CAKES & ALE」\n📍SHIBUYA CYCLON\n\n🎫 チケット\nhttps://ticketdive.com/event/cakes_ale\n\n▼ライブ\n17:30-17:55\n\n▼特典会\nhttps://timetr.ee/p/mascarpiece_sch/3054267777789328351
+SUMMARY:AFTERS presents「CAKES & ALE」
+UID:fb58c3a4-4cd6-4417-be8c-4fb37812bd7d@fb58.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260816
+DTEND;VALUE=DATE:20260817
+DESCRIPTION:「Cybercruise #サイクル」\n📍ROSA ALBA（クルーズ船）\n\n🎫チケット\nhttps://nakanodennou.fanpla.jp/news/detail/82163\n中野電脳FC先行抽選受付締切：7/3(金)23:59\n\n🎧ACT\n中野電脳 from 電音部\nOKINI☆PARTY’S\n咲間なぎ＆多々良ゆら（Ma’Scar’Piece from 電音部）\nDJ犬甘うる（中野電脳 from 電音部）\nGigandect\n神と和解せよ\nnaePi-YO\nhttps://timetr.ee/p/mascarpiece_sch/2993738778529364159
+SUMMARY:Cybercruise #サイクル
+UID:5458b48d-a4ac-43f7-8694-3e9ab9897c9b@5458.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260519
+DTEND;VALUE=DATE:20260520
+DESCRIPTION:『おGiG。』\n📍渋谷近未来会館\n\n🎫チケット\nhttps://ticketdive.com/event/20260519_nikipre\n\n\n▼ライブ\n20:30-21:00 \n\n▼特典会\n21:10-22:10\n※甘崎結依梨は22:00までの実施となります。\nhttps://timetr.ee/p/mascarpiece_sch/2943671654033520933
+SUMMARY:#ﾆｷﾌﾟﾚ『おGiG。』
+UID:87bd7cbe-190d-4f58-a07e-c7371510a785@87bd.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261026
+DTEND;VALUE=DATE:20261027
+DESCRIPTION:アイドルミラーボールpremium vol.4\n📍SHIBUYA WWWX\n\n🎫https://ticketdive.com/event/idol_mirrorball_pre4\n\n\n▼ライブ\n\n\n▼特典会\nhttps://timetr.ee/p/mascarpiece_sch/3047141409356119037
+SUMMARY:アイドルミラーボールpremium vol.4
+UID:456eed47-700f-4ab7-8a0d-ceefb78be25e@456e.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260812
+DTEND;VALUE=DATE:20260813
+DESCRIPTION:https://timetr.ee/p/mascarpiece_sch/2911938973080091597
+SUMMARY:🎧咲間なぎ BIRTHDAY🎧
+UID:9aa8e790-17ac-421d-ba27-ebd29df8a673@9aa8.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261220
+DTEND;VALUE=DATE:20261221
+DESCRIPTION:山本愛梨生誕祭\n📍TwinBox GARAGE\nhttps://timetr.ee/p/mascarpiece_sch/3070433517558954276
+SUMMARY:山本愛梨生誕祭
+UID:4df9aea6-ad9a-4053-86e7-d21c32e41a12@4df9.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260516
 DTEND;VALUE=DATE:20260517
-DESCRIPTION:#Mooove! THE ムーブメント 16th.\n📍渋谷eggman\n\n🎫チケット\nhttps://ticketdive.com/event/WSgusYM2xNOWIoFfqezd\n・4/30 20:00 〜 5/6 23:59\n・5/8 20:00 〜 5/15 23:59\n\n\n#Mooove!さんとの2MANライブ🏴\nお待ちしてます！\nhttps://timetr.ee/p/mascarpiece_sch/2953917993212312561
-SUMMARY:#Mooove! THE ムーブメント 16th.
-UID:67f5eaab-178a-4ee3-8e6e-ae41aa4378e3@67f5.org
+DESCRIPTION:rock field ULTRA LIVE in 上野 SPRING DAY1\n📍上野恩賜公園野外ステージ\n\n🎫チケット\nbuzz-ticket.com/e/rf_0516\n\n▼ライブ\n17:05-17:25\n\n▼特典会\n17:30-18:30\nhttps://timetr.ee/p/mascarpiece_sch/2953917711707405036
+SUMMARY:rock field ULTRA LIVE in 上野 SPRING DAY1
+UID:4d645fc3-223f-4fc4-80fb-dbb4703a676c@4d64.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260425
+DTEND;VALUE=DATE:20260426
+DESCRIPTION:GIRLS☆DELIGHT#395\n📍シティホール五反田\n\n時間　開場10:00／開演10:15\n\n料金\n前売優先エリア5\,000円\n前売一般エリア2\,000円\n当日各+1\,000円（1D代別）\n\n🎫チケット\nhttps://livepocket.jp/e/girlsdelight395\n\n\n▼ライブ\n11:55-12:15\n\n▼特典会\n12:25-13:25(B)\n\n※大森莉緒は個人仕事のためお休みとなります\nhttps://timetr.ee/p/mascarpiece_sch/2935690938012269473
+SUMMARY:GIRLS☆DELIGHT#395
+UID:9ad7765a-da16-4488-8d8f-624bb3b10b32@9ad7.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250606
+DTEND;VALUE=DATE:20250607
+DESCRIPTION:♦️キャラ紹介♦️\n\n明前 魅音（めいぜん みおん）\nCV. 甘崎結依梨\n\n🙋‍♀️年齢　17歳（高2）\n🎂誕生日　6月6日\n👭身長　157cm\n❤️性格　自信家、リーダー肌、勢い任せ\n\n「勝利は必然、敗北は伏線！　最後に輝くのは我々だ！」\nhttps://timetr.ee/p/mascarpiece_sch/2589706200091065199
+SUMMARY:明前 魅音 BIRTHDAY!!
+UID:33b50f14-6341-4dae-81eb-56221788ec2f@33b5.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260629
+DTEND;VALUE=DATE:20260630
+DESCRIPTION:『シキサイ。』\n📍渋谷近未来会館\n\n🎫チケット\nhttps://ticketdive.com/event/20260629_nikipre\n\n▼ライブ\n20:00-20:30\n\n▼特典会\n21:10-22:20\n※甘崎結依梨は22:00までの実施となります\n※新規無料券あり\n※エマージェンザチケット販売\n\n特典会レギュレーションはこちら\nhttps://mascarpiece-fc.com/static/caution/\nhttps://timetr.ee/p/mascarpiece_sch/2993470446739782281
+SUMMARY:#ﾆｷﾌﾟﾚ 「シキサイ。」
+UID:18de8ed0-e0d8-4362-b96e-6867c008eff4@18de.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260830
+DTEND;VALUE=DATE:20260831
+DESCRIPTION:「@ JAM EXPO 2026 supported by UP-T」【アイドル大運動会】\n📍岩崎学園横浜デジタルアーツ専門学校 体育館\n\nチケット\n🎫atjam.jp/expo2026/ticket\n\n開場 12:30 / 開演 13:00\n\n出演グループ：As a Cutie Pomeranian / SAKURADOLL / Sweet Alley / すーぱーぷーばぁー!! / 虜なるプレリュード / Brave Mental Orchestra / ポラライト / Ma’Scar’Piece / ルージュブック / ワガママなラストノート\n\n\n▼特典会\n14:50-15:50\nhttps://timetr.ee/p/mascarpiece_sch/3021026381544683895
+SUMMARY:@ JAM EXPO 2026 supported by UP-T【アイドル大運動会】
+UID:22b3e2a7-4d38-4507-9fef-5722f84db8e6@22b3.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240917
+DTEND;VALUE=DATE:20240918
+DESCRIPTION:♦︎キャラ紹介♦︎\n\n駒場 伶音（こまば れいね）\nCV.多々良ゆら\n\n🙋‍♀️年齢　16歳（高1）\n🎂誕生日　9月17日\n👭身長　165cm\n🤍性格　クール、天然\n\n「いいよ、なんでも。たぶんボクが勝つから」\nhttps://timetr.ee/p/mascarpiece_sch/2589705229772389128
+SUMMARY:駒場 伶音 BIRTHDAY!!
+UID:8a0ba468-ba0e-42f9-b8a6-3b16f0e58d3c@8a0b.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260418
+DTEND;VALUE=DATE:20260426
+DESCRIPTION:舞台「アサルトリリィ・シュツルム」サングリーズル編 第2弾\n📍こくみん共済 coop ホール／スペース・ゼロ\n\n※大森莉緒のみ出演いたします\n\n＜期間＞\n 2026年4月18日 (土) 〜 2026年4月26日 (日)\n\n🎫チケット\nhttps://www.confetti-web.com/events/14827\n\n▼公式HP\nhttps://assaultlily-stage.jp/2604stage/\n\n\n■あらすじ\n近未来、世界は謎の⽣命体\n｢ヒュージ｣ との戦闘に明け暮れていた ――。\n 近未来の地球、⼈類は「HUGE（ヒュージ）」と呼ばれる謎の巨⼤⽣命体の出現で破滅の危機にあった。\n全世界が対ヒュージという⼀事に団結し、科学と魔法の⼒を結集した「CHARM（チャーム）」と呼ばれる決戦兵器の開発に成功する。\nCHARM は10 代の⼥性に⾼いシンクロを⽰すことが多く、CHARM を扱う⼥性は「リリィ」と呼ばれ英雄視されていく。\nヒュージに対抗するためリリィ養成機関「ガーデン」が世界各地に設⽴され拠点として⼈々を守り、導く存在となっていった。\nこれはそんなガーデンでの、⽴派なリリィを⽬指して戦う少⼥たちの物語である。\nhttps://timetr.ee/p/mascarpiece_sch/2942323544959089534
+SUMMARY:舞台「アサルトリリィ・シュツルム」サングリーズル編 第2弾
+UID:33b6875f-10eb-4a90-bb6c-29f74bb0c404@33b6.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260518
 DTEND;VALUE=DATE:20260519
 DESCRIPTION:Buzz Buzz Premium!!\n📍Spotify O-EAST\n\n開場13:30 /開演13:50\n\n🎫チケット\n料金：前方 8\,000円 / 一般 3\,500円 / 当日各+500円 (各＋1D)\nhttps://t-dv.com/BBP_260518  \n\n▼ライブ\n17:15-17:35\n\n▼特典会\n17:55-19:05 C\nhttps://timetr.ee/p/mascarpiece_sch/2953915483986721600
 SUMMARY:Buzz Buzz Premium!!
-UID:af84f585-940b-4b8c-aa49-b4fb21b3376d@af84.org
+UID:aafbab86-9c6e-4325-9c6c-038c7f810218@aafb.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260728
+DTEND;VALUE=DATE:20260729
+DESCRIPTION:TIF2026 TIF début Special LIVE\n📍WWW X\n\n🎫チケットはこちら\nlivepocket.jp/e/tif2026wwwx\n優先 5\,000円 / 一般 1\,000円\n\n▼ライブ\n18:50-19:15\n\n▼特典会\n終演後 20:00-21:00\nhttps://timetr.ee/p/mascarpiece_sch/3001652766210652802
+SUMMARY:TIF2026 TIF début Special LIVE
+UID:40474167-26ff-4616-8112-ca05b94cf7bc@4047.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261007
+DTEND;VALUE=DATE:20261008
+DESCRIPTION:衛星とカラテアPresents「超 明星現象 2026」\n📍WOMB\n\n🎫 チケット\nhttps://ticketdive.com/event/chomyojo_1007\n\n▼ライブ\n15:20-15:45 ライブ撮可\n\n▼特典会\n16:00-17:10 WOMB LOUNGE\n※新規無料券あり\nhttps://timetr.ee/p/mascarpiece_sch/3026012397535885476
+SUMMARY:衛星とカラテアPresents「超 明星現象 2026」
+UID:1bb312d6-8b5a-4590-a5c5-1923d8551db3@1bb3.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260407
+DTEND;VALUE=DATE:20260408
+DESCRIPTION:「いどみん生誕祭2026 新宿編」\n📍AiSOTOPE LOUNGE\n\nOPEN17:00 / START17:30(予定)\n\n🎫チケット\nhttps://ticketvillage.jp/events/13737\n先行抽選：3/21(土)21:00-3/30(月)23:59迄\n一般販売：4/1(水)21:00-\n\n▼ライブ\n19:00-19:30\n\n▼特典会\n終演後\nhttps://timetr.ee/p/mascarpiece_sch/2897677583976888602
+SUMMARY:いどみん生誕祭2026 新宿編
+UID:bd63136b-26a0-40cf-9cb2-7083d1da14fe@bd63.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260719
+DTEND;VALUE=DATE:20260720
+DESCRIPTION:SEKIGAHARA IDOL WARS 2026 - 関ケ原唄姫合戦 -\n📍桃配運動公園 (岐阜県不破郡関ケ原町野上)\n\n🎫チケット\n【TicketDive先着販売 】\nt-dv.com/SEKIGAHARA_2026\n\n▼ライブ\n14:30-14:50 @豊臣🏯\n\n▼特典会\n15:20-16:30 (7)\nhttps://timetr.ee/p/mascarpiece_sch/2968414101179332708
+SUMMARY:SEKIGAHARA IDOL WARS 2026 - 関ケ原唄姫合戦 -
+UID:5ab11e53-0874-4756-8b85-97f20648d970@5ab1.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260825
+DTEND;VALUE=DATE:20260826
+DESCRIPTION:エンドレスサマー2026\n📍WOMB\n\n🎫チケット\nhttps://ticketdive.com/event/endlessummer2026\n\n▼ライブ\n13:50-14:15 マスピ撮可\n\n▼特典会\n14:30-15:30\n※新規無料券あり\nhttps://timetr.ee/p/mascarpiece_sch/3033526428467329915
+SUMMARY:エンドレスサマー2026
+UID:1dce81cb-1c20-4db7-8b39-eadf467ddcd3@1dce.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260510
+DTEND;VALUE=DATE:20260511
+DESCRIPTION:MAWA LOOP OSAKA 2026\n📍大阪・心斎橋エリアライブハウス8会場\nBIGCAT / Music Club JANUS / OSAKA MUSE / FANJtwice / LiveHouseANIMA / DROP / BEYOND / Pangea\n\n🎫チケット\n◆1dayチケット：¥7\,300(税込)\n◆2daysチケット：¥13\,800(税込)\n◆ライブハウス入場整理券：¥500(税込/システム利用料として) ※詳細は後日お知らせいたします。\n\n◆一般発売\nイープラス　https://eplus.jp/mawaloop/\nオフィシャルアプリ　https://mawaloop.link.fespli.com\n取り扱い：2daysチケット、1dayチケット\n\n\n▼ライブ\n18:10-18:35 📍BEYOND\n\n▼特典会\n18:55-20:10 SUNHALL\nhttps://timetr.ee/p/mascarpiece_sch/2943666631421590506
+SUMMARY:MAWA LOOP OSAKA 2026
+UID:03615201-1285-44d5-9c18-55d3070f4f58@0361.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260720
+DTEND;VALUE=DATE:20260721
+DESCRIPTION:SEKIGAHARA IDOL WARS 2026 - 関ケ原唄姫合戦 -\n📍桃配運動公園 (岐阜県不破郡関ケ原町野上)\n\n🎫チケット\n【TicketDive先着販売 】\nt-dv.com/SEKIGAHARA_2026\n\n\n▼ライブ\n①11:20-11:40 @徳川⚔️\n②16:05-16:20 @桃配🍑\n\n▼特典会\n①12:10-13:30 (2)\n②16:50-18:10 (14)\nhttps://timetr.ee/p/mascarpiece_sch/3010528946816940032
+SUMMARY:SEKIGAHARA IDOL WARS 2026 - 関ケ原唄姫合戦 - DAY3
+UID:8defc21f-ea2b-44a3-b8ba-cec24582cb4a@8def.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260904
+DTEND;VALUE=DATE:20260905
+DESCRIPTION:TOKYO RAMBLE\n📍SHIBUYA XXI\n\n🎫https://livepocket.jp/e/8e39e\n\n▼特典会\n23:30〜0:00\n※実施場所は当日お知らせ📢\n\n▼出演時間\n1:00-1:30\nhttps://timetr.ee/p/mascarpiece_sch/3032799131489663061
+SUMMARY:TOKYO RAMBLE
+UID:d5336481-2934-47cf-991b-5ed28cdbe73e@d533.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260905
+DTEND;VALUE=DATE:20260906
+DESCRIPTION:The Rumbling vol.3\n📍YOKOHAMA COAST garage+\n\n🎫チケット\n前売3300円 / 当日3800円（各+1D¥700）\n🔗tiget.net/events/509586\n※前売は9/5 10:00まで販売中\n\n\n▼ライブ\n15:00-15:30 @LIVE FLOOR\n\n▼DJ\n17:20-18:00 @VARIETY FLOOR\n→甘崎結依梨&山本愛梨(B2B)\n\n▼物販\n15:40-16:40\n※終演後の物販はございません🙇‍♀️\nhttps://timetr.ee/p/mascarpiece_sch/3041526260347828482
+SUMMARY:Hellzapoppin' Pre. 『The Rumbling vol.3』
+UID:7224524a-7600-43db-8726-a6eaf8da6a55@7224.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260516
+DTEND;VALUE=DATE:20260517
+DESCRIPTION:#Mooove! THE ムーブメント 16th.\n📍渋谷eggman\n\n🎫チケット\nhttps://ticketdive.com/event/WSgusYM2xNOWIoFfqezd\n・4/30 20:00 〜 5/6 23:59\n・5/8 20:00 〜 5/15 23:59\n\n\n#Mooove!さんとの2MANライブ🏴\nお待ちしてます！\nhttps://timetr.ee/p/mascarpiece_sch/2953917993212312561
+SUMMARY:#Mooove! THE ムーブメント 16th.
+UID:b944d4a9-a5b9-4a5c-b687-54e5f88d169d@b944.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261117
+DTEND;VALUE=DATE:20261118
+DESCRIPTION:#ﾆｷﾌﾟﾚ『おGiG。』\n📍渋谷近未来会館\n\n🎫チケット\nhttps://t-dv.com/20261117_nikipre\n\n\n▼ライブ\n20:00-20:30 #マスピ 撮可🙆‍♀️\n\n▼特典会\n終演後 21:10-22:20\n ※新規無料券あり🎟️\n※甘崎結依梨は22時までの実施です\nhttps://timetr.ee/p/mascarpiece_sch/3077512932226890405
+SUMMARY:#ﾆｷﾌﾟﾚ『おGiG。』
+UID:53f966c5-c2a6-430a-83de-980626bcb7aa@53f9.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260613
+DTEND;VALUE=DATE:20260614
+DESCRIPTION:なみだ色の消しごむ presents 『Neat Meets vol.19』\n📍白金高輪SELENE b2\n\n🎫チケット\nhttps://t-dv.com/nm_vol19\n\n▼ライブ\n13:15-13:35\n\n▼特典会\n13:40-14:40\n\n※大森莉緒はお休みとなります\nhttps://timetr.ee/p/mascarpiece_sch/2968408666787412226
+SUMMARY:なみだ色の消しごむ presents 『Neat Meets vol.19』
+UID:b282af02-fd5e-4b56-a4a7-0e82dd7c3fe6@b282.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260627
+DTEND;VALUE=DATE:20260628
+DESCRIPTION:Starlight Memorial\n📍神田明神ホール\n\n🎫チケット\nhttps://ticketdive.com/event/X3N3vEopEnpZ0Zk7W0zA\n\n▼ライブ\n17:20-17:40\n\n▼特典会\n終演後 18:00-\n※新規無料券あり\n※エマージェンザチケット販売\n\n特典会レギュレーションはこちら\nhttps://mascarpiece-fc.com/static/caution/\nhttps://timetr.ee/p/mascarpiece_sch/2968408998162594187
+SUMMARY:Starlight Memorial
+UID:5e7ff7ef-6e58-48d7-bd6a-78ded710b822@5e7f.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261004
+DTEND;VALUE=DATE:20261005
+DESCRIPTION:IDOL ∞ INFINITY vol.24\n📍CITY HALL & GALLERY GOTANDA\n\n\n🎫チケット\nhttps://ticketdive.com/event/idol_infinity_vol24\n\n\n\n▼ライブ\n18:30-18:50 \n\n\n▼特典会\n19:00-20:00(C)\n ※新規無料券あり\nhttps://timetr.ee/p/mascarpiece_sch/3061799919045966765
+SUMMARY:IDOL ∞ INFINITY vol.24
+UID:3db99fde-3e4b-4882-9e70-bc194c294fbd@3db9.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260606
+DTEND;VALUE=DATE:20260607
+DESCRIPTION:SugarNote Debut LIVE\n📍新宿ReNY\n\n🎫チケット\n一般エリア：2\,000円（＋1D）\n前方エリア：5\,000円（＋1D）\nhttps://livepocket.jp/e/sugarnote_20260606\n\n▼ライブ\n18:45-19:10\n\n▼特典会\n20:00-21:00\nhttps://timetr.ee/p/mascarpiece_sch/2978335421325245033
+SUMMARY:SugarNote Debut LIVE
+UID:a3e47518-3c71-4a77-86b0-da95155144b9@a3e4.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260722
+DTEND;VALUE=DATE:20260723
+DESCRIPTION:UTAGE FES Vol.5\n📍Zepp Shinjuku / KABUKICHO TOWER STAGE / 新宿LOFT / SHINJUKU WALLY / Zirco Tokyo / 新宿Marble / YOANI LIVE STATION / 新宿ACB HALL / Music Restaurant APEXIA\n\n🎫チケット\nhttps://ticketdive.com/event/0722_UTAGEFES\n\nHP：utagefes.com\n\n▼ライブ\n13:45-14:05 @新宿LOFT\n\n▼特典会\n14:20-15:20 @新宿LOFT(B)\nhttps://timetr.ee/p/mascarpiece_sch/2993749431314937924
+SUMMARY:UTAGE FES Vol.5
+UID:8747c375-900b-497e-8721-e32bbd03fcbb@8747.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260610
+DTEND;VALUE=DATE:20260611
+DESCRIPTION:『カンシャサイ。-夏-』\n📍CHELSEA HOTEL\n\n🎫チケット\nhttps://ticketdive.com/event/20260610_nikipre\n\n▼ライブ\n19:40-20:10\n\n▼特典会\n20:50-22:00\n\n※大森莉緒はお休みとなります\nhttps://timetr.ee/p/mascarpiece_sch/2968407938840787035
+SUMMARY:#ﾆｷﾌﾟﾚ カンシャサイ。-夏-
+UID:17f847c1-a32a-45c0-a314-030085163b2a@17f8.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261011
+DTEND;VALUE=DATE:20261012
+DESCRIPTION:能登半島地震 熊本地震 復興支援イベント\n「思いを形に」\n📍高松葬祭 ひすい野ホール\n\n▼ライブ\n12:20-12:50 マスピ撮可\n※ライブ終了後に抽選会実施予定🎁\n\n▼特典会\n13:30-14:30\n※新規無料券あり\nhttps://timetr.ee/p/mascarpiece_sch/3070420096474020432
+SUMMARY:能登半島地震 熊本地震 復興支援イベント「思いを形に」
+UID:76f7aaf3-c519-4deb-9654-c55dbba178f2@76f7.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261026
+DTEND;VALUE=DATE:20261027
+DESCRIPTION:https://timetr.ee/p/mascarpiece_sch/2911939385866713853
+SUMMARY:🏴多々良ゆら BIRTHDAY🏴
+UID:09862a2d-1674-446a-b9a2-da3f98987b85@0986.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261102
+DTEND;VALUE=DATE:20261103
+DESCRIPTION:『NOCTIVA』Vol.1 【IDOL TIME】\n📍TwinBoxAKIHABARA/TwinBoxGARAGE(特典会会場)/ANTHEM AKIBA\nOPEN 16:00 / START 16:30\n\nチケット🎫\nhttps://ticketdive.com/event/noctiva\n\n▼ライブ\n\n▼特典会\nhttps://timetr.ee/p/mascarpiece_sch/3081977781963061855
+SUMMARY:『NOCTIVA』Vol.1
+UID:c2e98126-88c2-45f6-9f9d-7ec83663042a@c2e9.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260609
+DTEND;VALUE=DATE:20260610
+DESCRIPTION:NEFRAMODE#7\n📍SHIBUYA DESEO\n\n🎫チケット\n前方¥3\,000- / 一般¥1\,000-\nhttps://t-dv.com/NEFRAMODE_7\n\n▼ライブ\n18:35-19:00\n\n▼特典会\n20:25-21:25\n\n※大森莉緒はお休みとなります\nhttps://timetr.ee/p/mascarpiece_sch/2964696832897054878
+SUMMARY:NEFRAMODE#7
+UID:5f687113-13c1-4e37-8380-1304fd0535f7@5f68.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260725
+DTEND;VALUE=DATE:20260726
+DESCRIPTION:10年目記念で有明に引っ越しだよ❗️「六本木アイドルフェスティバル2026」\n📍有明 東京ドリームパーク中心に4ステージ\n\n🎫チケット\nhttps://ticket.tv-asahi.co.jp/ex/project/rif2026\n\n▼ライブ\n13:10-13:30 ＠GOLD STAGE\n17:35-18:00 ＠PRIME STAGE\n\n▼特典会\n14:10-15:10 特典会G\nhttps://timetr.ee/p/mascarpiece_sch/2955025675721767693
+SUMMARY:10年目記念で有明に引っ越しだよ❗️「六本木アイドルフェスティバル2026」
+UID:6f365fa2-7418-41ca-85db-ea7f4619eadc@6f36.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260723
+DTEND;VALUE=DATE:20260724
+DESCRIPTION:https://timetr.ee/p/mascarpiece_sch/2993756148434074548
+SUMMARY:NATSLIVE「マスピスマッシュシスターズ」
+UID:4e3767dd-cf6f-4dc8-9417-59f11837aac3@4e37.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260628
+DTEND;VALUE=DATE:20260629
+DESCRIPTION:IDOL ∞ INFINITY vol.21\n📍CITY HALL & GALLERY GOTANDA\n\n🎫チケット\nhttps://ticketdive.com/event/idol_infinity_vol21\n\n▼ライブ\n18:30-18:50\n\n▼特典会\n19:00-20:00 B\n※新規無料券あり\n※エマージェンザチケット販売\n\n特典会レギュレーションはこちら\nhttps://mascarpiece-fc.com/static/caution/\nhttps://timetr.ee/p/mascarpiece_sch/2985144725550266376
+SUMMARY:IDOL ∞ INFINITY vol.21
+UID:ed99dc56-a129-4c5f-870c-0e3d21092b2f@ed99.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260601
 DTEND;VALUE=DATE:20260602
 DESCRIPTION:IDOL∞INFINITY PREMIUM vol.11\n📍Spotify O-nest\n\n🎫チケット\nhttps://ticketdive.com/event/idol_infinity_premium_vol11\n\n▼ライブ\n20:05-20:30\n\n▼特典会\n終演後 21:00-22:00\n\n※大森莉緒はお休みとなります\nhttps://timetr.ee/p/mascarpiece_sch/2976348123784149597
 SUMMARY:IDOL∞INFINITY PREMIUM vol.11
-UID:d6b8c9ec-dae9-4247-b55f-03fb6e67d60f@d6b8.org
+UID:6e23db2c-77b3-4ac2-8196-fbe4de876240@6e23.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260504
+DTEND;VALUE=DATE:20260505
+DESCRIPTION:#ﾆｷﾌﾟﾚ『おGiG。』\n📍渋谷近未来会館\n\n🎫チケット\nhttps://ticketdive.com/event/20260504_nikipre_night\n\n▼ライブ\n18:30-19:00\n\n▼特典会\n終演後\n※甘崎結依梨は22:00までの実施となります。\nhttps://timetr.ee/p/mascarpiece_sch/2943663507260701470
+SUMMARY:#ﾆｷﾌﾟﾚ『おGiG。』
+UID:e44882c0-cf35-4725-a4e5-6ed1d4f12267@e448.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260430
+DTEND;VALUE=DATE:20260501
+DESCRIPTION:buGG × Ma’Scar’Piece 2MAN LIVE\n「アイドリックラブ」\n📍Z MARUYAMA\n\n🎫チケット ※各+1D\nhttps://ticketdive.com/event/dOYntJ5jAvGUgx6e4UVi\n・VIPチケット ¥4\,000\n・一般チケット ¥2\,000\n\n■ 出演　buGG / Ma'Scar'Piece / DJ raydrop\n\nお楽しみに！\nhttps://timetr.ee/p/mascarpiece_sch/2935746440171748062
+SUMMARY:buGG × Ma’Scar’Piece 2MAN LIVE 「アイドリックラブ」
+UID:74216663-4264-4f57-845d-f549ae8575b0@7421.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261024
+DTEND;VALUE=DATE:20261025
+DESCRIPTION:Ma’Scar’Pieceコラボカフェ来店イベント☕️\n\n📍中目黒 The World Cafe\n東京都目黒区青葉台2-20-7 1F\n\n【第1部】12:00〜13:00\nドリンクお渡し＆トーク企画🗣️\n【第2部】14:00〜15:00\nドリンクお渡し＆DJタイム🪩\n\n“病みつき”注意なこだわりメニューを\nマスピメンバーが提供します!!\n各部終了後には生写真販売を実施!!👻\n\n🔗https://mascarpiece-fc.com/blogs/news/WBE2LXNoAL-HEitgMDY6G\nhttps://timetr.ee/p/mascarpiece_sch/3077614718279351195
+SUMMARY:Ma’Scar’Pieceコラボカフェ来店イベント
+UID:9774ef75-ee16-4d8e-978e-66c39994dc7d@9774.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260705
+DTEND;VALUE=DATE:20260706
+DESCRIPTION:超NATSUZOME2026\n📍幕張海浜公園 Gブロック特設会場\n\n🎫チケット\n一般 ¥8\,000\nVIP ¥27\,000(+1D)\n🔗https://idol-spot.tstar.jp/event/rileaas/?scid=su_16699\n\n\n▼ライブ\n①12:50-13:05 @UMIステージ\n②14:50-15:05 @BAKUステージ\n\n▼縁日\n15:25-16:25 (9)\n\n▼特典会\n17:20-18:20 P\nhttps://timetr.ee/p/mascarpiece_sch/2950315513098402167
+SUMMARY:超NATSUZOME2026
+UID:f69c787d-1513-4fe4-9dc8-723b84ffb0c1@f69c.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261108
+DTEND;VALUE=DATE:20261109
+DESCRIPTION:IDOL STORM\n📍新宿 Music Restaurant APEXIA\n\n🎫チケット\n前売前方7000円/前売通常2500円 / 当日+500円(D別)\nhttps://t-dv.com/IDOLSTORM_1108\n\n入場順：①前売前方整理番号順 ②前売通常整理番号順 ③当日\n\n▼ライブ\n\n\n▼特典会\nhttps://timetr.ee/p/mascarpiece_sch/3070424743704132146
+SUMMARY:IDOL STORM
+UID:c2e7ecb1-9f53-4770-875a-339ab3525fcf@c2e7.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260828
+DTEND;VALUE=DATE:20260829
+DESCRIPTION:NOXACTIIC.\n📍duo MUSIC EXCHANGE\n\n🎫チケット\nhttps://t-dv.com/20260814_nikipre_mn\n\nLIVE and DJ ACTとして出演！\n\n▼特典会\n前物販 23:00-24:00\n\n▼出演時間\n24:20-24:50 ライブ出演 (撮影可)\n24:50-25:20 DJ出演 (撮影可)\n\n※深夜のため甘崎結依梨は出演いたしません。\nhttps://timetr.ee/p/mascarpiece_sch/3025499444717943040
+SUMMARY:NOXACTIIC.
+UID:f670936e-f871-474b-a3ba-bfc0ff833a52@f670.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261107
+DTEND;VALUE=DATE:20261108
+DESCRIPTION:GIRLS FANTASIA vol.4\n📍神田明神ホール\n\n🎫https://ticketdive.com/event/Cv0Vp8fZ8daa9sa0DI6o\n\n\n▼ライブ\n\n\n▼特典会\nhttps://timetr.ee/p/mascarpiece_sch/3062600290387490994
+SUMMARY:GIRLS FANTASIA vol.4
+UID:dede3ae9-7d0f-492f-9a07-6a5576716489@dede.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260730
+DTEND;VALUE=DATE:20260731
+DESCRIPTION:超SUMMER FEST 2026\n📍品川ステラボール\n\n🎫チケット\nhttps://tiget.net/events/504191\nSS席：12\,000円\nS席：5\,000円\nA席：3\,000円\n\n▼出演時間\n19:30-19:50\n\n▼特典会\n21:00-22:15\n※甘崎結依梨は22:00までの参加となります\n※新規無料券あり\nhttps://timetr.ee/p/mascarpiece_sch/3000819133929355898
+SUMMARY:超SUMMER FEST 2026
+UID:ac63bc06-7e79-4aee-9a00-054ec7e91fa5@ac63.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260917
+DTEND;VALUE=DATE:20260918
+DESCRIPTION:LOVE CHANTさん主催「らぶちゃんと！vol.01」\n📍SHIBUYA DIVE\n\n🎫チケット\nticketdive.com/event/LOVECHANT-rabuchanto-vol1\n\n▼ライブ\n19:20〜19:45\n\n▼特典会\n終演後〜21:30\n※新規無料券あり🎟️\n\nhttps://timetr.ee/p/mascarpiece_sch/3050083750446496125
+SUMMARY:らぶちゃんと！vol.01
+UID:3a06a2f6-cc18-4d83-a0a2-2de5758e02af@3a06.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260623
+DTEND;VALUE=DATE:20260624
+DESCRIPTION:1対1のコミュニケーションが実現するライブトーク（ビデオ通話）サービス「SPACE MAKE」にて「オンライン個別お話し会」を開催いたします！\n\n\n◆料金\n1枠 3\,300円\nご購入はMa’Scar’Piece公式LINEの予約スケジュールから！\nMa’Scar’Piece公式LINE：https://line.me/R/ti/p/@598djyjp?oat_content=url&ts=08252205\n\n◆販売日時\n6月17日(水) 12:00~\n※完売次第終了\n※各枠の実施直前まで販売予定\n\n◆実施日時\n6月23日(火) 20:00～22:00\n20:00～20:30　大森莉緒、山本愛梨\n20:30～21:00　甘崎結依梨、咲間なぎ、多々良ゆら、大森莉緒、山本愛梨\n21:00～21:30　甘崎結依梨、咲間なぎ、多々良ゆら、大森莉緒、山本愛梨\n21:30～22:00　大森莉緒、山本愛梨\n\n※メンバーにより実施時間が異なりますのでご注意ください\n\n\n【動作環境】\n●Androidスマートフォンをご利用の場合\n《推奨環境》\n対応OS：Android 7以降\n対応ブラウザ：LINEアプリ内ブラウザ\n※お使いのスマートフォンに「Google Chrome」がインストールされているかを必ずご確認ください。\n推奨通信速度：上り10Mbps以上、下り15Mbps以上\n※LINE以外の起動中アプリを事前に終了してご利用ください。\n※Androidスマートフォンの一予約枠機種において、推奨環境を満たしていても正常動作しない場合がございます。\n※全ての機種の動作保証はできかねますので予めご了承下さい。\n\n\n●iPhoneをご利用の場合\n《推奨環境》\n対応OS：iOS14～14.1及び14.3以降（14.2、14.2.1は除く）\n対応ブラウザ：LINEアプリ内ブラウザ\n推奨通信速度：上り10Mbps以上、下り15Mbps以上\n※LINE以外の起動中アプリを事前に終了してご利用ください。\n※iPhoneでご参加の際、iOS14.2（14.2.1含む）の場合、音声不具合が確認されております。\n必ず上記の推奨環境をご確認の上でご参加くださいますようお願いいたします。\n推奨環境以外でご参加された場合、不具合の保障対応はできませんのでご了承下さい。\n\n\n◆SPACE MAKEの使い方はこちら\nhttps://lp.spacemake.jp/\nhttps://timetr.ee/p/mascarpiece_sch/2994124614005553988
+SUMMARY:6月オンラインお話し会
+UID:1f2549ed-d509-42fd-9815-4d86d58904fe@1f25.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260413
+DTEND;VALUE=DATE:20260414
+DESCRIPTION:「SWEET CIRCUIT 2026」\n📍VeatsSHIBUYA\n\n時間：開場TBA／開演TBA\n料金：前売優先エリア8\,000円／前売一般エリア3\,000円／当日各+1\,000円（1D代別）※前売1D代事前徴収\n\n\n🎫チケット\nhttps://livepocket.jp/e/sweetcircuit2026\n\n▼ライブ\n15:30〜15:55\n\n▼特典会\n16:05〜17:15\nhttps://timetr.ee/p/mascarpiece_sch/2931197297826855035
+SUMMARY:SWEET CIRCUIT 2026
+UID:42fa9e6e-b869-4746-9cc7-810147ba668d@42fa.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260417
+DTEND;VALUE=DATE:20260418
+DESCRIPTION:酒まつりジャパン\n📍上野恩賜公園 竹の台広場（噴水広場）\n\n入場無料!!🆓\n\n▼ライブ\n13:10〜13:30\n\n▼特典会\n13:40~14:40\n\n\n公式HP：sakefesta.jp/2026/\nhttps://timetr.ee/p/mascarpiece_sch/2935687948857637651
+SUMMARY:酒まつりジャパン
+UID:af46f31d-69ab-4c6d-a505-6725412cd3d4@af46.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260506
+DTEND;VALUE=DATE:20260507
+DESCRIPTION:「LIVE IT FES!! VOL.1」\n📍渋谷音楽堂\n\n🎫チケット\nhttps://t-dv.com/liveitfes_vol1\n前方：3/21(土)21:00〜\n一般：3/21(土)22:00〜\n\n※タイムテーブル非公開\nhttps://timetr.ee/p/mascarpiece_sch/2909684254609635747
+SUMMARY:LIVE IT FES!! VOL.1
+UID:c0a9acf0-1ebf-4988-b704-f3fd4c8ae890@c0a9.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261004
+DTEND;VALUE=DATE:20261005
+DESCRIPTION:LEADING 4MAN\n📍下北沢シャングリラ\n\n🎫チケット\nhttp://ticketvillage.jp/events/13896\n\n▼ライブ\n14:45-15:10 \n\n▼特典会\n終演後 15:20-16:30\n ※新規無料券あり\nhttps://timetr.ee/p/mascarpiece_sch/3064739377416370176
+SUMMARY:LEADING 4MAN
+UID:1ceba75b-b1f1-4bab-8699-07e143ab8eef@1ceb.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260424
+DTEND;VALUE=DATE:20260425
+DESCRIPTION:IMMERSE\n📍下北沢シャングリラ\n\n早割 ¥2\,000- / 一般 ¥2\,500-（別途1D代）\n\n🎫チケット\nt-dv.com/260424_IMMERSE\n\n▼ライブ\n19:50-20:15\n\n▼特典会\n21:10-22:15\n🎟️新規無料券あり\n\n※大森莉緒は個人仕事のためお休みとなります\nhttps://timetr.ee/p/mascarpiece_sch/2931196843080416100
+SUMMARY:IMMERSE
+UID:1cc4432d-861e-4515-a20e-3609fd639dd0@1cc4.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261014
+DTEND;VALUE=DATE:20261015
+DESCRIPTION:#ﾆｷﾌﾟﾚ『シキサイ。』\n📍渋谷近未来会館\n\n🎫チケット\nhttps://ticketdive.com/event/20261014_nikipre\n\n▼ライブ\n20:30-21:00 \n\n▼特典会\n終演後 21:10-22:20\n\n ※新規無料券あり🎟️\n※甘崎結依梨は22時までの実施です\nhttps://timetr.ee/p/mascarpiece_sch/3054266698972396235
+SUMMARY:#ﾆｷﾌﾟﾚ『シキサイ。』
+UID:4e0abfda-820d-4a88-a763-53308cb7b246@4e0a.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261205
+DTEND;VALUE=DATE:20261206
+DESCRIPTION:https://timetr.ee/p/mascarpiece_sch/3077514272994883904
+SUMMARY:対バン予定
+UID:b07c4309-6163-4a7c-8c7a-1d349a5f382e@b07c.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250413
+DTEND;VALUE=DATE:20250414
+DESCRIPTION:💗キャラ紹介💗\n\n笹塚 舞歌（ささづか まいか）\nCV.大森莉緒\n\n🙋‍♀️年齢　18歳（高3）\n🎂誕生日　4月13日\n👭身長　160cm\n🩷性格　お姉さん、やや腹黒\n\n「あれあれあれー？お姉さんまだやれるよー？なんで床舐めてるのかなー？」\nhttps://timetr.ee/p/mascarpiece_sch/2631405302608427823
+SUMMARY:笹塚 舞歌 BIRTHDAY!!
+UID:d4db925f-f7ec-4c6c-aadd-7d4dc54bb1e4@d4db.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260528
+DTEND;VALUE=DATE:20260529
+DESCRIPTION:SABORIRYU\n📍恵比寿LIQUIDROOM\n\n🎫チケット\nhttps://ticketdive.com/event/saboriryuliquidroom528\n・先行抽選：4/27(月) 21:00 - 5/3(日) 23:59まで\n・一般先着：5/4(月)  21:00 - 5/27(水) 23:59まで\n\n▼ライブ\n18:05-18:25\n\n▼特典会\n18:35-19:45 A\nhttps://timetr.ee/p/mascarpiece_sch/2953143664857971183
+SUMMARY:SABORIRYU
+UID:98fd38c2-6c8c-4799-bc5f-fff2f58044df@98fd.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260612
+DTEND;VALUE=DATE:20260613
+DESCRIPTION:#ﾆｷﾌﾟﾚ 『カンシャ後夜サイ。-夏、Day ２-』\n📍渋谷近未来会館\n\n🎫チケット\nhttps://ticketdive.com/event/20260612_nikipre\n\n▼ライブ\n20:20-20:50\n\n▼特典会\n終演後 21:20-\n\n※大森莉緒はお休みとなります\nhttps://timetr.ee/p/mascarpiece_sch/2968408099398744603
+SUMMARY:#ﾆｷﾌﾟﾚ 『カンシャ後夜サイ。-夏、Day ２-』
+UID:7a3559b4-fdf8-4ce5-b0bb-1823ab776772@7a35.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260515
+DTEND;VALUE=DATE:20260516
+DESCRIPTION:『RE：PLAY vol.9』\n📍Spotify O-nest\n\n時間：OPEN 17:15  / START 17:40\n\n🎫チケット\n前方 ¥5\,000 / 一般 ¥2\,500 ※+1D\ntiget.net/events/485137\n※4/26 19:00より発売開始\n\n▼ライブ\n18:40-19:10\n\n▼特典会\n20:15-21:40\nhttps://timetr.ee/p/mascarpiece_sch/2952540575146833925
+SUMMARY:RE：PLAY vol.9
+UID:7342cec6-f753-4f0f-85d2-75217b627493@7342.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260715
+DTEND;VALUE=DATE:20260716
+DESCRIPTION:MOKEMOKE / 02\n📍Spotify O-nest\n\n🎫チケット\nhttps://t-dv.com/MOKEMOKE2\n\n\n▼ライブ\n19:20-19:45\n\n▼特典会\n20:40-21:40\nhttps://timetr.ee/p/mascarpiece_sch/2992032280539429274
+SUMMARY:MOKEMOKE / 02
+UID:8b11a294-f2eb-4539-9cb4-78e86b77b5dd@8b11.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260616
+DTEND;VALUE=DATE:20260617
+DESCRIPTION:TOKYO GIRLS GIRLS\n📍KABUKICHO TOWER STAGE\n\nOP 11:40 / ST 12:00\n※変更の可能性あり\n\n🎫チケット\n前方10000円/通常4000円 ※当日各+1000円(+1D)\ntiget.net/events/489362\n\n▼ライブ\n16:45-17:05\n\n▼特典会\n17:15-18:15\n@シネシティ広場後方\nhttps://timetr.ee/p/mascarpiece_sch/2981411314515966524
+SUMMARY:TOKYO GIRLS GIRLS
+UID:626a5261-e49d-4c3b-bc13-754e075566b7@626a.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260817
+DTEND;VALUE=DATE:20260818
+DESCRIPTION:QUEENLAND\n📍Clubasia\n\n🎫チケット\nhttps://t-dv.com/0817shibuya\n\n▼ライブ\n19:25~19:50 \n\n▼特典会\n19:55~20:55 L3\n※新規無料券あり\nhttps://timetr.ee/p/mascarpiece_sch/3016788792226740669
+SUMMARY:QUEENLAND
+UID:dbe7dce7-9578-479b-8318-cce9c5bce05a@dbe7.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261101
+DESCRIPTION:NASUSHIOBARA COMER CON 2026\n📍那須塩原駅西口広場 メインステージ\n\n入場無料！🆓\n\n▼ライブ\n12:30〜13:00\n\nみなさまのご来場お待ちしております！🍙✨\nhttps://timetr.ee/p/mascarpiece_sch/3077534656095976413
+SUMMARY:NASUSHIOBARA COMER CON 2026
+UID:98ef9ac6-02d9-40e5-aa1c-9dfb3fec68df@98ef.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260411
+DTEND;VALUE=DATE:20260412
+DESCRIPTION:https://timetr.ee/p/mascarpiece_sch/2909686713310641128
+SUMMARY:LEADING
+UID:0651332e-6443-436c-acaf-a89dc7ed1ffd@0651.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241224
+DTEND;VALUE=DATE:20241225
+DESCRIPTION:🟪キャラ紹介🟪\n\n松蔭 聖那（しょういん せな）\nCV.咲間なぎ\n\n🙋‍♀️年齢　17歳（高2）\n🎂誕生日　12月24日\n👭身長　149cm\n💜性格　ダウナー、努力家\n\n「へー、いいじゃん最高じゃん。で、何の話？」\nhttps://timetr.ee/p/mascarpiece_sch/2589704421748112016
+SUMMARY:松蔭 聖那 BIRTHDAY!!
+UID:20e2b767-0c4c-4541-8135-3f989d1a3074@20e2.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260409
+DTEND;VALUE=DATE:20260410
+DESCRIPTION:いどみん生誕祭2026 渋谷編\n📍Spotify O-EAST\n\nOPEN 14:00 / START 14:30(予定)\n優先チケット 9\,000円 / 一般チケット 4\,000円(1ドリンク代別途)\n\n🎫チケット\n https://ticketvillage.jp/events/13736\n\n▼ライブ\n15:35-16:00\n\n▼特典会\n16:15-17:15 B\nhttps://timetr.ee/p/mascarpiece_sch/2935733761025636648
+SUMMARY:いどみん生誕祭2026 渋谷編
+UID:5a8de999-9d82-4f18-b74f-cf491959aa6f@5a8d.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260726
+DTEND;VALUE=DATE:20260727
+DESCRIPTION:Oshi Fes in IKEBUKURO\n📍池袋西口公園野外劇場\n\n🎫チケット\nS席抽選受付7/5(日)22時〜\n🔗https://tiget.net/events/499115\n\n▼ライブ\n16:50-17:15\n\n▼特典会\n18:45-19:45\n※列途切れ次第終了します\n※新規無料券あり\nhttps://timetr.ee/p/mascarpiece_sch/2985147393924528188
+SUMMARY:Oshi Fes in IKEBUKURO
+UID:66ad6da4-7dbc-4ead-955a-0db1d554d6cf@66ad.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261206
+DTEND;VALUE=DATE:20261207
+DESCRIPTION:「Fly 2 Zenith 東名阪TOUR」 東京公演\n\n会場：WARP SHINJUKU\n開場/開演：OP 14:30 / ST 15:00\n\n詳細は後日お知らせいたします！\nhttps://timetr.ee/p/mascarpiece_sch/3048070233807780382
+SUMMARY:Fly 2 Zenith 東名阪TOUR 東京公演🗼
+UID:51d4059c-cede-4624-8a3b-2577d3294a72@51d4.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260829
+DTEND;VALUE=DATE:20260830
+DESCRIPTION:@JAM EXPO 2026 supported by UP-T\n📍横浜アリーナ\n\n🎫チケット\nhttps://atjam.jp/expo2026/ticket\n\n▼ライブ\n11:20-11:40 キウイ\n18:55-19:10 ピーチ\n※マスピ撮可\n\n▼特典会\n12:30-13:30 横浜アリーナ3F(8)\n※新規無料券あり\nhttps://timetr.ee/p/mascarpiece_sch/3016787554579905067
+SUMMARY:@JAM EXPO 2026 supported by UP-T
+UID:78f00527-43ec-44a6-ab51-6919855f2c58@78f0.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261023
+DTEND;VALUE=DATE:20261024
+DESCRIPTION:THE ENCORE presents「ラブコール vol.21」\n📍Spotify O-nest\n\nOPEN16:30 / START17:00\n\n🎫チケット\n前方4000円 / 一般0円(D代事前徴収) / 当日各+500円(前方・当日のみ1D)\nhttps://t-dv.com/lc_vol21\n\n\n▼ライブ\n17:00-17:25 マスピ撮可⭕️\n\n▼特典会\n終演後物販 18:20-19:30\nhttps://timetr.ee/p/mascarpiece_sch/3073261504759200618
+SUMMARY:THE ENCORE presents「ラブコール vol.21」
+UID:1ca3a6c2-b8a0-4765-b70e-99da8dc42b13@1ca3.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261222
+DTEND;VALUE=DATE:20261223
+DESCRIPTION:https://timetr.ee/p/mascarpiece_sch/2993741772826212763
+SUMMARY:⛓️大森莉緒 BIRTHDAY⛓️
+UID:94c1062e-cb96-4752-9308-b8835f5c9544@94c1.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261028
+DTEND;VALUE=DATE:20261029
+DESCRIPTION:HelloYouth東京定期 vol.7 LIVE THE YOUTH\n📍SHIBUYA DESEO\n\nOPEN 19:25 / START 19:45\n\n🎫 チケット\nhttps://t-dv.com/helloyouth_teikivol7\n\n▼ライブ\n20:10-20:35\n\n▼特典会\n21:05-22:15\nhttps://timetr.ee/p/mascarpiece_sch/3064739928505972790
+SUMMARY:HelloYouth東京定期 vol.7 LIVE THE YOUTH
+UID:a1563f37-57db-4573-88f6-18238432821b@a156.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261122
+DTEND;VALUE=DATE:20261123
+DESCRIPTION:咲間なぎ生誕祭\n📍TwinBox AKIHABARA\nhttps://timetr.ee/p/mascarpiece_sch/3041527843429153770
+SUMMARY:咲間なぎ生誕祭
+UID:854d725e-3868-4442-be29-3be6933e2ca1@854d.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260927
+DTEND;VALUE=DATE:20260928
+DESCRIPTION:「エンタパークフェス2026」\n📍イオンモールむさし村山 つむぐ広場 野外特設会場\n\n🎫チケット\nentaparkfes.jp/#ticket\n\n▼ライブ\n\n▼特典会\n\nhttps://timetr.ee/p/mascarpiece_sch/3048056585156688609
+SUMMARY:エンタパークフェス2026
+UID:1a3026d9-4bee-49b5-ace8-402131c982ba@1a30.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260802
+DTEND;VALUE=DATE:20260803
+DESCRIPTION:TOKYO IDOL FESTIVAL 2026 DAY3\n📍お台場・青海周辺エリア\n\n🎫チケット\nhttps://official.idolfes.com/s/tif2026/page/ticket?ima=0000\n\n▼ライブ\n16:35-16:55 DOLL FACTORY\n\n▼特典会\n14:00-15:30\nhttps://timetr.ee/p/mascarpiece_sch/2985146179916790252
+SUMMARY:TOKYO IDOL FESTIVAL 2026 DAY3
+UID:e2e35028-1031-43fa-b76d-0715a8e3310c@e2e3.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260923
+DTEND;VALUE=DATE:20260924
+DESCRIPTION:西村歩乃果秋開催ライブ\n「夏、未完。 -LAST LIVE OF SEPTEMBER-」\n📍原宿RUIDO\n\n大森莉緒、山本愛梨が出演いたします。\n\n🎫チケット\nhttps://tiget.net/events/489871\n開場 17:00 / 開演 17:30\n\n※特典会の実施は予定しておりません。\nhttps://timetr.ee/p/mascarpiece_sch/3041531281290426619
+SUMMARY:夏、未完。 -LAST LIVE OF SEPTEMBER-
+UID:cfc849c5-c4e6-4281-a1f7-6ad28a486cbd@cfc8.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260708
+DTEND;VALUE=DATE:20260709
+DESCRIPTION:#エイアイ界隈 〜 Road to LIQUID!!! 〜 vol.4\n📍代官山SPACE ODD\n\n🎫チケット\n6/12(金)20:00〜 発売開始\nt-dv.com/aikaiwai_0708\n\n▼ライブ\n19:05-19:30\nエンディングトークにも出演いたします！\n\n▼特典会\n終演後\nhttps://timetr.ee/p/mascarpiece_sch/2950704794321157048
+SUMMARY:エイアイ界隈 〜 Road to LIQUID!!! 〜 vol.4
+UID:1ff45b4a-5997-4746-a0ff-d3a56f332015@1ff4.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260626
+DTEND;VALUE=DATE:20260627
+DESCRIPTION:buGG × Ma’Scar’Piece 2MAN LIVE\n「アイドリックラブ」OP 18:00 / ST 19:00\n📍shibuya eggman\n\n🎫チケット ※各+1D\n・一般チケット ¥1\,500\n・撮影エリアチケット ¥4\,000\n・学生、女性チケット ￥500\nhttps://ticketdive.com/event/mgJG95QU7YR3zxfQRlpX\n\n■ 出演　buGG / Ma'Scar'Piece / DJ raydrop\n\nお楽しみに！\nhttps://timetr.ee/p/mascarpiece_sch/2978337800636463358
+SUMMARY:buGG × Ma’Scar’Piece 2MAN LIVE 「アイドリックラブ」
+UID:242459a4-9b9c-4fe0-950f-6c9c179fef55@2424.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+DESCRIPTION:NEONAKA-犬甘姉妹 Birthday Party-\n📍Z MARUYAMA\n\n🎫https://buzz-ticket.com/e/pt4goxchm4\n\n▼ライブ\n\n▼特典会\nhttps://timetr.ee/p/mascarpiece_sch/3070433735838923452
+SUMMARY:NEONAKA-犬甘姉妹 Birthday Party-
+UID:5ccbdd00-10bf-4fe3-bc07-55a70fe838ad@5ccb.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260410
+DTEND;VALUE=DATE:20260411
+DESCRIPTION:MIX TOKYO DJ PARTY 08\n📍namco TOKYO\n\n🎫チケット\nlivepocket.jp/e/mixtokyo08\n\n▼ライブ\n未定\n\n▼特典会\n未定\n\nhttps://timetr.ee/p/mascarpiece_sch/2935745641433659636
+SUMMARY:MIX TOKYO DJ PARTY 08
+UID:1a14681f-81fb-4892-b62c-9d0c47304c2d@1a14.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260903
+DTEND;VALUE=DATE:20260904
+DESCRIPTION:Buzz Buzz Premium!!\n📍Spotify O-EAST\n\n🎫チケット\nhttps://t-dv.com/BBP_260903\n\n出演：\n NANIMONO / まねきケチャ / ドレスコード / STAiNY / ラストシーン / Maison de Queen / RiNCENT♯ / パラディーク / Ma’Scar’Piece  / ルージュブック / ハニースパイスRe. / 月に足跡を残した少女達は一体何を見たのか… /  I MY ME MINE / 君と見るそら / オカシリゾート / スプスラッシュ / しろもん / NEFRALISE / Aurora / 玉響storage/ IWI! /Aivery \n\n\n\n▼ライブ\n\n▼特典会\n\nhttps://timetr.ee/p/mascarpiece_sch/3032797140721990188
+SUMMARY:Buzz Buzz Premium!!
+UID:be91caa1-5a70-4226-98ae-4933a9ab0306@be91.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260426
+DTEND;VALUE=DATE:20260427
+DESCRIPTION:#ﾆｷﾌﾟﾚ 『シキサイ。』\n📍TKAE OFF 7\n\n🎫チケット\nhttps://livepocket.jp/e/20260426_nikipre\n\n▼ライブ\n11:30〜12:00\n\n▼特典会\n13:10-14:10\n\n※大森莉緒は個人仕事のためお休みとなります\nhttps://timetr.ee/p/mascarpiece_sch/2940763852474546745
+SUMMARY:シキサイ。
+UID:374cecca-0b36-4482-b440-2d8bd8c4c41a@374c.org
 END:VEVENT
 END:VCALENDAR

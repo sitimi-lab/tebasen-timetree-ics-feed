@@ -2,717 +2,717 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260809
-DTEND;VALUE=DATE:20260810
-DESCRIPTION:https://timetr.ee/p/qnico/3005186999320145805
-SUMMARY:こぐまカリー主催「Mash UP!」
-UID:b5921c82-e508-4f07-b06e-6cc3f0cf4a66@b592.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260919
-DTEND;VALUE=DATE:20260920
-DESCRIPTION:『RE：PLAY extra.』\n\n🗓️9/19(土)\n📍Spotify O-Crest\n⏰open 14:40 / start 15:00\n🎤15:50-16:15\n📸16:25-17:25\n🎁サインチェキ\n💰adv ¥3\,000 / door ¥3\,500\n🎫 tiget.net/events/509743\nhttps://timetr.ee/p/qnico/2994182748284481110
-SUMMARY:『RE：PLAY extra.』
-UID:2239aac0-c750-4abb-936f-b7b4002e97f9@2239.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261003
-DTEND;VALUE=DATE:20261004
-DESCRIPTION:『IDOLGROW vol.29』\n\n🗓️10/3(土) \n📍銀座BASE GRANBELL\n⏰開場:10:30 開演11:00 終演18:30\n🎤11:00-11:30\n📸11:45-12:45\n🎁サインチェキ\n💰VIP¥5\,000/一般¥3\,000-\n🎫 https://livepocket.jp/e/va8_f\nhttps://timetr.ee/p/qnico/3062360203209567306
-SUMMARY:『IDOLGROW vol.29』
-UID:43407183-284c-4234-ba9e-a0b12fdbb73c@4340.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260801
-DTEND;VALUE=DATE:20260802
-DESCRIPTION:『EVER FREE SUMMER BUSH』\n\n🗓️8/1（土）\n📍SHINJUKU WALLY\n⏰OPEN 10:40 / START 11:00\n🎁写メ\n💰前方4000円／後方2500円\n(各+1D)\n🎫 t-dv.com/EVERFREESUMMER…\nhttps://timetr.ee/p/qnico/3021192443402480738
-SUMMARY:『EVER FREE SUMMER BUSH』
-UID:7a9624ef-70ab-4601-9177-49f2a9bf6dc7@7a96.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260718
-DTEND;VALUE=DATE:20260719
-DESCRIPTION:『IMMERSE』\n🗓️7/18（土）\n📍Shibuya Milkyway\n⏰開場 10:30 / 開演 10:45\n🎁サインチェキ\n💰前売¥2\,000-（各種+1D代）\n🎫 t-dv.com/260718_IMMERSE\n本日6月26日（金）22:00から販売開始💫\nhttps://timetr.ee/p/qnico/2994185437210832198
-SUMMARY:『IMMERSE』
-UID:4791749b-c4da-4243-932c-302c7c526ff4@4791.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260912
-DTEND;VALUE=DATE:20260913
-DESCRIPTION:UNIVERSE企画 4th anniversary\n『Dance party』\n\n🗓️9/12(土)\n📍新宿MARZ\n⏰2部open 17:30 / start 18:00\n🎤 18:00-18:30\n📸 20:10-21:10\n🎁サインチェキ\n💰 通し券 ¥3\,200 / adv￥2\,200 / door￥2\,700 (+1drink¥600)\nlivepocket.jp/e/0wxdy\nhttps://timetr.ee/p/qnico/3026856916805054003
-SUMMARY:UNIVERSE企画 4th anniversary『Dance party』
-UID:6b838923-3935-4dab-8348-ab0a6b43d5db@6b83.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260616
-DTEND;VALUE=DATE:20260617
-DESCRIPTION:『脱却』\n\n🗓️6/16(火)\n📍渋谷VIDENT\n⏰開場: 17:00 / 開演：17:30\n🎤17:55-18:20\n📸18:35-19:35\n💰前売￥2\,500/当日￥3\,500\n🎁写メ\n🎫 https://ticketdive.com/event/nZzFdi6QzFdgqFucGQHD\nhttps://timetr.ee/p/qnico/2968207515224468703
-SUMMARY:『脱却』
-UID:5443e9ce-91f7-4705-8497-46bb983f33d4@5443.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260831
-DTEND;VALUE=DATE:20260901
-DESCRIPTION:『Gimme!×Gimme! みらい 卒業ライブ』\n\n🗓️8/31(月)\n📍四谷LOTUS\n⏰OPEN18:30 / START19:00\n🎁写メ\n💰S¥10\,000/一般¥2\,500(各＋1D)\n🎫 t-dv.com/MIRAI_GraduationLive\nhttps://timetr.ee/p/qnico/3013688896695921865
-SUMMARY:『Gimme!×Gimme! みらい 卒業ライブ』
-UID:652445f6-112e-41c0-addf-a06d0af4463c@6524.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261102
-DTEND;VALUE=DATE:20261103
-DESCRIPTION:ハチキュウ合同生誕祭\n「30 YEARS\, NO FEARS」\n\n🗓️11/2(月)\n📍渋谷DESEO mini with VILLAGE VANGUARD\n⏰OPEN/START 17:30/18:00\n🎤18:00-18:25\n📸20:00-21:30\n💰前売 ¥2\,800 / 当日 ¥3\,500 (各+1D)\n🎫livepocket.jp/e/24aa0\nhttps://timetr.ee/p/qnico/3070586170059091646
-SUMMARY:ハチキュウ合同生誕祭「30 YEARS\, NO FEARS」
-UID:3ad450d0-005c-4d07-bff5-000da5149c52@3ad4.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261012
-DTEND;VALUE=DATE:20261013
-DESCRIPTION:AFTERS Presents「CAKES & ALE」\n\n🗓️10/12(月)\n📍 GARRET udagawa\n⏰リストバンド交換10:30～(SHIBUYA CYCLONE)\nOPEN 11:40 / START 12:00\n🎤17:40-18:05\n📸18:15-19:15\n🎁サインチェキ\n💰共通チケット ¥4\,000 / SHIBUYA CYCLONE ¥2\,500 / GARRET udagawa ¥2\,500 (別途1D)\n🎫 ticketdive.com/event/cakes_ale\nhttps://timetr.ee/p/qnico/3033680793677950563
-SUMMARY:AFTERS Presents「CAKES & ALE」
-UID:dc179eb0-8d73-4806-ba37-e56ccf29f357@dc17.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260904
-DTEND;VALUE=DATE:20260905
-DESCRIPTION:『Gimme!×Gimme! presents\nGimme the Hype. #01 \n- New Lineup SP -』\n\n🗓️9/4(金)\n📍下北沢ERA\n⏰18:20 OPEN / 18:50 START\n🎤19:15-19:40\n📸21:00-22:30\n🎁サインチェキ\n💰Sチケット 7\,000円 (優先入場+メンバー囲み写メ+Gimme!×Gimme!定点ライブ映像)/一般チケット 1\,000円/当日券 2\,000円（各＋1D）\n🎫 t-dv.com/GimmetheHype01\nhttps://timetr.ee/p/qnico/3032043122396327855
-SUMMARY:『Gimme!×Gimme! presentsGimme the Hype. #01 - New Lineup SP -』
-UID:e0226707-65f5-4f4f-884f-5dfb92971876@e022.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260725
-DTEND;VALUE=DATE:20260726
-DESCRIPTION:『TOKYOPOP vol.1』\n\n🗓️7/25(土) 📍BASE GRANBELL 銀座 ⏰OPEN 12:00 / START 12:30\n🎤12:55-13:20\n📸13:30-14:40\n🎁サインチェキ 💰VIP(下手ソファーエリア) ¥4\,500  一般 ¥2\,500 🎫 t-dv.com/TOKYOPOP_260725\nhttps://timetr.ee/p/qnico/2994834430643236292
-SUMMARY:『TOKYOPOP vol.1』
-UID:68f38891-2973-40c7-a8e8-99b4d60e97a2@68f3.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261016
-DTEND;VALUE=DATE:20261017
-DESCRIPTION:NUANCE presents 『ヌュナッス』\nsupported by エンジョイナス!!\n\n🗓️10/16(金)\n📍SHIBUYA DESEO\n⏰OPEN 18:15 START 18:45\n🎤19:15-19:45\n📸20:45-22:00\n🎁サインチェキ\n💰adv 2\,500円 door 3.200円 (各＋1D)\n🎫 t-dv.com/NUNNUS_3\n※2026年9月24日(水)22:00～9月3日(木)23:59まで\nhttps://timetr.ee/p/qnico/3062356860550605933
-SUMMARY:NUANCE presents 『ヌュナッス』supported by エンジョイナス!!
-UID:7f5fecda-a882-48a5-889a-dbae5c9f6f5b@7f5f.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260523
-DTEND;VALUE=DATE:20260524
-DESCRIPTION:\\🆕!出演決定!🆕/\n\n｢夢より素敵な-2026-SEIZE THE DAY｣\n\n🗓️5/23（土）\n📍新宿MARZ \n⏰OPEN 10:20 / START 10:40\n🎤13:55-14:15\n📸15:25-16:25\n🎁10秒動画\n💰前売 ¥2\,800 / 当日 ¥3\,500（1ドリンク代別途）\n🎫 t-dv.com/YumeyoriSuteki…\nhttps://timetr.ee/p/qnico/2950023497828101519
-SUMMARY:｢夢より素敵な-2026-SEIZE THE DAY｣
-UID:4ae9bf87-9351-49ba-820e-4cf836fe3d27@4ae9.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261027
-DTEND;VALUE=DATE:20261028
-DESCRIPTION:\\🆕!出演決定!🆕/\n\nピューパ!! pre.\n『#ツリィハウス vol.45』 ~ ハロウィンSP!! \n\n🗓️10/27(火)\n📍吉祥寺WARP\n⏰開場19:00 / 開演19:30\n🎤20:20-\n📸21:20-22:30\n🎁キュニコくじ\n💰予約1\,300円 / 当日1\,800円 (+1Drink 700円)\n🎫 https://tiget.net/events/525562\nhttps://timetr.ee/p/qnico/3078475026880098180
-SUMMARY:ピューパ!! pre.『#ツリィハウス vol.45』 ~ ハロウィンSP!! 』
-UID:1146f56f-e17a-4cdc-b347-60fc132b3aa3@1146.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260724
-DTEND;VALUE=DATE:20260725
-DESCRIPTION:『キュニコレvol.1』\n🗓️7/24（金）\n📍新宿WALLY\n⏰OPEN17:15 / START18:15\n💰前売 ¥3\,000- / 当日 ¥500- (+各1D)\n🎫 t-dv.com/ot3xyPZJPjyoU4…\n7/7(火) 19:00から販売開始💫\nhttps://timetr.ee/p/qnico/3004625612030176380
-SUMMARY:『キュニコレvol.1』
-UID:7f26cc1b-8d3e-406a-80a2-14a55cc6491e@7f26.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261121
-DTEND;VALUE=DATE:20261122
-DESCRIPTION:『IDOLGROW vol.30』\n\n🗓️11/21(土)\n📍銀座BASE GRANBELL\n⏰OPEN/START 10:00/10:30\n🎤15:25-15:50\n📸16:05-17:05(並行B)\n🎁キュニコくじ\n💰VIP 5\,000円/一般 3\,000円(各＋1D)\n当日 各+500円\n🎫 livepocket.jp/e/4hep1\nhttps://timetr.ee/p/qnico/3082805074814660292
-SUMMARY:『IDOLGROW vol.30』
-UID:9376d1ab-ee6c-4fcf-b984-d1149d954050@9376.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260502
-DTEND;VALUE=DATE:20260503
-DESCRIPTION:『ピューパフェス!!2026』\n\n🗓️5/2(土)\n📍新宿Marble\n⏰開場12:00/開演12:30\n🎤13:25-13:50\n📸14:20-15:20\n💰Sチケット ¥8\,000(限定タオル付)\n一般 ¥4\,500 / U25 ¥3\,000\n🎁サインチェキ\n🎫 livepocket.jp/e/pupafes2026\nhttps://timetr.ee/p/qnico/2890067588712853379
-SUMMARY:『ピューパフェス!!2026』
-UID:20943907-6f2f-40d4-a0d8-59e99d7a5e0a@2094.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260530
-DTEND;VALUE=DATE:20260531
-DESCRIPTION:\\🆕!出演決定!🆕/\n\nINFINITY LIVE presents\n『THE PRISMiNG vol.37 Day』\n\n🗓️5/30(土) \n📍下北沢Flowers Loft\n⏰OPEN 11:00 / START 11:20\n🎤13:00-13:25\n📸14:30-15:30\n🎁サインチェキ\n💰優先入場 ¥3100 / 前売券　¥2600 / 当日券 ¥3200(各+1D)\n🎫t-dv.com/20260530_day\nhttps://timetr.ee/p/qnico/2933389734692089110
-SUMMARY:INFINITY LIVE presents『THE PRISMiNG vol.37 Day』
-UID:7a021e4b-e5a8-423a-99a5-aeedcee2bec1@7a02.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260821
-DTEND;VALUE=DATE:20260822
-DESCRIPTION:『電脳一舞踏会 4th Anniversary』\n\n🗓️8/21(金)\n📍ZERO TOKYO\n⏰OPEN 23:00 / CLOSE 4:30\n整列開始22:00-\nHP : zerotokyo.jp/event/dennou-b… \n💰DOOR : ￥5\,000-/ADV : ￥4\,000-\n🎫 zerotokyo.zaiko.io/e/dennou-butoh…\nhttps://timetr.ee/p/qnico/3003090692598230183
-SUMMARY:『電脳一舞踏会 4th Anniversary』
-UID:0c325f61-095d-478f-b2fa-7ccdc0dd0f44@0c32.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261025
-DTEND;VALUE=DATE:20261026
-DESCRIPTION:雨模様のソラリス presents「Festival in the Rain 2026」\n\n🗓️10/25(日)\n📍下北沢シャングリラ / 下北沢MOSAiC / Flowers Loft / ADRIFT / WAVER\n⏰リストバンド交換10:30〜(MOSAiC)\nSTART 11:00\n🎤13:45～14:10(MOSAiC)\n📸14:55～15:55(ANDY'S STUDIO Bst)\n🎁キュニコくじ\n💰好天チケット ¥ 8\,800【特典：イベントTシャツ(XLのみ)/シャングリラ優先入場エリア入場】/一般チケット ¥ 4\,800\n🎫 perfectmusic.zaiko.io/ja/item/384197\nhttps://timetr.ee/p/qnico/3074167640677772831
-SUMMARY:「Festival in the Rain 2026」
-UID:d86b7539-9ac9-4b33-a74b-b78f6d97d6d3@d86b.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260505
-DTEND;VALUE=DATE:20260506
-DESCRIPTION:【IDOL ∞ INFINITY GW SP】(DAY4)\n\n🗓️5月5日(祝火)\n📍CITY HALL & GALLERY GOTANDA\n⏰OPEN 12:00 / START 12:20\n🎤13:10-13:35\n📸13:45-14:45\n🎁サインチェキ+10秒動画\n💰前方¥6\,000/一般¥3\,000(各+1D)\n🎫 ticketdive.com/event/idol_inf…\nhttps://timetr.ee/p/qnico/2937932963470994641
-SUMMARY:【IDOL ∞ INFINITY GW SP】(DAY4)
-UID:e6b3a7a4-494b-41cd-957a-805fded139ec@e6b3.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260705
-DTEND;VALUE=DATE:20260706
-DESCRIPTION:\\🆕!出演決定!🆕/\n\nINFINITY LIVE presents\n『INFINITY LIVE presents ASTRO FES 2026 -Summer - AFTER PARTY!!』\n\n🗓️7/5(日) \n📍四谷LOTUS\n🎤18:40-19:05\n📸20:35-21:35\n🎁写メ\n💰前売券 ¥2800 / 当日券 ¥3600（各+1D）\n🎫 t-dv.com/20260705_all\nhttps://timetr.ee/p/qnico/2995775187654897248
-SUMMARY:INFINITY LIVE presents『INFINITY LIVE presents ASTRO FES 2026 -Summer - AFTER PARTY!!』
-UID:329f5832-6b3e-4d7b-a8c1-9d71f3defd49@329f.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260707
-DTEND;VALUE=DATE:20260708
-DESCRIPTION:\\🎋!出演決定!🎋/\n\n『おりひめひこぼしキラキラナイト 』\n\n🗓️7/7 (火)  \n📍大塚Herts NEXT\n⏰OPEN17:30 /START18:00\n🎤18:25-18:50\n📸19:30-20:30\n🎁七夕願い事20秒動画\n💰前売2500円/当日3000円(各+1D)\n🎫 t-dv.com/orihimehikobos…\n6/4(木)21:00から販売開始💫\nhttps://timetr.ee/p/qnico/2980646412860616568
-SUMMARY:『おりひめひこぼしキラキラナイト 』
-UID:6b62aed2-ef01-4dfc-bf2d-9870eb341d63@6b62.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260506
-DTEND;VALUE=DATE:20260507
-DESCRIPTION:INFINITY LIVE presents\n『GORDENCOCO SPECIALWEEK SP 2026』\n\n🗓️5/6(水) \n📍Flowers Loft\n🎤15:50-16:15\n📸17:35-18:35\n💰前売券 ¥3\,500 / 当日券 ¥4\,400（+1Drink ¥700）\n🎁サインチェキ\n🎫 t-dv.com/GORDENCOCO-SPE…\n📢リストバンド交換はMOSAiCにて 11:00から行います❣️\nhttps://timetr.ee/p/qnico/2929858368146861255
-SUMMARY:INFINITY LIVE presents『GORDENCOCO SPECIALWEEK SP 2026』
-UID:69e476d1-edf4-406a-9a83-e1930b52a8d1@69e4.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260925
-DTEND;VALUE=DATE:20260926
-DESCRIPTION:「きらきらネイルのアイドルおしゃべり」\n代々木 A Talk Club WOOFER\n\n🗓️9/25(金)\n⏰開場19:00/開演19:30\n🎁 ネイル解説20秒動画\n💰前売2500円/当日3000円\n(飲食代別・1オーダー450円以上必要)\n🎫 livepocket.jp/e/85-rr\n🎥配信チケット：1500円\n🎟️ premier.twitcasting.tv/c:atcwoofer/sh…\nhttps://timetr.ee/p/qnico/3012593760138260117
-SUMMARY:「きらきらネイルのアイドルおしゃべり」
-UID:d466e3ca-4cf2-4368-9d73-09db54ce422a@d466.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260922
-DTEND;VALUE=DATE:20260923
-DESCRIPTION:さくまる｡pre.『 Told To Meet! vol.1 』\n\n🗓️9/22(火・祝)\n📍LiveHouse浜松窓枠\n⏰open11:30／start12:00／close20:00(予定)\n💰adv.¥3\,900／door¥4\,400 (各+1D ¥600)\n※チケット発売の詳細は後日お知らせいたします。\nhttps://timetr.ee/p/qnico/3039761152396062283
-SUMMARY:さくまる｡pre.『 Told To Meet! vol.1 』
-UID:6579f934-4bc3-4a47-9581-cfe5a995985c@6579.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260514
-DTEND;VALUE=DATE:20260515
-DESCRIPTION:\\🆕!出演決定!🆕/\n\n『あきばのむせんともだち』\n\n🗓️5/14(木) \n📍TwinBoxAKIHABARA \n⏰OPEN/18:30 START/19:00\n🎤19:25-19:50\n📸20:50-22:00\n🎁写メトーク\n💰前方2000円/一般0円(各+1D)\n(当日券 各700円UP ) \n🎫 https://t-dv.com/bestfriendakibamusen514\nhttps://timetr.ee/p/qnico/2964513409843424504
-SUMMARY:『あきばのむせんともだち』
-UID:73eb34f0-8153-4535-b08f-cf6a4107e45d@73eb.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260503
-DTEND;VALUE=DATE:20260504
-DESCRIPTION:『Memento Circuit supported by 脱却』\n\n🗓️5/3（日）  \n📍CLUB251\n⏰OPEN11:00/START11:30\n🎤18:25-18:50\n📸19:50-21:00\n💰前売り¥3\,500/当日¥4\,500\n🎫 https://ticketdive.com/event/Memento0503\nhttps://timetr.ee/p/qnico/2926110232421166135
-SUMMARY:『Memento Circuit supported by 脱却』
-UID:20674ee3-fe42-407a-bb49-952bd0c58568@2067.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260808
-DTEND;VALUE=DATE:20260809
-DESCRIPTION:こぐまカリー主催「Mash UP!」\n\n📍大阪•心斎橋SUNHALL\n⏰開場11:00/開演11:30/閉館21:30頃\n🗓️8/8(土)\n🎁サインチェキ\n🎤12:45-13:08\n📸15:00-16:10\n🗓️8/9(日)\n🎁20秒動画\n🎤11:30-11:53\n📸15:05-16:15\n💰2日通し6500円/各日前売3500円/当日4000円\n🎫 https://t-dv.com/kc2026080809\nhttps://timetr.ee/p/qnico/3005186919292825006
-SUMMARY:こぐまカリー主催「Mash UP!」
-UID:fdf52792-d671-4ebf-984f-797efad16605@fdf5.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260803
-DTEND;VALUE=DATE:20260804
-DESCRIPTION:\\🆕!出演決定!🆕/\n\nピューパ!!飴乃のあ生誕祭2026\n「Rosarium」\n\n🗓️8/3(月)\n📍新宿MARZ\n⏰開場18:15/開演18:45\n🎁サインチェキ\n💰S 4\,000円/A 2\,800円/U25 1\,500円(25歳以下) (各＋1D)\n🎫 https://livepocket.jp/e/rosarium2026\nhttps://timetr.ee/p/qnico/3007426167811173962
-SUMMARY:ピューパ!!飴乃のあ生誕祭2026「Rosarium」
-UID:96cabb71-e288-44d3-87db-6f4b50825266@96ca.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260704
-DTEND;VALUE=DATE:20260705
-DESCRIPTION:INFINITY LIVE presents\n『ASTROFES 2026 - Summer - 』\n\n🗓️7/4(土)\n📍MOSAiC\n🎤19:15-19:45\n📸20:25-21:25\n🎁20秒動画\n💰COMPLETE TICKET ¥7\,900(+1Drink ¥700)\n（付属：ASTROFES 2026 - Summer - 限定オリジナルTシャツ / ラバーバンド）\nSTANDARD TICKET ¥4\,000(+1Drink ¥700)\n⚠️リストバンド交換はMOSAiCにて11:00開始\n🎫 t-dv.com/20260704_all\nhttps://timetr.ee/p/qnico/2968207260135288167
-SUMMARY:INFINITY LIVE presents『ASTROFES 2026 - Summer - 』
-UID:39647890-957b-4cd2-80ae-c9299ec573e0@3964.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260426
-DTEND;VALUE=DATE:20260427
-DESCRIPTION:\\🆕!出演決定!🆕/\n\n『High!! High!! High!! 』\n\n🗓️4/26(日)\n📍五反田G4\n🎤18:10-18:30\n📸18:35-19:35\n💰Sチケット前方3\,500円/ Aチケット一般2\,000円 (各+1D)\n🎫 https://tiget.net/events/483218\nhttps://timetr.ee/p/qnico/2945647182828105712
-SUMMARY:『High!! High!! High!! 』
-UID:8c991d91-9554-4ef0-bdef-7667fae3cad5@8c99.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260829
-DTEND;VALUE=DATE:20260830
-DESCRIPTION:INFINITY LIVE presents\n『WHITEDAYS』\n\n🗓️8/29\n📍下北沢flowers loft\n⏰OPEN 10:00 / START 10:15\n🎤11:30-11:55\n📸13:20-14:20\n🎁写メ\n💰優先¥3\,000/一般¥2\,500/当日¥3\,200(各+1D)\n🎫 t-dv.com/20260829_day2\nhttps://timetr.ee/p/qnico/3022696574512360779
-SUMMARY:INFINITY LIVE presents『WHITEDAYS』
-UID:54463b2e-d791-49be-88b5-4e9019e880a2@5446.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261019
-DTEND;VALUE=DATE:20261020
-DESCRIPTION:『HYPER SUBLIMINAL vol.3』\n\n🗓️10/19(月)\n⏰開場/開演：18:00/18:30\n📍Zepp Shinjuku B3F RING STAGE\n🎤19:20-19:45\n📸21:30-22:30\n🎁キュニコくじ\n💰前売り 2900円/当日3500円\n※各+1D整理番号順なし\n🎫https://livepocket.jp/e/hyper_subliminal3\nhttps://timetr.ee/p/qnico/3070585298021346444
-SUMMARY:HYPER SUBLIMINAL vol.3
-UID:9f98f6cc-44c5-4209-b814-74ecdb301bd2@9f98.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260620
-DTEND;VALUE=DATE:20260621
-DESCRIPTION:日ノ目企画presents\n“Fill In Your Blanks”\n\n🗓️6/20(土)\n📍大塚Hearts+\n⏰OPEN  15:40/START 16:00\n🎤17:15-17:40\n📸17:50-19:00\n🎁写メ\n💰一般前売り 2900円 / 一般当日 3500円/優先入場(前売りのみ) 3200円(+1D)\n🎫 https://t-dv.com/hnm0620ohp\nhttps://timetr.ee/p/qnico/2968207006698663110
-SUMMARY:日ノ目企画presents“Fill In Your Blanks”
-UID:95015185-9ca2-4003-a315-82188194896a@9501.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260504
-DTEND;VALUE=DATE:20260505
-DESCRIPTION:【IDOL ∞ INFINITY GW SP】(DAY3)\n\n🗓️5月4日(祝月)\n📍CITY HALL & GALLERY GOTANDA\n⏰OPEN 10:00 / START 10:20\n🎤12:45-13:05\n📸13:15-14:15\n🎁サインチェキ+写メトーク\n💰前方¥6\,000/一般¥3\,000(各+1D)\n🎫 ticketdive.com/event/idol_inf…\nhttps://timetr.ee/p/qnico/2937932872949526105
-SUMMARY:【IDOL ∞ INFINITY GW SP】(DAY3)
-UID:b1881fe9-287e-4da1-a797-1a6a086c9825@b188.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260606
-DTEND;VALUE=DATE:20260607
-DESCRIPTION:\\🆕!下北沢5会場周遊フェス出演決定!🆕/\n\nINFINITY LIVE presents\n『ASTRO CIRCLE 2026』\n\n🗓️6/6(土) \n📍シャングリラ / Flowers LOFT / ERA / MOSAiC / 下北線路街空き地\nリストバンド交換開始 11:00〜 下北線路街空き地にて開始\n（入場は整列順 整列は10:30〜行います。）\n💰COMPLATE TICKET ¥8\,400\n（ASTRO CIRCLE 2026 限定オリジナルTシャツ / ASTRO CIRCLE 2026限定 ラバーバンド）\nSTANDARD TICKET ¥4\,400 (各+1D)\n🎫 https://t-dv.com/ASTROCIRCLE2026\nhttps://timetr.ee/p/qnico/2937932614756560890
-SUMMARY:INFINITY LIVE presents『ASTRO CIRCLE 2026』
-UID:bd826b7c-5578-46a0-b1ad-a56062a14b52@bd82.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260330
-DTEND;VALUE=DATE:20260331
-DESCRIPTION:\\🆕!出演決定!🆕/\n\n『SOUND WARS Free』\n\n🗓️3/30(月)\n📍新宿WALLY\n⏰OPEN19:00/START19:20\n💰優先¥3\,000/一般的¥0 (各＋1D)\n🎤19:40-20:00\n📸21:00-22:00\n🎫 t-dv.com/Rljhx7blQDBgcH…\n3/13(金)20:00より販売開始❣️\nhttps://timetr.ee/p/qnico/2932344008218341189
-SUMMARY:SOUND WARS Free
-UID:5c0a8cb1-3b69-459d-b101-989b2235d26a@5c0a.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260607
-DTEND;VALUE=DATE:20260608
-DESCRIPTION:\\🆕!出演決定!🆕/\n\n『パピムズFES2026 ミニサーキット Supported by WEEKEND INFNITY』\n\n🗓️6/7(日)\n📍下北沢シャングリラ/ Flowers LOFT / ERA / MOSAiC\n⏰OPEN 11:00 / START 10:30\n💰VIP ¥12\,000 / 一般 ¥4\,600 / 当日 ¥5\,600 / 各+1D\n🎫 ticketdive.com/event/papimuzf…\nhttps://timetr.ee/p/qnico/2970385292174389173
-SUMMARY:『パピムズFES2026 ミニサーキット Supported by WEEKEND INFNITY』
-UID:8df0dfd0-d72d-4c64-aac6-cfe961fd2a55@8df0.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260402
-DTEND;VALUE=DATE:20260403
-DESCRIPTION:‪『SOUND WARS vol.5』‬\n‪🗓️4/2(木)‬\n‪📍新宿WALLY‬\n‪⏰OPEN 18:00 / START 18:20‬\n‪🎤20:25〜20:45‬\n‪📸21:05〜22:05‬\n‪🎫 https://ticketdive.com/event/ScbGDBFMHv8WfCof6Swu‬\nhttps://timetr.ee/p/qnico/2935006957080768453
-SUMMARY:‪『SOUND WARS vol.5』‬
-UID:2f413e12-342d-40cd-82cb-6059c68a909e@2f41.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260429
-DTEND;VALUE=DATE:20260430
-DESCRIPTION:\\🆕!出演決定!🆕/\n\n『ソノウチ』\n\n🗓️4/29(水祝)\n📍新宿LOFT\n⏰OPEN10:20/START10:40\n🎁サインチェキ\n💰前売3\,400円 / 当日4\,000円(各+1D)\n🎫 https://ticketdive.com/event/260429sonouti\nhttps://timetr.ee/p/qnico/2930779923349597186
-SUMMARY:『ソノウチ』
-UID:42a3d28a-d473-48e0-a78c-0f4e61d9d2d5@42a3.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260614
-DTEND;VALUE=DATE:20260615
-DESCRIPTION:\\🆕!出演決定!🆕/\n\n新宿周遊FES\n『UNIVERSE × 脱却』\n\n🗓️6/14(日)\n📍新宿LOFT / 新宿MARZ / 新宿WALLY / 新宿DHNoA / 新宿club SCIENCE / 新宿SAMURAI / 新宿Marble \n⏰OPEN 11:30 / START 12:00\n💰前売り¥5\,000 +1D\n🎫 https://livepocket.jp/e/s_5yb\nhttps://timetr.ee/p/qnico/2968206870576720998
-SUMMARY:新宿周遊FES『UNIVERSE × 脱却』
-UID:cb02ca1b-0867-4840-8be2-1354d0cf4123@cb02.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260531
-DTEND;VALUE=DATE:20260601
-DESCRIPTION:\\🆕!出演決定!🆕/\n\nUNIVERSE企画『Dance party』\n\n🗓️5/31(日)\n📍新宿MARZ\n⏰open 10:30 / start 11:00\n🎁サインチェキ\n💰S通し券3\,500 / 各部前売￥2\,200 / 当日券￥2\,700 (+1drink¥600)\n🎫 livepocket.jp/e/h83d4\nhttps://timetr.ee/p/qnico/2914659470755327134
-SUMMARY:UNIVERSE企画『Dance party』
-UID:b108428b-433c-4569-9f6a-0cdfd5ee27de@b108.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260619
-DTEND;VALUE=DATE:20260620
-DESCRIPTION:ALLNIGHT \n「DECA DANCE」\n\n🗓️6/19(金) \n📍川崎CLUB CITTA’\n⏰OPEN/START 24:00/24:30\n🎁サインチェキ\n💰5\,000円(前売)/6\,000円(当日) 各+1D\n🎫 livepocket.jp/e/20260619\nhttps://timetr.ee/p/qnico/2979844561827359930
-SUMMARY:「DECA DANCE」
-UID:dd494242-7d94-43db-a3ca-debe6ce8350b@dd49.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260930
-DTEND;VALUE=DATE:20261001
-DESCRIPTION:『近代麻雀水着祭2026』\n\n🗓️9/30(水)\n📍東京サマーランド\n🎫 event.tiget.net/kinma-2026-aut…\n\n🔗イベント公式サイト\nkinma.jp\nキュニコからは治癒ちゃん、宝桜那が1部から3部に出演💫\n#近代麻雀水着祭2026\nhttps://timetr.ee/p/qnico/3050159879195553591
-SUMMARY:『近代麻雀水着祭2026』
-UID:84bd569d-5809-4a43-abe3-926a8a4d806d@84bd.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260517
-DTEND;VALUE=DATE:20260518
-DESCRIPTION:\\🆕!めっちゃ梨央出演決定!🆕/\n\n『三十杯』\n\n🗓️5/17(日)\n📍下北沢Flowers Loft\n⏰OPEN 18:00 / START 18:30\n🎁写メトーク\n💰カレー2種付きチケット ¥4\,500/ADV ¥2\,500 /DOOR ¥3\,300(各+1D)\n🎫 livepocket.jp/e/0517me\n※5/8(金)19:00〜販売開始❣️\nhttps://timetr.ee/p/qnico/2964514820975062461
-SUMMARY:『三十杯』
-UID:007f0d11-061f-4265-8175-8c2dab88cdd9@007f.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260405
-DTEND;VALUE=DATE:20260406
-DESCRIPTION:\\🆕出演決定🆕/\n\n『まだ来ない朝 vol.4』\n\n🗓️4/5(日)\n📍新宿MARZ\n⏰開場 18:30 / 開演 19:00\n🎤19:00-19:25\n📸20:35-21:45\n💰前売 2\,500円 / 当日3\,000円(各+1drink)\n🎫 https://ticketdive.com/event/madakonaiasa_vol4\n本日22:00より発売開始❣️\nhttps://timetr.ee/p/qnico/2905252332542979790
-SUMMARY:✨まだ来ない朝 vol.4✨
-UID:722bdb77-ffac-42e1-b782-a7ccf077359b@722b.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260711
-DTEND;VALUE=DATE:20260712
-DESCRIPTION:\\🆕!出演決定!🆕/\n\n『IDOL REINE music』\n\n🗓️7/11(土)\n📍下北沢シャングリラ\n⏰OPEN 11:00 / START 11:15\n🎁サインチェキ\n💰前方エリア 4\,000円 / 一般エリア 2\,000円（各D(700円)別）\n※当日料金は会場での現金販売の各＋1\,000円になります。\n🎫 https://tiget.net/events/493720\n6月10日(水)19:00から販売開始💫\nhttps://timetr.ee/p/qnico/2968208294953971438
-SUMMARY:『IDOL REINE music』
-UID:2f085bfc-ebfa-46cc-a4e8-41ac1635abb3@2f08.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260811
-DTEND;VALUE=DATE:20260812
-DESCRIPTION:紬実詩プロデュース公演\n「Mashup Idols & Knit Orbit!」\n\n🗓️8/11(火祝)\n📍大塚Hearts+\n⏰OPEN 16:15 / START 17:00\n🎁サインチェキ\n💰SS ¥7500 /S ¥6000/前売 ¥3500/当日¥4000(各+1D)\n🎫 t-dv.com/MIKO2026\nhttps://timetr.ee/p/qnico/2997721727374028398
-SUMMARY:紬実詩プロデュース公演「Mashup Idols & Knit Orbit!」
-UID:96dce266-9d54-47ed-b529-6fcd9c8507e6@96dc.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260428
-DTEND;VALUE=DATE:20260429
-DESCRIPTION:https://timetr.ee/p/qnico/2914659595300990820
-SUMMARY:ライブ予定
-UID:bb5f1dd3-ab7c-4aaf-af3d-4d297f7ab09c@bb5f.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260526
-DTEND;VALUE=DATE:20260527
-DESCRIPTION:\\🆕!主催ライブ決定!🆕/\n\n『キュニコフェス』\n\n🗓️5/26（火）\n📍新宿WALLY\n⏰OP18:30 / ST18:50\n🎤20:20-20:50\n📸21:00-22:00\n💰前売 ¥3\,000- / 当日 ¥500- (+各1D)\n🎫 t-dv.com/W5ESZ7KeWuG5Tc…\n5/12(火) 19:00〜販売開始❣️\n来場者全員にキュニコメンバー1人と撮れる写メトーク券プレゼント🎁\nhttps://timetr.ee/p/qnico/2951399667014397935
-SUMMARY:『キュニコフェス』
-UID:b05a2f92-ff39-4636-86ec-0b1bd889082d@b05a.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260802
-DTEND;VALUE=DATE:20260803
-DESCRIPTION:UNIVERSE企画『Dance party』\n\n🗓️8/2 (日)\n📍新宿MARZ\n⏰open 10:30 / start 11:00\n🎤11:00-11:30\n📸13:00-14:00\n🎁サインチェキ\n💰S通し券3\,500 / 各部前売￥2\,200 / 当日券￥2\,700 (+1drink¥600)\n🎫 livepocket.jp/e/b3yj4\nhttps://timetr.ee/p/qnico/3014735588983663989
-SUMMARY:UNIVERSE企画『Dance party』
-UID:68e60a8a-aa41-4b58-a5a3-e8373b955bb1@68e6.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260830
-DTEND;VALUE=DATE:20260831
-DESCRIPTION:『NOT FAKΣ』\n\n🗓️8/30(日)\n📍渋谷CHELSEA HOTEL\n⏰OPEN 10:45  START 11:00\n🎤11:00-11:30\n📸12:00-13:00\n🎁サインチェキ\n💰前売り ¥2\,000 当日 ¥3\,000 U20 ¥1\,000 1D代別\n🎫 tiget.net/events/515118\nhttps://timetr.ee/p/qnico/3033668444564843955
-SUMMARY:『NOT FAKΣ』
-UID:a84542d3-17ac-44e8-9a98-261cd14e9f66@a845.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260524
-DTEND;VALUE=DATE:20260525
-DESCRIPTION:https://timetr.ee/p/qnico/2953005164175912079
-SUMMARY:SEIEN-星宴- LAST pre.『STARRY NIGHT 〜IN FUTURE〜』
-UID:dc11ec1a-7e5b-429a-b89f-d2182937d28a@dc11.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260817
-DTEND;VALUE=DATE:20260818
-DESCRIPTION:\\🆕!出演決定!🆕/\n\ndemipogune presents『ピコニック・ハイ！』\n\n🗓️8/17(月)\n📍新代田FEVER\n⏰OPEN 18:50 / START 19:20\n💰 PIKO VIP ¥5\,500\n（デジタルフィルムフォト集〜夏のdemipogune編〜＋メンバー集合ブロマイド　全員サイン入り）前売 ¥2\,500 ／ 当日 ¥3\,000\n🎫 https://t-dv.com/pikonichigh\n7月11日(土) 22:00から販売開始💫\nhttps://timetr.ee/p/qnico/2979844707008998475
-SUMMARY:demipogune presents『ピコニック・ハイ！』
-UID:424b9418-da54-4e3d-83a6-9afcd0ec3c0b@424b.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260911
-DTEND;VALUE=DATE:20260912
-DESCRIPTION:#挨拶できひんやつ何やってもダメ\n\n🗓️9/11(金)\n📍ROCK CAFE LOFT\n⏰ OPEN 19:00/START 19:30\n出演\nキュニコ めっちゃ梨央\nゲスト\nグデイ ミ米ミ\n🎁トークイベントスタンプラリーカード\n💰前売り¥2\,000（要1オーダー）/当日¥2\,500（要1オーダー）\n🎫 livepocket.jp/e/40271\n8/16 22:00より受付開始💫\n#あいダメ\nhttps://timetr.ee/p/qnico/3026857052700503468
-SUMMARY:#挨拶できひんやつ何やってもダメ
-UID:f25404e8-c408-4998-ac39-a744d312615f@f254.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261024
-DTEND;VALUE=DATE:20261025
-DESCRIPTION:\\🆕!出演決定!🆕/\n\n明瀬美砂生誕\n「Misaholism」\n\n🗓️10/24(土)\n📍大塚Hearts+\n⏰OPEN/START 10:45/11:15\n🎤①11:15-\n🎤②11:40-\n📸12:45-14:00\n💰Sチケット/前売/当日 5000/2500/3000 (+1D)\n🎫 livepocket.jp/e/hbdmisa2026\nこの後20:00から販売開始💫\nhttps://timetr.ee/p/qnico/3045896957095144803
-SUMMARY:明瀬美砂生誕「Misaholism」
-UID:8e9ab4a5-c053-4c85-852b-26f21b5a099a@8e9a.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260331
-DTEND;VALUE=DATE:20260401
-DESCRIPTION:\\📢!TT公開!📢/\n\n❤️‍🔥✨demipogune presents『ニュードラマチック』✨❤️‍🔥\n\n🗓️3/31(火)\n📍渋谷スターラウンジ\n⏰OPEN 18:30 / START 19:00\n🎤19:00〜19:30\n📸20:40〜22:00\n🎫livepocket.jp/e/newdora\nhttps://timetr.ee/p/qnico/2912292982748704459
-SUMMARY:✨demipogune presents『ニュードラマチック』✨
-UID:3bcec39c-577e-4ff6-9665-0df3a7de5dc3@3bce.org
+DTSTART;VALUE=DATE:20260516
+DTEND;VALUE=DATE:20260517
+DESCRIPTION:『Counter FES-Spring Riot-』\n\n🗓️5/16(土)\n📍浅草花劇場\n⏰ OPEN 10:30 / START 11:00\n🎁サインチェキ\n💰前売 ¥4\,000/当日 ¥5\,000(各+1D)\n🎫 ticketdive.com/event/CounterF…\nhttps://timetr.ee/p/qnico/2957302284567539553
+SUMMARY:『Counter FES-Spring Riot-』
+UID:5217ec7b-9bbb-4031-af1a-564d8f66f644@5217.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260720
 DTEND;VALUE=DATE:20260721
 DESCRIPTION:『¡Buenas noches a todos en Aoyama!』\n\n🗓️7/20（月祝）\n📍青山RizM\n⏰OPEN/START 17:05 /17:25\n🎁サインチェキ\n💰ADV/DOOR ¥2\,800/¥3\,800(+1D)\n🎫 ticketvillage.jp/events/13822\n7/6(月)22:00から販売開始💫\nhttps://timetr.ee/p/qnico/3003790382532750350
 SUMMARY:『¡Buenas noches a todos en Aoyama!』
-UID:70c4439d-efc2-4ced-b41b-b5a9973d986e@70c4.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260407
-DTEND;VALUE=DATE:20260408
-DESCRIPTION:\\🆕!出演決定!🆕/\nこぐまカリー7日連続\n「トーキョーログ」\n\n🗓️4/7(火)\n📍大塚Hearts Next\n⏰OPEN 18:30 / START 19:00\n🎤20:30〜20:58\n📸21:40〜22:40\n💰前売 ¥3\,000 / 当日 ¥3\,500（+1D）\n🎫https://t-dv.com/kc202604\nhttps://timetr.ee/p/qnico/2929881563528785777
-SUMMARY:✨こぐまカリー7日連続「トーキョーログ」✨
-UID:929e76aa-1eca-4532-9985-9cb28f283fa7@929e.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261001
-DTEND;VALUE=DATE:20261002
-DESCRIPTION:https://timetr.ee/p/qnico/3062357107930656281
-SUMMARY:キュニコレvol.2
-UID:315185d4-2745-43c8-bb41-083c944f09c2@3151.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260709
-DTEND;VALUE=DATE:20260710
-DESCRIPTION:\\🆕!出演決定!🆕/\n\n『脱却』\n\n🗓️7/9(木)\n📍SHIBUYA DESEO\n🎤18:45-19:10\n📸19:25-20:25\n🎁サインチェキ\n💰前売 ¥2\,500 / 当日 ¥3\,500\n🎫 https://ticketdive.com/event/qRd9x9dHCFRqimU7CL5a\nhttps://timetr.ee/p/qnico/3000678280779624245
-SUMMARY:『脱却』
-UID:bf9eac5e-1b66-46f9-ab47-0b07f9ef31e7@bf9e.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260920
-DTEND;VALUE=DATE:20260921
-DESCRIPTION:INFINITY LIVE TOUR 2026\n『ASTROMIRAGE - TOUR FINAL CIRCUIT -』\n\n🗓️9/20(日)\n📍下北沢4会場周遊\n⏰START 11:30 予定\n🎁サインチェキ\n💰前売券 ¥3\,600 / 当日券 ¥4\,600\n🎫 https://t-dv.com/20260920_final\nリストバンド交換開始はMOSAiCにて 11:00〜開始予定\nhttps://timetr.ee/p/qnico/3029250332427906118
-SUMMARY:INFINITY LIVE TOUR 2026『ASTROMIRAGE - TOUR FINAL CIRCUIT -』
-UID:75c33f85-89dd-4161-b2b3-36ba53530cbc@75c3.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261107
-DTEND;VALUE=DATE:20261108
-DESCRIPTION:『アイクル2026 本祭 わくわくサーキット Supported by WEEKEND INFINITY』\n\n🗓️11/7(土)\n⏰OPEN/START 11:00/11:30\n📍 下北沢シャングリラ/CLUB251/MOSAiC/下北沢ERA/下北沢線路街空き地(特典会のみ)\n🎁キュニコくじ\n💰VIP20\,000円(D代なし)(※1)/ONE DAY (DAY～ALL NIGHT)TICKET6\,000円 (+2D)/DAY TICKET5\,000円(+1D)/ALL NIGHT TICKET2\,000円(+1D)(※2)/U-20 TICKET(+1D)(※3)\n(※1)数量限定販売、全会場フリーパス(入場制限時も含む)、ドリンクチケット10枚付き、オフィシャルパーカー付き\n(※2)20歳未満は購入不可\n(※3)DAY TICKETのみ\n🎫 https://ticketdive.com/event/aikuru2026-wakuwaku-circuit\n10/18(日)22:00から販売開始💫\nhttps://timetr.ee/p/qnico/3079581169937379092
-SUMMARY:『アイクル2026 本祭 わくわくサーキット Supported by WEEKEND INFINITY』
-UID:f4921866-1411-4809-be54-34c472a1d988@f492.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260404
-DTEND;VALUE=DATE:20260405
-DESCRIPTION:\\🆕!出演決定!🆕/\n\n「時雨水曜日生誕祭“あたたかい”と笑って」\n\n🗓️4/4(土)\n📍寺田町 Fireloop(大阪)\n⏰ 開場/開演  18:00/18:30\n💰前方2\,500円/当日3\,000円（+各1D）\n🎫 livepocket.jp/e/xmyrj\n3/5(木)21:30〜発売\nhttps://timetr.ee/p/qnico/2890067452330863683
-SUMMARY:🚄時雨水曜日生誕祭“あたたかい”と笑って 🚄
-UID:78f43537-7005-42a8-8cfc-cda1ddf70b46@78f4.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260715
-DTEND;VALUE=DATE:20260716
-DESCRIPTION:『MOKEMOKE / 02』\n\n🗓️7/15（水）\n📍Spotify O-nest\n⏰OPEN 18:00 / START 18:30\n🎤18:30-18:55\n📸20:20-21:40\n🎁サインチェキ\n💰前売 ¥2\,500 / 当日 ¥3\,000（+1D代別）\n🎫 t-dv.com/MOKEMOKE2\n6/29(月) 20:00 発売開始💫\nhttps://timetr.ee/p/qnico/2994185202514357850
-SUMMARY:『MOKEMOKE / 02』
-UID:53d47a63-2552-40e3-b0fc-be46b1348006@53d4.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260419
-DTEND;VALUE=DATE:20260420
-DESCRIPTION:\\📢トロメ〜湯♨️情報解禁📢/\n\nエクストロメ‼︎ presents\n『トロメ〜湯♨️』\n福島いわきの温泉旅館一棟借りイベント！\n\n🗓️4/19（日）\n♨️いわき湯本温泉 旅館こいと\nkoito-inn.co.jp\n⏰OPEN10:20/START11:00\n🎤13:15-13:40\n📸13:50-15:00\n🎫 livepocket.jp/e/8cklr\n【アクセス】\nJR湯本駅より徒歩8分\nkoito-inn.co.jp/traffic.htm\nhttps://timetr.ee/p/qnico/2942022809034518462
-SUMMARY:エクストロメ‼︎ presents『トロメ〜湯♨️』福島いわきの温泉旅館一棟借りイベント！
-UID:1544f1c4-7e50-41f0-92de-e690e6d24f5f@1544.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260728
-DTEND;VALUE=DATE:20260729
-DESCRIPTION:『脱却-3周年記念-』\n\n🗓️7/28(火)\n📍渋⾕ DESEO\n⏰OPEN 16:00/START 16:30\n🎤19:30-19:55\n📸20:50-21:50\n🎁サインチェキ\n💰前売 2500/当日 3000(+1D)\n🎫 ticketdive.com/event/by6xFXkJ…\nhttps://timetr.ee/p/qnico/3017710845596102182
-SUMMARY:『脱却-3周年記念-』
-UID:413aa838-714d-40f5-b91c-562728d7bfbd@413a.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260423
-DTEND;VALUE=DATE:20260424
-DESCRIPTION:\\🆕!出演決定!🆕/\n\n『脱却』\n\n🗓️4/23(木)\n📍新宿MARZ\n⏰OPEN/START 18:00/18:30\n🎤18:30-19:00\n📸19:10-20:10\n🎁サインチェキ\n💰前売り¥2\,500 当日¥3\,500\n🎫 livepocket.jp/e/qz96z\nhttps://timetr.ee/p/qnico/2940000791153962361
-SUMMARY:『脱却』
-UID:775c309e-003d-4f45-a630-e9b4e4a78ac8@775c.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260613
-DTEND;VALUE=DATE:20260614
-DESCRIPTION:\\🐙!大阪遠征決定!🐙/\n\n『" DEM DEC "』\n\n🗓️6/13（土）\n📍アメ村FANJtwice\n⏰OPEN14:00 /START14:30\n💰先行抽選¥5\,000/先着¥5\,000\n🎫 https://livepocket.jp/e/y2llt\n本日この後先行抽選チケット受付開始❣️\n先行抽選4/14 (火)21:00～4/16 (木)23:59迄\n抽選販売4/25(土) 21:00〜6/12(金) 23:59迄\nhttps://timetr.ee/p/qnico/2944402993020759591
-SUMMARY:『" DEM DEC "』
-UID:e6fea883-b4b9-4694-9c15-de6bcb493d3d@e6fe.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260823
-DTEND;VALUE=DATE:20260824
-DESCRIPTION:\\🌸!宝桜那個人出演決定!🌸/\n\n小毬零生誕「Project 零」\n\n🗓️8/23(日)\n📍大塚Hearts+\n⏰OPEN/START 11:00/11:30\n🎁サインチェキ\n💰S/前売/当日 5\,000円/2\,500円/3\,000円（全券種要+1D）\n🎫 livepocket.jp/e/hbdrei2026\n7/25(土) 22:00チケット発売開始💫\nhttps://timetr.ee/p/qnico/3031997398686199618
-SUMMARY:小毬零生誕「Project 零」
-UID:40e399bd-1838-4256-bb29-ba17e6a1b310@40e3.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260521
-DTEND;VALUE=DATE:20260522
-DESCRIPTION:\\🆕!出演決定!🆕/\n\n『Tribu presents Deep Thursday 3』\n\n🗓️5/21(木)\n📍大塚Hearts＋\n🎤19:50-20:15\n📸21:30-22:30\n🎁サインチェキ\n💰前売/当日：3\,000円/3\,500円(各+1D)\n🎫 https://livepocket.jp/e/20260521deep3\nhttps://timetr.ee/p/qnico/2932043113236622548
-SUMMARY:『Tribu presents Deep Thursday 3』
-UID:6e9ca822-32bc-4045-9a6f-3c285ee51ead@6e9c.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260903
-DTEND;VALUE=DATE:20260904
-DESCRIPTION:新宿MARZ企画UNIVERSE × 校庭カメラガールフュンフ\n『CROSS JOIN』 #02\n\n🗓️9/3(木)\n📍新宿MARZ\n⏰open 18:30 / start 19:00\n🎤19:30~20:00\n📸21:10~22:10\n💰adv￥2\,500 / door￥3\,000 (+1drink¥600)\n🎫 livepocket.jp/e/0-_62\nhttps://timetr.ee/p/qnico/3033666670248422586
-SUMMARY:新宿MARZ企画UNIVERSE × 校庭カメラガールフュンフ『CROSS JOIN』 #02
-UID:0e840c51-ad95-4ea7-a41c-394c3fb39728@0e84.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261031
-DTEND;VALUE=DATE:20261101
-DESCRIPTION:\\🆕!出演決定!🆕/\n\n『Halloween DECA DANCE』\n\n🗓️10/31(土) \n📍川崎CLUB CITTA’\n⏰OPEN 24:00 / START 24:15\n🎁サインチェキ\n💰前売¥5\,000/当日¥5\,500(+1D別)\n🎫 livepocket.jp/e/20261031_hdd\nhttps://timetr.ee/p/qnico/3046661269527031485
-SUMMARY:『Halloween DECA DANCE』
-UID:cf836dfc-82ae-45d1-9a6e-655ae26cdbe5@cf83.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260424
-DTEND;VALUE=DATE:20260425
-DESCRIPTION:\\🆕!出演決定!🆕/\n\n『NEW ORDER #無銭NIGHT』\n\n🗓️4/24(金)\n📍新宿MARZ\n⏰OPEN 18:30 / START 19:00\n🎤19:00〜19:30\n📸21:00〜22:00\n🎁写メ\n💰前売¥0 / 当日¥1\,000（+2D¥1\,200）\n🎫https://livepocket.jp/e/6zrzo\n（3/27 22:00〜販売開始）\nhttps://timetr.ee/p/qnico/2931272254880313073
-SUMMARY:✨ 『NEW ORDER #無銭NIGHT』✨
-UID:1886bf82-2cb3-4707-a793-67aeba38a5d0@1886.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260813
-DTEND;VALUE=DATE:20260814
-DESCRIPTION:『IDOLRIzM-アイドルリズムスリーマンSP-』\n\n🗓️8/13（火）\n📍青山RizM\n⏰OPEN19:00 / START19:20\n🎤20:20-20:50\n📸20:55-22:00\n🎁サインチェキ\n💰前売 ¥2\,000- / 当日 ¥3\,000- (+各1D)\n🎫 ticketdive.com/event/IDOLRIzM…\nhttps://timetr.ee/p/qnico/3031996313846246951
-SUMMARY:『IDOLRIzM-アイドルリズムスリーマンSP-』
-UID:34d9e48d-549b-4b8d-9669-6741016077bb@34d9.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260425
-DTEND;VALUE=DATE:20260426
-DESCRIPTION:https://timetr.ee/p/qnico/2946424489146675140
-SUMMARY:ライブ予定
-UID:cb3f82f7-53f1-4ead-8a3f-5a9e20da5b07@cb3f.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260411
-DTEND;VALUE=DATE:20260412
-DESCRIPTION:\\🆕!出演決定!🆕/\n\n『Tribu presents resonance』\n\n🗓️4/11(土)\n📍西永福JAM\n🎤11:15-11:40\n 📸13:00-14:00\n💰前売/当日：3\,000円/3\,500円(+ドリンク代)\n🎫livepocket.jp/e/20260411reso\n※当日10時までの販売\n📹配信：1\,800円\n🎟️ https://premier.twitcasting.tv/tribu_syo/shopcart/427945\nhttps://timetr.ee/p/qnico/2937089795196284084
-SUMMARY:『Tribu presents resonance』
-UID:b0771c22-9327-4d8e-8bad-60e9e86f2b84@b077.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261029
-DTEND;VALUE=DATE:20261030
-DESCRIPTION:UNIVERSE企画 4th anniversary\n『Dance party』\n\n🗓️10/29 (木)\n📍新宿MARZ\n⏰open 18:30 / start 19:00 \n🎤19:00-19:30\n📸21:15-22:15\n💰 adv￥2\,200 / door￥2\,700 (+1drink¥600)\n🎫 https://livepocket.jp/e/9rz5t\n本日9/11(金) 22:00 から発売開始💫\nhttps://timetr.ee/p/qnico/3036358347299843306
-SUMMARY:UNIVERSE企画 4th anniversary『Dance party』
-UID:b2764c18-4adf-40e8-abae-193432e41f30@b276.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260429
-DTEND;VALUE=DATE:20260430
-DESCRIPTION:\\🆕!出演決定!🆕/\n\n『うぃーくえんど✖せいろん のともだち 』\n\n🗓️4/29(水祝)\n📍新宿シアターマーキュリー \n⏰OPEN 14:00 /START 14:30  \n🎁サインチェキ\n💰前売 2\,000円 当日 2\,500円\n🎫 https://t-dv.com/weekendseiron429\nhttps://timetr.ee/p/qnico/2953005881485782619
-SUMMARY:『うぃーくえんど✖せいろん のともだち 』
-UID:ce27a801-0bd7-4421-905e-a2c3a76de1ab@ce27.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260530
-DTEND;VALUE=DATE:20260531
-DESCRIPTION:\\📢!TT公開!📢/\n\n「Hide and Seek」\n\n🗓️5/30(土)\n📍新宿MARZ\n⏰開場 17:00 / 開演 17:30\n🎤17:30-18:00\n📸20:20-21:50\n🎁サインチェキ\n💰前売り3\,000円/当日3\,500円(各種+1D)\n🎫 ticketdive.com/event/HideandS…\nhttps://timetr.ee/p/qnico/2969583390213893174
-SUMMARY:「Hide and Seek」
-UID:a5947a9b-561e-4090-9eb1-49b02d6ec329@a594.org
+UID:b5a3c746-3e52-462f-9b5e-bc623577f95b@b5a3.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260826
 DTEND;VALUE=DATE:20260827
 DESCRIPTION:こぐまカリー3夜連続「トーキョーログ」\n\n🗓️8/26(水)\n📍目黒ライブステーション\n⏰開場18:30/開演19:00\n🎤19:25-19:50\n📸21:15-(70)\n💰前売2800円/当日3500円\n🎁サインチェキ\n🎫 ticketdive.com/event/kctl_202…\nhttps://timetr.ee/p/qnico/3039758265859272090
 SUMMARY:こぐまカリー3夜連続「トーキョーログ」
-UID:599ae5a4-4426-4f4b-badb-db4116069fa9@599a.org
+UID:d0b12363-ff8b-45d6-92b9-77a70c1357fc@d0b1.org
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260726
-DTEND;VALUE=DATE:20260727
-DESCRIPTION:「ゆループ 2026」\n\n🗓️7/26(日)\n📍下北沢複数会場\n💰【一般チケット】\n・前売券：5\,500円/学割：4\,000円（当日受付にて学生証提示）\n【一般VIPチケット】\n価格：12\,000円（学割：10\,000円）\n特典：公式Tシャツ、VIP限定特別特典会参加券、VIPパス（シャングリラ／タウンホール前方エリア・入場規制時絶対入場保障）(各+1D)\n🎫 https://buzz-ticket.com/e/YOULOOP\n6月4日（木）22:00から販売開始❣️\nhttps://timetr.ee/p/qnico/2968208385534160764
-SUMMARY:「ゆループ 2026」
-UID:49cf75d3-a1be-473a-9fa6-38038a54238c@49cf.org
+DTSTART;VALUE=DATE:20260517
+DTEND;VALUE=DATE:20260518
+DESCRIPTION:\\🆕!めっちゃ梨央出演決定!🆕/\n\n『三十杯』\n\n🗓️5/17(日)\n📍下北沢Flowers Loft\n⏰OPEN 18:00 / START 18:30\n🎁写メトーク\n💰カレー2種付きチケット ¥4\,500/ADV ¥2\,500 /DOOR ¥3\,300(各+1D)\n🎫 livepocket.jp/e/0517me\n※5/8(金)19:00〜販売開始❣️\nhttps://timetr.ee/p/qnico/2964514820975062461
+SUMMARY:『三十杯』
+UID:fdd71aa8-313d-40a8-838d-ff782ec4bfee@fdd7.org
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260510
-DTEND;VALUE=DATE:20260511
-DESCRIPTION:ミ米ミ誕生祭2026\n 🐉❤️‍🔥 炒飯感謝 ❤️‍🔥🐉\n\n🗓️5/10(日)\n📍新宿MARZ\n⏰OPEN 17:30 / START 18:00\n💰グデイ囲みチェキ付き ¥5\,000/前売 ¥3\,500 / 当日 ¥4\,300(各+1D)\n🎁写メ\n🎫 livepocket.jp/e/0510me\n※4/25(土)22:30-5/10(日)15:00\nhttps://timetr.ee/p/qnico/2957302936236551218
-SUMMARY:ミ米ミ誕生祭2026 🐉❤️‍🔥 炒飯感謝 ❤️‍🔥🐉
-UID:c21ea4af-1e07-4833-844f-ac19510892f8@c21e.org
+DTSTART;VALUE=DATE:20260718
+DTEND;VALUE=DATE:20260719
+DESCRIPTION:『IMMERSE』\n🗓️7/18（土）\n📍Shibuya Milkyway\n⏰開場 10:30 / 開演 10:45\n🎁サインチェキ\n💰前売¥2\,000-（各種+1D代）\n🎫 t-dv.com/260718_IMMERSE\n本日6月26日（金）22:00から販売開始💫\nhttps://timetr.ee/p/qnico/2994185437210832198
+SUMMARY:『IMMERSE』
+UID:ea3b9a30-21a4-4f80-89a8-400f31b010a0@ea3b.org
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260710
-DTEND;VALUE=DATE:20260711
-DESCRIPTION:『エンジョイナス!!』\n\n🗓️7/10(金)\n📍SHIBUYA DESEO\n⏰OPEN 18:30 / START 18:50\n🎤20:30-20:55\n📸21:05-22:15\n💰ADV ¥2\,300/DOOR ¥3\,000(+1D)\n🎫 https://t-dv.com/enjoinus260710\n6月20日(土)22:00～販売開始💫\nhttps://timetr.ee/p/qnico/2992795605490298480
-SUMMARY:『エンジョイナス!!』
-UID:8dba0f48-e457-4455-8fd9-0bedd91727b1@8dba.org
+DTSTART;VALUE=DATE:20260709
+DTEND;VALUE=DATE:20260710
+DESCRIPTION:\\🆕!出演決定!🆕/\n\n『脱却』\n\n🗓️7/9(木)\n📍SHIBUYA DESEO\n🎤18:45-19:10\n📸19:25-20:25\n🎁サインチェキ\n💰前売 ¥2\,500 / 当日 ¥3\,500\n🎫 https://ticketdive.com/event/qRd9x9dHCFRqimU7CL5a\nhttps://timetr.ee/p/qnico/3000678280779624245
+SUMMARY:『脱却』
+UID:64aead61-98f6-407b-a839-2636c26865f8@64ae.org
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260512
-DTEND;VALUE=DATE:20260513
-DESCRIPTION:\\🆕!出演決定!🆕/\n\n『Homie』\n\n🗓️5/12(火)\n📍吉祥寺WARP\n⏰OPEN18:50 / START19:20\n🎤19:20-19:50\n📸 21:20-22:30\n💰前売2\,500円 / 当日3\,000円  (各+1D)\n🎁サインチェキ\n🎫 https://livepocket.jp/e/0512_warp\n4/26(日)21:00から販売開始❣️\nhttps://timetr.ee/p/qnico/2943009828112002441
-SUMMARY:『Homie』
-UID:2d5d2c89-662c-4040-98c4-ae866a29bd06@2d5d.org
+DTSTART;VALUE=DATE:20260919
+DTEND;VALUE=DATE:20260920
+DESCRIPTION:『RE：PLAY extra.』\n\n🗓️9/19(土)\n📍Spotify O-Crest\n⏰open 14:40 / start 15:00\n🎤15:50-16:15\n📸16:25-17:25\n🎁サインチェキ\n💰adv ¥3\,000 / door ¥3\,500\n🎫 tiget.net/events/509743\nhttps://timetr.ee/p/qnico/2994182748284481110
+SUMMARY:『RE：PLAY extra.』
+UID:33c78538-debc-4f81-b30e-6aa7b3170dd2@33c7.org
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261011
-DTEND;VALUE=DATE:20261012
-DESCRIPTION:日ノ目企画presents\n“SUNDAYRIGHT/WRONG×2”\n\n🗓️10/11(日)\n📍大塚Hearts+\n🎁サインありチェキ\n🎤18:40-19:05\n📸21:00-22:00\n💰一般 3300円(D別)/優先入場(前売りのみ) 3800円(D別)\n🎫 ticketdive.com/event/hnm1011o…\n9/4(金)22:00から販売開始❣️\nhttps://timetr.ee/p/qnico/3019821761875766547
-SUMMARY:日ノ目企画presents“SUNDAYRIGHT/WRONG×2”
-UID:47a7c554-b788-4500-8e91-88d5bfcfd4d3@47a7.org
+DTSTART;VALUE=DATE:20260331
+DTEND;VALUE=DATE:20260401
+DESCRIPTION:\\📢!TT公開!📢/\n\n❤️‍🔥✨demipogune presents『ニュードラマチック』✨❤️‍🔥\n\n🗓️3/31(火)\n📍渋谷スターラウンジ\n⏰OPEN 18:30 / START 19:00\n🎤19:00〜19:30\n📸20:40〜22:00\n🎫livepocket.jp/e/newdora\nhttps://timetr.ee/p/qnico/2912292982748704459
+SUMMARY:✨demipogune presents『ニュードラマチック』✨
+UID:17d93cd5-05e8-4c2c-a766-5f5384a86de9@17d9.org
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260906
-DTEND;VALUE=DATE:20260907
-DESCRIPTION:LUCY presents\n『LUCY FES』\n\n🗓️9/6(日) \n📍下北沢シャングリラ\n⏰開場 12:30 / 開演13:00 \n🎁サインチェキ\n💰【TICKET+1Drink ¥700】\nVIPチケット ¥10\,000\n＜VIP特典＞\nLUCY囲みチェキ 2枚(ライブ / 打ち上げ 各1枚)\n打ち上げ(1D付き)※衣装は私服を予定しております。\n一般 ¥3\,969\n🎫 t-dv.com/LUCYFES20260906\nhttps://timetr.ee/p/qnico/3029248711304244974
-SUMMARY:LUCY presents『LUCY FES』
-UID:b7fbb1af-8054-45d7-9aca-39f2fd76c66f@b7fb.org
+DTSTART;VALUE=DATE:20260724
+DTEND;VALUE=DATE:20260725
+DESCRIPTION:『キュニコレvol.1』\n🗓️7/24（金）\n📍新宿WALLY\n⏰OPEN17:15 / START18:15\n💰前売 ¥3\,000- / 当日 ¥500- (+各1D)\n🎫 t-dv.com/ot3xyPZJPjyoU4…\n7/7(火) 19:00から販売開始💫\nhttps://timetr.ee/p/qnico/3004625612030176380
+SUMMARY:『キュニコレvol.1』
+UID:8136f44d-f2d1-46ac-8d49-951ea6ee2a12@8136.org
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260702
-DTEND;VALUE=DATE:20260703
-DESCRIPTION:\\🎡7/2(木)グループ分け公開⛱️/\n\n#近代麻雀水着祭2026\n\n🗓️7/2(木)\n📍#東京サマーランド\n💰各部¥15\,000/ 通し券¥40\,000\nチケット販売中💫\n🎟️ tiget.net/events/494220\nhttps://timetr.ee/p/qnico/2968207892703440286
-SUMMARY:#近代麻雀水着祭2026
-UID:7f74044b-56fb-4d21-af54-ed8db775355c@7f74.org
+DTSTART;VALUE=DATE:20260817
+DTEND;VALUE=DATE:20260818
+DESCRIPTION:\\🆕!出演決定!🆕/\n\ndemipogune presents『ピコニック・ハイ！』\n\n🗓️8/17(月)\n📍新代田FEVER\n⏰OPEN 18:50 / START 19:20\n💰 PIKO VIP ¥5\,500\n（デジタルフィルムフォト集〜夏のdemipogune編〜＋メンバー集合ブロマイド　全員サイン入り）前売 ¥2\,500 ／ 当日 ¥3\,000\n🎫 https://t-dv.com/pikonichigh\n7月11日(土) 22:00から販売開始💫\nhttps://timetr.ee/p/qnico/2979844707008998475
+SUMMARY:demipogune presents『ピコニック・ハイ！』
+UID:0084679b-8c68-4826-b715-1c9f2125215d@0084.org
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260516
-DTEND;VALUE=DATE:20260517
-DESCRIPTION:『Counter FES-Spring Riot-』\n\n🗓️5/16(土)\n📍浅草花劇場\n⏰ OPEN 10:30 / START 11:00\n🎁サインチェキ\n💰前売 ¥4\,000/当日 ¥5\,000(各+1D)\n🎫 ticketdive.com/event/CounterF…\nhttps://timetr.ee/p/qnico/2957302284567539553
-SUMMARY:『Counter FES-Spring Riot-』
-UID:f00a8843-2fb3-45b0-ae50-557b4464c765@f00a.org
+DTSTART;VALUE=DATE:20260823
+DTEND;VALUE=DATE:20260824
+DESCRIPTION:\\🌸!宝桜那個人出演決定!🌸/\n\n小毬零生誕「Project 零」\n\n🗓️8/23(日)\n📍大塚Hearts+\n⏰OPEN/START 11:00/11:30\n🎁サインチェキ\n💰S/前売/当日 5\,000円/2\,500円/3\,000円（全券種要+1D）\n🎫 livepocket.jp/e/hbdrei2026\n7/25(土) 22:00チケット発売開始💫\nhttps://timetr.ee/p/qnico/3031997398686199618
+SUMMARY:小毬零生誕「Project 零」
+UID:ddf28ff8-a9de-4864-a317-2de273b8bcb6@ddf2.org
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260628
-DTEND;VALUE=DATE:20260629
-DESCRIPTION:INFINITY LIVE presents\n『THE PRISMiNG vol.38』\n\n🗓️6/28(日) \n📍下北沢Flowers Loft\n⏰OPEN 16:30 / START 16:45\n🎤20:15-20:40\n📸20:50-21:50\n🎁写メ\n💰優先入場 ¥3100 / 前売券 ¥2600 / 当日券 ¥3100 (各+1D)\n🎫 t-dv.com/20260628_night\n6/12 20:00から販売開始💫\nhttps://timetr.ee/p/qnico/2968207113041046563
-SUMMARY:INFINITY LIVE presents『THE PRISMiNG vol.38』
-UID:2d8fbd69-327d-4f71-9e46-89be7bdd935c@2d8f.org
+DTSTART;VALUE=DATE:20261107
+DTEND;VALUE=DATE:20261108
+DESCRIPTION:『アイクル2026 本祭 わくわくサーキット Supported by WEEKEND INFINITY』\n\n🗓️11/7(土)\n⏰OPEN/START 11:00/11:30\n📍 下北沢シャングリラ/CLUB251/MOSAiC/下北沢ERA/下北沢線路街空き地(特典会のみ)\n🎁キュニコくじ\n💰VIP20\,000円(D代なし)(※1)/ONE DAY (DAY～ALL NIGHT)TICKET6\,000円 (+2D)/DAY TICKET5\,000円(+1D)/ALL NIGHT TICKET2\,000円(+1D)(※2)/U-20 TICKET(+1D)(※3)\n(※1)数量限定販売、全会場フリーパス(入場制限時も含む)、ドリンクチケット10枚付き、オフィシャルパーカー付き\n(※2)20歳未満は購入不可\n(※3)DAY TICKETのみ\n🎫 https://ticketdive.com/event/aikuru2026-wakuwaku-circuit\n10/18(日)22:00から販売開始💫\nhttps://timetr.ee/p/qnico/3079581169937379092
+SUMMARY:『アイクル2026 本祭 わくわくサーキット Supported by WEEKEND INFINITY』
+UID:db0055a2-3451-44eb-8cc0-1b8fa5ced922@db00.org
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261010
-DTEND;VALUE=DATE:20261011
-DESCRIPTION:「大縁廻遊」\n\n🗓️10/10(土)\n📍CHELSEA HOTEL\n⏰リストバンド交換10:30～(STAR LOUNGE)\nOPEN/START 11:00/11:30\n🎤17:00～\n📸17:45～18:45\n💰全会場通し前売4000円/当日5000円\nR lounge6〜7F\n前売2500円 / 当日3500円 各1D\n🎫 t-dv.com/daienkaiyu\nhttps://timetr.ee/p/qnico/3062358002617642169
-SUMMARY:「大縁廻遊」
-UID:fbc30e62-df58-41cf-a038-1f09779065ee@fbc3.org
+DTSTART;VALUE=DATE:20260425
+DTEND;VALUE=DATE:20260426
+DESCRIPTION:https://timetr.ee/p/qnico/2946424489146675140
+SUMMARY:ライブ予定
+UID:2b1c8bf6-cffa-439a-a04c-ad7726cab4e0@2b1c.org
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20270123
-DTEND;VALUE=DATE:20270124
-DESCRIPTION:キュニコ１周年記念初ワンマン\n『１２３キュニコ1歳祭』\n\n🗓️1/23（土）\n📍下北沢シャングリラ\n⏰開場18:30 / 開演19:00\n💰優先入場 ¥5000 / 一般販売 ¥2000（+1D）\n🎫https://ticketdive.com/event/ZRkSpT76EGzGvfZvY82l\n優先入場特典：オリジナル特典CD\n入場順：最速先行→2次先行→一般販売\n最速先行抽選 2026年10月19日(月)20:00~2026年11月3日(火)23:59\nhttps://timetr.ee/p/qnico/3080656671531953892
-SUMMARY:『１２３キュニコ1歳祭』
-UID:08639c49-5b36-48a8-953d-76601e270307@0863.org
+DTSTART;VALUE=DATE:20260526
+DTEND;VALUE=DATE:20260527
+DESCRIPTION:\\🆕!主催ライブ決定!🆕/\n\n『キュニコフェス』\n\n🗓️5/26（火）\n📍新宿WALLY\n⏰OP18:30 / ST18:50\n🎤20:20-20:50\n📸21:00-22:00\n💰前売 ¥3\,000- / 当日 ¥500- (+各1D)\n🎫 t-dv.com/W5ESZ7KeWuG5Tc…\n5/12(火) 19:00〜販売開始❣️\n来場者全員にキュニコメンバー1人と撮れる写メトーク券プレゼント🎁\nhttps://timetr.ee/p/qnico/2951399667014397935
+SUMMARY:『キュニコフェス』
+UID:94aba699-8a58-4088-bbe3-e3fc689dada0@94ab.org
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261128
-DTEND;VALUE=DATE:20261129
-DESCRIPTION:\\\\!🆕出演決定🆕!//\n\n『ART SOUND presents SOUND GARDEN 2026 15th ANNIVERSARY 』\n\n🗓️11月28\,29日(土\,日)\n📍名古屋 栄/大須エリアサーキット\n💰2daysチケット ¥11\,500(2D代込み)\n1dayチケット(各日) ¥6\,500(1D代込み)\n🎫 livepocket.jp/e/soundgarden2…\nhttps://timetr.ee/p/qnico/3078469165440921397
-SUMMARY:『ART SOUND presents SOUND GARDEN 2026 15th ANNIVERSARY 』
-UID:5923de04-c145-41b6-9d98-c522b7dbace4@5923.org
+DTSTART;VALUE=DATE:20260607
+DTEND;VALUE=DATE:20260608
+DESCRIPTION:\\🆕!出演決定!🆕/\n\n『パピムズFES2026 ミニサーキット Supported by WEEKEND INFNITY』\n\n🗓️6/7(日)\n📍下北沢シャングリラ/ Flowers LOFT / ERA / MOSAiC\n⏰OPEN 11:00 / START 10:30\n💰VIP ¥12\,000 / 一般 ¥4\,600 / 当日 ¥5\,600 / 各+1D\n🎫 ticketdive.com/event/papimuzf…\nhttps://timetr.ee/p/qnico/2970385292174389173
+SUMMARY:『パピムズFES2026 ミニサーキット Supported by WEEKEND INFNITY』
+UID:e0ae085e-8a41-409b-90cb-ee46894edab5@e0ae.org
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261108
-DTEND;VALUE=DATE:20261109
-DESCRIPTION:『WEEKEND INFINITY2026』\n\n🗓️11/8(日)\n⏰OPEN/START 11:00/11:30\n📍 下北沢シャングリラ/CLUB251/MOSAiC(リストバンド交換MOSAiC)\n🎁キュニコくじ\n💰先着先行4\,500円/一般4\,900円(各+1D)\n🎫https://ticketdive.com/event/WEEKENDINFINITY2026\n先着先行は10/18(日)21:00から販売開始💫\nhttps://timetr.ee/p/qnico/3079581933510421551
-SUMMARY:『WEEKEND INFINITY2026』
-UID:fe4a174a-66d5-42fb-ab7f-bf60f08cc2d0@fe4a.org
+DTSTART;VALUE=DATE:20260619
+DTEND;VALUE=DATE:20260620
+DESCRIPTION:ALLNIGHT \n「DECA DANCE」\n\n🗓️6/19(金) \n📍川崎CLUB CITTA’\n⏰OPEN/START 24:00/24:30\n🎁サインチェキ\n💰5\,000円(前売)/6\,000円(当日) 各+1D\n🎫 livepocket.jp/e/20260619\nhttps://timetr.ee/p/qnico/2979844561827359930
+SUMMARY:「DECA DANCE」
+UID:9dc5d57b-257c-4e52-ab5e-32fd34fbe7d8@9dc5.org
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261110
-DTEND;VALUE=DATE:20261111
-DESCRIPTION:#挨拶できひんやつ何やってもダメ\n\n🗓️11/10(火)\n📍ROCK CAFE LOFT\n⏰ OPEN 19:00/START 19:30\n出演\nキュニコ めっちゃ梨央\nゲスト\nRAY 紬実詩\n🎁トークイベントスタンプラリーカード\n💰前売り¥2\,000/当日¥2\,500（各+要1オーダー）\n🎫livepocket.jp/e/gz-gj\n#あいダメ\nhttps://timetr.ee/p/qnico/3077012831889616285
+DTSTART;VALUE=DATE:20260801
+DTEND;VALUE=DATE:20260802
+DESCRIPTION:『EVER FREE SUMMER BUSH』\n\n🗓️8/1（土）\n📍SHINJUKU WALLY\n⏰OPEN 10:40 / START 11:00\n🎁写メ\n💰前方4000円／後方2500円\n(各+1D)\n🎫 t-dv.com/EVERFREESUMMER…\nhttps://timetr.ee/p/qnico/3021192443402480738
+SUMMARY:『EVER FREE SUMMER BUSH』
+UID:7e2cda36-83f9-4d90-8b07-11dd8ee62ff1@7e2c.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260911
+DTEND;VALUE=DATE:20260912
+DESCRIPTION:#挨拶できひんやつ何やってもダメ\n\n🗓️9/11(金)\n📍ROCK CAFE LOFT\n⏰ OPEN 19:00/START 19:30\n出演\nキュニコ めっちゃ梨央\nゲスト\nグデイ ミ米ミ\n🎁トークイベントスタンプラリーカード\n💰前売り¥2\,000（要1オーダー）/当日¥2\,500（要1オーダー）\n🎫 livepocket.jp/e/40271\n8/16 22:00より受付開始💫\n#あいダメ\nhttps://timetr.ee/p/qnico/3026857052700503468
 SUMMARY:#挨拶できひんやつ何やってもダメ
-UID:3d37c1cd-d9c5-40c2-83d4-2dabaf380673@3d37.org
+UID:291d2312-8544-46aa-9d91-7a8aec1b22ca@291d.org
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260914
-DTEND;VALUE=DATE:20260915
-DESCRIPTION:PASTEL RADIO Pre. 『RADIO DANCE』\n\n🗓️9/14 (月) \n📍clubasia\n⏰OPEN 17:30 / START 18:00(予定)\n🎁サインチェキ\n💰前売¥3\,000/当日¥3\,500(+1D別)\n🎫 livepocket.jp/e/20260914_rd\nhttps://timetr.ee/p/qnico/3046629309786189208
-SUMMARY:PASTEL RADIO Pre. 『RADIO DANCE』
-UID:253e9605-248b-4bf5-947a-0b9ad9f0740b@253e.org
+DTSTART;VALUE=DATE:20261019
+DTEND;VALUE=DATE:20261020
+DESCRIPTION:『HYPER SUBLIMINAL vol.3』\n\n🗓️10/19(月)\n⏰開場/開演：18:00/18:30\n📍Zepp Shinjuku B3F RING STAGE\n🎤19:20-19:45\n📸21:30-22:30\n🎁キュニコくじ\n💰前売り 2900円/当日3500円\n※各+1D整理番号順なし\n🎫https://livepocket.jp/e/hyper_subliminal3\nhttps://timetr.ee/p/qnico/3070585298021346444
+SUMMARY:HYPER SUBLIMINAL vol.3
+UID:927cb5b6-0e35-4065-b10f-721be59b00e9@927c.org
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260627
-DTEND;VALUE=DATE:20260628
-DESCRIPTION:\\🆕!出演決定!🆕/\n\nINFINITY LIVE presents\n『Princeism』\n\n🗓️6/27(土) \n📍四谷LOTUS\n⏰OPEN 11:00 / START 11:15\n🎤11:15-11:40\n📸11:45-12:45\n💰優先入場 ¥3100 / 前売り券 ¥2500 / 当日券 ¥3100（各+1D）\n🎫 https://t-dv.com/20260627_day\n6/10 20:00から販売開始💫\nhttps://timetr.ee/p/qnico/2985023282020445780
-SUMMARY:INFINITY LIVE presents『Princeism』
-UID:3ff3c18a-14bb-442e-baf8-ad4a1225f1cc@3ff3.org
+DTSTART;VALUE=DATE:20260428
+DTEND;VALUE=DATE:20260429
+DESCRIPTION:https://timetr.ee/p/qnico/2914659595300990820
+SUMMARY:ライブ予定
+UID:ceed5ac1-7439-41ac-9640-f29d6dcacdbd@ceed.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260504
+DTEND;VALUE=DATE:20260505
+DESCRIPTION:【IDOL ∞ INFINITY GW SP】(DAY3)\n\n🗓️5月4日(祝月)\n📍CITY HALL & GALLERY GOTANDA\n⏰OPEN 10:00 / START 10:20\n🎤12:45-13:05\n📸13:15-14:15\n🎁サインチェキ+写メトーク\n💰前方¥6\,000/一般¥3\,000(各+1D)\n🎫 ticketdive.com/event/idol_inf…\nhttps://timetr.ee/p/qnico/2937932872949526105
+SUMMARY:【IDOL ∞ INFINITY GW SP】(DAY3)
+UID:2e2bdf89-0e5f-4ffa-b743-fba841a27f71@2e2b.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260815
 DTEND;VALUE=DATE:20260816
 DESCRIPTION:『Ui presents THIS IS COMMUNICATION』\n\n🗓️8/15(土)\n📍新宿LOFT\n⏰13:00 open / 13:15 start（予定）\n💰一般チケット2500円/優先入場＋前方エリア指定5000円（+1D代別）\n🎫 https://livepocket.jp/e/ui0815\n6/29 20:00販売開始💫\nhttps://timetr.ee/p/qnico/2998718441752981039
 SUMMARY:『Ui presents THIS IS COMMUNICATION』
-UID:4db68fc1-12e6-4c9e-93a3-147da6b63d1b@4db6.org
+UID:a117ba09-6b2c-441b-8bd1-08d51e4f3368@a117.org
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260905
-DTEND;VALUE=DATE:20260906
-DESCRIPTION:『IMMERSE』\n\n🗓️9/5（土）\n📍原宿RUIDO\n⏰開場 12:00 / 開演 12:20\n🎤18:30-19:00\n📸20:05-21:05\n💰前方 ¥3\,000- / 一般 ¥2\,000-（各+1D）\n🎫 ticketdive.com/event/260905_I…\nhttps://timetr.ee/p/qnico/3047981393852853361
-SUMMARY:『IMMERSE』
-UID:1c4a9865-d0fb-40a7-9dd0-045b0a8c9bf0@1c4a.org
+DTSTART;VALUE=DATE:20260920
+DTEND;VALUE=DATE:20260921
+DESCRIPTION:INFINITY LIVE TOUR 2026\n『ASTROMIRAGE - TOUR FINAL CIRCUIT -』\n\n🗓️9/20(日)\n📍下北沢4会場周遊\n⏰START 11:30 予定\n🎁サインチェキ\n💰前売券 ¥3\,600 / 当日券 ¥4\,600\n🎫 https://t-dv.com/20260920_final\nリストバンド交換開始はMOSAiCにて 11:00〜開始予定\nhttps://timetr.ee/p/qnico/3029250332427906118
+SUMMARY:INFINITY LIVE TOUR 2026『ASTROMIRAGE - TOUR FINAL CIRCUIT -』
+UID:fb845ca6-a264-4b3b-9dc3-ee0b4155ff72@fb84.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260606
+DTEND;VALUE=DATE:20260607
+DESCRIPTION:\\🆕!下北沢5会場周遊フェス出演決定!🆕/\n\nINFINITY LIVE presents\n『ASTRO CIRCLE 2026』\n\n🗓️6/6(土) \n📍シャングリラ / Flowers LOFT / ERA / MOSAiC / 下北線路街空き地\nリストバンド交換開始 11:00〜 下北線路街空き地にて開始\n（入場は整列順 整列は10:30〜行います。）\n💰COMPLATE TICKET ¥8\,400\n（ASTRO CIRCLE 2026 限定オリジナルTシャツ / ASTRO CIRCLE 2026限定 ラバーバンド）\nSTANDARD TICKET ¥4\,400 (各+1D)\n🎫 https://t-dv.com/ASTROCIRCLE2026\nhttps://timetr.ee/p/qnico/2937932614756560890
+SUMMARY:INFINITY LIVE presents『ASTRO CIRCLE 2026』
+UID:65b0cb23-589e-485c-b9fc-c22302b000b6@65b0.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260404
+DTEND;VALUE=DATE:20260405
+DESCRIPTION:\\🆕!出演決定!🆕/\n\n「時雨水曜日生誕祭“あたたかい”と笑って」\n\n🗓️4/4(土)\n📍寺田町 Fireloop(大阪)\n⏰ 開場/開演  18:00/18:30\n💰前方2\,500円/当日3\,000円（+各1D）\n🎫 livepocket.jp/e/xmyrj\n3/5(木)21:30〜発売\nhttps://timetr.ee/p/qnico/2890067452330863683
+SUMMARY:🚄時雨水曜日生誕祭“あたたかい”と笑って 🚄
+UID:033a2a16-6194-476d-9f30-1c9b564044a2@033a.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260830
+DTEND;VALUE=DATE:20260831
+DESCRIPTION:『NOT FAKΣ』\n\n🗓️8/30(日)\n📍渋谷CHELSEA HOTEL\n⏰OPEN 10:45  START 11:00\n🎤11:00-11:30\n📸12:00-13:00\n🎁サインチェキ\n💰前売り ¥2\,000 当日 ¥3\,000 U20 ¥1\,000 1D代別\n🎫 tiget.net/events/515118\nhttps://timetr.ee/p/qnico/3033668444564843955
+SUMMARY:『NOT FAKΣ』
+UID:cc869a32-8e17-4ab7-abbf-69c5490e18e6@cc86.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260620
+DTEND;VALUE=DATE:20260621
+DESCRIPTION:日ノ目企画presents\n“Fill In Your Blanks”\n\n🗓️6/20(土)\n📍大塚Hearts+\n⏰OPEN  15:40/START 16:00\n🎤17:15-17:40\n📸17:50-19:00\n🎁写メ\n💰一般前売り 2900円 / 一般当日 3500円/優先入場(前売りのみ) 3200円(+1D)\n🎫 https://t-dv.com/hnm0620ohp\nhttps://timetr.ee/p/qnico/2968207006698663110
+SUMMARY:日ノ目企画presents“Fill In Your Blanks”
+UID:5f351084-5c2e-43c0-9eff-9b4486cb842d@5f35.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260906
+DTEND;VALUE=DATE:20260907
+DESCRIPTION:LUCY presents\n『LUCY FES』\n\n🗓️9/6(日) \n📍下北沢シャングリラ\n⏰開場 12:30 / 開演13:00 \n🎁サインチェキ\n💰【TICKET+1Drink ¥700】\nVIPチケット ¥10\,000\n＜VIP特典＞\nLUCY囲みチェキ 2枚(ライブ / 打ち上げ 各1枚)\n打ち上げ(1D付き)※衣装は私服を予定しております。\n一般 ¥3\,969\n🎫 t-dv.com/LUCYFES20260906\nhttps://timetr.ee/p/qnico/3029248711304244974
+SUMMARY:LUCY presents『LUCY FES』
+UID:b4b3cb64-46a1-4461-9b54-b8ee553b8ac8@b4b3.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261011
+DTEND;VALUE=DATE:20261012
+DESCRIPTION:日ノ目企画presents\n“SUNDAYRIGHT/WRONG×2”\n\n🗓️10/11(日)\n📍大塚Hearts+\n🎁サインありチェキ\n🎤18:40-19:05\n📸21:00-22:00\n💰一般 3300円(D別)/優先入場(前売りのみ) 3800円(D別)\n🎫 ticketdive.com/event/hnm1011o…\n9/4(金)22:00から販売開始❣️\nhttps://timetr.ee/p/qnico/3019821761875766547
+SUMMARY:日ノ目企画presents“SUNDAYRIGHT/WRONG×2”
+UID:54771095-4c4c-4a02-b65d-da7c3206cc06@5477.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261101
+DESCRIPTION:\\🆕!出演決定!🆕/\n\n『Halloween DECA DANCE』\n\n🗓️10/31(土) \n📍川崎CLUB CITTA’\n⏰OPEN 24:00 / START 24:15\n🎁サインチェキ\n💰前売¥5\,000/当日¥5\,500(+1D別)\n🎫 livepocket.jp/e/20261031_hdd\nhttps://timetr.ee/p/qnico/3046661269527031485
+SUMMARY:『Halloween DECA DANCE』
+UID:cd0f17ee-28fd-435f-a6a9-4c1f4fd7f39c@cd0f.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260704
+DTEND;VALUE=DATE:20260705
+DESCRIPTION:INFINITY LIVE presents\n『ASTROFES 2026 - Summer - 』\n\n🗓️7/4(土)\n📍MOSAiC\n🎤19:15-19:45\n📸20:25-21:25\n🎁20秒動画\n💰COMPLETE TICKET ¥7\,900(+1Drink ¥700)\n（付属：ASTROFES 2026 - Summer - 限定オリジナルTシャツ / ラバーバンド）\nSTANDARD TICKET ¥4\,000(+1Drink ¥700)\n⚠️リストバンド交換はMOSAiCにて11:00開始\n🎫 t-dv.com/20260704_all\nhttps://timetr.ee/p/qnico/2968207260135288167
+SUMMARY:INFINITY LIVE presents『ASTROFES 2026 - Summer - 』
+UID:cc3be8ab-ebf7-4adf-bc52-d9bda9b8a8fe@cc3b.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260728
+DTEND;VALUE=DATE:20260729
+DESCRIPTION:『脱却-3周年記念-』\n\n🗓️7/28(火)\n📍渋⾕ DESEO\n⏰OPEN 16:00/START 16:30\n🎤19:30-19:55\n📸20:50-21:50\n🎁サインチェキ\n💰前売 2500/当日 3000(+1D)\n🎫 ticketdive.com/event/by6xFXkJ…\nhttps://timetr.ee/p/qnico/3017710845596102182
+SUMMARY:『脱却-3周年記念-』
+UID:7791cfd6-4e61-43fb-b8af-ac64b2625a6d@7791.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261001
+DTEND;VALUE=DATE:20261002
+DESCRIPTION:https://timetr.ee/p/qnico/3062357107930656281
+SUMMARY:キュニコレvol.2
+UID:cea39853-5fa6-4c18-87e2-eeb8aa888272@cea3.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260402
+DTEND;VALUE=DATE:20260403
+DESCRIPTION:‪『SOUND WARS vol.5』‬\n‪🗓️4/2(木)‬\n‪📍新宿WALLY‬\n‪⏰OPEN 18:00 / START 18:20‬\n‪🎤20:25〜20:45‬\n‪📸21:05〜22:05‬\n‪🎫 https://ticketdive.com/event/ScbGDBFMHv8WfCof6Swu‬\nhttps://timetr.ee/p/qnico/2935006957080768453
+SUMMARY:‪『SOUND WARS vol.5』‬
+UID:5933fe64-9eff-4265-b7aa-9afdb1d37c6b@5933.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261110
+DTEND;VALUE=DATE:20261111
+DESCRIPTION:#挨拶できひんやつ何やってもダメ\n\n🗓️11/10(火)\n📍ROCK CAFE LOFT\n⏰ OPEN 19:00/START 19:30\n出演\nキュニコ めっちゃ梨央\nゲスト\nRAY 紬実詩\n🎁トークイベントスタンプラリーカード\n💰前売り¥2\,000/当日¥2\,500（各+要1オーダー）\n🎫livepocket.jp/e/gz-gj\n#あいダメ\nhttps://timetr.ee/p/qnico/3077012831889616285
+SUMMARY:#挨拶できひんやつ何やってもダメ
+UID:f3b32518-ba60-42e6-8f2d-48d9203a96ab@f3b3.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+DESCRIPTION:\\\\!🆕出演決定🆕!//\n\n『ART SOUND presents SOUND GARDEN 2026 15th ANNIVERSARY 』\n\n🗓️11月28\,29日(土\,日)\n📍名古屋 栄/大須エリアサーキット\n💰2daysチケット ¥11\,500(2D代込み)\n1dayチケット(各日) ¥6\,500(1D代込み)\n🎫 livepocket.jp/e/soundgarden2…\nhttps://timetr.ee/p/qnico/3078469165440921397
+SUMMARY:『ART SOUND presents SOUND GARDEN 2026 15th ANNIVERSARY 』
+UID:ec1df141-831f-4f23-9a14-5d5ab97e6579@ec1d.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260904
+DTEND;VALUE=DATE:20260905
+DESCRIPTION:『Gimme!×Gimme! presents\nGimme the Hype. #01 \n- New Lineup SP -』\n\n🗓️9/4(金)\n📍下北沢ERA\n⏰18:20 OPEN / 18:50 START\n🎤19:15-19:40\n📸21:00-22:30\n🎁サインチェキ\n💰Sチケット 7\,000円 (優先入場+メンバー囲み写メ+Gimme!×Gimme!定点ライブ映像)/一般チケット 1\,000円/当日券 2\,000円（各＋1D）\n🎫 t-dv.com/GimmetheHype01\nhttps://timetr.ee/p/qnico/3032043122396327855
+SUMMARY:『Gimme!×Gimme! presentsGimme the Hype. #01 - New Lineup SP -』
+UID:5ff79d48-d745-4b80-9ffd-b9adfc3cfa21@5ff7.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260802
+DTEND;VALUE=DATE:20260803
+DESCRIPTION:UNIVERSE企画『Dance party』\n\n🗓️8/2 (日)\n📍新宿MARZ\n⏰open 10:30 / start 11:00\n🎤11:00-11:30\n📸13:00-14:00\n🎁サインチェキ\n💰S通し券3\,500 / 各部前売￥2\,200 / 当日券￥2\,700 (+1drink¥600)\n🎫 livepocket.jp/e/b3yj4\nhttps://timetr.ee/p/qnico/3014735588983663989
+SUMMARY:UNIVERSE企画『Dance party』
+UID:9735117a-a07b-4141-b2c2-45b1b78ee4a5@9735.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260829
+DTEND;VALUE=DATE:20260830
+DESCRIPTION:INFINITY LIVE presents\n『WHITEDAYS』\n\n🗓️8/29\n📍下北沢flowers loft\n⏰OPEN 10:00 / START 10:15\n🎤11:30-11:55\n📸13:20-14:20\n🎁写メ\n💰優先¥3\,000/一般¥2\,500/当日¥3\,200(各+1D)\n🎫 t-dv.com/20260829_day2\nhttps://timetr.ee/p/qnico/3022696574512360779
+SUMMARY:INFINITY LIVE presents『WHITEDAYS』
+UID:170bc071-e8d7-41b6-8a00-51e0a93bddc7@170b.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260505
+DTEND;VALUE=DATE:20260506
+DESCRIPTION:【IDOL ∞ INFINITY GW SP】(DAY4)\n\n🗓️5月5日(祝火)\n📍CITY HALL & GALLERY GOTANDA\n⏰OPEN 12:00 / START 12:20\n🎤13:10-13:35\n📸13:45-14:45\n🎁サインチェキ+10秒動画\n💰前方¥6\,000/一般¥3\,000(各+1D)\n🎫 ticketdive.com/event/idol_inf…\nhttps://timetr.ee/p/qnico/2937932963470994641
+SUMMARY:【IDOL ∞ INFINITY GW SP】(DAY4)
+UID:24906308-abf4-4aa7-95ad-a1ab4fdee7cc@2490.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260429
+DTEND;VALUE=DATE:20260430
+DESCRIPTION:\\🆕!出演決定!🆕/\n\n『うぃーくえんど✖せいろん のともだち 』\n\n🗓️4/29(水祝)\n📍新宿シアターマーキュリー \n⏰OPEN 14:00 /START 14:30  \n🎁サインチェキ\n💰前売 2\,000円 当日 2\,500円\n🎫 https://t-dv.com/weekendseiron429\nhttps://timetr.ee/p/qnico/2953005881485782619
+SUMMARY:『うぃーくえんど✖せいろん のともだち 』
+UID:835c3768-e150-4344-9dd6-4e3078a1b2d3@835c.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260524
+DTEND;VALUE=DATE:20260525
+DESCRIPTION:https://timetr.ee/p/qnico/2953005164175912079
+SUMMARY:SEIEN-星宴- LAST pre.『STARRY NIGHT 〜IN FUTURE〜』
+UID:a3e0aa1e-9b71-4c10-9752-63a0540946b3@a3e0.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260424
+DTEND;VALUE=DATE:20260425
+DESCRIPTION:\\🆕!出演決定!🆕/\n\n『NEW ORDER #無銭NIGHT』\n\n🗓️4/24(金)\n📍新宿MARZ\n⏰OPEN 18:30 / START 19:00\n🎤19:00〜19:30\n📸21:00〜22:00\n🎁写メ\n💰前売¥0 / 当日¥1\,000（+2D¥1\,200）\n🎫https://livepocket.jp/e/6zrzo\n（3/27 22:00〜販売開始）\nhttps://timetr.ee/p/qnico/2931272254880313073
+SUMMARY:✨ 『NEW ORDER #無銭NIGHT』✨
+UID:b78c50a2-89b5-4491-9817-13ca73fe646b@b78c.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260914
+DTEND;VALUE=DATE:20260915
+DESCRIPTION:PASTEL RADIO Pre. 『RADIO DANCE』\n\n🗓️9/14 (月) \n📍clubasia\n⏰OPEN 17:30 / START 18:00(予定)\n🎁サインチェキ\n💰前売¥3\,000/当日¥3\,500(+1D別)\n🎫 livepocket.jp/e/20260914_rd\nhttps://timetr.ee/p/qnico/3046629309786189208
+SUMMARY:PASTEL RADIO Pre. 『RADIO DANCE』
+UID:3015e264-d4f6-4b6f-b1f0-29be9ab9b13e@3015.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261102
+DTEND;VALUE=DATE:20261103
+DESCRIPTION:ハチキュウ合同生誕祭\n「30 YEARS\, NO FEARS」\n\n🗓️11/2(月)\n📍渋谷DESEO mini with VILLAGE VANGUARD\n⏰OPEN/START 17:30/18:00\n🎤18:00-18:25\n📸20:00-21:30\n💰前売 ¥2\,800 / 当日 ¥3\,500 (各+1D)\n🎫livepocket.jp/e/24aa0\nhttps://timetr.ee/p/qnico/3070586170059091646
+SUMMARY:ハチキュウ合同生誕祭「30 YEARS\, NO FEARS」
+UID:89e352fd-6d6d-4792-b7b6-3d107c0cfbf4@89e3.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260423
+DTEND;VALUE=DATE:20260424
+DESCRIPTION:\\🆕!出演決定!🆕/\n\n『脱却』\n\n🗓️4/23(木)\n📍新宿MARZ\n⏰OPEN/START 18:00/18:30\n🎤18:30-19:00\n📸19:10-20:10\n🎁サインチェキ\n💰前売り¥2\,500 当日¥3\,500\n🎫 livepocket.jp/e/qz96z\nhttps://timetr.ee/p/qnico/2940000791153962361
+SUMMARY:『脱却』
+UID:5667e1cf-4d06-4fd1-a4d8-375b7c580f6c@5667.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261025
+DTEND;VALUE=DATE:20261026
+DESCRIPTION:雨模様のソラリス presents「Festival in the Rain 2026」\n\n🗓️10/25(日)\n📍下北沢シャングリラ / 下北沢MOSAiC / Flowers Loft / ADRIFT / WAVER\n⏰リストバンド交換10:30〜(MOSAiC)\nSTART 11:00\n🎤13:45～14:10(MOSAiC)\n📸14:55～15:55(ANDY'S STUDIO Bst)\n🎁キュニコくじ\n💰好天チケット ¥ 8\,800【特典：イベントTシャツ(XLのみ)/シャングリラ優先入場エリア入場】/一般チケット ¥ 4\,800\n🎫 perfectmusic.zaiko.io/ja/item/384197\nhttps://timetr.ee/p/qnico/3074167640677772831
+SUMMARY:「Festival in the Rain 2026」
+UID:b6446c6c-0153-4309-828e-087af1ca9d93@b644.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260419
+DTEND;VALUE=DATE:20260420
+DESCRIPTION:\\📢トロメ〜湯♨️情報解禁📢/\n\nエクストロメ‼︎ presents\n『トロメ〜湯♨️』\n福島いわきの温泉旅館一棟借りイベント！\n\n🗓️4/19（日）\n♨️いわき湯本温泉 旅館こいと\nkoito-inn.co.jp\n⏰OPEN10:20/START11:00\n🎤13:15-13:40\n📸13:50-15:00\n🎫 livepocket.jp/e/8cklr\n【アクセス】\nJR湯本駅より徒歩8分\nkoito-inn.co.jp/traffic.htm\nhttps://timetr.ee/p/qnico/2942022809034518462
+SUMMARY:エクストロメ‼︎ presents『トロメ〜湯♨️』福島いわきの温泉旅館一棟借りイベント！
+UID:74512b5e-d763-4415-9777-c80bd470275a@7451.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261122
+DESCRIPTION:『IDOLGROW vol.30』\n\n🗓️11/21(土)\n📍銀座BASE GRANBELL\n⏰OPEN/START 10:00/10:30\n🎤15:25-15:50\n📸16:05-17:05(並行B)\n🎁キュニコくじ\n💰VIP 5\,000円/一般 3\,000円(各＋1D)\n当日 各+500円\n🎫 livepocket.jp/e/4hep1\nhttps://timetr.ee/p/qnico/3082805074814660292
+SUMMARY:『IDOLGROW vol.30』
+UID:941a8788-fc7e-4265-b285-bb6398956f5b@941a.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260711
+DTEND;VALUE=DATE:20260712
+DESCRIPTION:\\🆕!出演決定!🆕/\n\n『IDOL REINE music』\n\n🗓️7/11(土)\n📍下北沢シャングリラ\n⏰OPEN 11:00 / START 11:15\n🎁サインチェキ\n💰前方エリア 4\,000円 / 一般エリア 2\,000円（各D(700円)別）\n※当日料金は会場での現金販売の各＋1\,000円になります。\n🎫 https://tiget.net/events/493720\n6月10日(水)19:00から販売開始💫\nhttps://timetr.ee/p/qnico/2968208294953971438
+SUMMARY:『IDOL REINE music』
+UID:a0edc973-53cd-4d56-b95b-4c97f58f89b6@a0ed.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260925
+DTEND;VALUE=DATE:20260926
+DESCRIPTION:「きらきらネイルのアイドルおしゃべり」\n代々木 A Talk Club WOOFER\n\n🗓️9/25(金)\n⏰開場19:00/開演19:30\n🎁 ネイル解説20秒動画\n💰前売2500円/当日3000円\n(飲食代別・1オーダー450円以上必要)\n🎫 livepocket.jp/e/85-rr\n🎥配信チケット：1500円\n🎟️ premier.twitcasting.tv/c:atcwoofer/sh…\nhttps://timetr.ee/p/qnico/3012593760138260117
+SUMMARY:「きらきらネイルのアイドルおしゃべり」
+UID:bd105e31-7f26-45ad-a1a5-600859c867e2@bd10.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260930
+DTEND;VALUE=DATE:20261001
+DESCRIPTION:『近代麻雀水着祭2026』\n\n🗓️9/30(水)\n📍東京サマーランド\n🎫 event.tiget.net/kinma-2026-aut…\n\n🔗イベント公式サイト\nkinma.jp\nキュニコからは治癒ちゃん、宝桜那が1部から3部に出演💫\n#近代麻雀水着祭2026\nhttps://timetr.ee/p/qnico/3050159879195553591
+SUMMARY:『近代麻雀水着祭2026』
+UID:60ab8ab7-219b-4f5e-9522-3bc78639c944@60ab.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261003
+DTEND;VALUE=DATE:20261004
+DESCRIPTION:『IDOLGROW vol.29』\n\n🗓️10/3(土) \n📍銀座BASE GRANBELL\n⏰開場:10:30 開演11:00 終演18:30\n🎤11:00-11:30\n📸11:45-12:45\n🎁サインチェキ\n💰VIP¥5\,000/一般¥3\,000-\n🎫 https://livepocket.jp/e/va8_f\nhttps://timetr.ee/p/qnico/3062360203209567306
+SUMMARY:『IDOLGROW vol.29』
+UID:6df09c3e-6c2a-4076-9ae0-ac85ac93a95a@6df0.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260922
+DTEND;VALUE=DATE:20260923
+DESCRIPTION:さくまる｡pre.『 Told To Meet! vol.1 』\n\n🗓️9/22(火・祝)\n📍LiveHouse浜松窓枠\n⏰open11:30／start12:00／close20:00(予定)\n💰adv.¥3\,900／door¥4\,400 (各+1D ¥600)\n※チケット発売の詳細は後日お知らせいたします。\nhttps://timetr.ee/p/qnico/3039761152396062283
+SUMMARY:さくまる｡pre.『 Told To Meet! vol.1 』
+UID:97dfa714-c169-4550-8723-b5d55a734b3b@97df.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260917
 DTEND;VALUE=DATE:20260918
 DESCRIPTION:『うえのでもともだちだよ』\n\n🗓️9/17（木）\n📍上野音横丁\n⏰開場18:30 / 開演19:00\n🎤19:30-20:00\n📸21:10-22:20\n🎁サインチェキ\n🎫 https://t-dv.com/uenobestfriend\nhttps://timetr.ee/p/qnico/3015346795318964098
 SUMMARY:『うえのでもともだちだよ』
-UID:dfb643df-f9de-4116-ab66-c66e39ff1803@dfb6.org
+UID:defa0ea4-17fe-4d1e-97f9-5cca3412e6ae@defa.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260905
+DTEND;VALUE=DATE:20260906
+DESCRIPTION:『IMMERSE』\n\n🗓️9/5（土）\n📍原宿RUIDO\n⏰開場 12:00 / 開演 12:20\n🎤18:30-19:00\n📸20:05-21:05\n💰前方 ¥3\,000- / 一般 ¥2\,000-（各+1D）\n🎫 ticketdive.com/event/260905_I…\nhttps://timetr.ee/p/qnico/3047981393852853361
+SUMMARY:『IMMERSE』
+UID:5031d9eb-6b54-43ee-80ac-a5ac6118d526@5031.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261010
+DTEND;VALUE=DATE:20261011
+DESCRIPTION:「大縁廻遊」\n\n🗓️10/10(土)\n📍CHELSEA HOTEL\n⏰リストバンド交換10:30～(STAR LOUNGE)\nOPEN/START 11:00/11:30\n🎤17:00～\n📸17:45～18:45\n💰全会場通し前売4000円/当日5000円\nR lounge6〜7F\n前売2500円 / 当日3500円 各1D\n🎫 t-dv.com/daienkaiyu\nhttps://timetr.ee/p/qnico/3062358002617642169
+SUMMARY:「大縁廻遊」
+UID:9756899c-a810-4bf2-95da-4813905423f8@9756.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260715
+DTEND;VALUE=DATE:20260716
+DESCRIPTION:『MOKEMOKE / 02』\n\n🗓️7/15（水）\n📍Spotify O-nest\n⏰OPEN 18:00 / START 18:30\n🎤18:30-18:55\n📸20:20-21:40\n🎁サインチェキ\n💰前売 ¥2\,500 / 当日 ¥3\,000（+1D代別）\n🎫 t-dv.com/MOKEMOKE2\n6/29(月) 20:00 発売開始💫\nhttps://timetr.ee/p/qnico/2994185202514357850
+SUMMARY:『MOKEMOKE / 02』
+UID:a0a17c72-6e6d-4875-95ab-40b3e6faf2b8@a0a1.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260707
+DTEND;VALUE=DATE:20260708
+DESCRIPTION:\\🎋!出演決定!🎋/\n\n『おりひめひこぼしキラキラナイト 』\n\n🗓️7/7 (火)  \n📍大塚Herts NEXT\n⏰OPEN17:30 /START18:00\n🎤18:25-18:50\n📸19:30-20:30\n🎁七夕願い事20秒動画\n💰前売2500円/当日3000円(各+1D)\n🎫 t-dv.com/orihimehikobos…\n6/4(木)21:00から販売開始💫\nhttps://timetr.ee/p/qnico/2980646412860616568
+SUMMARY:『おりひめひこぼしキラキラナイト 』
+UID:611bd5ce-1a4b-4d5e-9cca-9edcface7e2e@611b.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260809
+DTEND;VALUE=DATE:20260810
+DESCRIPTION:https://timetr.ee/p/qnico/3005186999320145805
+SUMMARY:こぐまカリー主催「Mash UP!」
+UID:643860b5-ca9b-46b9-8f22-86d2b9a416a0@6438.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260726
+DTEND;VALUE=DATE:20260727
+DESCRIPTION:「ゆループ 2026」\n\n🗓️7/26(日)\n📍下北沢複数会場\n💰【一般チケット】\n・前売券：5\,500円/学割：4\,000円（当日受付にて学生証提示）\n【一般VIPチケット】\n価格：12\,000円（学割：10\,000円）\n特典：公式Tシャツ、VIP限定特別特典会参加券、VIPパス（シャングリラ／タウンホール前方エリア・入場規制時絶対入場保障）(各+1D)\n🎫 https://buzz-ticket.com/e/YOULOOP\n6月4日（木）22:00から販売開始❣️\nhttps://timetr.ee/p/qnico/2968208385534160764
+SUMMARY:「ゆループ 2026」
+UID:21527f7d-bef2-4ae2-9119-b36e84e8b4e2@2152.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261029
+DTEND;VALUE=DATE:20261030
+DESCRIPTION:UNIVERSE企画 4th anniversary\n『Dance party』\n\n🗓️10/29 (木)\n📍新宿MARZ\n⏰open 18:30 / start 19:00 \n🎤19:00-19:30\n📸21:15-22:15\n💰 adv￥2\,200 / door￥2\,700 (+1drink¥600)\n🎫 https://livepocket.jp/e/9rz5t\n本日9/11(金) 22:00 から発売開始💫\nhttps://timetr.ee/p/qnico/3036358347299843306
+SUMMARY:UNIVERSE企画 4th anniversary『Dance party』
+UID:1898ebe3-0201-44de-8bad-b8e1e74e8be6@1898.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260627
+DTEND;VALUE=DATE:20260628
+DESCRIPTION:\\🆕!出演決定!🆕/\n\nINFINITY LIVE presents\n『Princeism』\n\n🗓️6/27(土) \n📍四谷LOTUS\n⏰OPEN 11:00 / START 11:15\n🎤11:15-11:40\n📸11:45-12:45\n💰優先入場 ¥3100 / 前売り券 ¥2500 / 当日券 ¥3100（各+1D）\n🎫 https://t-dv.com/20260627_day\n6/10 20:00から販売開始💫\nhttps://timetr.ee/p/qnico/2985023282020445780
+SUMMARY:INFINITY LIVE presents『Princeism』
+UID:1fd9499c-99ad-4779-b8e7-e74b84e4e936@1fd9.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260821
+DTEND;VALUE=DATE:20260822
+DESCRIPTION:『電脳一舞踏会 4th Anniversary』\n\n🗓️8/21(金)\n📍ZERO TOKYO\n⏰OPEN 23:00 / CLOSE 4:30\n整列開始22:00-\nHP : zerotokyo.jp/event/dennou-b… \n💰DOOR : ￥5\,000-/ADV : ￥4\,000-\n🎫 zerotokyo.zaiko.io/e/dennou-butoh…\nhttps://timetr.ee/p/qnico/3003090692598230183
+SUMMARY:『電脳一舞踏会 4th Anniversary』
+UID:ca23f743-0468-44b1-98ce-508935f3d23f@ca23.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261024
+DTEND;VALUE=DATE:20261025
+DESCRIPTION:\\🆕!出演決定!🆕/\n\n明瀬美砂生誕\n「Misaholism」\n\n🗓️10/24(土)\n📍大塚Hearts+\n⏰OPEN/START 10:45/11:15\n🎤①11:15-\n🎤②11:40-\n📸12:45-14:00\n💰Sチケット/前売/当日 5000/2500/3000 (+1D)\n🎫 livepocket.jp/e/hbdmisa2026\nこの後20:00から販売開始💫\nhttps://timetr.ee/p/qnico/3045896957095144803
+SUMMARY:明瀬美砂生誕「Misaholism」
+UID:b82fb4cc-4ab2-4130-9d94-8dec4d62a2a5@b82f.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270123
+DTEND;VALUE=DATE:20270124
+DESCRIPTION:キュニコ１周年記念初ワンマン\n『１２３キュニコ1歳祭』\n\n🗓️1/23（土）\n📍下北沢シャングリラ\n⏰開場18:30 / 開演19:00\n💰優先入場 ¥5000 / 一般販売 ¥2000（+1D）\n🎫https://ticketdive.com/event/ZRkSpT76EGzGvfZvY82l\n優先入場特典：オリジナル特典CD\n入場順：最速先行→2次先行→一般販売\n最速先行抽選 2026年10月19日(月)20:00~2026年11月3日(火)23:59\nhttps://timetr.ee/p/qnico/3080656671531953892
+SUMMARY:『１２３キュニコ1歳祭』
+UID:3fecc258-df47-4f34-9dac-c9eefdbad172@3fec.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260702
+DTEND;VALUE=DATE:20260703
+DESCRIPTION:\\🎡7/2(木)グループ分け公開⛱️/\n\n#近代麻雀水着祭2026\n\n🗓️7/2(木)\n📍#東京サマーランド\n💰各部¥15\,000/ 通し券¥40\,000\nチケット販売中💫\n🎟️ tiget.net/events/494220\nhttps://timetr.ee/p/qnico/2968207892703440286
+SUMMARY:#近代麻雀水着祭2026
+UID:dbf9c0b0-d96e-4c05-9ec2-53e0519d004d@dbf9.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260330
+DTEND;VALUE=DATE:20260331
+DESCRIPTION:\\🆕!出演決定!🆕/\n\n『SOUND WARS Free』\n\n🗓️3/30(月)\n📍新宿WALLY\n⏰OPEN19:00/START19:20\n💰優先¥3\,000/一般的¥0 (各＋1D)\n🎤19:40-20:00\n📸21:00-22:00\n🎫 t-dv.com/Rljhx7blQDBgcH…\n3/13(金)20:00より販売開始❣️\nhttps://timetr.ee/p/qnico/2932344008218341189
+SUMMARY:SOUND WARS Free
+UID:6f5e4995-4abe-4e5a-a3a7-81147c5aa404@6f5e.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260429
+DTEND;VALUE=DATE:20260430
+DESCRIPTION:\\🆕!出演決定!🆕/\n\n『ソノウチ』\n\n🗓️4/29(水祝)\n📍新宿LOFT\n⏰OPEN10:20/START10:40\n🎁サインチェキ\n💰前売3\,400円 / 当日4\,000円(各+1D)\n🎫 https://ticketdive.com/event/260429sonouti\nhttps://timetr.ee/p/qnico/2930779923349597186
+SUMMARY:『ソノウチ』
+UID:c565bf07-da99-4f06-94cb-8bdbf2e4f694@c565.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260808
+DTEND;VALUE=DATE:20260809
+DESCRIPTION:こぐまカリー主催「Mash UP!」\n\n📍大阪•心斎橋SUNHALL\n⏰開場11:00/開演11:30/閉館21:30頃\n🗓️8/8(土)\n🎁サインチェキ\n🎤12:45-13:08\n📸15:00-16:10\n🗓️8/9(日)\n🎁20秒動画\n🎤11:30-11:53\n📸15:05-16:15\n💰2日通し6500円/各日前売3500円/当日4000円\n🎫 https://t-dv.com/kc2026080809\nhttps://timetr.ee/p/qnico/3005186919292825006
+SUMMARY:こぐまカリー主催「Mash UP!」
+UID:3e0eb771-828b-49c5-8acc-ee2466ddbe71@3e0e.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260903
+DTEND;VALUE=DATE:20260904
+DESCRIPTION:新宿MARZ企画UNIVERSE × 校庭カメラガールフュンフ\n『CROSS JOIN』 #02\n\n🗓️9/3(木)\n📍新宿MARZ\n⏰open 18:30 / start 19:00\n🎤19:30~20:00\n📸21:10~22:10\n💰adv￥2\,500 / door￥3\,000 (+1drink¥600)\n🎫 livepocket.jp/e/0-_62\nhttps://timetr.ee/p/qnico/3033666670248422586
+SUMMARY:新宿MARZ企画UNIVERSE × 校庭カメラガールフュンフ『CROSS JOIN』 #02
+UID:e35ddc61-4581-4d78-8ef3-4df7d8a47a98@e35d.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260710
+DTEND;VALUE=DATE:20260711
+DESCRIPTION:『エンジョイナス!!』\n\n🗓️7/10(金)\n📍SHIBUYA DESEO\n⏰OPEN 18:30 / START 18:50\n🎤20:30-20:55\n📸21:05-22:15\n💰ADV ¥2\,300/DOOR ¥3\,000(+1D)\n🎫 https://t-dv.com/enjoinus260710\n6月20日(土)22:00～販売開始💫\nhttps://timetr.ee/p/qnico/2992795605490298480
+SUMMARY:『エンジョイナス!!』
+UID:4f9a8bda-9f77-4c7e-aaca-bc4f3fb7034a@4f9a.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260426
+DTEND;VALUE=DATE:20260427
+DESCRIPTION:\\🆕!出演決定!🆕/\n\n『High!! High!! High!! 』\n\n🗓️4/26(日)\n📍五反田G4\n🎤18:10-18:30\n📸18:35-19:35\n💰Sチケット前方3\,500円/ Aチケット一般2\,000円 (各+1D)\n🎫 https://tiget.net/events/483218\nhttps://timetr.ee/p/qnico/2945647182828105712
+SUMMARY:『High!! High!! High!! 』
+UID:6e75bef2-6664-4933-b41b-cb1e9f21d008@6e75.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260628
+DTEND;VALUE=DATE:20260629
+DESCRIPTION:INFINITY LIVE presents\n『THE PRISMiNG vol.38』\n\n🗓️6/28(日) \n📍下北沢Flowers Loft\n⏰OPEN 16:30 / START 16:45\n🎤20:15-20:40\n📸20:50-21:50\n🎁写メ\n💰優先入場 ¥3100 / 前売券 ¥2600 / 当日券 ¥3100 (各+1D)\n🎫 t-dv.com/20260628_night\n6/12 20:00から販売開始💫\nhttps://timetr.ee/p/qnico/2968207113041046563
+SUMMARY:INFINITY LIVE presents『THE PRISMiNG vol.38』
+UID:94f53ace-209c-4cd6-acec-e98992519f31@94f5.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261012
+DTEND;VALUE=DATE:20261013
+DESCRIPTION:AFTERS Presents「CAKES & ALE」\n\n🗓️10/12(月)\n📍 GARRET udagawa\n⏰リストバンド交換10:30～(SHIBUYA CYCLONE)\nOPEN 11:40 / START 12:00\n🎤17:40-18:05\n📸18:15-19:15\n🎁サインチェキ\n💰共通チケット ¥4\,000 / SHIBUYA CYCLONE ¥2\,500 / GARRET udagawa ¥2\,500 (別途1D)\n🎫 ticketdive.com/event/cakes_ale\nhttps://timetr.ee/p/qnico/3033680793677950563
+SUMMARY:AFTERS Presents「CAKES & ALE」
+UID:0d306f13-8b43-4128-9ebb-8b8be81f0a0d@0d30.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260407
+DTEND;VALUE=DATE:20260408
+DESCRIPTION:\\🆕!出演決定!🆕/\nこぐまカリー7日連続\n「トーキョーログ」\n\n🗓️4/7(火)\n📍大塚Hearts Next\n⏰OPEN 18:30 / START 19:00\n🎤20:30〜20:58\n📸21:40〜22:40\n💰前売 ¥3\,000 / 当日 ¥3\,500（+1D）\n🎫https://t-dv.com/kc202604\nhttps://timetr.ee/p/qnico/2929881563528785777
+SUMMARY:✨こぐまカリー7日連続「トーキョーログ」✨
+UID:2c9325cc-9c30-425a-963d-cb548438098b@2c93.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260613
+DTEND;VALUE=DATE:20260614
+DESCRIPTION:\\🐙!大阪遠征決定!🐙/\n\n『" DEM DEC "』\n\n🗓️6/13（土）\n📍アメ村FANJtwice\n⏰OPEN14:00 /START14:30\n💰先行抽選¥5\,000/先着¥5\,000\n🎫 https://livepocket.jp/e/y2llt\n本日この後先行抽選チケット受付開始❣️\n先行抽選4/14 (火)21:00～4/16 (木)23:59迄\n抽選販売4/25(土) 21:00〜6/12(金) 23:59迄\nhttps://timetr.ee/p/qnico/2944402993020759591
+SUMMARY:『" DEM DEC "』
+UID:fd38f9d9-6283-4c3f-bc47-ddb4c2daae26@fd38.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261108
+DTEND;VALUE=DATE:20261109
+DESCRIPTION:『WEEKEND INFINITY2026』\n\n🗓️11/8(日)\n⏰OPEN/START 11:00/11:30\n📍 下北沢シャングリラ/CLUB251/MOSAiC(リストバンド交換MOSAiC)\n🎁キュニコくじ\n💰先着先行4\,500円/一般4\,900円(各+1D)\n🎫https://ticketdive.com/event/WEEKENDINFINITY2026\n先着先行は10/18(日)21:00から販売開始💫\nhttps://timetr.ee/p/qnico/3079581933510421551
+SUMMARY:『WEEKEND INFINITY2026』
+UID:dede0c6d-5d5a-48a7-8cbf-e47c2911fb7c@dede.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261027
+DTEND;VALUE=DATE:20261028
+DESCRIPTION:\\🆕!出演決定!🆕/\n\nピューパ!! pre.\n『#ツリィハウス vol.45』 ~ ハロウィンSP!! \n\n🗓️10/27(火)\n📍吉祥寺WARP\n⏰開場19:00 / 開演19:30\n🎤20:20-\n📸21:20-22:30\n🎁キュニコくじ\n💰予約1\,300円 / 当日1\,800円 (+1Drink 700円)\n🎫 https://tiget.net/events/525562\nhttps://timetr.ee/p/qnico/3078475026880098180
+SUMMARY:ピューパ!! pre.『#ツリィハウス vol.45』 ~ ハロウィンSP!! 』
+UID:c061b881-68e5-4ee7-b88c-f502e7a5f95c@c061.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260811
+DTEND;VALUE=DATE:20260812
+DESCRIPTION:紬実詩プロデュース公演\n「Mashup Idols & Knit Orbit!」\n\n🗓️8/11(火祝)\n📍大塚Hearts+\n⏰OPEN 16:15 / START 17:00\n🎁サインチェキ\n💰SS ¥7500 /S ¥6000/前売 ¥3500/当日¥4000(各+1D)\n🎫 t-dv.com/MIKO2026\nhttps://timetr.ee/p/qnico/2997721727374028398
+SUMMARY:紬実詩プロデュース公演「Mashup Idols & Knit Orbit!」
+UID:c3527a0b-4b14-41e5-b735-fe289ab12351@c352.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260530
+DTEND;VALUE=DATE:20260531
+DESCRIPTION:\\🆕!出演決定!🆕/\n\nINFINITY LIVE presents\n『THE PRISMiNG vol.37 Day』\n\n🗓️5/30(土) \n📍下北沢Flowers Loft\n⏰OPEN 11:00 / START 11:20\n🎤13:00-13:25\n📸14:30-15:30\n🎁サインチェキ\n💰優先入場 ¥3100 / 前売券　¥2600 / 当日券 ¥3200(各+1D)\n🎫t-dv.com/20260530_day\nhttps://timetr.ee/p/qnico/2933389734692089110
+SUMMARY:INFINITY LIVE presents『THE PRISMiNG vol.37 Day』
+UID:5f65bd91-3088-4a37-ad4d-88e940396051@5f65.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260405
+DTEND;VALUE=DATE:20260406
+DESCRIPTION:\\🆕出演決定🆕/\n\n『まだ来ない朝 vol.4』\n\n🗓️4/5(日)\n📍新宿MARZ\n⏰開場 18:30 / 開演 19:00\n🎤19:00-19:25\n📸20:35-21:45\n💰前売 2\,500円 / 当日3\,000円(各+1drink)\n🎫 https://ticketdive.com/event/madakonaiasa_vol4\n本日22:00より発売開始❣️\nhttps://timetr.ee/p/qnico/2905252332542979790
+SUMMARY:✨まだ来ない朝 vol.4✨
+UID:58b49210-be3d-45ad-91c9-794e701a5d25@58b4.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260614
+DTEND;VALUE=DATE:20260615
+DESCRIPTION:\\🆕!出演決定!🆕/\n\n新宿周遊FES\n『UNIVERSE × 脱却』\n\n🗓️6/14(日)\n📍新宿LOFT / 新宿MARZ / 新宿WALLY / 新宿DHNoA / 新宿club SCIENCE / 新宿SAMURAI / 新宿Marble \n⏰OPEN 11:30 / START 12:00\n💰前売り¥5\,000 +1D\n🎫 https://livepocket.jp/e/s_5yb\nhttps://timetr.ee/p/qnico/2968206870576720998
+SUMMARY:新宿周遊FES『UNIVERSE × 脱却』
+UID:d45bcd6a-911c-4e43-a15f-6a2508c0b55c@d45b.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260502
+DTEND;VALUE=DATE:20260503
+DESCRIPTION:『ピューパフェス!!2026』\n\n🗓️5/2(土)\n📍新宿Marble\n⏰開場12:00/開演12:30\n🎤13:25-13:50\n📸14:20-15:20\n💰Sチケット ¥8\,000(限定タオル付)\n一般 ¥4\,500 / U25 ¥3\,000\n🎁サインチェキ\n🎫 livepocket.jp/e/pupafes2026\nhttps://timetr.ee/p/qnico/2890067588712853379
+SUMMARY:『ピューパフェス!!2026』
+UID:8dfcb8a3-d402-4b24-9af6-2123d5e24e88@8dfc.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260506
+DTEND;VALUE=DATE:20260507
+DESCRIPTION:INFINITY LIVE presents\n『GORDENCOCO SPECIALWEEK SP 2026』\n\n🗓️5/6(水) \n📍Flowers Loft\n🎤15:50-16:15\n📸17:35-18:35\n💰前売券 ¥3\,500 / 当日券 ¥4\,400（+1Drink ¥700）\n🎁サインチェキ\n🎫 t-dv.com/GORDENCOCO-SPE…\n📢リストバンド交換はMOSAiCにて 11:00から行います❣️\nhttps://timetr.ee/p/qnico/2929858368146861255
+SUMMARY:INFINITY LIVE presents『GORDENCOCO SPECIALWEEK SP 2026』
+UID:d3897dd9-5c19-4187-96bc-a5616fcbe638@d389.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260616
+DTEND;VALUE=DATE:20260617
+DESCRIPTION:『脱却』\n\n🗓️6/16(火)\n📍渋谷VIDENT\n⏰開場: 17:00 / 開演：17:30\n🎤17:55-18:20\n📸18:35-19:35\n💰前売￥2\,500/当日￥3\,500\n🎁写メ\n🎫 https://ticketdive.com/event/nZzFdi6QzFdgqFucGQHD\nhttps://timetr.ee/p/qnico/2968207515224468703
+SUMMARY:『脱却』
+UID:91694dc9-8ffb-4b89-8638-771032c02230@9169.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260510
+DTEND;VALUE=DATE:20260511
+DESCRIPTION:ミ米ミ誕生祭2026\n 🐉❤️‍🔥 炒飯感謝 ❤️‍🔥🐉\n\n🗓️5/10(日)\n📍新宿MARZ\n⏰OPEN 17:30 / START 18:00\n💰グデイ囲みチェキ付き ¥5\,000/前売 ¥3\,500 / 当日 ¥4\,300(各+1D)\n🎁写メ\n🎫 livepocket.jp/e/0510me\n※4/25(土)22:30-5/10(日)15:00\nhttps://timetr.ee/p/qnico/2957302936236551218
+SUMMARY:ミ米ミ誕生祭2026 🐉❤️‍🔥 炒飯感謝 ❤️‍🔥🐉
+UID:fc827c4f-4dd3-4920-972c-0a9622e21511@fc82.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260411
+DTEND;VALUE=DATE:20260412
+DESCRIPTION:\\🆕!出演決定!🆕/\n\n『Tribu presents resonance』\n\n🗓️4/11(土)\n📍西永福JAM\n🎤11:15-11:40\n 📸13:00-14:00\n💰前売/当日：3\,000円/3\,500円(+ドリンク代)\n🎫livepocket.jp/e/20260411reso\n※当日10時までの販売\n📹配信：1\,800円\n🎟️ https://premier.twitcasting.tv/tribu_syo/shopcart/427945\nhttps://timetr.ee/p/qnico/2937089795196284084
+SUMMARY:『Tribu presents resonance』
+UID:eeb688d4-1f35-4a25-8de4-87e987ccd281@eeb6.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260503
+DTEND;VALUE=DATE:20260504
+DESCRIPTION:『Memento Circuit supported by 脱却』\n\n🗓️5/3（日）  \n📍CLUB251\n⏰OPEN11:00/START11:30\n🎤18:25-18:50\n📸19:50-21:00\n💰前売り¥3\,500/当日¥4\,500\n🎫 https://ticketdive.com/event/Memento0503\nhttps://timetr.ee/p/qnico/2926110232421166135
+SUMMARY:『Memento Circuit supported by 脱却』
+UID:8d57c9c6-4a84-423c-bb1a-67e920b7cbeb@8d57.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260512
+DTEND;VALUE=DATE:20260513
+DESCRIPTION:\\🆕!出演決定!🆕/\n\n『Homie』\n\n🗓️5/12(火)\n📍吉祥寺WARP\n⏰OPEN18:50 / START19:20\n🎤19:20-19:50\n📸 21:20-22:30\n💰前売2\,500円 / 当日3\,000円  (各+1D)\n🎁サインチェキ\n🎫 https://livepocket.jp/e/0512_warp\n4/26(日)21:00から販売開始❣️\nhttps://timetr.ee/p/qnico/2943009828112002441
+SUMMARY:『Homie』
+UID:e3e53c9b-c4bd-49f6-9503-7ad8a5725823@e3e5.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260725
+DTEND;VALUE=DATE:20260726
+DESCRIPTION:『TOKYOPOP vol.1』\n\n🗓️7/25(土) 📍BASE GRANBELL 銀座 ⏰OPEN 12:00 / START 12:30\n🎤12:55-13:20\n📸13:30-14:40\n🎁サインチェキ 💰VIP(下手ソファーエリア) ¥4\,500  一般 ¥2\,500 🎫 t-dv.com/TOKYOPOP_260725\nhttps://timetr.ee/p/qnico/2994834430643236292
+SUMMARY:『TOKYOPOP vol.1』
+UID:12586ba9-71f3-4b02-bbbd-fb29451bd79a@1258.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260831
+DTEND;VALUE=DATE:20260901
+DESCRIPTION:『Gimme!×Gimme! みらい 卒業ライブ』\n\n🗓️8/31(月)\n📍四谷LOTUS\n⏰OPEN18:30 / START19:00\n🎁写メ\n💰S¥10\,000/一般¥2\,500(各＋1D)\n🎫 t-dv.com/MIRAI_GraduationLive\nhttps://timetr.ee/p/qnico/3013688896695921865
+SUMMARY:『Gimme!×Gimme! みらい 卒業ライブ』
+UID:87252cab-c1ae-4ecf-b66e-8ec9aa274b8e@8725.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260521
+DTEND;VALUE=DATE:20260522
+DESCRIPTION:\\🆕!出演決定!🆕/\n\n『Tribu presents Deep Thursday 3』\n\n🗓️5/21(木)\n📍大塚Hearts＋\n🎤19:50-20:15\n📸21:30-22:30\n🎁サインチェキ\n💰前売/当日：3\,000円/3\,500円(各+1D)\n🎫 https://livepocket.jp/e/20260521deep3\nhttps://timetr.ee/p/qnico/2932043113236622548
+SUMMARY:『Tribu presents Deep Thursday 3』
+UID:38ca7f80-52db-42d1-833b-e71c568c41be@38ca.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261016
+DTEND;VALUE=DATE:20261017
+DESCRIPTION:NUANCE presents 『ヌュナッス』\nsupported by エンジョイナス!!\n\n🗓️10/16(金)\n📍SHIBUYA DESEO\n⏰OPEN 18:15 START 18:45\n🎤19:15-19:45\n📸20:45-22:00\n🎁サインチェキ\n💰adv 2\,500円 door 3.200円 (各＋1D)\n🎫 t-dv.com/NUNNUS_3\n※2026年9月24日(水)22:00～9月3日(木)23:59まで\nhttps://timetr.ee/p/qnico/3062356860550605933
+SUMMARY:NUANCE presents 『ヌュナッス』supported by エンジョイナス!!
+UID:e89b98ab-a9e0-43ab-b9b0-c7b3fb9376fc@e89b.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260531
+DTEND;VALUE=DATE:20260601
+DESCRIPTION:\\🆕!出演決定!🆕/\n\nUNIVERSE企画『Dance party』\n\n🗓️5/31(日)\n📍新宿MARZ\n⏰open 10:30 / start 11:00\n🎁サインチェキ\n💰S通し券3\,500 / 各部前売￥2\,200 / 当日券￥2\,700 (+1drink¥600)\n🎫 livepocket.jp/e/h83d4\nhttps://timetr.ee/p/qnico/2914659470755327134
+SUMMARY:UNIVERSE企画『Dance party』
+UID:5683b7a5-b053-4a1b-9acc-43f56567005d@5683.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260530
+DTEND;VALUE=DATE:20260531
+DESCRIPTION:\\📢!TT公開!📢/\n\n「Hide and Seek」\n\n🗓️5/30(土)\n📍新宿MARZ\n⏰開場 17:00 / 開演 17:30\n🎤17:30-18:00\n📸20:20-21:50\n🎁サインチェキ\n💰前売り3\,000円/当日3\,500円(各種+1D)\n🎫 ticketdive.com/event/HideandS…\nhttps://timetr.ee/p/qnico/2969583390213893174
+SUMMARY:「Hide and Seek」
+UID:4dafd99c-356c-4ecc-944c-b272cb5fbded@4daf.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260523
+DTEND;VALUE=DATE:20260524
+DESCRIPTION:\\🆕!出演決定!🆕/\n\n｢夢より素敵な-2026-SEIZE THE DAY｣\n\n🗓️5/23（土）\n📍新宿MARZ \n⏰OPEN 10:20 / START 10:40\n🎤13:55-14:15\n📸15:25-16:25\n🎁10秒動画\n💰前売 ¥2\,800 / 当日 ¥3\,500（1ドリンク代別途）\n🎫 t-dv.com/YumeyoriSuteki…\nhttps://timetr.ee/p/qnico/2950023497828101519
+SUMMARY:｢夢より素敵な-2026-SEIZE THE DAY｣
+UID:314ec0ff-4c93-4255-9c03-7453d858d9af@314e.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260803
+DTEND;VALUE=DATE:20260804
+DESCRIPTION:\\🆕!出演決定!🆕/\n\nピューパ!!飴乃のあ生誕祭2026\n「Rosarium」\n\n🗓️8/3(月)\n📍新宿MARZ\n⏰開場18:15/開演18:45\n🎁サインチェキ\n💰S 4\,000円/A 2\,800円/U25 1\,500円(25歳以下) (各＋1D)\n🎫 https://livepocket.jp/e/rosarium2026\nhttps://timetr.ee/p/qnico/3007426167811173962
+SUMMARY:ピューパ!!飴乃のあ生誕祭2026「Rosarium」
+UID:0dfe53f8-f74f-4c63-9215-d7384f6ce4cd@0dfe.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260514
+DTEND;VALUE=DATE:20260515
+DESCRIPTION:\\🆕!出演決定!🆕/\n\n『あきばのむせんともだち』\n\n🗓️5/14(木) \n📍TwinBoxAKIHABARA \n⏰OPEN/18:30 START/19:00\n🎤19:25-19:50\n📸20:50-22:00\n🎁写メトーク\n💰前方2000円/一般0円(各+1D)\n(当日券 各700円UP ) \n🎫 https://t-dv.com/bestfriendakibamusen514\nhttps://timetr.ee/p/qnico/2964513409843424504
+SUMMARY:『あきばのむせんともだち』
+UID:20348a67-add5-4511-805e-bd6664ddafde@2034.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260912
+DTEND;VALUE=DATE:20260913
+DESCRIPTION:UNIVERSE企画 4th anniversary\n『Dance party』\n\n🗓️9/12(土)\n📍新宿MARZ\n⏰2部open 17:30 / start 18:00\n🎤 18:00-18:30\n📸 20:10-21:10\n🎁サインチェキ\n💰 通し券 ¥3\,200 / adv￥2\,200 / door￥2\,700 (+1drink¥600)\nlivepocket.jp/e/0wxdy\nhttps://timetr.ee/p/qnico/3026856916805054003
+SUMMARY:UNIVERSE企画 4th anniversary『Dance party』
+UID:b6dfa4b7-10b8-4d5d-b1cd-92ae12f043aa@b6df.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260813
+DTEND;VALUE=DATE:20260814
+DESCRIPTION:『IDOLRIzM-アイドルリズムスリーマンSP-』\n\n🗓️8/13（火）\n📍青山RizM\n⏰OPEN19:00 / START19:20\n🎤20:20-20:50\n📸20:55-22:00\n🎁サインチェキ\n💰前売 ¥2\,000- / 当日 ¥3\,000- (+各1D)\n🎫 ticketdive.com/event/IDOLRIzM…\nhttps://timetr.ee/p/qnico/3031996313846246951
+SUMMARY:『IDOLRIzM-アイドルリズムスリーマンSP-』
+UID:94b5ef50-063d-4966-b1eb-b87cc3f2e256@94b5.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260705
+DTEND;VALUE=DATE:20260706
+DESCRIPTION:\\🆕!出演決定!🆕/\n\nINFINITY LIVE presents\n『INFINITY LIVE presents ASTRO FES 2026 -Summer - AFTER PARTY!!』\n\n🗓️7/5(日) \n📍四谷LOTUS\n🎤18:40-19:05\n📸20:35-21:35\n🎁写メ\n💰前売券 ¥2800 / 当日券 ¥3600（各+1D）\n🎫 t-dv.com/20260705_all\nhttps://timetr.ee/p/qnico/2995775187654897248
+SUMMARY:INFINITY LIVE presents『INFINITY LIVE presents ASTRO FES 2026 -Summer - AFTER PARTY!!』
+UID:018d1932-a7de-43fe-9325-daf7859e9b96@018d.org
 END:VEVENT
 END:VCALENDAR

@@ -2,1046 +2,1046 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260528
-DTEND;VALUE=DATE:20260529
-DESCRIPTION:SITUASION Presents\n『SABORIRYU』\nㅤ\n▶︎2026.5.28(木)\n▶︎恵比寿LIQUIDROOM\n▶︎OP 13:20/ST 13:50\n▶︎前方 ¥6\,000/一般 ¥3\,000\n\n🎤16:45-17:10\n📸17:20-18:30\n🔗https://t-dv.com/saboriryuliquidroom528\nㅤ\n🎁チェキ券+1pt(前方+3pt)\nhttps://timetr.ee/p/hbn_187/2953824886844745660
-SUMMARY:東京｜SABORIRYU
-UID:edfa0d4a-6600-40fc-8078-64d32aadcde0@edfa.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260711
-DTEND;VALUE=DATE:20260712
-DESCRIPTION:『アイドル甲子園 in KANDA SQUARE HALL』\n\n✅《DAY1》\n▶︎2026.7.11(土)\n▶︎OP 9:15/ST 9:30\n▶︎前方 ¥8\,500/一般 ¥3\,500\n\n🎤17:40-18:05\n📸18:25-19:45\n\n🎫https://user.my-th.jp/tickets/event/aikou_0711\n＊6/16(火)20:00販売開始\n\n🎁前方 3pt/一般 1pt\nhttps://timetr.ee/p/hbn_187/2971131536752436592
-SUMMARY:東京｜アイドル甲子園 in KANDA SQUARE HALL
-UID:91dbc7be-d3fb-47f1-a440-cf7a356a8c74@91db.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261127
-DTEND;VALUE=DATE:20261128
-DESCRIPTION:湊川未唯BIRTHDAY LIVE\n『ハッピーバースデー to Mii2』\n\n▶︎2026.11.27(金)\n▶︎LiveHouse ANIMA\n▶︎OP 18:30/ST 19:30(前物販あり)\n▶︎BDチケット ¥8\,000/一般 ¥2\,000\n\n【BDチケット特典】\n優先入場/生誕衣装ポスター/撮影ファストパス1枚\n※BDチケットの売上は当日のフラワースタンド等に充当させていただきます。\n\nーーーーーーーーーーーーーーー\n\n▼チケット情報▼\n\n只今より先行抽選申込受付開始💥🔫\n\n✅先行抽選：～11/6(金)23:59\n  ※発表予定：11/7(土)12:00頃\n\n✅一般販売：11/7(土)22:00〜\n\n🔗t-dv.com/mii_bd2\n\nーーーーーーーーーーーーーーー\n\n・HIBANAでは「生誕委員」の発足をお断りさせていただきます。\n・お客様同士での金銭の要求、徴収等はご遠慮くださいますようお願い申し上げます。\n・フラワースタンド、会場装飾等は運営スタッフにて実施させていただきます。\n・会場へ設置するもの(お花、パネル等)の配送やお持ち込みがあった場合も全てお断りさせていただきます。\n・特典会にて個人へプレゼントをお渡しいただくことは、ルールの範囲内(lit.linkをご確認ください)で可能です。\n\nご来場くださる皆様、そして未唯自身に心から楽しんでもらえる1日に出来るよう、メンバー、運営一同取り組んで参ります。\n何卒ご理解、ご協力の程よろしくお願い申し上げます。\nhttps://timetr.ee/p/hbn_187/2971134836335896055
-SUMMARY:🎂大阪｜ハッピーバースデー to Mii2
-UID:163e0bd4-2ee2-4d81-aa98-a49e75188f27@163e.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261212
-DTEND;VALUE=DATE:20261213
-DESCRIPTION:『UTAGE FES Vol.5.5』\nㅤ\n▶︎2026.12.12(土)\n▶︎代々木公園野外ステージ / 代々木公園特設ステージ\n▶︎OP 9:00/ST 10:00\n▶︎VIP ¥5\,000\n▶︎特典会参加券付一般 ¥1\,000/一般 ¥0\nㅤ\n✅先行抽選：〜11/8(日)23:59\n✅一般先着：11/9(月)20:00〜\n🔗t-dv.com/UTAGEFES_1212\nㅤ\n🎁VIP：チェキ券+1pt\n🎁特典会参加券付：1pt\nhttps://timetr.ee/p/hbn_187/3068509091695879758
-SUMMARY:東京｜UTAGE FES Vol.5.5
-UID:fba67e11-7992-4958-8f80-1f4be9f5189b@fba6.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260517
-DTEND;VALUE=DATE:20260518
-DESCRIPTION:『アイドル甲子園 in 品川インターシティホール』\n\n✅《DAY2》\n▶︎2026.5.17(日)\n▶︎OP 9:00/ST 9:15\n▶︎前方 ¥8\,500/一般 ¥3\,500\n\n🎤19:30-19:55\n📸21:10-22:30\n\n🔗https://user.my-th.jp/tickets/event/aikou_0517\n＊4/28(火)21:00販売開始\n\n🎁チェキ券+1pt(前方+3pt)\nhttps://timetr.ee/p/hbn_187/2958164683340048151
-SUMMARY:東京｜アイドル甲子園 in 品川インターシティホール
-UID:dca725e4-057b-451b-980d-169952e1d2fb@dca7.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260828
-DTEND;VALUE=DATE:20260829
-DESCRIPTION:『A Villa 2026 前夜祭』\nㅤ\n▶︎2026.8.28(金)\n▶︎SYNC north / Sound lab mole / cube garden / SPiCE\n▶︎OP 15:00/ST 16:00\n▶︎前方 ¥8\,000/前売 ¥3\,500/SPiCE会場 ¥0\nㅤ\n🎤17:20-17:45\n📸17:55-19:05\n\n8/13(木)20:00販売開始🔫\nt-dv.com/a_villa_zenya\nㅤ\n🎁チェキ券+1pt(前方3pt)\nhttps://timetr.ee/p/hbn_187/2974088108000601624
-SUMMARY:北海道｜A Villa 2026 前夜祭
-UID:7f19a8ec-be62-4ada-bdba-76fb304cf705@7f19.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260807
-DTEND;VALUE=DATE:20260808
-DESCRIPTION:『IDOL SUMMER JUNGLE 2026』\n\n▶︎2026.8.7(金)\,8(土)\n▶︎お台場R地区\n▶︎OP 9:00/ST 10:00\n▶︎VIP ¥28\,000/一般 ¥5\,000/女性 ¥4\,000\n\n✅《DAY1》8/7(金)\n📍SNAKE STAGE\n🎤19:00-19:15\n📸16:00-17:00［11］\n\nVIPチケット先行抽選：〜7/5(日)23:59\nVIPチケット一般発売：7/6(月) 18:00〜\n一般/女性チケット：販売中\n🔗https://t-dv.com/idolsummerjungle2026\nhttps://timetr.ee/p/hbn_187/2991463347948807885
-SUMMARY:東京｜IDOL SUMMER JUNGLE 2026
-UID:4e6bae6b-7517-457b-8eb1-6e855ecdeeac@4e6b.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260919
-DTEND;VALUE=DATE:20260920
-DESCRIPTION:『手羽先セッション vol.19』\nㅤ\n▶︎2026.9.19(土)\n▶︎名古屋 ReNY limited / Zephyr Hall\n▶︎OP 11:00/ST 11:30\n▶︎前売り ¥5\,000/当日 ¥5\,500\nㅤ\n📍ReNY limited\n🎤16:55-17:20\n📸17:35-18:35 (A)\n\n✅先行抽選：〜8/27(木)12:00\n✅一般先着：8/27(木)22:00〜\n🔗t-dv.com/tebasession_19\nㅤ\n🎁チェキ券+2pt\nhttps://timetr.ee/p/hbn_187/3000866256029410507
-SUMMARY:名古屋｜手羽先セッション vol.19
-UID:de2f49c2-e2ad-46d5-b256-7172a9d0df37@de2f.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260928
-DTEND;VALUE=DATE:20260929
-DESCRIPTION:松葉-MATSUBA- Prelude Live\n『Needle Point #3 』\n\n▶︎2026.9.28(月)\n▶︎BLAZE GOTANDA\n▶︎OPEN 18:00/START 18:30\n▶︎優先 ¥3\,500/一般 ¥2\,000\n\n［出演］HIBANA / ジエメイ / AsIs / Merry BAD TUNE.\n\n9/14(月)21:00販売開始🔫\nt-dv.com/NeedlePoint3\n\n🎁チェキ券+3pt\nhttps://timetr.ee/p/hbn_187/3000866435075860188
-SUMMARY:🌈東京｜Needle Point #3
-UID:a1d7c6f3-c204-4d49-8f12-e1584251e973@a1d7.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261104
-DTEND;VALUE=DATE:20261105
-DESCRIPTION:Cosmoslay 3rd Anniversary EVENT\n『FEVER』\n\n▶︎2026.11.4(水)\n▶︎DIAMOND HALL\n▶︎OP 17:50/ST 18:20\n▶︎Sチケット ¥7\,777/Aチケット ¥3\,333\n\n🎤18:20-18:50\n📸21:20-22:40\n🔗t-dv.com/cos_3rd_fever\n\n🎁チェキ券+1pt\nhttps://timetr.ee/p/hbn_187/3063881355006240579
-SUMMARY:名古屋｜FEVER
-UID:1e5b88b5-752b-4e27-8fa3-44ba1e9f9173@1e5b.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260505
-DTEND;VALUE=DATE:20260506
-DESCRIPTION:NEO JAPONISM主催公演\n『KASSEN -GW SP-』\n\n▶︎2026.5.5(火)\n▶︎GARDEN新木場FACTORY ▶︎OP 8:00/ST 8:30\n▶︎Sチケット ¥8\,500/一般チケット ¥4\,000\n\n🎤9:45-10:10\n📸10:20-11:30\n🔗https://ticketdive.com/event/kassen-2026-05-05\n\n🎁チェキ券+2pt\n(Sチケットは+4pt)\nhttps://timetr.ee/p/hbn_187/2928428529611105523
-SUMMARY:東京｜KASSEN -GW SP-
-UID:5691f5aa-7c99-438a-8d10-cda16bf39095@5691.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260926
-DTEND;VALUE=DATE:20260927
-DESCRIPTION:『アイドル甲子園 in 品川インターシティホール』\nㅤ\n▶︎2026.9.26(土)\n▶︎品川インターシティホール\n▶︎OP 8:45/ST 9:00\n▶︎前方 ¥8\,500/一般 ¥3\,500\nㅤ\n🎤19:25-19:50\n📸21:10-22:30\n\n8/30(日)20:00販売開始🔫\nhttps://user.my-th.jp/?redirect=/tickets/event/aikou_0926\nㅤ\n🎁チェキ券+1pt(優先3pt)\nhttps://timetr.ee/p/hbn_187/3000866320428754502
-SUMMARY:東京｜アイドル甲子園 in 品川インターシティホール
-UID:28649e94-530a-40ad-a3ef-087ca1a971ba@2864.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260613
-DTEND;VALUE=DATE:20260614
-DESCRIPTION:『アイドル甲子園 in KANDA SQUARE HALL』\n\n✅《DAY1》\n▶︎2026.6.13(土)\n▶︎OP 9:15/ST 9:30\n▶︎前方 ¥8\,500/一般 ¥3\,500\n\n🎤16:05-16:30\n📸16:50-18:10\n\nhttps://user.my-th.jp/tickets/event/aikou_0613\n＊5/19(火)20:00販売開始\n\n🎁チェキ券+1pt(優先3pt)\nhttps://timetr.ee/p/hbn_187/2928430291235563268
-SUMMARY:東京｜アイドル甲子園 in KANDA SQUARE HALL
-UID:823575af-d6cc-4d27-be7a-78db440d6c9b@8235.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260922
-DTEND;VALUE=DATE:20260923
-DESCRIPTION:『SPARK 2026 in YAMANAKAKO』\nㅤ\n▶︎2026.9.21(月祝)\,22(火祝)\,23(水祝)\n▶︎山中湖交流プラザきらら\n▶︎OP 9:00/ST 10:00\n▶︎SPARKチケット ¥30\,000\n▶︎一般チケット ¥7\,500\nㅤ\n✅9/22(火) 《BOTAN》\n🎤13:10-13:35\n📸13:55-15:05 (6)\n\n🔗https://t-dv.com/spark2026yamanakako\nㅤ\nHIBANA、初山中湖です‼️\n9月はまだ夏‼️夏フェスです‼️\nhttps://timetr.ee/p/hbn_187/2978373093012465623
-SUMMARY:山梨｜SPARK 2026 in YAMANAKAKO
-UID:7400232f-5d38-4501-b0df-49c3b206c1c1@7400.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260808
-DTEND;VALUE=DATE:20260809
-DESCRIPTION:『IDOL SUMMER JUNGLE 2026』\n\n▶︎2026.8.7(金)\,8(土)\,9(日)\n▶︎お台場R地区\n▶︎OP 9:00/ST 10:00\n▶︎VIP ¥28\,000/一般 ¥5\,000/女性 ¥4\,000\n\n✅《DAY2》8/8(土)\n📍MONKEY STAGE\n🎤14:35-14:55\n📸15:15-16:15［6］\n\nVIPチケット先行抽選：〜7/5(日)23:59\nVIPチケット一般発売：7/6(月) 18:00〜\n一般/女性チケット：販売中\n🔗https://t-dv.com/idolsummerjungle2026\nhttps://timetr.ee/p/hbn_187/2991463593139430681
-SUMMARY:東京｜IDOL SUMMER JUNGLE 2026
-UID:0c9fc77b-dc91-4031-9592-781f6ac92764@0c9f.org
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261017
 DTEND;VALUE=DATE:20261018
 DESCRIPTION:『New Story』\nㅤ\n▶︎2026.10.17(土)\n▶︎BLAZE GOTANDA\n▶︎OP 10:45/ST 11:00\n▶︎前方 ¥7\,000/前売 ¥3\,500\nㅤ\n🎤20:25-20:50\n📸21:15-22:35\n🔗livepocket.jp/e/ns1017b\nㅤ\n🎁チェキ券+1pt\nhttps://timetr.ee/p/hbn_187/3036223251603186701
 SUMMARY:東京｜New Story
-UID:fb6d251e-5e6a-40ac-9ced-6b5e295e6a1c@fb6d.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260606
-DTEND;VALUE=DATE:20260607
-DESCRIPTION:HIBANA Presents\n『導花閃』\n\n▶︎2026.6.6(土)\n▶︎SHIBUYA WWW\n▶︎OP 16:00/ST 16:30\n▶︎前売 ¥3\,500/当日 ¥4\,000\n\n🎤19:05-19:35\n📸19:45-21:10\n\nチケット販売中💥🔫\nt-dv.com/dokasen_tokyo\n\n🎁チェキ券+2pt\nhttps://timetr.ee/p/hbn_187/2928429920903685315
-SUMMARY:🌈東京｜導花閃
-UID:b83f7ef4-24b0-45c2-a1e1-63d1c11063e0@b83f.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260713
-DTEND;VALUE=DATE:20260714
-DESCRIPTION:松葉-MATSUBA- Prelude Live\n『Needle Point #1 』\n\n▶︎2026.7.13(月)\n▶︎BLAZE GOTANDA\n▶︎OPEN 18:00/START 18:30\n▶︎優先 ¥3\,500/一般 ¥2\,000\n\n［出演］\nHIBANA / Tohkei / こみっきゅおん！\n\n7/5(日)22:00販売開始\nt-dv.com/NeedlePoint1\n\n🎁優先：2pt\nhttps://timetr.ee/p/hbn_187/2971131691639694402
-SUMMARY:🌈東京｜Needle Point #1
-UID:6e19ba62-8f8d-4bb2-b4d0-9bb378021d3c@6e19.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260511
-DTEND;VALUE=DATE:20260512
-DESCRIPTION:『環状線メリーゴーランド 2026 in 心斎橋JANUS』\nㅤ\n▶︎2026.5.11(月)\n▶︎OP 17:15/ST 17:30\n▶︎前売 ¥2\,500/当日 ¥3\,000\n\n🎤20:05-20:30\n📸21:10-22:20\n🔗livepocket.jp/e/merigo_511\nㅤ\n🎁チェキ券+1pt\nhttps://timetr.ee/p/hbn_187/2928428675765822816
-SUMMARY:大阪｜環状線メリーゴーランド 2026 in 心斎橋JANUS
-UID:b040c58e-162d-45ed-b8d0-2b47a2770604@b040.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260623
-DTEND;VALUE=DATE:20260624
-DESCRIPTION:『火花放電 -13V-』\n\n▶︎2026.6.23(火)\n▶︎FANJ twice\n▶︎OP 19:00/ST 19:30\n▶︎前売 ¥2\,000/当日 ¥2\,500\n\n6/18(木)販売開始🔫\nt-dv.com/hibana_13v\n\n今月は2週連続で火花放電開催します💥\n\n🎁入場ポイント13pt付与⚡️\nhttps://timetr.ee/p/hbn_187/2983491848080123902
-SUMMARY:🌈大阪｜火花放電 -13V-
-UID:cc961568-67b3-428a-8f3e-0cbaedee7f95@cc96.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260628
-DTEND;VALUE=DATE:20260629
-DESCRIPTION:『アイドル甲子園FESTIVAL 2026』\n\n✅《DAY2》\n▶︎2026.6.28(日)\n▶︎TFTホール\n▶︎OP 9:00/ST 9:30\n▶︎前方 ¥11\,000/一般 ¥5\,500\n\n📍TFTホール1000\n🎤18:00-18:25\n📸18:45-20:05\n\n🔗https://user.my-th.jp/tickets/event/ikoufes_0628\n＊6/4(木)22:00販売開始\n\n🎁優先：チェキ券+4pt\n🎁一般：2pt\nhttps://timetr.ee/p/hbn_187/2928430715044816853
-SUMMARY:東京｜アイドル甲子園FESTIVAL 2026
-UID:2aab1468-578d-494c-83e2-fc9ee1fe5399@2aab.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260503
-DTEND;VALUE=DATE:20260504
-DESCRIPTION:『IDOL SUMMER JUNGLE GOLDEN』\n\n▶︎2026.5.3(日)\n▶︎お台場R地区\n▶︎OP 9:00/ST 10:00\n▶︎VIPチケット ¥25\,000\n▶︎一般 ¥5\,000/女性 ¥4\,000\n\n#HIBANA は5/3(日)出演💥\n\n🎤17:10-17:30(MONKEY STAGE)\n📸17:50-18:50(⑤)\n🔗t-dv.com/samajan_golden\n\n#火花散らす閃光ポップ\n#サマジャン\nhttps://timetr.ee/p/hbn_187/2928428416692053158
-SUMMARY:東京｜IDOL SUMMER JUNGLE GOLDEN
-UID:0afb8a95-7432-4728-a8b3-20cf6613d302@0afb.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260704
-DTEND;VALUE=DATE:20260705
-DESCRIPTION:『超NATSUZOME 2026』\n\n▶︎2026.7.4(土)\n▶︎幕張海浜公園Gブロック特設会場 \n▶︎OP 9:00/ST 10:00 \n▶︎VIP ¥27\,000/一般 ¥8\,000\n\n1️⃣BAKUステージ🟡\n🎤11:35-11:50\n\n2️⃣SOMARIステージ🟠\n🎤14:30-14:45\n\n🔗https://r10.to/chonatsuzome2026\n\n🎁VIP：写メ券+動画券+8pt\n🎁一般：3pt\nhttps://timetr.ee/p/hbn_187/2950134166241862670
-SUMMARY:千葉｜超NATSUZOME 2026
-UID:00cd1586-734a-4473-8487-b139b14f65e7@00cd.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261020
-DTEND;VALUE=DATE:20261021
-DESCRIPTION:NEO JAPONISM 主催公演\n『"KASSEN" 粋 -IKI-』\nㅤ\n▶︎2026.10.20(火)\n▶︎Zepp Shinjuku\n▶︎OP TBA/ST TBA\n▶︎S ¥8\,000/一般 ¥3\,000\nㅤ\n✅先行抽選：〜10/12(月)23:59\n✅一般先着：10/13(火)20:00〜\nt-dv.com/kassen-2026-10…\nㅤ\n🎁チェキ券+1pt\nhttps://timetr.ee/p/hbn_187/3068395491740280715
-SUMMARY:東京｜"KASSEN" 粋 -IKI-
-UID:ac5b99e1-7f59-43ed-b691-5bf2cfa6d27e@ac5b.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260825
-DTEND;VALUE=DATE:20260826
-DESCRIPTION:Appare! Presents\n『エンドレスサマー2026』\n\n▶︎2026.8.25(火)\n▶︎渋谷8会場連動\n▶︎OP 10:30/ST 11:00\n\n#HIBANA\n🍉すいかステージ🍉\n🎤12:50-13:15 【O-WEST】\n📸13:30-14:30【HARLEM 2F】\n\n✅夏は終わらない！チケット\n  ▶︎¥10\,000(限定Tシャツ付)\n《抽選受付》：〜8/9(日)23:59\n《一般発売》：8/10(月)21:00〜\n✅一般チケット\n  ▶︎¥4\,000 販売中❕\n🔗https://t-dv.com/endlessummer2026\n\n🎁チェキ券+1pt(優先3pt)\nhttps://timetr.ee/p/hbn_187/2994407022131602698
-SUMMARY:東京｜エンドレスサマー2026
-UID:96e08202-25ae-4d9a-b4b2-73ba631edfdc@96e0.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261024
-DTEND;VALUE=DATE:20261025
-DESCRIPTION:『MAVERICK』\nㅤ\n▶︎2026.10.24(土)\n▶︎BASE GRANBELL 銀座\n▶︎OP 12:00/ST 12:30\n▶前売 VIP ¥5\,600/前売 一般 ¥2\,800\nㅤ\n🎤17:15-17:40\n📸18:15-19:25\nㅤ\n10/2(金)21:30販売開始🔫\nt-dv.com/MAVERICK_261024\nㅤ\n🎁チェキ券+1pt\nhttps://timetr.ee/p/hbn_187/3067631808621765802
-SUMMARY:東京｜MAVERICK
-UID:ed9c34a2-487f-4687-b029-eb614eee46f3@ed9c.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260527
-DTEND;VALUE=DATE:20260528
-DESCRIPTION:『TIFメインステージ争奪LIVE 決起集会FREE LIVE』\n\n✅《-第一幕-》\n▶︎2026.5.18(月)\n▶︎BLAZE GOTANDA\n▶︎OP 18:20/ST 19:00\n▶︎優先 ¥5\,000/一般 ¥0\n🔗t-dv.com/187kekki_1\n＊5/1(金)21:00販売開始🔫\n\n✅《-第二幕-》\n▶︎2026.5.27(水)\n▶︎代官山UNIT\n▶︎OP 18:50/ST 19:30\n▶︎優先 ¥5\,000/一般 ¥0\n🔗t-dv.com/187kekki_2\n＊5/1(金)21:30販売開始🔫\n\n✅《-第三幕-》\n▶︎2026.6.1(月)\n▶︎duo MUSIC EXCHANGE\n▶︎OP 18:20/ST 19:00\n▶︎優先 ¥5\,000/一般 ¥0\n🔗t-dv.com/187kekki_3\n＊5/1(金)22:00販売開始🔫\n\n🎁優先：2pt\n※一般チケットD代事前徴収\nhttps://timetr.ee/p/hbn_187/2956003809938564616
-SUMMARY:東京｜TIFメインステージ争奪LIVE 決起集会FREE LIVE
-UID:68b4a17c-40f5-459c-8aee-1b09342c3333@68b4.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260624
-DTEND;VALUE=DATE:20260625
-DESCRIPTION:feelNEO×HIBANA 2MAN Live!!\n『NEO SPARK』\nㅤ\n▶︎2026.6.24(水)\n▶︎Live House ANIMA\n▶︎OP 19:00/ST 19:30\n▶︎前売 ¥2\,500/当日 ¥3\,000\nㅤ\n✅抽選販売\n5/17(日)17:00〜5/25(月)23:59\n✅一般発売\n5/26(火)21:30〜\n🔗https://t-dv.com/x0GYEa3LVuk56WtUTXdm\nㅤ\n🎁チェキ券+1pt\nhttps://timetr.ee/p/hbn_187/2960320768180151435
-SUMMARY:大阪｜NEO SPARK
-UID:c9254f16-5ce7-4193-87d1-77784bd886ec@c925.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260510
-DTEND;VALUE=DATE:20260511
-DESCRIPTION:『MAWA LOOP OSAKA 2026』\n\n⚡️《DAY2》\n🗓️2026.5.10(日)\n📸18:35-19:50(御堂筋ホール1)\n🎤20:45-21:15 (ANIMA)\n\nーーーーーーーーーーーーーーー\n\n▶︎OP 11:30/ST 12:00\n＊リストバンド交換10:00〜\n▶︎1dayチケット ¥7\,300 / 2daysチケット ¥13\,800\n▶︎ライブハウス入場整理券 ¥500\n※詳細は後日ご案内\n\nチケット販売中💥🔫\n🔗eplus.jp/mawaloop/\nhttps://timetr.ee/p/hbn_187/2918270827383678409
-SUMMARY:大阪｜MAWA LOOP OSAKA 2026
-UID:25a535f6-78a9-46f7-8910-23db2764bacd@25a5.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260509
-DTEND;VALUE=DATE:20260510
-DESCRIPTION:『MAWA LOOP OSAKA 2026』\n\n⚡️《DAY1》\n🗓️2026.5.9(土)\n🎤15:35-16:05 (OSAKAMUSE)\n📸16:35-17:50 (御堂筋ホール8)\n\nーーーーーーーーーーーーーーー\n\n▶︎OP 11:30/ST 12:00\n＊リストバンド交換10:00〜\n▶︎1dayチケット ¥7\,300 / 2daysチケット ¥13\,800\n▶︎ライブハウス入場整理券 ¥500\n※詳細は後日ご案内\n\nチケット販売中💥🔫\n🔗eplus.jp/mawaloop/\nhttps://timetr.ee/p/hbn_187/2918270627533481919
-SUMMARY:大阪｜MAWA LOOP OSAKA 2026
-UID:7c9b46ff-3400-4b27-bede-11c9d3be3300@7c9b.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260830
-DTEND;VALUE=DATE:20260831
-DESCRIPTION:『URA A Villa DAY.2』\nㅤ\n▶︎2026.8.30(日)\n▶︎SYNC north\n▶︎OP 9:30/ST 10:00\n▶︎前方 ¥8\,000/前売 ¥4\,000\nㅤ\n🎤12:55-13:20\n📸13:45-15:05\n🔗t-dv.com/ura_a_villa2\nㅤ\n🎁チェキ券+1pt(前方3pt)\nhttps://timetr.ee/p/hbn_187/2961767530715604519
-SUMMARY:北海道｜URA A Villa DAY.2
-UID:eeca8ca1-cde8-46b9-bacd-2ebb2353fb0b@eeca.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260517
-DTEND;VALUE=DATE:20260518
-DESCRIPTION:『IDOL STORM』 \n\n▶︎2026.5.17(日)\n▶︎Music restaurant APEXIA(ATOM新宿)\n▶︎OP TBA/ST TBA\n▶︎前方¥8\,000/一般¥2\,500\n\n🎤12:30-12:55\n📸13:15-14:15\n🔗t-dv.com/IDOLStorm0517\n\nHIBANAトッパーを努めます💥\n開幕から上げていきましょう☝️☝️\n\n🎁チェキ券+1pt(優先3pt)\nhttps://timetr.ee/p/hbn_187/2928428867957220368
-SUMMARY:東京｜IDOL STORM
-UID:88fac902-4891-4db0-a56a-23c014681f63@88fa.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260917
-DTEND;VALUE=DATE:20260918
-DESCRIPTION:文化放送presents\n『idoLove You♫-On Stage QR-vol.2』\nㅤ\n▶︎2026.9.17(木)\n▶︎ステラボール\n▶︎OP 9:30/ST 10:00\n▶︎VIPチケット ¥8\,000/一般チケット ¥3\,000\nㅤ\n🎤13:30-13:50\n📸14:00-15:00\n\n【チケット受付】\n▶︎VIP先行抽選：〜8/27(木)23:59\n▶︎VIP先着販売：8/28(金)20:00〜\n▶︎一般先着販売：只今より開始⚠️\n🔗t-dv.com/idoLoveYou_0917\nㅤ\n🎁チェキ券+1pt(優先3pt)\nhttps://timetr.ee/p/hbn_187/3036222181636236917
-SUMMARY:東京｜idoLove You♫-On Stage QR-vol.2
-UID:5dc97283-42a6-45ba-a0ee-3bdb2dfb1b5b@5dc9.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260731
-DTEND;VALUE=DATE:20260801
-DESCRIPTION:『TIF2026 メインステージ争奪LIVE-決勝戦-』\n\n▶︎2026.7.31(金)\n▶︎TIF2026【HEAT GARAGE】\n▶︎19:15〜\n\nローソンチケットにて、対象のTIF2026先行販売チケットをご購入いただいていた方を対象に、決勝戦2つの受付が開始しました🗳️\n対象者にはローソンチケットよりメールにてご案内いたします。\n\n1️⃣入場整理券抽選受付\n2️⃣オンライン事前投票\n\nまた決勝の投票ルールも公開👀🗳️\n必ず企画注意事項をお読みの上お申し込みください。\n\n🔗企画特設ページはこちら\nhttps://official.idolfes.com/s/tif2026/page/mainstage_scramble?ima=0000\n\n※企画特設ページのURLに誤りがあったため再投稿させていただきます。\n改めましてご確認の程お願い申し上げます。\n\n#TIF2026\n#ヒバナツ\nhttps://timetr.ee/p/hbn_187/3012653130502825367
-SUMMARY:東京｜TIF2026 メインステージ争奪LIVE-決勝戦-
-UID:f090d6fe-93a1-4887-8d09-5c99e65e9e13@f090.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260618
-DTEND;VALUE=DATE:20260619
-DESCRIPTION:『SOUL』\nㅤ\n▶︎2026.6.18(木)\n▶︎SHIBUYA CLUB QUATTRO\n▶︎OP 14:00/ST 14:25\n▶︎前方 ¥6\,000/一般 ¥3\,000\nㅤ\n🎤18:15-18:40\n📸19:00-20:10\n🔗livepocket.jp/e/soul_618\nㅤ\n🎁チェキ券+1pt(前方2pt)\nhttps://timetr.ee/p/hbn_187/2928430491404526619
-SUMMARY:東京｜SOUL
-UID:d85edcb4-3360-4f23-9355-b92c3f8cfd26@d85e.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260731
-DTEND;VALUE=DATE:20260801
-DESCRIPTION:『TOKYO IDOL FESTIVAL 2026\nsupported by にしたんクリニック』\n\n▶︎2026.7.31(金)\,8.1(土)\,2(日)\n▶︎お台場･青海周辺エリア\n\n✅2026.7.31(金)\n🎤11:05-11:25 【SMILE GARDEN】 \n📸13:00-14:15 【GREETING AREA】\n🎤19:15- 【HEAT GARAGE】\n❤️‍🔥メインステージ争奪LIVE決勝戦❤️‍🔥\n\n🌐https://official.idolfes.com/s/tif2026/\n🎫https://official.idolfes.com/s/tif2026/page/ticket\nhttps://timetr.ee/p/hbn_187/2971132914338030806
-SUMMARY:東京｜TOKYO IDOL FESTIVAL 2026supported by にしたんクリニック
-UID:706e4ce2-44ac-4c71-922c-52e90d8f6f4a@706e.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261102
-DTEND;VALUE=DATE:20261103
-DESCRIPTION:『I to U $CREAMing!! × HIBANA × BNSI × RePLAY』\nㅤ\n▶︎2026.11.2(月)\n▶︎渋谷 WWW\n▶︎OP 18:00/ST 18:25\n▶︎前方 ¥5\,000/一般 ¥3\,000\n\n🎤20:25-21:05\n📸21:10-22:30\n🔗livepocket.jp/e/4man_112\nㅤ\n🎁チェキ券+1pt\nhttps://timetr.ee/p/hbn_187/3068507924848894995
-SUMMARY:東京｜I to U $CREAMing!! × HIBANA × BNSI × RePLAY
-UID:41d249d6-45b3-488e-a26c-b026ceb5476d@41d2.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260725
-DTEND;VALUE=DATE:20260726
-DESCRIPTION:『アイドル甲子園 in Spotify O-EAST supported by My-th』\nㅤ\n▶︎2026.7.25(土)\n▶︎Spotify O-EAST\n▶︎OP 8:30/ST 9:00\n▶︎前方エリア ¥10\,000/一般エリア ¥5\,000\nㅤ\n🎤15:50-16:15\n📸16:35-17:55\n\n🔗https://user.my-th.jp/tickets/event/aikou13th_EAST\nㅤ\n🎁前方：写メ券+3pt/一般：2pt\nㅤ\nいつもお世話になっているアイドル甲子園の13周年記念ライブです🎊\n祝いの火花、咲かせましょう🎆\nhttps://timetr.ee/p/hbn_187/2971132075041023434
-SUMMARY:東京｜アイドル甲子園 in Spotify O-EAST
-UID:f8f1578b-6f08-4dd8-a64f-39ef5ca70507@f8f1.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260712
-DTEND;VALUE=DATE:20260713
-DESCRIPTION:『アイドル甲子園 in KANDA SQUARE HALL』\n\n✅《DAY2》\n▶︎2026.7.12(日)\n▶︎OP 9:00/ST 9:15\n▶︎前方 ¥8\,500/一般 ¥3\,500\n\n🎤17:20-17:45\n📸18:05-19:25\n\n🎫https://user.my-th.jp/tickets/event/aikou_0712\n＊6/16(火)21:00販売開始\n\n🎁前方 3pt/一般 1pt\nhttps://timetr.ee/p/hbn_187/2971131597888611900
-SUMMARY:東京｜アイドル甲子園 in KANDA SQUARE HALL
-UID:4a98b72a-b34c-44e8-9610-36934302cbaf@4a98.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260927
-DTEND;VALUE=DATE:20260928
-DESCRIPTION:『アイドル甲子園 in KANDA SQUARE HALL』\nㅤ\n▶︎2026.9.27(日)\n▶︎OP 9:15/ST 9:30\n▶︎前方 ¥8\,500/一般 ¥3\,500\nㅤ\n🎤15:25-15:50\n📸16:10-17:30\n\n9/1(火)20:00販売開始🔫\nhttps://user.my-th.jp/tickets/event/aikou_0927ㅤ\n\n🎁チェキ券+1pt(前方3pt)\nhttps://timetr.ee/p/hbn_187/3000866376674371525
-SUMMARY:東京｜アイドル甲子園 in KANDA SQUARE HALL
-UID:7da71699-dbeb-4ef9-bb97-305e0a4ac52b@7da7.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261224
-DTEND;VALUE=DATE:20261225
-DESCRIPTION:https://timetr.ee/p/hbn_187/3068509323263403594
-SUMMARY:🌈大阪
-UID:a86acaed-96df-4aae-9968-7ccd3d25163e@a86a.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260815
-DTEND;VALUE=DATE:20260816
-DESCRIPTION:『アイドル甲子園 in KANDA SQUARE HALL』\n\n✅《DAY1》\n▶︎2026.8.15(土)\n▶︎OP 9:15/ST 9:30\n▶︎前方 ¥8\,500/一般 ¥3\,500\n\n🎤18:45-19:10\n📸19:30-20:50(D)\n\n🔗https://user.my-th.jp/tickets/event/aikou_0815\n＊7/23(木)20:00販売開始\n\n🎁チェキ券+1pt(前方3pt)\nhttps://timetr.ee/p/hbn_187/2994406895052580259
-SUMMARY:東京｜アイドル甲子園 in KANDA SQUARE HALL
-UID:4d2e300f-1797-440d-9b15-92264648394d@4d2e.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261124
-DTEND;VALUE=DATE:20261125
-DESCRIPTION:https://timetr.ee/p/hbn_187/3093012196412024318
-SUMMARY:大阪
-UID:641c6fb0-7888-410b-8422-a80dec5d5290@641c.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260514
-DTEND;VALUE=DATE:20260515
-DESCRIPTION:『劇情 Vol.1』\nㅤ\n▶︎2026.5.14(木)\n▶︎OSAKA MUSE\n▶︎OP 18:30/ST 19:00\n▶︎前売 ¥2\,800/当日 ¥3\,500\nㅤ\n🎤20:00-20:30\n📸20:30-21:45\n🔗https://ticketdive.com/event/rzcWtktlJVwTyxG5RBGK\n\n全組映像収録ありのイベントです🎥\n3組とも後日ライブ映像が出るので、あなたも映像を彩る一員になってください🫵\nㅤ\n🎁チェキ券+2pt\nhttps://timetr.ee/p/hbn_187/2928428736784557470
-SUMMARY:大阪｜劇情 Vol.1
-UID:976bcc78-ab26-4bdf-9a62-0e096703b6cb@976b.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260621
-DTEND;VALUE=DATE:20260622
-DESCRIPTION:『∞Beats(エイトビーツ)』\n\n▶︎2026.6.21(日)\n▶︎名村造船所跡地\n▶︎OP 11:00/ST 12:00\n▶︎VIP ¥8\,900/一般 ¥4\,000\n\n1️⃣赤鉄骨\n🎤15:00-15:20\n📸15:40-16:40\n\n2️⃣パルティッタ\n🎤18:20-18:40\n📸19:00-20:00\n\nチケット販売中💥🔫\nhttps://t-dv.com/oJvPHKn1HPVgg8V4l4Os\n\n🎁VIP：写メ券+4pt\n🎁一般：2pt\nhttps://timetr.ee/p/hbn_187/2928430555661264637
-SUMMARY:大阪｜∞Beats (エイトビーツ)
-UID:a86b8d20-4cba-4e38-a9aa-a54c63673fc3@a86b.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260907
-DTEND;VALUE=DATE:20260908
-DESCRIPTION:『COLOR of COLOR×KissBee×透色ドロップ×HIBANA』\nㅤ\n▶︎2026.9.7(月)\n▶︎渋谷 WWW\n▶︎OP 18:30/ST 19:00\n▶︎前方 ¥3\,000/一般 ¥1\,500\n\n🎤19:30-20:00\n📸21:10-22:30\n🔗livepocket.jp/e/www_4man\nㅤ\n🎁チェキ券(前方+1pt)\nhttps://timetr.ee/p/hbn_187/3000865981864535722
-SUMMARY:東京｜COLOR of COLOR×KissBee×透色ドロップ×HIBANA
-UID:b2bc53a4-b088-4ad2-9d00-90b79316ecd4@b2bc.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260913
-DTEND;VALUE=DATE:20260914
-DESCRIPTION:『アイドル甲子園 in KANDA SQUARE HALL』\nㅤ\n▶︎2026.9.13(日)\n▶︎OP 9:15/ST 9:30\n▶︎前方 ¥8\,500/一般 ¥3\,500\nㅤ\n🎤15:10-15:35\n📸15:55-17:15\n\n8/14(金)20:00販売開始🔫\nhttps://user.my-th.jp/tickets/event/aikou_0913\nㅤ\n🎁チェキ券+1pt(3pt)\nhttps://timetr.ee/p/hbn_187/3000866119605478532
-SUMMARY:東京｜アイドル甲子園 in KANDA SQUARE HALL
-UID:3159e14c-0623-4f2d-a742-3408f8d6f166@3159.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260427
-DTEND;VALUE=DATE:20260428
-DESCRIPTION:#ドラマチックレコード 主催対バン\n『DRAMATIC POP！vol.16』\n\n▶︎2026.4.27(月)\n▶︎Veats Shibuya\n ▶︎OP 18:00/ST 18:30\n▶︎前方 ¥6\,000/一般 ¥3\,000\n▶︎女性･学生  ¥1\,000\n\n🎤18:30-19:00\n📸19:00-20:20\n🔗tiget.net/events/476209\n\n🎁チェキ券+1pt (前方+2pt)\nhttps://timetr.ee/p/hbn_187/2924186182308259287
-SUMMARY:東京｜DRAMATIC POP！vol.16
-UID:fcddd3cb-4445-4f65-9e34-abe66696316f@fcdd.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261107
-DTEND;VALUE=DATE:20261108
-DESCRIPTION:#ﾆｷﾌﾟﾚ 『オオサカッ!! -シキサイ。-』\nㅤ\n▶︎2026.11.7(土)\n▶︎心斎橋FANJtwice\n▶︎OP 15:40/ST 16:00\n▶︎前売 ¥3\,000/当日 ¥3\,500\nㅤ\n🎤16:00-16:30\n📸16:40-17:40(並行物販)\nㅤ\n10/31(土)22:00販売開始🔫\nhttps://t-dv.com/20261107_nikipre_osaka\nㅤ\n🎁チェキ券+1pt\nㅤ\nhttps://timetr.ee/p/hbn_187/3088569271099778364
-SUMMARY:大阪｜#ﾆｷﾌﾟﾚ 『オオサカッ!! -シキサイ。-』
-UID:c523379a-92b8-4b3f-a178-1e2ee05b8c36@c523.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261211
-DTEND;VALUE=DATE:20261212
-DESCRIPTION:https://timetr.ee/p/hbn_187/2971135145556764497
-SUMMARY:🎂大阪｜もも生誕ライブ
-UID:9cdcbe95-64b0-468d-9013-972228e20765@9cdc.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261016
-DTEND;VALUE=DATE:20261017
-DESCRIPTION:THE ENCORE presents\n『ラブコール vol.20』\nㅤ\n▶︎2026.10.16(金)\n▶︎Zephyr Hall\n▶︎OP 18:00/ST 18:30\n▶︎前方 ¥3\,500/一般 ¥1\,500\nㅤ\n🎤18:30-18:55\n📸20:15-21:30\nㅤ\n10/6(火)21:00販売開始🔫\nt-dv.com/lc_vol20\nㅤ\n🎁チェキ券+1pt\nhttps://timetr.ee/p/hbn_187/3068507651279611265
-SUMMARY:名古屋｜ラブコール vol.20
-UID:4f0d13fd-14a8-4843-b4e4-a98351031512@4f0d.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260831
-DTEND;VALUE=DATE:20260901
-DESCRIPTION:松葉-MATSUBA- Prelude Live\n『Needle Point #2 』\n\n▶︎2026.8.31(月)\n▶︎BLAZE GOTANDA\n▶︎OPEN 18:00/START 18:30\n▶︎優先 ¥3\,500/一般 ¥2\,000\n\n［出演］HIBANA / myojou / マリークラウン\n\n7/16(木)21:00販売開始🔫\nt-dv.com/NeedlePoint2\n\n🎁優先：写メ券+1pt\n\nNeedle Pointの第二弾が解禁されました！\n今回はmyojouさん、マリークラウンさんにご出演いただきます✨\n素敵な時間になりますように🫶\nhttps://timetr.ee/p/hbn_187/2994407456862823454
-SUMMARY:🌈東京｜Needle Point #2
-UID:c8486e17-8486-49b1-a167-a7c80d08d41f@c848.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261114
-DTEND;VALUE=DATE:20261115
-DESCRIPTION:『火花放電 -FREE LIVE SP-』\n\n▶︎2026.11.14(土)\n▶︎ヨドバシ梅田2F Links広場\n▶︎販売･配券開始：当日11:30\n▶︎START 13:00(優先入場12:45)\n▶︎✨観覧FREE✨\n\n\\\\ヨドバシは特典券¥1\,500据え置き‼️//\n\n┏━━━━━━━┓\n   📸写真撮影可📸\n   🎥動画撮影可🎥\n┗━━━━━━━┛\n\n※雨天時は開催場所が変更となる場合がございます。\n※LIVE終了後、特典会があります。\n\n【お問合せ先】\nヨドバシカメラ マルチメディア梅田\n3F 音楽・映像ソフト売り場\n(代表番号：06-4802-1010)\n\n#火花散らす閃光ポップ\n\n◤◢◤◢◤◢◤◢◤◢◤◢◤◢\n\n【特典会について】 \n\n・共通特典券 ¥1\,500 (品番：FAVZ-0150)\n\n✅特典会内容(共通)\n特典券1枚：チェキ or 写メorカメラ撮影(1枚)\n特典券2枚：スマホ動画撮影（15秒）\n特典券3枚：カメラ撮影（30秒）\n特典券4枚：囲みチェキ or 写メ\n\nイベント対象商品ご購入の際は、ヨドバシカメラのゴールドポイントカード（アプリまたはカード）が必須となります。\nイベント対象商品のご購入もポイント付与の対象となり、ポイントを使用しての対象商品のご購入も可能です。\nゴールドポイントカードをお持ちでないお客様は当日でのご登録も可能です。\n費用・年会費等は一切かかりません。\n事前にアプリを入れていただくか、またはイベント当日その場でカードを発行することも可能です。\n（ご登録の際には、住所・氏名・お電話番号等が必要となります。事前にご了承ください）\nゴールドポイントカードアプリは以下からダウンロードをお願いいたします。\nyodobashi.com/ec/support/mem…\n\n◤◢◤◢◤◢◤◢◤◢◤◢◤◢\n\n【参加方法】\n\nイベント当日、販売開始時間より上記イベント会場にて対象商品の販売を開始いたします。\n事前のご予約・お取り置きは承っておりません。\n\n対象商品をご購入のお会計時、お1人様1枚、購入先着順で整理番号付き優先入場券をお渡し致します。\n複数枚ご購入の場合でも、優先入場券は1会計あたり、お1人様1枚の配布となります。\n整理番号はランダム配布となり、ご購入順ではございません。\n既定数に達し次第、優先入場券の配布は終了致します。\n優先入場券の配布終了後も対象商品のご購入・特典会へのご参加は可能です。\n\nお支払いは現金／クレジット／電子マネー／ポイントカードもご利用頂けます。\n特典券をお持ちの方のみ、LIVE終了後の特典会にご参加頂けます。\n入場券・特典券はイベント当日のみ有効となりますので予めご了承下さい。\nお1人様あたりのご購入枚数に上限はございませんが、特典券の数には限りがございます。（状況により、購入枚数の上限を設ける場合もございます）\n既定数に達し次第、販売は終了となります。\nご購入後の返金は一切できません。\n小学生以上から入場券・特典券が必要になります。\nhttps://timetr.ee/p/hbn_187/3068508200691492627
-SUMMARY:🌈大阪｜火花放電 -FREE LIVE SP-
-UID:ff935912-cfac-4571-8918-c26f46ea2e02@ff93.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261018
-DTEND;VALUE=DATE:20261019
-DESCRIPTION:『IDO-LIVE!!Circuit』\nㅤ\n▶︎2026.10.18(日)\n▶︎Spotify O-WEST & duo MUSIC EXCHANGE\n▶︎OP 12:30/ST 13:00\n▶︎ADV ¥4\,980/DOOR ¥6\,000\nㅤ\n📍duo MUSIC EXCHANGE\n🎤17:15-17:45\n📸18:05-19:20\n🔗eplus.jp/IDOLIVE\nㅤ\n🎁チェキ券+1pt\n\n郷に従い、この日は【リフトOK】とさせていただきます🔥\nステージVSフロアで火花散らし合いましょう🤜💥🤛\nhttps://timetr.ee/p/hbn_187/3036223308100461746
-SUMMARY:東京｜IDO-LIVE!!Circuit
-UID:d7e9ef0d-9b87-47fc-aebe-b5ebb31a05bd@d7e9.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260726
-DTEND;VALUE=DATE:20260727
-DESCRIPTION:『アイドル甲子園 in KANDA SQUARE HALL』\nㅤ\n▶︎2026.7.26(日)\n▶︎KANDA SQUARE HALL\n▶︎OP 9:15/ST 9:30\n▶︎前方エリア ¥8\,500/一般エリア ¥3\,500\n\n🎤18:25-18:50\n📸19:10-20:30\nㅤ\n7/14(火)21:00販売開始🔫\nhttps://user.my-th.jp/tickets/event/aikou_0726\nㅤ\n🎁前方：写メ券+3pt/一般：1pt\nhttps://timetr.ee/p/hbn_187/2971132132351993329
-SUMMARY:東京｜アイドル甲子園 in KANDA SQUARE HALL
-UID:acb5ea3e-79a8-4d5e-b7df-0141f1a9377b@acb5.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261213
-DTEND;VALUE=DATE:20261214
-DESCRIPTION:.LiNIXLiNE. PRESENTS\n『BLUE FES』\nㅤ\n▶︎2026.12.13(日)\n▶︎心斎橋SUNHALL\n▶︎OP 11:00/ST 12:00\n▶︎前売 ¥4\,000/当日 ¥4\,500\nㅤ\n11/1(日)20:00販売開始🔫\nt-dv.com/bluefes_osaka\nㅤ\n🎁チェキ券+1pt\nhttps://timetr.ee/p/hbn_187/3068509140710516571
-SUMMARY:大阪｜BLUE FES
-UID:1b440a7a-0ca3-4767-898b-5c4a8f39a474@1b44.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261101
-DTEND;VALUE=DATE:20261102
-DESCRIPTION:『IDOL HALLOWEEN JAPAN 2026\nSupported by Malymoon』\n\n▶︎2026.11.1(日)\n\n🧙WITCH STAGE\n🎤15:10-15:35\n📸15:55-17:05【13】(ﾊﾛｳｨﾝ延長🎃)\n\n🔗ticketdive.com/event/IHJ2026\n\n🎁チェキ券+1pt\nhttps://timetr.ee/p/hbn_187/3068507866757784630
-SUMMARY:東京｜IDOL HALLOWEEN JAPAN 2026
-UID:7c5ee1b7-3869-4246-8988-f2dac94d3a16@7c5e.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260915
-DTEND;VALUE=DATE:20260916
-DESCRIPTION:PLAYPIT presents.\n『ヒバメロ！』\n\n▶︎2026.9.15(火)\n▶︎FANJ twice\n▶︎OP 19:00/ST 19:30\n▶︎Sチケット ¥3\,500/一般¥2\,000\n\n9/6(日)22:00販売開始🔫\nt-dv.com/hibamelo\nhttps://timetr.ee/p/hbn_187/3000866190027843025
-SUMMARY:🌈大阪｜ヒバメロ！
-UID:4f5f49cb-12d9-42a6-bdfc-aee283142e16@4f5f.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261128
-DTEND;VALUE=DATE:20261129
-DESCRIPTION:ART SOUND pre.\n『SOUND GARDEN 2026\n ART SOUND 15th Anniversary』\nㅤ\n▶︎2026.11.28(土)\,29(日)\n▶︎名古屋 栄・大須エリアサーキット\n▶︎リストバンド引換：9:00〜\n▶︎2days ¥11\,500/1day ¥6\,500\n\n✅《DAY1》 11/28(土)\n📍Zephyr Hall\n🎤18:50-19:20\n📸20:10-22:10(終演後会場内)\nㅤ\n6/29(月)18:00販売開始🔫\nhttps://livepocket.jp/e/soundgarden2026\nㅤ\n🎁指名入場ポイント：2pt\n\n今年もSOUND GARDENに出演させていただきます🔈🎶\nなんと15周年！！\nお祝いの火花散らします🎉\nhttps://timetr.ee/p/hbn_187/2998014590817068284
-SUMMARY:名古屋｜SOUND GARDEN 2026 ART SOUND 15th Anniversary
-UID:ffcc796e-f9a0-4cf6-9501-fb566469698a@ffcc.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261130
-DTEND;VALUE=DATE:20261201
-DESCRIPTION:こみっきゅおん！presents\n『らーんとおん！〜Road to Zepp Shinjuku〜 vol.2』\nㅤ\n▶︎2026.11.30(月)\n▶︎タワーレコード渋谷店屋上イベントスペース\n▶︎ST 19:00\n▶︎観覧無料✨\nㅤ\n※詳細後日解禁\nhttps://timetr.ee/p/hbn_187/3068508648265672228
-SUMMARY:東京｜らーんとおん！〜Road to Zepp Shinjuku〜 vol.2
-UID:08927ba6-0db7-41a7-a564-160aa0b4c979@0892.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260910
-DTEND;VALUE=DATE:20260911
-DESCRIPTION:『Creora』\nㅤ\n▶︎2026.9.10(木)\n▶︎下北沢シャングリラ\n▶︎OP 16:20/ST 16:40\n▶︎前方 ¥5\,500/一般 ¥2\,500\nㅤ\n🎤20:30〜20:55\n📸21:20〜22:30\nㅤ\n8/24(月)22:00販売開始🔫\nt-dv.com/creora_oo\nㅤ\n🎁チェキ券+1pt\nhttps://timetr.ee/p/hbn_187/3036222090359793581
-SUMMARY:東京｜Creora
-UID:72e05ce8-8bb2-4ac8-9554-7f2937907794@72e0.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260430
-DTEND;VALUE=DATE:20260501
-DESCRIPTION:『火花放電-11V-』\n\n▶︎2026.4.30(木)\n▶︎FANJ twice\n▶︎OP 19:00/ST 19:30\n▶︎優先 ¥5\,555/一般 ¥1\,111\n\n優先：優先入場/囲み写メ\n初の衣装シャッフル公演💥\n\n4/21(火)22:00販売開始🔫\nt-dv.com/hibana11v\n\n🎁優先チケット：3pt\nhttps://timetr.ee/p/hbn_187/2924186245851964610
-SUMMARY:🌈大阪｜火花放電-11V-
-UID:d3151142-8028-42a0-86b6-d16982aa1015@d315.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260811
-DTEND;VALUE=DATE:20260812
-DESCRIPTION:『火花放電 -SUMMER SP-』\n\n▶︎2026.8.11(火･祝)\n▶︎FANJ twice\n▶︎OP 19:00/ST 19:30\n▶︎優先 ¥5\,000/一般 ¥2\,000\n\n👘夏だ‼︎浴衣特典会だ‼︎\n\n7/30(木)21:00販売開始🔫\nt-dv.com/hibanatsu\n\n🎁優先：囲み写メ/+2pt\nhttps://timetr.ee/p/hbn_187/2971133779950101611
-SUMMARY:🌈大阪｜火花放電 -SUMMER SP-
-UID:e264ed59-83f8-4baf-89f3-7c67f75cfad2@e264.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260706
-DTEND;VALUE=DATE:20260707
-DESCRIPTION:『蒼夏序章』\nㅤ\n▶︎2026.7.6(月)\n▶︎池袋グローバルリング シアター\n▶︎OP 18:20/ST 19:00\n▶︎前方 ¥4\,500/一般 ¥1\,000\n ※後方観覧無料\n\n🎤20:15-20:40\n📸21:00-22:20(別会場)\n🔗t-dv.com/SoukaPrologue\nhttps://timetr.ee/p/hbn_187/2949430903674693555
-SUMMARY:東京｜蒼夏序章
-UID:bc8f1a9f-f8e9-45bc-9ae2-50284c9f1882@bc8f.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261004
-DTEND;VALUE=DATE:20261005
-DESCRIPTION:『HYPE IDOL！× 音飯会 in 東京タワー』\nㅤ\n▶︎2026.10.4(日)\n▶︎東京タワー 南側駐車場特設野外ステージ\n▶︎OP 10:30/ST 11:00\n▶︎超大盛りSS ¥6\,000/大盛りS ¥5\,000/中盛り ¥0\nㅤ\n🎤12:20〜12:50\n📸13:00〜14:00(A)\nㅤ\nチケット販売中💥🔫\nhttps://ticketdive.com/event/HYPE_otomeshi_1004\nㅤ\n🎁SS/S：チェキ券+1pt\nhttps://timetr.ee/p/hbn_187/3064027857909376938
-SUMMARY:東京｜HYPE IDOL！× 音飯会 in 東京タワー
-UID:7518c9a5-d061-4c10-82d3-bebbb7c28467@7518.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260518
-DTEND;VALUE=DATE:20260519
-DESCRIPTION:『TIFメインステージ争奪LIVE 決起集会FREE LIVE』\n\n✅《-第一幕-》\n▶︎2026.5.18(月)\n▶︎BLAZE GOTANDA\n▶︎OP 18:20/ST 19:00\n▶︎優先 ¥5\,000/一般 ¥0\n🔗t-dv.com/187kekki_1\n＊5/1(金)21:00販売開始🔫\n\n✅《-第二幕-》\n▶︎2026.5.27(水)\n▶︎代官山UNIT\n▶︎OP 18:50/ST 19:30\n▶︎優先 ¥5\,000/一般 ¥0\n🔗t-dv.com/187kekki_2\n＊5/1(金)21:30販売開始🔫\n\n✅《-第三幕-》\n▶︎2026.6.1(月)\n▶︎duo MUSIC EXCHANGE\n▶︎OP 18:20/ST 19:00\n▶︎優先 ¥5\,000/一般 ¥0\n🔗t-dv.com/187kekki_3\n＊5/1(金)22:00販売開始🔫\n\n🎁優先：2pt\n※一般チケットD代事前徴収\nhttps://timetr.ee/p/hbn_187/2956003634633434168
-SUMMARY:東京｜TIFメインステージ争奪LIVE 決起集会FREE LIVE
-UID:8335c6e1-07d4-43ff-80c8-a168f5424799@8335.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260520
-DTEND;VALUE=DATE:20260521
-DESCRIPTION:『SOUL』\nㅤ\n▶︎2026.5.20(水)\n▶︎SHIBUYA CLUB QUATTRO\n▶︎OP 13:00/ST 13:15\n▶︎前方 ¥6\,000/一般 ¥3\,000\nㅤ\n🎤21:15-21:40\n📸21:50-23:00\n🔗livepocket.jp/e/soul-520\nㅤ\nHIBANAトリを任せていただきました‼️\n超火力の火花散らします💥\n\n🎁チェキ券+1pt(前方+3pt)\nhttps://timetr.ee/p/hbn_187/2928429137315423300
-SUMMARY:東京｜SOUL
-UID:f6773765-2309-4c08-bb74-6ab13013580d@f677.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260816
-DTEND;VALUE=DATE:20260817
-DESCRIPTION:UtaGe!×FES☆TIVE presents\n『超宴祭！』\nㅤ\n▶︎2026.8.16(日)\n▶︎渋谷4会場\n▶︎OP 10:00/ST 11:00\n▶︎一般 ¥3\,500\n\n📍duo MUSIC EXCHANGE\n🎤13:05-13:35\n📸13:45-14:55\n🔗https://ticketdive.com/event/chouutagematuri\nㅤ\n🎁チェキ券+1pt\n\n主催のUtaGe!さんに最高のバトンを渡すべく、最高のステージぶちかまします💥\n⚠️この日だけのSP演出あり⚠️\nhttps://timetr.ee/p/hbn_187/2994406961305805917
-SUMMARY:東京｜超宴祭！
-UID:6c6667de-75d8-4c82-bd0f-6913e03588f6@6c66.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260826
-DTEND;VALUE=DATE:20260827
-DESCRIPTION:『DERA MAXIMUM JAM』\nㅤ\n▶︎2026.8.26(水)\n▶︎Zephyr Hall / ReNY limited\n▶︎OP 13:00/ST 13:30\n▶︎前方前売 ¥8\,000/通常前売 ¥5\,000\n\n1️⃣ReNY limited\n🎤15:25-15:55\n📸16:15-17:25\n\n2️⃣Zephyr HALL\n🎤18:35-19:05\n📸19:15-20:25\nㅤ\nチケット販売中💥🔫\nt-dv.com/DERAX_JAM\nㅤ\n🎁チェキ券+1pt(優先3pt)\nhttps://timetr.ee/p/hbn_187/2994407266240095561
-SUMMARY:名古屋｜DERA MAXIMUM JAM
-UID:8ef6e51d-df9f-4da2-bfc8-4da97f870e3b@8ef6.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261206
-DTEND;VALUE=DATE:20261207
-DESCRIPTION:『SPARK 2026 -秋葉原冬祭-』\nㅤ\n▶︎2026.12.5(土)\,12.6(日)\n▶︎ベルサール秋葉原 / 秋葉原コンベンションホール 含む他複数会場\n▶︎OP TBA/ST TBA\n▶︎VIP ¥15\,000/一般 ¥4\,000\n\n💥HIBANAは【DAY2】に出演します💥\n\n✅VIP先行抽選：〜11/15(日)23:59\n✅一般先着：11/5(木)21:00〜\n✅VIP一般先着：11/16(月)21:00〜\nhttps://ticketdive.com/event/SPARK2026_winter\nㅤ\n🎁チェキ券+1pt(VIPは×2)\nhttps://timetr.ee/p/hbn_187/3093006303658173457
-SUMMARY:東京｜SPARK 2026 -秋葉原冬祭-
-UID:c58bbeb7-afb3-461f-a40c-34edfd682267@c58b.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261105
-DTEND;VALUE=DATE:20261106
-DESCRIPTION:『環状線メリーゴーランド 2026』\nㅤ\n▶︎2026.11.5(木)\n▶︎OSAKA MUSE\n▶︎OP 18:15/ST 18:30\n▶︎前売 ¥2\,500/当日 ¥3\,000\nㅤ\n🎤20:40-21:05\n📸21:10-22:30\n🔗livepocket.jp/e/merigo_115\nㅤ\n🎁チェキ券+1pt\nhttps://timetr.ee/p/hbn_187/3068507994323346685
-SUMMARY:大阪｜環状線メリーゴーランド 2026
-UID:5cb9693a-72d1-4fa9-bb39-95ca04a9c676@5cb9.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260728
-DTEND;VALUE=DATE:20260729
-DESCRIPTION:『火花放電 -決起集会FREE SP-』\n\n▶︎2026.7.28(火)\n▶︎FANJ twice\n▶︎OP 19:00/ST 19:30\n▶︎優先 ¥5\,000/一般 ¥0\n※一般チケットの1D代は事前のお支払いとなります\n\n🎁優先：囲み写メ/+2pt\n\n7/20(月)22:00販売開始🔫\nt-dv.com/hibana_free\n\nTIF2026メインステージ争奪LIVE直前に、大阪でフリーライブを開催します‼️\n行ってきますの気持ちを込めて火花散らすライブを届けます💥\n\n#火花散らす閃光ポップ\n#ヒバナツ\nhttps://timetr.ee/p/hbn_187/2971132222563083460
-SUMMARY:🌈大阪｜火花放電 -決起集会FREE SP-
-UID:9df0107e-d7b9-49b0-9bfb-c6170e49ee89@9df0.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260720
-DTEND;VALUE=DATE:20260721
-DESCRIPTION:『アイドル甲子園 in KANDA SQUARE HALL』\nㅤ\n▶︎2026.7.20(月)\n▶︎OP 9:15/ST 9:30\n▶︎前方 ¥8\,500/一般 ¥3\,500\nㅤ\n🎤18:30-18:55\n📸19:15-20:35\n\n6/23(火)20:00販売開始🔫\nhttps://user.my-th.jp/tickets/event/aikou_0720\nㅤ\n🎁前方：写メ券+3pt / 一般：1pt\nhttps://timetr.ee/p/hbn_187/2971132014894704526
-SUMMARY:東京｜アイドル甲子園 in KANDA SQUARE HALL
-UID:991ee6f1-c808-46dd-b9d8-888bf3ee3a06@991e.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261120
-DTEND;VALUE=DATE:20261121
-DESCRIPTION:『アイドル甲子園 in Output -DAY1-』\n\n▶︎2026.11.20(金)\n▶︎OP 18:00/ST 18:30\n▶︎前売 ¥4\,000/当日 ¥4\,500\n\n🔗https://user.my-th.jp/tickets/event/aikou_op1120\n＊9/19(土)19:00販売開始\n\n🎁チェキ券+1pt\nhttps://timetr.ee/p/hbn_187/3053876103800611943
-SUMMARY:沖縄｜アイドル甲子園 in Output -DAY1-
-UID:3558c92c-d3a2-4807-b2be-77a28a740d3c@3558.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260610
-DTEND;VALUE=DATE:20260611
-DESCRIPTION:『SHIBUYA STADIUM』\nㅤ\n▶︎2026.6.10(水)\n▶︎SHIBUYA WWW / WWW X\n▶︎OP 12:45/ST 13:00\n▶︎前売 ¥3\,900/当日 ¥4\,500\nㅤ\n🎤20:30-20:55\n📸21:20-22:30\n🔗livepocket.jp/e/ss_0610\nㅤ\n🎁チェキ券+1pt\nhttps://timetr.ee/p/hbn_187/2928430224671958592
-SUMMARY:東京｜SHIBUYA STADIUM
-UID:f2757b05-14fb-4d8f-b00b-8c313997e69b@f275.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260813
-DTEND;VALUE=DATE:20260814
-DESCRIPTION:『きらめきフェス2026\n supported by かがやきフェス2026』\nㅤ\n▶︎2026.8.13(木)\n▶︎GORILLA HALL OSAKA\n▶︎OP 11:00/ST 11:30\n▶︎前売 ¥5\,000/当日 ¥6\,000\nㅤ\n🎤18:30-18:55\n📸20:30-21:40\n\n6/13(土)12:00販売開始🔫\ntiget.net/events/496892\nㅤ\n🎁指名入場ポイント：3pt\nhttps://timetr.ee/p/hbn_187/2971133914511763164
-SUMMARY:大阪｜きらめきフェス2026 supported by かがやきフェス2026
-UID:f0fc81ea-4018-4629-9929-5fe071ea1e42@f0fc.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260522
-DTEND;VALUE=DATE:20260523
-DESCRIPTION:『ELECTROCUTE』\n\n▶︎2026.5.22(金)\n▶︎アメリカ村DROP\n▶︎OP 18:30/ST 19:00\n▶︎前売 ¥2\,000/当日 ¥2\,500\n\n［出演］HIBANA / Tohkei / Malcolm Mask McLaren\n\n5/15(金)22:00販売開始\nt-dv.com/eleq_522\n\n🎁入場ポイント1pt\n\n※この日はやむを得ない事情により、丸岡由茉が特典会に参加することが出来ません。\nライブは5名で行いますが、終演後特典会はその他4名にて行います旨、予めご了承ください。\nhttps://timetr.ee/p/hbn_187/2928429230378641111
-SUMMARY:🌈大阪｜ELECTROCUTE
-UID:df1e2c85-e260-4790-bca5-c8452eb206b0@df1e.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260722
-DTEND;VALUE=DATE:20260723
-DESCRIPTION:『UTAGE FES Vol.5』\nㅤ\n▶︎2026.7.22(水)\n▶︎Zepp Shinjuku / KABUKICHO TOWER STAGE / 新宿LOFT / SHINJUKU WALLY / Zirco Tokyo / 新宿Marble / YOANI LIVE STATION / 新宿ACB HALL\n▶︎OP 10:00/ST 10:30\n▶︎VIP ¥10\,000/一般 ¥2\,500\n\n1️⃣Zepp Shinjuku\n🎤11:10-11:30\n📸11:45-12:55(C)\n\n2️⃣新宿LOFT\n🎤17:20-17:45\n📸18:00-19:00(B)\n\n🔗t-dv.com/0722_UTAGEFES\nㅤ\n🎁チェキ券+1pt(優先5pt)\nhttps://timetr.ee/p/hbn_187/2956002540859614916
-SUMMARY:東京｜UTAGE FES Vol.5
-UID:85f93f7d-b655-4716-a536-e67ab11cf816@85f9.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260530
-DTEND;VALUE=DATE:20260531
-DESCRIPTION:『アイドル甲子園 in KANDA SQUARE HALL』\n\n《DAY1》\n▶︎2026.5.30(土)\n▶︎OP 9:15/ST 9:30\n▶︎優先 ¥8\,500/一般 ¥3\,500\n\n🎤20:40-21:05\n📸21:30-22:50\n\n🔗https://user.my-th.jp/tickets/event/aikou_0530\n＊5/7(木)20:00販売開始\n\n🎁各日：チェキ券+1pt(優先3pt)\nhttps://timetr.ee/p/hbn_187/2928429612135802653
-SUMMARY:東京｜アイドル甲子園 in KANDA SQUARE HALL
-UID:40d86a8f-15cc-44d3-a2da-723b8d47b19a@40d8.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261123
-DTEND;VALUE=DATE:20261124
-DESCRIPTION:『アイドル甲子園 in Cyber-Box -DAY4-』\n\n▶︎2026.11.23(月)\n▶︎OP 12:00/ST 12:30\n▶︎前売 ¥4\,500/当日 ¥5\,000\n\n🔗https://user.my-th.jp/tickets/event/aikou_cb1123\n＊9/19(土)22:00販売開始\n\n🎁チェキ券+1pt\nhttps://timetr.ee/p/hbn_187/3068511614863336970
-SUMMARY:沖縄｜アイドル甲子園 in Cyber-Box -DAY4-
-UID:cc98e25f-ef81-4079-b049-e2d166608844@cc98.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261003
-DTEND;VALUE=DATE:20261004
-DESCRIPTION:Ringwanderung presents\n『SYNC EXTRA』\nㅤ\n▶︎2026.10.3(土)\n▶︎Veats Shibuya\n▶︎OP 14:30/ST 15:00\n▶︎前売 ¥3\,500\nㅤ\n🎤16:50〜17:20\n📸18:50〜20:00\nㅤ\n9/8(火)21:30販売開始🔫\nhttps://ticketdive.com/event/RWR_SYNC-EXTRA_20261003\nㅤ\n🎁サイン付きチェキ券\nhttps://timetr.ee/p/hbn_187/3036222958220010691
-SUMMARY:東京｜SYNC EXTRA
-UID:de700683-e0ea-4cf2-845d-96481644143d@de70.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261030
-DTEND;VALUE=DATE:20261031
-DESCRIPTION:／\n🔥🔥メインステージ争奪戦 開幕🔥🔥\n＼\nㅤ\n『IDOL HALLOWEEN JAPAN 2026\nSupported by Malymoon』\nㅤ\n▶︎2026.10.30(金)〜11.1(日)\n▶︎埼玉スタジアム野外特設会場\n▶︎VIP：3DAYS ¥70\,000/1DAY ¥25\,000\n▶︎一般：3DAYS ¥12\,000/1DAY ¥5\,000\n\n#HIBANA は10/30(金)に出演✊🎃\n\nーーーーーーーーーーーーーーーーー\n\n✅現地投票チケットに関して\nメインステージ争奪戦の現地投票に向けて、下記プレイガイドにて、投票券が2枚追加で付くチケットを販売いたします。\n\n✅これからチケットをご購入のお客様\n通常のチケット料金＋1\,000円で、通常分に加えて投票券が2枚付くチケットをご購入いただけます。\n\n✅すでにチケットをご購入済みのお客様\n追加用チケット（1\,000円）をご購入ください。\nご入場時に「購入済みの入場チケット」と「追加用チケット」の両方をご提示いただくと、投票券を追加で2枚お渡しいたします。\n\n【チケット販売URL】\n🔗t-dv.com/IHJ2026_main\n\nーーーーーーーーーーーーーーーーー\nㅤ\n🎁チェキ券+1pt(優先2pt)\nㅤ\nhttps://timetr.ee/p/hbn_187/3060306579545318806
-SUMMARY:東京｜IDOL HALLOWEEN JAPAN 2026
-UID:05a1aa38-e2bf-4e5c-91b5-e1375fd400c8@05a1.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260906
-DTEND;VALUE=DATE:20260907
-DESCRIPTION:『くさのねアイドルフェスティバル2026』\nㅤ\n▶︎2026.9.6(日)\n▶︎草ぶえの丘 (千葉・佐倉)\n▶︎OP 10:00/ST 10:45\n\nチケット販売中💥🔫\n・限定グッズ付き2Days通し券 ¥20\,000\n・2Days通し券 ¥10\,000\n・限定グッズ付きチケット ¥12\,000\n・一般チケット ¥7\,000\n・女性・学生チケット ¥4\,000\n\n🎤12:10-12:40\n📸13:25-14:25(K)\n\n🔗kusanoneidolfes.com/#ticket\nhttps://timetr.ee/p/hbn_187/3000865900453094953
-SUMMARY:千葉｜くさのねアイドルフェスティバル2026
-UID:fe508e59-1609-4360-8eb2-8eb733c76e4b@fe50.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260526
-DTEND;VALUE=DATE:20260527
-DESCRIPTION:ハルニシオン主催LIVE\n『ハルライズ FREE』\nㅤ\n▶︎2026.5.26(火)\n▶︎CLUB CITTA'\n▶︎OP 14:45/ST 15:15\n▶︎優先 ¥5\,000/一般 ¥0️⃣✨\nㅤ\n🎤16:50-17:15\n📸17:25-18:35\n🔗t-dv.com/HNSRise_vol3\nㅤ\n🎁優先：チェキ券+2pt\nhttps://timetr.ee/p/hbn_187/2928429529617065384
-SUMMARY:神奈川｜ハルライズ FREE
-UID:ac8f0c11-7030-4d22-9759-13bd9fd18186@ac8f.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260823
-DTEND;VALUE=DATE:20260824
-DESCRIPTION:Devil ANTHEM. presents\n『でびぱっぱ夏祭 2026 〜東の陣〜』\nㅤ\n▶︎2026.8.22(土)\,23(日)\n▶︎三崎公園野外音楽堂\n▶︎OP 9:45/ST 10:30\n▶︎2days ¥10\,000/1day ¥5\,500\nㅤ\n✅《DAY2》8/23(日)\n🎤12:20-12:35\n📸14:00-15:20\n🎤16:40-17:00\n\n🔗eplus.jp/devilanthem/\nhttps://timetr.ee/p/hbn_187/2976267116347844159
-SUMMARY:福島｜でびぱっぱ夏祭 2026 〜東の陣〜
-UID:5132ac37-969f-48aa-b4a2-05f4c2951aa7@5132.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261122
-DTEND;VALUE=DATE:20261123
-DESCRIPTION:『アイドル甲子園 in 桜坂セントラル -DAY3-』\n\n▶︎2026.11.22(日)\n▶︎OP 11:30/ST 12:00\n▶︎前売 ¥4\,500/当日 ¥5\,000\n\n🔗https://user.my-th.jp/tickets/event/aikou_ss1122\n＊9/19(土)21:00販売開始\n\n🎁チェキ券+1pt\nhttps://timetr.ee/p/hbn_187/3068511207730635934
-SUMMARY:沖縄｜アイドル甲子園 in 桜坂セントラル -DAY3-
-UID:f6c5f9e2-ba69-4661-abdf-e1eae7704dad@f6c5.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261025
-DTEND;VALUE=DATE:20261026
-DESCRIPTION:ハルニシオン主催\n『ハルライズ NAGOYA』\nㅤ\n▶︎2026.10.25(日)\n▶︎DIAMOND HALL\n▶︎OP 12:30/ST 13:00\n▶︎優先エリア ¥7\,000/一般 ¥3\,000\nㅤ\n🎤17:55-18:20\n📸19:45-\n🔗t-dv.com/HNSRise_vol4\nㅤ\n🎁チェキ券+1pt(優先3pt)\nhttps://timetr.ee/p/hbn_187/3036223556923353080
-SUMMARY:名古屋｜ハルライズ NAGOYA
-UID:94d49ffa-e19e-41fa-a3e2-61f6b2360acc@94d4.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260905
-DTEND;VALUE=DATE:20260906
-DESCRIPTION:『New Story』\nㅤ\n▶︎2026.9.5(土)\n▶︎BLAZE GOTANDA\n▶︎OP 11:45/ST 12:00\n▶︎front. ¥7\,000/adv. ¥3\,500\nㅤ\n🎤19:15-19:40\n📸20:10-21:30\n\n8/18(火)18:00販売開始🔫\nlivepocket.jp/e/ns_905\nㅤ\n🎁チェキ券+1pt(前方2pt)\nhttps://timetr.ee/p/hbn_187/3000865844190701441
-SUMMARY:東京｜New Story
-UID:9302189d-8284-4dc0-b78d-1da6cd7bb1a9@9302.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261221
-DTEND;VALUE=DATE:20261222
-DESCRIPTION:https://timetr.ee/p/hbn_187/3093021371619796387
-SUMMARY:東京
-UID:f973abdf-d915-47aa-96a9-5484a6c6b83f@f973.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261013
-DTEND;VALUE=DATE:20261014
-DESCRIPTION:『火花放電 -THX SP-』\n\n▶︎2025.10.13(火)\n▶︎FANJ twice\n▶︎OP 19:00/ST 19:30\n▶︎無料(D代¥600事前徴収)\n\n10/4(日)22:00予約開始🔫\nt-dv.com/hibana_thx\n\n🎁来場ポイント3pt\nhttps://timetr.ee/p/hbn_187/3036223191297483952
-SUMMARY:🌈大阪｜火花放電 -THX SP-
-UID:b49e270f-b63d-4782-a1bc-1e76d9a196f1@b49e.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260601
-DTEND;VALUE=DATE:20260602
-DESCRIPTION:『TIFメインステージ争奪LIVE 決起集会FREE LIVE』\n\n✅《-第一幕-》\n▶︎2026.5.18(月)\n▶︎BLAZE GOTANDA\n▶︎OP 18:20/ST 19:00\n▶︎優先 ¥5\,000/一般 ¥0\n🔗t-dv.com/187kekki_1\n＊5/1(金)21:00販売開始🔫\n\n✅《-第二幕-》\n▶︎2026.5.27(水)\n▶︎代官山UNIT\n▶︎OP 18:50/ST 19:30\n▶︎優先 ¥5\,000/一般 ¥0\n🔗t-dv.com/187kekki_2\n＊5/1(金)21:30販売開始🔫\n\n✅《-第三幕-》\n▶︎2026.6.1(月)\n▶︎duo MUSIC EXCHANGE\n▶︎OP 18:20/ST 19:00\n▶︎優先 ¥5\,000/一般 ¥0\n🔗t-dv.com/187kekki_3\n＊5/1(金)22:00販売開始🔫\n\n🎁優先：2pt\n※一般チケットD代事前徴収\nhttps://timetr.ee/p/hbn_187/2956004048267306861
-SUMMARY:東京｜TIFメインステージ争奪LIVE 決起集会FREE LIVE
-UID:31315b68-38a9-4c07-9e83-12b2ee1daba2@3131.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260817
-DTEND;VALUE=DATE:20260818
-DESCRIPTION:HIBANA presents\n『ELECTROCUTE』\n\n▶︎2026.8.17(月)\n▶︎SHIBUYA DIVE\n▶︎OP 18:30/ST 19:00\n▶︎前売 ¥2\,500/当日 ¥3\,000\n\n［出演］HIBANA / こみっきゅおん！/ フューチャーサイダー / Merry Mellow\n\n🎤20:15-20:40\n📸20:50-22:00\n\n7/24(金)21:00販売開始🔫\nt-dv.com/eleq0817\n\n🎁チェキ券+1pt\nhttps://timetr.ee/p/hbn_187/3010248565295867404
-SUMMARY:🌈東京｜ELECTROCUTE
-UID:a4729b68-0b62-4fd0-9b65-f25c7d83fa22@a472.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260504
-DTEND;VALUE=DATE:20260505
-DESCRIPTION:Ringwanderung presents\n『SYNC』\nㅤ\n▶︎2026.5.4(月/祝)\n▶︎代官山UNIT\n▶︎OP 12:30/ST 13:00\n▶︎前売 ¥3\,000\nㅤ\n4/14(火)21:00販売開始🔫\nt-dv.com/rwr_sync_260504\nㅤ\n🎁チェキ券+2pt\nhttps://timetr.ee/p/hbn_187/2928428473566815265
-SUMMARY:東京｜SYNC
-UID:35761710-286d-4a46-895d-cb02d0ce0804@3576.org
+UID:8ecc6150-a8ec-4fa6-84be-aee4192d1b7a@8ecc.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260605
 DTEND;VALUE=DATE:20260606
 DESCRIPTION:HIBANA SUMMER IGNITION\n『導火閃』\n\n▶︎2026.6.5(金)\n▶︎OSAKAMUSE\n▶︎OP 18:00/ST 18:40\n▶︎Sチケット ¥5\,000/一般 ¥1\,870\n\n4/15(水)21:00販売開始🔫\nt-dv.com/dokasen_osaka\n\n🎁Sチケット：チェキ券+3pt\nhttps://timetr.ee/p/hbn_187/2928429776795789010
 SUMMARY:🌈大阪｜導火閃
-UID:d64f164f-3fd9-48a6-804e-6fbb69c49bad@d64f.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261101
-DTEND;VALUE=DATE:20261102
-DESCRIPTION:『アイドル甲子園 in KANDA SQUARE HALL』\n\n✅《DAY2》\n▶︎2026.11.1(日)\n▶︎OP 9:00/ST 9:15\n▶︎前方 ¥8\,500/一般 ¥3\,500\n\n🎤20:10-20:35\n📸21:30-22:50\n\n🔗https://user.my-th.jp/tickets/event/aikou_1101\n＊10/5(月)21:00販売開始\n\n🎁チェキ券+1pt\nhttps://timetr.ee/p/hbn_187/3089425367116998297
-SUMMARY:東京｜アイドル甲子園 in KANDA SQUARE HALL
-UID:4079627e-5a41-4ff6-933f-1d460db1cac4@4079.org
+UID:76bf6c97-555c-4943-b801-1d74f9bcb1ea@76bf.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261007
 DTEND;VALUE=DATE:20261008
 DESCRIPTION:⚡️デビュー2周年記念FREE LIVE⚡️\n\n『超・火花放電』\n\n▶︎2025.10.7(火)\n▶︎BEYOND\n▶︎OP 19:00/ST 19:30\n▶︎Sチケット ¥5\,000/一般 ¥0\n\n【S】優先入場/超・火花放電限定ソックス\n※ソックスはフリーサイズとなります🧦\n\n✅S抽選：〜8/23(日)23:59\n✅一般：8/24(月)21:00〜\n🔗t-dv.com/cho-hibana\nhttps://timetr.ee/p/hbn_187/3036223038020839059
 SUMMARY:🌈大阪｜超・火花放電
-UID:396403dd-cd7d-49ee-9cf4-6182f8b6fbb0@3964.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261121
-DTEND;VALUE=DATE:20261122
-DESCRIPTION:『アイドル甲子園 in 桜坂セントラル -DAY2-』\n\n▶︎2026.11.21(土)\n▶︎OP 14:45/ST 15:15\n▶︎前売 ¥4\,500/当日 ¥5\,000\n\n🔗https://user.my-th.jp/tickets/event/aikou_ss1121\n＊9/19(土)20:00販売開始\n\n🎁チェキ券+1pt\nhttps://timetr.ee/p/hbn_187/3068510862572971797
-SUMMARY:沖縄｜アイドル甲子園 in 桜坂セントラル -DAY2-
-UID:3f2511c3-4597-44ad-a115-52b4b296eec0@3f25.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261024
-DTEND;VALUE=DATE:20261025
-DESCRIPTION:『HYPE IDOL！Halloween』\nㅤ\n▶︎2026.10.24(土)\n▶︎ステラボール\n▶︎OP 8:40/ST 9:00\n▶︎前方 ¥8\,000/一般 ¥3\,000\n\n🎤13:10-13:30\n📸13:35-14:35\n\n前方先行抽選：〜9/24(木)23:59\n一般先着販売：9/9(水)19:00〜\n前方先着販売：9/25(金)19:00〜\nt-dv.com/HYPE_Halloween…\nㅤ\n🎁チェキ券+1pt(前方×チェキ券2枚)\nhttps://timetr.ee/p/hbn_187/3051631390993344068
-SUMMARY:東京｜HYPE IDOL！Halloween
-UID:5826156b-09ce-4fe3-af4d-fd582daff05d@5826.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260911
-DTEND;VALUE=DATE:20260912
-DESCRIPTION:RePLAY presents\n『RE：PLAY vol.12』\n\n▶︎2026.9.11(金)\n▶︎Spotify O-Crest\n▶︎OP 18:20/ST 18:50\n▶︎adv ¥3\,000/door ¥3\,500\n\n［出演］RePLAY / HIBANA / Mirror\,Mirror\n\n7/24(金)21:00販売開始🔫\n🔗 tiget.net/events/509136 \n\n🎁チェキ券+1pt\nhttps://timetr.ee/p/hbn_187/3000866053469693056
-SUMMARY:東京｜RE：PLAY vol.12
-UID:9e1ee938-d099-49bf-b75c-3e38e74b5f5f@9e1e.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260819
-DTEND;VALUE=DATE:20260820
-DESCRIPTION:Axelight × HIBANA × .LiNIXLiNE.\n『LOVE the WORLD EX』\n\n▶2026.8.19(水)\n▶FANJtwice\n▶OP 18:30/ST 19:00\n▶前売 ¥0 /当日 ¥1\,000\n\n7/31(金)21:00販売開始🔫\nt-dv.com/lvtw_EX\n\nお久しぶりの #ラブワル 開催‼️\n今回はなんと前売無料です🉐\n大阪楽しんでいきましょう✊\nhttps://timetr.ee/p/hbn_187/3021901149270107904
-SUMMARY:大阪｜LOVE the WORLD EX
-UID:d9c1d956-fdb7-4f60-a75d-a3ef0489531d@d9c1.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260802
-DTEND;VALUE=DATE:20260803
-DESCRIPTION:『TOKYO IDOL FESTIVAL 2026\nsupported by にしたんクリニック』\n\n▶︎2026.7.31(金)\,8.1(土)\,2(日)\n▶︎お台場･青海周辺エリア\n\n✅2026.8.2(日)\n🎤11:50-12:05 【SKY STAGE】\n📸14:00-15:15 【GREETING AREA】\n🎤17:45-18:05 【TORROCO PARK】\n\n🌐https://official.idolfes.com/s/tif2026/\n🎫https://official.idolfes.com/s/tif2026/page/ticket\nhttps://timetr.ee/p/hbn_187/2971133394770388044
-SUMMARY:東京｜TOKYO IDOL FESTIVAL 2026supported by にしたんクリニック
-UID:86677aab-3565-40dd-8b8a-c822eb5f1a48@8667.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261022
-DTEND;VALUE=DATE:20261023
-DESCRIPTION:HATENA CREATION x PLAYPIT pre.\n『新進火花』\n\n▶︎2026.10.22(木)\n▶︎NAGOYA JAMMIN'\n▶︎OP 19:00/ST 19:30\n▶︎優先 ¥3\,000/一般 ¥0\n※D代事前徴収\n\n✅優先先着：8/21(金)21:00〜\n✅無銭先着：8/28(金)21:00〜\nt-dv.com/xinhiba1022\nhttps://timetr.ee/p/hbn_187/3036223472886277775
-SUMMARY:名古屋｜新進火花
-UID:bc14b9b9-b80b-4a72-b897-1c7c8be74f94@bc14.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261031
-DTEND;VALUE=DATE:20261101
-DESCRIPTION:『アイドル甲子園 in KANDA SQUARE HALL』\n\n✅《DAY1》\n▶︎2026.10.31(土)\n▶︎OP 9:15/ST 9:30\n▶︎前方 ¥8\,500/一般 ¥3\,500\n\n🎤18:50-19:15\n📸19:35-20:55\n\n🔗https://user.my-th.jp/tickets/event/aikou_1031\n＊10/5(月)20:00販売開始\n\n🎁チェキ券+1pt\nhttps://timetr.ee/p/hbn_187/3060306651402135426
-SUMMARY:東京｜アイドル甲子園 in KANDA SQUARE HALL
-UID:9c2f378b-4f1b-4460-95bd-6af95d44b48a@9c2f.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260508
-DTEND;VALUE=DATE:20260509
-DESCRIPTION:『ELECTROCUTE』\n\n▶︎2026.5.8(金)\n▶︎FANJ twice\n▶︎OP 18:00/ST 18:30\n▶︎前売 ¥2\,000 /当日 ¥2\,500\n\n🎤20:15-20:40\n📸20:50-22:30\n🔗t-dv.com/eleq0508\n\n🎁入場ポイント1pt\nhttps://timetr.ee/p/hbn_187/2940096165164017080
-SUMMARY:🌈大阪｜ELECTROCUTE
-UID:4a0af1eb-2695-4199-baf4-5cd12e9b320e@4a0a.org
+UID:3d7919bd-45e7-49c8-bc5d-414abdc2386b@3d79.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261011
 DTEND;VALUE=DATE:20261012
 DESCRIPTION:『NAGOYA NEW WAVE FESTA』\nㅤ\n▶︎2026.10.11(日)\n▶︎ReNY limited / RAD HALL\n▶︎OP 10:30/ST 11:00\n▶︎前売 ¥5\,000(D代込)\nㅤ\n🎤18:45-19:25\n📸20:20-22:20\n🔗t-dv.com/nwf2026\nㅤ\n🎁チェキ券+1pt\nhttps://timetr.ee/p/hbn_187/3067648493093315864
 SUMMARY:名古屋｜NAGOYA NEW WAVE FESTA
-UID:4e167eee-49f5-410c-bf37-12a5e9e46989@4e16.org
+UID:589c385b-46f3-4ae3-a7b7-62575382faa1@589c.org
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20270504
-DTEND;VALUE=DATE:20270505
-DESCRIPTION:https://timetr.ee/p/hbn_187/3073927156004742932
-SUMMARY:🌈大阪｜花傘連星ツアー
-UID:3369169d-ca0c-43d7-9ba9-fdd407fc3f94@3369.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260524
-DTEND;VALUE=DATE:20260525
-DESCRIPTION:『GIRLS GIRLS FESTIVAL 2026』\n\n▶︎2026.5.24(日)\n▶︎さがみ湖MORI MORI\n▶︎OP 9:30/ST 10:00\n▶︎VIP ¥16\,000/通常¥6\,600\n(さがみ湖MORI MORI入園料込/入場時1ドリンク代700円必須/再入場自由)\n\n1️⃣MORI MORI STAGE\n🎤10:50-11:15\n📸11:35-12:55(1-C)\n🎯13:15-14:15(3)\n\n2️⃣ADVENTURE STAGE\n🎤15:15-15:30\n📸15:50-16:50\n\nチケット販売中💥🔫\ntiget.net/events/483124\nhttps://timetr.ee/p/hbn_187/2928429360318178894
-SUMMARY:神奈川｜GIRLS GIRLS FESTIVAL 2026
-UID:ac6f09fe-f064-477f-ad06-2e8a577490df@ac6f.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260925
-DTEND;VALUE=DATE:20260926
-DESCRIPTION:『LadySteady supported by BUZZチケ』\nㅤ\n▶︎2026.9.25(金)\n▶︎川崎CLUB CITTA\n▶︎OP 12:30/ST 12:55\n▶︎前方 ¥7\,500/一般 ¥500\n※ドリンク代600円事前入金\n\n🎤18:05-18:30\n📸18:50-20:00\nㅤ\n8/28(金)22:00販売開始🔫\nhttps://buzz-ticket.com/e/ladysteady_0925\nㅤ\n🎁優先：チェキ券+3pt\nhttps://timetr.ee/p/hbn_187/3036222291384394793
-SUMMARY:川崎｜LadySteady
-UID:a0d0e677-4c6a-4f04-b311-d1804dc1ceda@a0d0.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261229
-DTEND;VALUE=DATE:20261230
-DESCRIPTION:https://timetr.ee/p/hbn_187/3068509455920850201
-SUMMARY:🌈大阪
-UID:4f6dc55d-1521-4652-980e-f69e117dd296@4f6d.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260717
-DTEND;VALUE=DATE:20260718
-DESCRIPTION:丸岡由茉 BIRTHDAY LIVE\n『まるちやんめでたいDAY2』\n\n▶︎2026.7.17(金)\n▶︎Live House ANIMA\n▶︎OP 18:30/ST 19:30(前物販あり)\n▶︎BDチケット ¥8\,000/一般 ¥2\,000\n\n【BDチケット特典】\n優先入場/生誕衣装ポスター/撮影ファストパス1枚\n※BDチケットの売上は当日のフラワースタンド等に充当させていただきます。\n\nーーーーーーーーーーーーーーー\n▼チケット情報▼\n\n只今より先行抽選申込受付開始💥🔫\n\n✅先行抽選：～ 6/24(水)23:59\n  ※発表予定：6/25(木)12:00\n\n✅一般販売：6/25(木)21:00〜\n\n🔗t-dv.com/yuma_bd2\nーーーーーーーーーーーーーーー\nhttps://timetr.ee/p/hbn_187/2971131837081379912
-SUMMARY:🎂大阪｜丸岡由茉 BIRTHDAY LIVE『まるちやんめでたいDAY2』
-UID:112fd12f-c0ab-475b-9f7b-3886fe788b29@112f.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260809
-DTEND;VALUE=DATE:20260810
-DESCRIPTION:THE ORCHESTRA TOKYO presents\n『NAGOYA CIRCUS 2MAN DAY2』\nㅤ\n▶︎2026.8.9(日)\n▶︎名古屋RAD NINE\n▶︎OP 13:00/ST 13:40\n▶︎前売 ¥3\,000/当日 ¥4\,000\nㅤ\n6/8(月)21:00販売開始🔫\nticketvillage.jp/events/13782\nㅤ\nTHE ORCHESTRA TOKYOさん主催2MANにお呼びいただきました🎷🥁\n久々の名古屋！火花散らしましょう💥\nhttps://timetr.ee/p/hbn_187/2971133853014877621
-SUMMARY:名古屋｜NAGOYA CIRCUS 2MAN DAY2
-UID:110f9e43-9c76-44eb-b155-f5ee351445b1@110f.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261227
-DTEND;VALUE=DATE:20261228
-DESCRIPTION:https://timetr.ee/p/hbn_187/3068509375474100068
-SUMMARY:東京
-UID:f6045428-b80d-465c-942e-e084a264756f@f604.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261220
-DTEND;VALUE=DATE:20261221
-DESCRIPTION:https://timetr.ee/p/hbn_187/3068509253965112474
-SUMMARY:東京
-UID:333b406a-f839-4a18-a6f3-bd96ea77e5d3@333b.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260429
-DTEND;VALUE=DATE:20260430
-DESCRIPTION:『火花放電 supported by FaveZone』\n\n▶︎2026.4.29(水･祝)\n▶︎ヨドバシ梅田2F Links広場\n▶︎販売･配券開始：当日14:00\n▶︎START 15:30(優先入場15:15)\n▶︎✨観覧FREE✨\n\nメンバーより「いち早くみんなに直接ありがとうを伝えたい！」との申し出があったので、火花放電の前日ですが開催決定しました‼️\n前哨戦の前哨戦、夏が始まります‼️\n\n┏━━━━━━━┓\n   📸写真撮影可📸\n   🎥動画撮影可🎥\n┗━━━━━━━┛\n\n※雨天時は開催場所が変更となる場合がございます。\n※LIVE終了後、特典会があります。\n\n【お問合せ先】\nヨドバシカメラ マルチメディア梅田\n3F 音楽・映像ソフト売り場\n(代表番号：06-4802-1010)\n\n#火花散らす閃光ポップ\n\n◤◢◤◢◤◢◤◢◤◢◤◢◤◢\n\n【特典会について】 \n\n・共通特典券 ¥1\,500 (品番：FAVZ-0150)\n\n✅特典会内容(共通)\n特典券1枚：チェキ or 写メorカメラ撮影(1枚)\n特典券2枚：スマホ動画撮影（15秒）\n特典券3枚：カメラ撮影（30秒）\n特典券4枚：囲みチェキ or 写メ\n\nイベント対象商品ご購入の際は、ヨドバシカメラのゴールドポイントカード（アプリまたはカード）が必須となります。\nイベント対象商品のご購入もポイント付与の対象となり、ポイントを使用しての対象商品のご購入も可能です。\nゴールドポイントカードをお持ちでないお客様は当日でのご登録も可能です。\n費用・年会費等は一切かかりません。\n事前にアプリを入れていただくか、またはイベント当日その場でカードを発行することも可能です。\n（ご登録の際には、住所・氏名・お電話番号等が必要となります。事前にご了承ください）\nゴールドポイントカードアプリは以下からダウンロードをお願いいたします。\nhttps://yodobashi.com/ec/support/member/pointservice/gold/about/iphone/index.html\n\n◤◢◤◢◤◢◤◢◤◢◤◢◤◢\n\n【参加方法】\n\nイベント当日、販売開始時間より上記イベント会場にて対象商品の販売を開始いたします。\n事前のご予約・お取り置きは承っておりません。\n\n対象商品をご購入のお会計時、お1人様1枚、購入先着順で整理番号付き優先入場券をお渡し致します。\n複数枚ご購入の場合でも、優先入場券は1会計あたり、お1人様1枚の配布となります。\n整理番号はランダム配布となり、ご購入順ではございません。\n既定数に達し次第、優先入場券の配布は終了致します。\n優先入場券の配布終了後も対象商品のご購入・特典会へのご参加は可能です。\n\nお支払いは現金／クレジット／電子マネー／ポイントカードもご利用頂けます。\n特典券をお持ちの方のみ、LIVE終了後の特典会にご参加頂けます。\n入場券・特典券はイベント当日のみ有効となりますので予めご了承下さい。\nお1人様あたりのご購入枚数に上限はございませんが、特典券の数には限りがございます。（状況により、購入枚数の上限を設ける場合もございます）\n既定数に達し次第、販売は終了となります。\nご購入後の返金は一切できません。\n小学生以上から入場券・特典券が必要になります。\nhttps://timetr.ee/p/hbn_187/2947306953217860829
-SUMMARY:🌈大阪｜火花放電 supported by FaveZone
-UID:fba882b2-601e-43f7-a31d-906f66f4f0df@fba8.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261009
-DTEND;VALUE=DATE:20261010
-DESCRIPTION:HIBANA 2nd Anniversary Live\n『松葉-MATSUBA-』\n\n▶︎2026.10.9(金)\n▶︎Spotify O-WEST\n▶︎OP18:00/ST 19:00\n▶︎Sチケット ¥7\,000/一般チケット ¥1\,870\n\n【券売スケジュール】\n✅Sチケット抽選販売\n     7/3(金)19:00〜7/15(水)23:59\n ＊ 結果発表：7/16(木)12:00予定\n✅一般チケット先着販売\n     7/7(火)21:00〜10/8(木)23:59\n✅Sチケット先着販売\n     7/16(木)21:00〜9/15(火)23:59\n🔗t-dv.com/matsuba\nhttps://timetr.ee/p/hbn_187/3000866928460228350
-SUMMARY:🌈東京｜松葉-MATSUBA-
-UID:2b6f42e3-2c12-435b-a22a-f1eefa93c4dc@2b6f.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261107
-DTEND;VALUE=DATE:20261108
-DESCRIPTION:『ヒバメロ！ふりぃ！』\n\n▶︎2026.11.7(土)\n▶︎FANJ twice\n▶︎OP 12:00/ST 12:30\n▶︎入場無料(D代事前支払)\n\n衣装交換アリ♡\n\n10/31(土)22:30予約開始🔫\nt-dv.com/hm_free\n\n🎁入場ポイント3pt\nhttps://timetr.ee/p/hbn_187/3068508069317502323
-SUMMARY:🌈大阪｜ヒバメロ！ふりぃ！
-UID:2453d4d1-f7f9-4e28-afc6-b46a014722c7@2453.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261027
-DTEND;VALUE=DATE:20261028
-DESCRIPTION:『Appare! HALLOWEEN FES. 2026』\nㅤ\n▶︎2026.10.27(火)\n▶︎渋谷エリア\n▶︎OP 10:00/ST 10:30\n▶︎トリックオアトリート ¥10\,000\n▶︎一般 ¥4\,000/仮装 ¥3\,000\nㅤ\n1️⃣Shibuya LOVEZ\n🎤11:40-12:00\n📸12:15-13:15 (C)\n\n《縁日(WOMBLIVE)》\n🎯14:15-15:05 (3)\n\n2️⃣代々木公園野外ステージ\n🎤17:35-17:55\n📸18:10-19:10 (E)\n\n🔗https://ticketdive.com/event/Appare_HALLOWEENFES_2026\nㅤ\n🎁チェキ券+1pt\nhttps://timetr.ee/p/hbn_187/3057506584148501833
-SUMMARY:東京｜Appare! HALLOWEEN FES. 2026
-UID:a5b66d0e-30cc-4b33-9601-d746d077bbe2@a5b6.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20270122
-DTEND;VALUE=DATE:20270123
-DESCRIPTION:https://timetr.ee/p/hbn_187/3073927967116027338
-SUMMARY:🌈大阪｜HALE⇄QE
-UID:2a2fc25a-e1e6-4412-a18d-4dc5305517e4@2a2f.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260715
-DTEND;VALUE=DATE:20260716
-DESCRIPTION:『thump』\nㅤ\n▶︎2026.7.15(水)\n▶︎FANJtwice\n▶︎OP 18:30/ST 19:00\n▶︎Adv ¥1\,500/Door ¥2\,500\nㅤ\n🎤20:40-21:05\n📸21:15-22:30\n\n6/26(金)21:00販売開始🔫\nt-dv.com/thump715\nhttps://timetr.ee/p/hbn_187/2996525470374618872
-SUMMARY:大阪｜thump
-UID:9a8d19b5-0d46-4b7b-b7be-0e9190b220a0@9a8d.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261113
-DTEND;VALUE=DATE:20261114
-DESCRIPTION:七星なな BIRTHDAY LIVE\n『スーパーラッキーナナ星誕祭2』\n\n▶︎2026.11.13(金)\n▶︎ESAKAMUSE\n▶︎OP 18:30/ST 19:30(前物販あり)\n▶︎BDチケット ¥8\,000/一般 ¥2\,000\n\n【BDチケット特典】\n優先入場/生誕衣装ポスター/撮影ファストパス1枚\n※BDチケットの売上は当日のフラワースタンド等に充当させていただきます。\n\nーーーーーーーーーーーーーーー\n▼チケット情報▼\n\n只今より先行抽選申込受付開始💥🔫\n\n✅先行抽選：～10/25(日)23:59\n  ※発表予定：10/26(月)12:00頃\n\n✅一般販売：10/19(月)21:00〜\n\n🔗t-dv.com/nana_bd2\nーーーーーーーーーーーーーーー\n\n・HIBANAでは「生誕委員」の発足をお断りさせていただきます。\n・お客様同士での金銭の要求、徴収等はご遠慮くださいますようお願い申し上げます。\n・フラワースタンド、会場装飾等は運営スタッフにて実施させていただきます。\n・会場へ設置するもの(お花、パネル等)の配送やお持ち込みがあった場合も全てお断りさせていただきます。\n・特典会にて個人へプレゼントをお渡しいただくことは、ルールの範囲内(lit.linkをご確認ください)で可能です。\n\nご来場くださる皆様、そしてなな自身に心から楽しんでもらえる1日に出来るよう、メンバー、運営一同取り組んで参ります。\n何卒ご理解、ご協力の程よろしくお願い申し上げます。\nhttps://timetr.ee/p/hbn_187/2971134248948787074
-SUMMARY:🎂大阪｜スーパーラッキーナナ星誕祭2
-UID:b3ebdcd7-0041-49b1-856d-e4bf07bd3b89@b3eb.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261118
-DTEND;VALUE=DATE:20261119
-DESCRIPTION:『手羽先センセーション × HIBANA 2MAN LIVE』\nㅤ\n日程が【11/17 → 11/18】に変更になりました。\n詳細は改めてご案内いたします。\nhttps://timetr.ee/p/hbn_187/3063265289141937771
-SUMMARY:名古屋｜手羽先センセーション × HIBANA 2MAN LIVE
-UID:19e1c2c6-9289-4426-b616-cab271a5e63e@19e1.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261008
-DTEND;VALUE=DATE:20261009
-DESCRIPTION:『アイドル甲子園 in Shibuya LOVEZ』\nㅤ\n▶︎2026.10.08(木)\n▶︎Shibuya LOVEZ\n▶︎OP 11:00/ST 12:00\n▶︎前方 ¥10\,000/一般 ¥3\,000\nㅤ\n🎤17:50-18:15\n📸18:35-19:55(D)\n🔗https://user.my-th.jp/tickets/event/aikou_1008\nㅤ\n🎁チェキ券+1pt(前方2pt)\nhttps://timetr.ee/p/hbn_187/3036223098678862978
-SUMMARY:東京｜アイドル甲子園 in Shibuya LOVEZ
-UID:a34812be-2e37-4e51-9d57-983e6513f43a@a348.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260816
-DTEND;VALUE=DATE:20260817
-DESCRIPTION:『アイドル甲子園 in KANDA SQUARE HALL』\n\n✅《DAY2》\n▶︎2026.8.16(日)\n▶︎OP 9:00/ST 9:15\n▶︎前方 ¥8\,500/一般 ¥3\,500\n\n🎤17:25-17:50\n📸18:10-19:30(B)\n\n🔗https://user.my-th.jp/tickets/event/aikou_0816\n＊7/23(木)21:00販売開始\n\n🎁チェキ券+1pt(前方3pt)\nhttps://timetr.ee/p/hbn_187/3016172111620662421
-SUMMARY:東京｜アイドル甲子園 in KANDA SQUARE HALL
-UID:32458958-3ba4-4e41-9a1a-154c1fabee63@3245.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260523
-DTEND;VALUE=DATE:20260524
-DESCRIPTION:『熱夏到来』\nㅤ\n▶︎2026.5.23(土)\n▶︎Yogibo HOLY MOUNTAIN\n▶︎OP 13:00/ST 13:30\n▶︎前売 ¥1\,500\nㅤ\n5/16(土)18:00販売開始🔫\nt-dv.com/NEKKA_TOURAI\nㅤ\n🎁チェキ券+1pt\nhttps://timetr.ee/p/hbn_187/2928429301790860590
-SUMMARY:大阪｜熱夏到来
-UID:2ee26f77-5e06-4b5d-bb28-5dfbe70684aa@2ee2.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260921
-DTEND;VALUE=DATE:20260922
-DESCRIPTION:Devil ANTHEM. presents\n『でびぱっぱ夏祭2026〜西の陣〜』\nㅤ\n▶︎2026.9.20(日)\,21(月/祝)\n▶︎大阪城野外音楽堂\n▶︎OP 10:30/ST 11:15\n▶︎2days ¥10\,000/1day ¥5\,500\nㅤ\n🎤13:40-13:55\n📸15:00-16:20\n🎤18:10-18:30\n\n✅抽選先行\n5/28(木)20:00〜6/7(日)23:59\n✅一般発売\n6/13(土)12:00〜\n🔗eplus.jp/devilanthem/\nhttps://timetr.ee/p/hbn_187/2976266397460915844
-SUMMARY:大阪｜でびぱっぱ夏祭2026〜西の陣〜
-UID:cd5d3429-0063-446d-ae00-eaf3497401c6@cd5d.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261108
-DTEND;VALUE=DATE:20261109
-DESCRIPTION:『WAVEFORM DX!』\nㅤ\n▶︎2026.11.8(日)\n▶︎GARDEN新木場FACTORY\n▶︎OP TBA/ST TBA\n▶︎Sチケット ¥8\,000/一般エリア ¥3\,500\n\n🎤12:10-12:30\n📸12:40-13:50\n🔗t-dv.com/WAVEFORM_1108\nㅤ\n🎁チェキ券+1pt\nhttps://timetr.ee/p/hbn_187/3068508123415635854
-SUMMARY:東京｜WAVEFORM DX!
-UID:ecba69c1-417d-4d4b-9242-2d547658582b@ecba.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260822
-DTEND;VALUE=DATE:20260823
-DESCRIPTION:Devil ANTHEM. presents\n『でびぱっぱ夏祭 2026 〜東の陣〜』\nㅤ\n▶︎2026.8.22(土)\,23(日)\n▶︎三崎公園野外音楽堂\n▶︎OP 9:45/ST 10:30\n▶︎2days ¥10\,000/1day ¥5\,500\n\n✅《DAY1》8/22(土)\n🎤12:35-12:50\n📸14:50-16:10\n🎤17:00-17:20\nㅤ\n🔗eplus.jp/devilanthem/\nhttps://timetr.ee/p/hbn_187/2976266855302751803
-SUMMARY:福島｜でびぱっぱ夏祭 2026 〜東の陣〜
-UID:4c665282-6210-40a1-bc73-820a77254e2a@4c66.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261021
-DTEND;VALUE=DATE:20261022
-DESCRIPTION:RePLAY新体制東名阪対バンツアー\n『RIOT -OSAKA-』\nㅤ\n▶︎2026.10.21(水)\n▶︎Live House ANIMA\n▶︎OP 18:10/ST 18:40\n▶︎前売 ¥3\,000/当日 ¥3\,500\nㅤ\n🎤19:50-20:20\n📸21:10-22:30\nㅤ\n10/9(金)21:00販売開始🔫\ntiget.net/events/529367\nㅤ\n🎁チェキ券+1pt\nhttps://timetr.ee/p/hbn_187/3036223399846668227
-SUMMARY:大阪｜RIOT -OSAKA-
-UID:9d628944-e571-4ef4-984e-8f68944cd90b@9d62.org
+DTSTART;VALUE=DATE:20260517
+DTEND;VALUE=DATE:20260518
+DESCRIPTION:『アイドル甲子園 in 品川インターシティホール』\n\n✅《DAY2》\n▶︎2026.5.17(日)\n▶︎OP 9:00/ST 9:15\n▶︎前方 ¥8\,500/一般 ¥3\,500\n\n🎤19:30-19:55\n📸21:10-22:30\n\n🔗https://user.my-th.jp/tickets/event/aikou_0517\n＊4/28(火)21:00販売開始\n\n🎁チェキ券+1pt(前方+3pt)\nhttps://timetr.ee/p/hbn_187/2958164683340048151
+SUMMARY:東京｜アイドル甲子園 in 品川インターシティホール
+UID:89a35df7-3f1a-4a75-9d7e-44b368cdbd91@89a3.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261129
 DTEND;VALUE=DATE:20261130
 DESCRIPTION:ART SOUND pre.\n『SOUND GARDEN 2026\n ART SOUND 15th Anniversary』\nㅤ\n▶︎2026.11.28(土)\,29(日)\n▶︎名古屋 栄・大須エリアサーキット\n▶︎リストバンド引換：9:00〜\n▶︎2days ¥11\,500/1day ¥6\,500\n\n✅《DAY2》 11/29(日)\n📍ReNY limited\n🎤14:00-14:30\n📸15:00-17:00(リファレンス会議室902)\nㅤ\n6/29(月)18:00販売開始🔫\nhttps://livepocket.jp/e/soundgarden2026\nㅤ\n🎁指名入場ポイント：2pt\n\n今年もSOUND GARDENに出演させていただきます🔈🎶\nなんと15周年！！\nお祝いの火花散らします🎉\nhttps://timetr.ee/p/hbn_187/2998014921705711220
 SUMMARY:名古屋｜SOUND GARDEN 2026 ART SOUND 15th Anniversary
-UID:0a03cb78-87fc-4a18-aac1-831e441530aa@0a03.org
+UID:7ade9f1e-c54a-4b15-b22a-1a6675eeec0c@7ade.org
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260705
-DTEND;VALUE=DATE:20260706
-DESCRIPTION:『MAVERICK』\nㅤ\n▶︎2026.7.5(日)\n▶︎川崎 CLUB CITTA’\n▶︎OP 11:30/ST 12:00\n▶︎前売 ¥3\,500\nㅤ\n🎤15:55-16:20\n📸17:20-18:20\n\n6/2(火)21:30販売開始🔫\nt-dv.com/maverick_260705\nㅤ\n🎁チェキ券+1pt\nhttps://timetr.ee/p/hbn_187/2950134236588729419
-SUMMARY:神奈川｜MAVERICK
-UID:9194489e-5e04-4caa-bad0-4232e580bfba@9194.org
+DTSTART;VALUE=DATE:20260817
+DTEND;VALUE=DATE:20260818
+DESCRIPTION:HIBANA presents\n『ELECTROCUTE』\n\n▶︎2026.8.17(月)\n▶︎SHIBUYA DIVE\n▶︎OP 18:30/ST 19:00\n▶︎前売 ¥2\,500/当日 ¥3\,000\n\n［出演］HIBANA / こみっきゅおん！/ フューチャーサイダー / Merry Mellow\n\n🎤20:15-20:40\n📸20:50-22:00\n\n7/24(金)21:00販売開始🔫\nt-dv.com/eleq0817\n\n🎁チェキ券+1pt\nhttps://timetr.ee/p/hbn_187/3010248565295867404
+SUMMARY:🌈東京｜ELECTROCUTE
+UID:ed20df41-814f-45a2-8537-4cd40a30ab82@ed20.org
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260531
-DTEND;VALUE=DATE:20260601
-DESCRIPTION:『アイドル甲子園 in KANDA SQUARE HALL』\n\n《DAY2》\n▶︎2026.5.31(日)\n▶︎OP 9:00/ST 9:15\n▶︎優先 ¥8\,500/一般 ¥3\,500\n\n🎤16:30-16:55\n📸17:15-18:35\n\n🔗https://user.my-th.jp/tickets/event/aikou_0531\n＊5/7(木)21:00販売開始\n\n🎁各日：チェキ券+1pt(優先3pt)\nhttps://timetr.ee/p/hbn_187/2928429678724572630
-SUMMARY:東京｜アイドル甲子園 in KANDA SQUARE HALL
-UID:73b1bb4b-3092-41c5-9f21-910360ff4cd9@73b1.org
+DTSTART;VALUE=DATE:20260830
+DTEND;VALUE=DATE:20260831
+DESCRIPTION:『URA A Villa DAY.2』\nㅤ\n▶︎2026.8.30(日)\n▶︎SYNC north\n▶︎OP 9:30/ST 10:00\n▶︎前方 ¥8\,000/前売 ¥4\,000\nㅤ\n🎤12:55-13:20\n📸13:45-15:05\n🔗t-dv.com/ura_a_villa2\nㅤ\n🎁チェキ券+1pt(前方3pt)\nhttps://timetr.ee/p/hbn_187/2961767530715604519
+SUMMARY:北海道｜URA A Villa DAY.2
+UID:23c16e45-6dcc-4a47-ab43-556a2035c253@23c1.org
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260617
-DTEND;VALUE=DATE:20260618
-DESCRIPTION:『火花放電 -12V-』\n\n▶︎2026.6.17(水)\n▶︎Spotify O-Crest\n▶︎OP 19:00/ST 19:30\n▶︎前売 ¥2\,000/当日 ¥2\,500\n\n6/8(月)22:00販売開始\nt-dv.com/hibana_12V\n\n💥重大発表アリ！！💥\nhttps://timetr.ee/p/hbn_187/2928430426476700748
-SUMMARY:🌈東京｜火花放電 -12V-
-UID:bf1834b8-c5b2-4b7b-b74d-48da7b72e359@bf18.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260829
-DTEND;VALUE=DATE:20260830
-DESCRIPTION:『A Villa idol festival HOKKAIDO 2026』\n\n▶︎2026.8.29(土)\,30(日)\n▶︎安平町ときわ公園\n▶︎OP 9:00/ST 10:00\n▶︎VIPチケット ¥15\,000\n▶︎Tシャツ付きチケット ¥6\,000\n▶︎無料チケット ¥0 ※要予約\n\n🎤12:50-13:15\n📸13:50-15:10\n🔗eplus.jp/avilla_2026/\n\n🎁VIP：チェキ券+写メ券+5pt\n🎁T付：写メ券+2pt\n\n#HIBANA は8/29(土)に出演‼️\nそして8/28(金)、8/30(日)は札幌のイベントに出演させていただきます☃️\nhttps://timetr.ee/p/hbn_187/2961767346526938996
-SUMMARY:北海道｜A Villa idol festival HOKKAIDO 2026
-UID:c08a69d6-82da-402f-ae77-7fafa48d9807@c08a.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261026
-DTEND;VALUE=DATE:20261027
-DESCRIPTION:『アイドルミラーボールpremium vol.4』\nㅤ\n▶︎2026.10.26(月)\n▶︎SHIBUYA WWW X\n▶︎OP 15:00/ST 15:20\n▶︎前方 ¥7\,000/一般 ¥3\,000\nㅤ\n🎤19:35-20:00\n📸21:20-22:20\n\n9/9(水)22:00販売開始🔫\nhttps://ticketdive.com/event/idol_mirrorball_pre4ㅤ\n\n🎁チェキ券+1pt\nhttps://timetr.ee/p/hbn_187/3036223628151022632
-SUMMARY:東京｜アイドルミラーボールpremium vol.4
-UID:fbc81358-fe4d-4a21-ac2b-1c80503b20e6@fbc8.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260719
-DTEND;VALUE=DATE:20260720
-DESCRIPTION:『BLAZE STADIUM』\nㅤ\n▶︎2026.7.19(日)\n▶︎BLAZE GOTANDA\n▶︎OP 9:45/ST 10:00\n▶︎front. ¥7\,000/adv. ¥3\,500\n\n🎤20:10-20:35\n📸20:40-21:50\n🔗livepocket.jp/e/bs_0719\nㅤ\n🎁front：3pt / adv：1pt\nhttps://timetr.ee/p/hbn_187/2971131960435860714
-SUMMARY:東京｜BLAZE STADIUM
-UID:c2b0bced-b4a5-4e87-8b22-7f3172fe3768@c2b0.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260904
-DTEND;VALUE=DATE:20260905
-DESCRIPTION:『iDolspot vol.1』\nㅤ\n▶︎2026.9.4(金)\n▶︎WOMB LIVE\n▶︎OP 14:30/ST 14:50\n▶︎前方 ¥5\,000/一般 ¥2\,000/女性･学生 ¥1\,000\nㅤ\n🎤20:00〜20:20\n📸20:25〜21:30\nㅤ\n8/28(金)21:00販売開始🔫\nt-dv.com/iDolspot_vol1\nㅤ\n🎁チェキ券+1pt\nhttps://timetr.ee/p/hbn_187/3036221971988145652
-SUMMARY:東京｜iDolspot vol.1
-UID:76bb4acb-ea38-4550-9a3d-e87d9f7ecd08@76bb.org
+DTSTART;VALUE=DATE:20261022
+DTEND;VALUE=DATE:20261023
+DESCRIPTION:HATENA CREATION x PLAYPIT pre.\n『新進火花』\n\n▶︎2026.10.22(木)\n▶︎NAGOYA JAMMIN'\n▶︎OP 19:00/ST 19:30\n▶︎優先 ¥3\,000/一般 ¥0\n※D代事前徴収\n\n✅優先先着：8/21(金)21:00〜\n✅無銭先着：8/28(金)21:00〜\nt-dv.com/xinhiba1022\nhttps://timetr.ee/p/hbn_187/3036223472886277775
+SUMMARY:名古屋｜新進火花
+UID:af71d94e-a069-4445-be68-3bf470821578@af71.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260506
 DTEND;VALUE=DATE:20260507
 DESCRIPTION:『SUMMER GATE』\n\n▶︎2026.5.6(水･祝)\n▶︎BLAZE GOTANDA\n▶︎OP 12:15/ST12:45\n▶︎一般 ¥3\,000\n\n🎤14:00-14:25\n📸14:30-15:50\n🔗t-dv.com/SUMMER_GATE\nhttps://timetr.ee/p/hbn_187/2928428602893985130
 SUMMARY:東京｜SUMMER GATE
-UID:d9cd5262-d3d2-44f6-92ac-02c39cede9b4@d9cd.org
+UID:dd75d586-a1ed-4725-a8fb-b1b5f064ef02@dd75.org
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260923
-DTEND;VALUE=DATE:20260924
-DESCRIPTION:『SPARK 2026 in YAMANAKAKO』\nㅤ\n▶︎2026.9.21(月祝)\,22(火祝)\,23(水祝)\n▶︎山中湖交流プラザきらら\n▶︎OP 9:00/ST 10:00\n▶︎SPARKチケット ¥30\,000\n▶︎一般チケット ¥7\,500\nㅤ\n✅9/23(水) 《KAMURO》\n🎤16:15-16:35\n📸16:55-18:05 (14)\n\n🔗https://t-dv.com/spark2026yamanakako\nㅤ\nHIBANA、初山中湖です‼️\n9月はまだ夏‼️夏フェスです‼️\nhttps://timetr.ee/p/hbn_187/2978374860500559493
-SUMMARY:山梨｜SPARK 2026 in YAMANAKAKO
-UID:b06837ab-4327-447f-a439-92f49970b7be@b068.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260718
-DTEND;VALUE=DATE:20260719
-DESCRIPTION:Kolokol PRESENTS\n『超Eden SUMMER』\nㅤ\n▶︎2026.7.18(土)\n▶︎大阪城野外音楽堂\n▶︎OP 11:30/ST 12:15\n▶︎前売 ¥5\,000/当日 ¥6\,000\nㅤ\n🎤15:05-15:30\n📸15:45-16:55\n🔗https://eplus.jp/kolokol_eden_summer\nㅤ\n🎁チェキ券+2pt\nhttps://timetr.ee/p/hbn_187/2971131899031250204
-SUMMARY:大阪｜超Eden SUMMER
-UID:ab35a749-95a4-4208-8739-600579fc37b1@ab35.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260627
-DTEND;VALUE=DATE:20260628
-DESCRIPTION:『アイドル甲子園FESTIVAL 2026』\n\n✅《DAY1》\n▶︎2026.6.27(土)\n▶︎TFTホール\n▶︎OP 9:30/ST 10:00\n▶︎前方 ¥11\,000/一般 ¥5\,500\n\n📍TFTホール1000\n🎤17:10-17:35\n📸17:55-19:15\n\n🔗https://user.my-th.jp/tickets/event/ikoufes_0627\n＊6/4(木)21:00販売開始\n\n🎁優先：チェキ券+4pt\n🎁一般：2pt\nhttps://timetr.ee/p/hbn_187/2928430649865332473
-SUMMARY:東京｜アイドル甲子園FESTIVAL 2026
-UID:9833c63b-b665-49cd-a1e8-77c420907427@9833.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260810
-DTEND;VALUE=DATE:20260811
-DESCRIPTION:NEO JAPONISM主催\n『NEO KASSEN2026』\n\n▶︎2026.8.10(月)\n▶︎渋谷12会場サーキット\n▶︎OP 11:00/ST 11:30\n▶︎KASSEN ¥10\,000/前売 ¥6\,500\n\n#HIBANA 【KEMURI STAGE】\n📍Spotify O-WEST\n🎤15:35-16:00\n📸16:15-17:15(ハーレム2F-4)\n\n🔗l-tike.com/neokassen/\n\n🎁チェキ券+2pt(優先4pt)\n\n#火花散らす閃光ポップ\nhttps://timetr.ee/p/hbn_187/2958778983578527573
-SUMMARY:東京｜NEO KASSEN2026
-UID:317cee12-ccf2-45ec-a547-6bc2d4c1ca48@317c.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260920
-DTEND;VALUE=DATE:20260921
-DESCRIPTION:Devil ANTHEM. presents\n『でびぱっぱ夏祭2026〜西の陣〜』\nㅤ\n▶︎2026.9.20(日)\,21(月/祝)\n▶︎大阪城野外音楽堂\n▶︎OP 10:30/ST 11:15\n▶︎2days ¥10\,000/1day ¥5\,500\nㅤ\n🎤12:00-12:15\n📸12:55-14:15\n🎤16:00-16:20\n\n✅抽選先行\n5/28(木)20:00〜6/7(日)23:59\n✅一般発売\n6/13(土)12:00〜\n🔗eplus.jp/devilanthem/\nhttps://timetr.ee/p/hbn_187/2976266156221326594
-SUMMARY:大阪｜でびぱっぱ夏祭2026〜西の陣〜
-UID:f296d847-ce7c-4f51-a3f5-818b2e41b7ef@f296.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260607
-DTEND;VALUE=DATE:20260608
-DESCRIPTION:『TIF2026メインステージ争奪LIVE 前哨戦』\nㅤ\n▶︎2026.6.7(日)\n▶︎GARDEN 新木場FACTORY\n▶︎OP 11:00/ST 12:00\n▶︎前売 ¥4\,900\n\n✅抽選先行\n4/28(火)12:00〜5/10(日)23:59\n✅一般発売\n5/20(水)10:00〜\n🔗tiget.net/events/483843\nㅤ\n#火花散らす閃光ポップ\n#TIF2026\nhttps://timetr.ee/p/hbn_187/2937061625134769905
-SUMMARY:❤️‍🔥東京｜TIF2026メインステージ争奪LIVE 前哨戦
-UID:c78a0f68-2300-4b7a-825b-a4e360419d8b@c78a.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261219
-DTEND;VALUE=DATE:20261220
-DESCRIPTION:https://timetr.ee/p/hbn_187/3068509200680675018
-SUMMARY:東京
-UID:d6f6d783-9221-45a7-bd6a-558874bbc95c@d6f6.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261115
-DTEND;VALUE=DATE:20261116
-DESCRIPTION:『アイドル甲子園 in KANDA SQUARE HALL』\nㅤ\n▶︎2026.11.15(日)\n▶︎OP 9:15/ST 9:30\n▶︎前方 ¥8\,500/一般 ¥3\,500\nㅤ\n🎤14:40-15:05\n📸15:25-16:45(B)\n\n10/12(月)20:00販売開始🔫\nhttps://user.my-th.jp/tickets/event/aikou_1115\nㅤ\n🎁チェキ券+1pt\nhttps://timetr.ee/p/hbn_187/3068508279225640642
+DTSTART;VALUE=DATE:20260726
+DTEND;VALUE=DATE:20260727
+DESCRIPTION:『アイドル甲子園 in KANDA SQUARE HALL』\nㅤ\n▶︎2026.7.26(日)\n▶︎KANDA SQUARE HALL\n▶︎OP 9:15/ST 9:30\n▶︎前方エリア ¥8\,500/一般エリア ¥3\,500\n\n🎤18:25-18:50\n📸19:10-20:30\nㅤ\n7/14(火)21:00販売開始🔫\nhttps://user.my-th.jp/tickets/event/aikou_0726\nㅤ\n🎁前方：写メ券+3pt/一般：1pt\nhttps://timetr.ee/p/hbn_187/2971132132351993329
 SUMMARY:東京｜アイドル甲子園 in KANDA SQUARE HALL
-UID:11c474bd-45da-4417-9e02-6f903a24dda6@11c4.org
+UID:1cb05d7e-6dbe-4fe8-8c40-b2d1b3b99e6d@1cb0.org
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260516
-DTEND;VALUE=DATE:20260517
-DESCRIPTION:『アイドル甲子園 in 品川インターシティホール』\n\n✅《DAY1》\n▶︎2026.5.16(土)\n▶︎OP 9:30/ST 9:45\n▶︎前方 ¥8\,500/一般 ¥3\,500\n\n🎤18:15-18:40\n📸19:00-20:20\n\n🔗https://user.my-th.jp/tickets/event/aikou_0516\n＊4/28(火)20:00販売開始\n\n🎁チェキ券+1pt(前方+3pt)\nhttps://timetr.ee/p/hbn_187/2928428810386204484
+DTSTART;VALUE=DATE:20260725
+DTEND;VALUE=DATE:20260726
+DESCRIPTION:『アイドル甲子園 in Spotify O-EAST supported by My-th』\nㅤ\n▶︎2026.7.25(土)\n▶︎Spotify O-EAST\n▶︎OP 8:30/ST 9:00\n▶︎前方エリア ¥10\,000/一般エリア ¥5\,000\nㅤ\n🎤15:50-16:15\n📸16:35-17:55\n\n🔗https://user.my-th.jp/tickets/event/aikou13th_EAST\nㅤ\n🎁前方：写メ券+3pt/一般：2pt\nㅤ\nいつもお世話になっているアイドル甲子園の13周年記念ライブです🎊\n祝いの火花、咲かせましょう🎆\nhttps://timetr.ee/p/hbn_187/2971132075041023434
+SUMMARY:東京｜アイドル甲子園 in Spotify O-EAST
+UID:b369b5fc-e34c-43b3-8054-a0be05587f78@b369.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261025
+DTEND;VALUE=DATE:20261026
+DESCRIPTION:ハルニシオン主催\n『ハルライズ NAGOYA』\nㅤ\n▶︎2026.10.25(日)\n▶︎DIAMOND HALL\n▶︎OP 12:30/ST 13:00\n▶︎優先エリア ¥7\,000/一般 ¥3\,000\nㅤ\n🎤17:55-18:20\n📸19:45-\n🔗t-dv.com/HNSRise_vol4\nㅤ\n🎁チェキ券+1pt(優先3pt)\nhttps://timetr.ee/p/hbn_187/3036223556923353080
+SUMMARY:名古屋｜ハルライズ NAGOYA
+UID:983ec97f-f71b-45d0-a2f1-a35ad30c6ab2@983e.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260731
+DTEND;VALUE=DATE:20260801
+DESCRIPTION:『TIF2026 メインステージ争奪LIVE-決勝戦-』\n\n▶︎2026.7.31(金)\n▶︎TIF2026【HEAT GARAGE】\n▶︎19:15〜\n\nローソンチケットにて、対象のTIF2026先行販売チケットをご購入いただいていた方を対象に、決勝戦2つの受付が開始しました🗳️\n対象者にはローソンチケットよりメールにてご案内いたします。\n\n1️⃣入場整理券抽選受付\n2️⃣オンライン事前投票\n\nまた決勝の投票ルールも公開👀🗳️\n必ず企画注意事項をお読みの上お申し込みください。\n\n🔗企画特設ページはこちら\nhttps://official.idolfes.com/s/tif2026/page/mainstage_scramble?ima=0000\n\n※企画特設ページのURLに誤りがあったため再投稿させていただきます。\n改めましてご確認の程お願い申し上げます。\n\n#TIF2026\n#ヒバナツ\nhttps://timetr.ee/p/hbn_187/3012653130502825367
+SUMMARY:東京｜TIF2026 メインステージ争奪LIVE-決勝戦-
+UID:1eba6527-e327-4f78-8b3c-2c8764578f6b@1eba.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260601
+DTEND;VALUE=DATE:20260602
+DESCRIPTION:『TIFメインステージ争奪LIVE 決起集会FREE LIVE』\n\n✅《-第一幕-》\n▶︎2026.5.18(月)\n▶︎BLAZE GOTANDA\n▶︎OP 18:20/ST 19:00\n▶︎優先 ¥5\,000/一般 ¥0\n🔗t-dv.com/187kekki_1\n＊5/1(金)21:00販売開始🔫\n\n✅《-第二幕-》\n▶︎2026.5.27(水)\n▶︎代官山UNIT\n▶︎OP 18:50/ST 19:30\n▶︎優先 ¥5\,000/一般 ¥0\n🔗t-dv.com/187kekki_2\n＊5/1(金)21:30販売開始🔫\n\n✅《-第三幕-》\n▶︎2026.6.1(月)\n▶︎duo MUSIC EXCHANGE\n▶︎OP 18:20/ST 19:00\n▶︎優先 ¥5\,000/一般 ¥0\n🔗t-dv.com/187kekki_3\n＊5/1(金)22:00販売開始🔫\n\n🎁優先：2pt\n※一般チケットD代事前徴収\nhttps://timetr.ee/p/hbn_187/2956004048267306861
+SUMMARY:東京｜TIFメインステージ争奪LIVE 決起集会FREE LIVE
+UID:46ab22bd-0a7a-4d10-a6cd-da4d6cd70d5c@46ab.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260610
+DTEND;VALUE=DATE:20260611
+DESCRIPTION:『SHIBUYA STADIUM』\nㅤ\n▶︎2026.6.10(水)\n▶︎SHIBUYA WWW / WWW X\n▶︎OP 12:45/ST 13:00\n▶︎前売 ¥3\,900/当日 ¥4\,500\nㅤ\n🎤20:30-20:55\n📸21:20-22:30\n🔗livepocket.jp/e/ss_0610\nㅤ\n🎁チェキ券+1pt\nhttps://timetr.ee/p/hbn_187/2928430224671958592
+SUMMARY:東京｜SHIBUYA STADIUM
+UID:45c935c8-8f6c-448b-ba89-9f952b50f0bd@45c9.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260926
+DTEND;VALUE=DATE:20260927
+DESCRIPTION:『アイドル甲子園 in 品川インターシティホール』\nㅤ\n▶︎2026.9.26(土)\n▶︎品川インターシティホール\n▶︎OP 8:45/ST 9:00\n▶︎前方 ¥8\,500/一般 ¥3\,500\nㅤ\n🎤19:25-19:50\n📸21:10-22:30\n\n8/30(日)20:00販売開始🔫\nhttps://user.my-th.jp/?redirect=/tickets/event/aikou_0926\nㅤ\n🎁チェキ券+1pt(優先3pt)\nhttps://timetr.ee/p/hbn_187/3000866320428754502
 SUMMARY:東京｜アイドル甲子園 in 品川インターシティホール
-UID:fcf40bd0-81cf-4694-bf61-3d3ed475f60e@fcf4.org
+UID:f0339938-feee-4985-93ac-b45853b84e63@f033.org
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261010
-DTEND;VALUE=DATE:20261011
-DESCRIPTION:『松葉-MATSUBA-アフター特典会』\n\n▶︎2026.10.10(土)\n▶︎シブテナ貸会議室・宮益坂 9F-A\n\n【1部】\n11:40 OPEN\n12:00-14:00 特典会\n\n【2部】\n14:40 OPEN\n15:00-17:00 特典会\n\n2周年ライブ『松葉-MATSUBA-』の翌日、アフター特典会を行います❕\n2部制にて開催いたしますので、是非お越しください✨\nhttps://timetr.ee/p/hbn_187/3068507266427053088
-SUMMARY:東京｜ワンマンアフター特典会
-UID:5a33fe20-3f3f-454d-9fd7-ea6b273b94a0@5a33.org
+DTSTART;VALUE=DATE:20260503
+DTEND;VALUE=DATE:20260504
+DESCRIPTION:『IDOL SUMMER JUNGLE GOLDEN』\n\n▶︎2026.5.3(日)\n▶︎お台場R地区\n▶︎OP 9:00/ST 10:00\n▶︎VIPチケット ¥25\,000\n▶︎一般 ¥5\,000/女性 ¥4\,000\n\n#HIBANA は5/3(日)出演💥\n\n🎤17:10-17:30(MONKEY STAGE)\n📸17:50-18:50(⑤)\n🔗t-dv.com/samajan_golden\n\n#火花散らす閃光ポップ\n#サマジャン\nhttps://timetr.ee/p/hbn_187/2928428416692053158
+SUMMARY:東京｜IDOL SUMMER JUNGLE GOLDEN
+UID:32f9ffd6-248a-43c1-9af1-46e41de230ad@32f9.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261101
+DTEND;VALUE=DATE:20261102
+DESCRIPTION:『IDOL HALLOWEEN JAPAN 2026\nSupported by Malymoon』\n\n▶︎2026.11.1(日)\n\n🧙WITCH STAGE\n🎤15:10-15:35\n📸15:55-17:05【13】(ﾊﾛｳｨﾝ延長🎃)\n\n🔗ticketdive.com/event/IHJ2026\n\n🎁チェキ券+1pt\nhttps://timetr.ee/p/hbn_187/3068507866757784630
+SUMMARY:東京｜IDOL HALLOWEEN JAPAN 2026
+UID:b1c267ab-ea4b-4d05-8eb6-57480403eff6@b1c2.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270504
+DTEND;VALUE=DATE:20270505
+DESCRIPTION:https://timetr.ee/p/hbn_187/3073927156004742932
+SUMMARY:🌈大阪｜花傘連星ツアー
+UID:dea86491-9976-45ff-9ba9-e87743186d4d@dea8.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261105
+DTEND;VALUE=DATE:20261106
+DESCRIPTION:『環状線メリーゴーランド 2026』\nㅤ\n▶︎2026.11.5(木)\n▶︎OSAKA MUSE\n▶︎OP 18:15/ST 18:30\n▶︎前売 ¥2\,500/当日 ¥3\,000\nㅤ\n🎤20:40-21:05\n📸21:10-22:30\n🔗livepocket.jp/e/merigo_115\nㅤ\n🎁チェキ券+1pt\nhttps://timetr.ee/p/hbn_187/3068507994323346685
+SUMMARY:大阪｜環状線メリーゴーランド 2026
+UID:88e35915-2444-4f59-bf74-3fc1088d8d18@88e3.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260518
+DTEND;VALUE=DATE:20260519
+DESCRIPTION:『TIFメインステージ争奪LIVE 決起集会FREE LIVE』\n\n✅《-第一幕-》\n▶︎2026.5.18(月)\n▶︎BLAZE GOTANDA\n▶︎OP 18:20/ST 19:00\n▶︎優先 ¥5\,000/一般 ¥0\n🔗t-dv.com/187kekki_1\n＊5/1(金)21:00販売開始🔫\n\n✅《-第二幕-》\n▶︎2026.5.27(水)\n▶︎代官山UNIT\n▶︎OP 18:50/ST 19:30\n▶︎優先 ¥5\,000/一般 ¥0\n🔗t-dv.com/187kekki_2\n＊5/1(金)21:30販売開始🔫\n\n✅《-第三幕-》\n▶︎2026.6.1(月)\n▶︎duo MUSIC EXCHANGE\n▶︎OP 18:20/ST 19:00\n▶︎優先 ¥5\,000/一般 ¥0\n🔗t-dv.com/187kekki_3\n＊5/1(金)22:00販売開始🔫\n\n🎁優先：2pt\n※一般チケットD代事前徴収\nhttps://timetr.ee/p/hbn_187/2956003634633434168
+SUMMARY:東京｜TIFメインステージ争奪LIVE 決起集会FREE LIVE
+UID:22bf6ed5-095d-449d-93a6-fe54a2f412ce@22bf.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261115
+DESCRIPTION:『火花放電 -FREE LIVE SP-』\n\n▶︎2026.11.14(土)\n▶︎ヨドバシ梅田2F Links広場\n▶︎販売･配券開始：当日11:30\n▶︎START 13:00(優先入場12:45)\n▶︎✨観覧FREE✨\n\n\\\\ヨドバシは特典券¥1\,500据え置き‼️//\n\n┏━━━━━━━┓\n   📸写真撮影可📸\n   🎥動画撮影可🎥\n┗━━━━━━━┛\n\n※雨天時は開催場所が変更となる場合がございます。\n※LIVE終了後、特典会があります。\n\n【お問合せ先】\nヨドバシカメラ マルチメディア梅田\n3F 音楽・映像ソフト売り場\n(代表番号：06-4802-1010)\n\n#火花散らす閃光ポップ\n\n◤◢◤◢◤◢◤◢◤◢◤◢◤◢\n\n【特典会について】 \n\n・共通特典券 ¥1\,500 (品番：FAVZ-0150)\n\n✅特典会内容(共通)\n特典券1枚：チェキ or 写メorカメラ撮影(1枚)\n特典券2枚：スマホ動画撮影（15秒）\n特典券3枚：カメラ撮影（30秒）\n特典券4枚：囲みチェキ or 写メ\n\nイベント対象商品ご購入の際は、ヨドバシカメラのゴールドポイントカード（アプリまたはカード）が必須となります。\nイベント対象商品のご購入もポイント付与の対象となり、ポイントを使用しての対象商品のご購入も可能です。\nゴールドポイントカードをお持ちでないお客様は当日でのご登録も可能です。\n費用・年会費等は一切かかりません。\n事前にアプリを入れていただくか、またはイベント当日その場でカードを発行することも可能です。\n（ご登録の際には、住所・氏名・お電話番号等が必要となります。事前にご了承ください）\nゴールドポイントカードアプリは以下からダウンロードをお願いいたします。\nyodobashi.com/ec/support/mem…\n\n◤◢◤◢◤◢◤◢◤◢◤◢◤◢\n\n【参加方法】\n\nイベント当日、販売開始時間より上記イベント会場にて対象商品の販売を開始いたします。\n事前のご予約・お取り置きは承っておりません。\n\n対象商品をご購入のお会計時、お1人様1枚、購入先着順で整理番号付き優先入場券をお渡し致します。\n複数枚ご購入の場合でも、優先入場券は1会計あたり、お1人様1枚の配布となります。\n整理番号はランダム配布となり、ご購入順ではございません。\n既定数に達し次第、優先入場券の配布は終了致します。\n優先入場券の配布終了後も対象商品のご購入・特典会へのご参加は可能です。\n\nお支払いは現金／クレジット／電子マネー／ポイントカードもご利用頂けます。\n特典券をお持ちの方のみ、LIVE終了後の特典会にご参加頂けます。\n入場券・特典券はイベント当日のみ有効となりますので予めご了承下さい。\nお1人様あたりのご購入枚数に上限はございませんが、特典券の数には限りがございます。（状況により、購入枚数の上限を設ける場合もございます）\n既定数に達し次第、販売は終了となります。\nご購入後の返金は一切できません。\n小学生以上から入場券・特典券が必要になります。\nhttps://timetr.ee/p/hbn_187/3068508200691492627
+SUMMARY:🌈大阪｜火花放電 -FREE LIVE SP-
+UID:a948801b-5890-4a49-a54c-63da055c1bd0@a948.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260722
+DTEND;VALUE=DATE:20260723
+DESCRIPTION:『UTAGE FES Vol.5』\nㅤ\n▶︎2026.7.22(水)\n▶︎Zepp Shinjuku / KABUKICHO TOWER STAGE / 新宿LOFT / SHINJUKU WALLY / Zirco Tokyo / 新宿Marble / YOANI LIVE STATION / 新宿ACB HALL\n▶︎OP 10:00/ST 10:30\n▶︎VIP ¥10\,000/一般 ¥2\,500\n\n1️⃣Zepp Shinjuku\n🎤11:10-11:30\n📸11:45-12:55(C)\n\n2️⃣新宿LOFT\n🎤17:20-17:45\n📸18:00-19:00(B)\n\n🔗t-dv.com/0722_UTAGEFES\nㅤ\n🎁チェキ券+1pt(優先5pt)\nhttps://timetr.ee/p/hbn_187/2956002540859614916
+SUMMARY:東京｜UTAGE FES Vol.5
+UID:2f0f1d4a-f7f9-41b7-a97b-b70fb9ba9744@2f0f.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260719
+DTEND;VALUE=DATE:20260720
+DESCRIPTION:『BLAZE STADIUM』\nㅤ\n▶︎2026.7.19(日)\n▶︎BLAZE GOTANDA\n▶︎OP 9:45/ST 10:00\n▶︎front. ¥7\,000/adv. ¥3\,500\n\n🎤20:10-20:35\n📸20:40-21:50\n🔗livepocket.jp/e/bs_0719\nㅤ\n🎁front：3pt / adv：1pt\nhttps://timetr.ee/p/hbn_187/2971131960435860714
+SUMMARY:東京｜BLAZE STADIUM
+UID:27b17539-e8b1-468d-ad91-624cf390cea2@27b1.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260916
 DTEND;VALUE=DATE:20260917
 DESCRIPTION:『IDOL STORM』\nㅤ\n▶︎2026.9.16(水)\n▶︎CLUB CITTA’\n▶︎OP TBA/ST TBA\n▶︎Sチケット ¥8\,500/一般 ¥3\,000\nㅤ\n🎤15:45-16:10\n📸16:20-17:20\n\n✅先行抽選\n7/30(木)15:00〜8/13(木)23:59\n✅先着販売\n8/14(金)21:00〜\n🔗t-dv.com/IDOLSTORM_0916\nㅤ\n🎁チェキ券+1pt(Sチケット：3pt)\nhttps://timetr.ee/p/hbn_187/3021797625257453276
 SUMMARY:川崎｜IDOL STORM
-UID:fd1d4fc0-5f3c-400d-8485-e95533a426a4@fd1d.org
+UID:6bb34d9d-4ff5-4674-8b8f-095d0280f22b@6bb3.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261026
+DTEND;VALUE=DATE:20261027
+DESCRIPTION:『アイドルミラーボールpremium vol.4』\nㅤ\n▶︎2026.10.26(月)\n▶︎SHIBUYA WWW X\n▶︎OP 15:00/ST 15:20\n▶︎前方 ¥7\,000/一般 ¥3\,000\nㅤ\n🎤19:35-20:00\n📸21:20-22:20\n\n9/9(水)22:00販売開始🔫\nhttps://ticketdive.com/event/idol_mirrorball_pre4ㅤ\n\n🎁チェキ券+1pt\nhttps://timetr.ee/p/hbn_187/3036223628151022632
+SUMMARY:東京｜アイドルミラーボールpremium vol.4
+UID:4fea03b8-d5bb-4f28-9b59-c06aea57ac34@4fea.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260516
+DTEND;VALUE=DATE:20260517
+DESCRIPTION:『アイドル甲子園 in 品川インターシティホール』\n\n✅《DAY1》\n▶︎2026.5.16(土)\n▶︎OP 9:30/ST 9:45\n▶︎前方 ¥8\,500/一般 ¥3\,500\n\n🎤18:15-18:40\n📸19:00-20:20\n\n🔗https://user.my-th.jp/tickets/event/aikou_0516\n＊4/28(火)20:00販売開始\n\n🎁チェキ券+1pt(前方+3pt)\nhttps://timetr.ee/p/hbn_187/2928428810386204484
+SUMMARY:東京｜アイドル甲子園 in 品川インターシティホール
+UID:f3b9761a-633d-4e4e-ab90-535eaf6eb85f@f3b9.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260508
+DTEND;VALUE=DATE:20260509
+DESCRIPTION:『ELECTROCUTE』\n\n▶︎2026.5.8(金)\n▶︎FANJ twice\n▶︎OP 18:00/ST 18:30\n▶︎前売 ¥2\,000 /当日 ¥2\,500\n\n🎤20:15-20:40\n📸20:50-22:30\n🔗t-dv.com/eleq0508\n\n🎁入場ポイント1pt\nhttps://timetr.ee/p/hbn_187/2940096165164017080
+SUMMARY:🌈大阪｜ELECTROCUTE
+UID:0c7abc97-9a56-4f89-9073-1c9cf25050e2@0c7a.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260925
+DTEND;VALUE=DATE:20260926
+DESCRIPTION:『LadySteady supported by BUZZチケ』\nㅤ\n▶︎2026.9.25(金)\n▶︎川崎CLUB CITTA\n▶︎OP 12:30/ST 12:55\n▶︎前方 ¥7\,500/一般 ¥500\n※ドリンク代600円事前入金\n\n🎤18:05-18:30\n📸18:50-20:00\nㅤ\n8/28(金)22:00販売開始🔫\nhttps://buzz-ticket.com/e/ladysteady_0925\nㅤ\n🎁優先：チェキ券+3pt\nhttps://timetr.ee/p/hbn_187/3036222291384394793
+SUMMARY:川崎｜LadySteady
+UID:e0404db9-fb05-44c3-af11-76251cb99ef1@e040.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261229
+DTEND;VALUE=DATE:20261230
+DESCRIPTION:https://timetr.ee/p/hbn_187/3068509455920850201
+SUMMARY:🌈大阪
+UID:29fae90a-6935-4edc-b521-1b4cc7d5912a@29fa.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260816
+DTEND;VALUE=DATE:20260817
+DESCRIPTION:UtaGe!×FES☆TIVE presents\n『超宴祭！』\nㅤ\n▶︎2026.8.16(日)\n▶︎渋谷4会場\n▶︎OP 10:00/ST 11:00\n▶︎一般 ¥3\,500\n\n📍duo MUSIC EXCHANGE\n🎤13:05-13:35\n📸13:45-14:55\n🔗https://ticketdive.com/event/chouutagematuri\nㅤ\n🎁チェキ券+1pt\n\n主催のUtaGe!さんに最高のバトンを渡すべく、最高のステージぶちかまします💥\n⚠️この日だけのSP演出あり⚠️\nhttps://timetr.ee/p/hbn_187/2994406961305805917
+SUMMARY:東京｜超宴祭！
+UID:7bbed22f-acfb-4e74-ae87-fdf5aff4d449@7bbe.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261027
+DTEND;VALUE=DATE:20261028
+DESCRIPTION:『Appare! HALLOWEEN FES. 2026』\nㅤ\n▶︎2026.10.27(火)\n▶︎渋谷エリア\n▶︎OP 10:00/ST 10:30\n▶︎トリックオアトリート ¥10\,000\n▶︎一般 ¥4\,000/仮装 ¥3\,000\nㅤ\n1️⃣Shibuya LOVEZ\n🎤11:40-12:00\n📸12:15-13:15 (C)\n\n《縁日(WOMBLIVE)》\n🎯14:15-15:05 (3)\n\n2️⃣代々木公園野外ステージ\n🎤17:35-17:55\n📸18:10-19:10 (E)\n\n🔗https://ticketdive.com/event/Appare_HALLOWEENFES_2026\nㅤ\n🎁チェキ券+1pt\nhttps://timetr.ee/p/hbn_187/3057506584148501833
+SUMMARY:東京｜Appare! HALLOWEEN FES. 2026
+UID:5a0924ae-34aa-402d-aa85-f1f1401f4b4c@5a09.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260825
+DTEND;VALUE=DATE:20260826
+DESCRIPTION:Appare! Presents\n『エンドレスサマー2026』\n\n▶︎2026.8.25(火)\n▶︎渋谷8会場連動\n▶︎OP 10:30/ST 11:00\n\n#HIBANA\n🍉すいかステージ🍉\n🎤12:50-13:15 【O-WEST】\n📸13:30-14:30【HARLEM 2F】\n\n✅夏は終わらない！チケット\n  ▶︎¥10\,000(限定Tシャツ付)\n《抽選受付》：〜8/9(日)23:59\n《一般発売》：8/10(月)21:00〜\n✅一般チケット\n  ▶︎¥4\,000 販売中❕\n🔗https://t-dv.com/endlessummer2026\n\n🎁チェキ券+1pt(優先3pt)\nhttps://timetr.ee/p/hbn_187/2994407022131602698
+SUMMARY:東京｜エンドレスサマー2026
+UID:bd5da26b-dceb-47e3-9c59-8cf652177a9a@bd5d.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260920
+DTEND;VALUE=DATE:20260921
+DESCRIPTION:Devil ANTHEM. presents\n『でびぱっぱ夏祭2026〜西の陣〜』\nㅤ\n▶︎2026.9.20(日)\,21(月/祝)\n▶︎大阪城野外音楽堂\n▶︎OP 10:30/ST 11:15\n▶︎2days ¥10\,000/1day ¥5\,500\nㅤ\n🎤12:00-12:15\n📸12:55-14:15\n🎤16:00-16:20\n\n✅抽選先行\n5/28(木)20:00〜6/7(日)23:59\n✅一般発売\n6/13(土)12:00〜\n🔗eplus.jp/devilanthem/\nhttps://timetr.ee/p/hbn_187/2976266156221326594
+SUMMARY:大阪｜でびぱっぱ夏祭2026〜西の陣〜
+UID:d2c21661-ff18-4d88-aa8d-10f6b51f7556@d2c2.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261102
+DTEND;VALUE=DATE:20261103
+DESCRIPTION:『I to U $CREAMing!! × HIBANA × BNSI × RePLAY』\nㅤ\n▶︎2026.11.2(月)\n▶︎渋谷 WWW\n▶︎OP 18:00/ST 18:25\n▶︎前方 ¥5\,000/一般 ¥3\,000\n\n🎤20:25-21:05\n📸21:10-22:30\n🔗livepocket.jp/e/4man_112\nㅤ\n🎁チェキ券+1pt\nhttps://timetr.ee/p/hbn_187/3068507924848894995
+SUMMARY:東京｜I to U $CREAMing!! × HIBANA × BNSI × RePLAY
+UID:3b06173b-2f0a-4aef-8bcb-5da0e62208d9@3b06.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260527
+DTEND;VALUE=DATE:20260528
+DESCRIPTION:『TIFメインステージ争奪LIVE 決起集会FREE LIVE』\n\n✅《-第一幕-》\n▶︎2026.5.18(月)\n▶︎BLAZE GOTANDA\n▶︎OP 18:20/ST 19:00\n▶︎優先 ¥5\,000/一般 ¥0\n🔗t-dv.com/187kekki_1\n＊5/1(金)21:00販売開始🔫\n\n✅《-第二幕-》\n▶︎2026.5.27(水)\n▶︎代官山UNIT\n▶︎OP 18:50/ST 19:30\n▶︎優先 ¥5\,000/一般 ¥0\n🔗t-dv.com/187kekki_2\n＊5/1(金)21:30販売開始🔫\n\n✅《-第三幕-》\n▶︎2026.6.1(月)\n▶︎duo MUSIC EXCHANGE\n▶︎OP 18:20/ST 19:00\n▶︎優先 ¥5\,000/一般 ¥0\n🔗t-dv.com/187kekki_3\n＊5/1(金)22:00販売開始🔫\n\n🎁優先：2pt\n※一般チケットD代事前徴収\nhttps://timetr.ee/p/hbn_187/2956003809938564616
+SUMMARY:東京｜TIFメインステージ争奪LIVE 決起集会FREE LIVE
+UID:e91799d3-4790-4064-8305-cc8a3b603e4d@e917.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260628
+DTEND;VALUE=DATE:20260629
+DESCRIPTION:『アイドル甲子園FESTIVAL 2026』\n\n✅《DAY2》\n▶︎2026.6.28(日)\n▶︎TFTホール\n▶︎OP 9:00/ST 9:30\n▶︎前方 ¥11\,000/一般 ¥5\,500\n\n📍TFTホール1000\n🎤18:00-18:25\n📸18:45-20:05\n\n🔗https://user.my-th.jp/tickets/event/ikoufes_0628\n＊6/4(木)22:00販売開始\n\n🎁優先：チェキ券+4pt\n🎁一般：2pt\nhttps://timetr.ee/p/hbn_187/2928430715044816853
+SUMMARY:東京｜アイドル甲子園FESTIVAL 2026
+UID:4373c9a9-eb02-4e83-9ee5-1dfea6968ee8@4373.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260826
+DTEND;VALUE=DATE:20260827
+DESCRIPTION:『DERA MAXIMUM JAM』\nㅤ\n▶︎2026.8.26(水)\n▶︎Zephyr Hall / ReNY limited\n▶︎OP 13:00/ST 13:30\n▶︎前方前売 ¥8\,000/通常前売 ¥5\,000\n\n1️⃣ReNY limited\n🎤15:25-15:55\n📸16:15-17:25\n\n2️⃣Zephyr HALL\n🎤18:35-19:05\n📸19:15-20:25\nㅤ\nチケット販売中💥🔫\nt-dv.com/DERAX_JAM\nㅤ\n🎁チェキ券+1pt(優先3pt)\nhttps://timetr.ee/p/hbn_187/2994407266240095561
+SUMMARY:名古屋｜DERA MAXIMUM JAM
+UID:589c5c82-c2ba-4cdc-bf28-3d4b20c47abc@589c.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261003
+DTEND;VALUE=DATE:20261004
+DESCRIPTION:Ringwanderung presents\n『SYNC EXTRA』\nㅤ\n▶︎2026.10.3(土)\n▶︎Veats Shibuya\n▶︎OP 14:30/ST 15:00\n▶︎前売 ¥3\,500\nㅤ\n🎤16:50〜17:20\n📸18:50〜20:00\nㅤ\n9/8(火)21:30販売開始🔫\nhttps://ticketdive.com/event/RWR_SYNC-EXTRA_20261003\nㅤ\n🎁サイン付きチェキ券\nhttps://timetr.ee/p/hbn_187/3036222958220010691
+SUMMARY:東京｜SYNC EXTRA
+UID:9a945268-bed9-4ac3-8ecc-62252e4072ee@9a94.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260522
+DTEND;VALUE=DATE:20260523
+DESCRIPTION:『ELECTROCUTE』\n\n▶︎2026.5.22(金)\n▶︎アメリカ村DROP\n▶︎OP 18:30/ST 19:00\n▶︎前売 ¥2\,000/当日 ¥2\,500\n\n［出演］HIBANA / Tohkei / Malcolm Mask McLaren\n\n5/15(金)22:00販売開始\nt-dv.com/eleq_522\n\n🎁入場ポイント1pt\n\n※この日はやむを得ない事情により、丸岡由茉が特典会に参加することが出来ません。\nライブは5名で行いますが、終演後特典会はその他4名にて行います旨、予めご了承ください。\nhttps://timetr.ee/p/hbn_187/2928429230378641111
+SUMMARY:🌈大阪｜ELECTROCUTE
+UID:f2270b77-556b-40ea-a306-06fbaf353aee@f227.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260429
+DTEND;VALUE=DATE:20260430
+DESCRIPTION:『火花放電 supported by FaveZone』\n\n▶︎2026.4.29(水･祝)\n▶︎ヨドバシ梅田2F Links広場\n▶︎販売･配券開始：当日14:00\n▶︎START 15:30(優先入場15:15)\n▶︎✨観覧FREE✨\n\nメンバーより「いち早くみんなに直接ありがとうを伝えたい！」との申し出があったので、火花放電の前日ですが開催決定しました‼️\n前哨戦の前哨戦、夏が始まります‼️\n\n┏━━━━━━━┓\n   📸写真撮影可📸\n   🎥動画撮影可🎥\n┗━━━━━━━┛\n\n※雨天時は開催場所が変更となる場合がございます。\n※LIVE終了後、特典会があります。\n\n【お問合せ先】\nヨドバシカメラ マルチメディア梅田\n3F 音楽・映像ソフト売り場\n(代表番号：06-4802-1010)\n\n#火花散らす閃光ポップ\n\n◤◢◤◢◤◢◤◢◤◢◤◢◤◢\n\n【特典会について】 \n\n・共通特典券 ¥1\,500 (品番：FAVZ-0150)\n\n✅特典会内容(共通)\n特典券1枚：チェキ or 写メorカメラ撮影(1枚)\n特典券2枚：スマホ動画撮影（15秒）\n特典券3枚：カメラ撮影（30秒）\n特典券4枚：囲みチェキ or 写メ\n\nイベント対象商品ご購入の際は、ヨドバシカメラのゴールドポイントカード（アプリまたはカード）が必須となります。\nイベント対象商品のご購入もポイント付与の対象となり、ポイントを使用しての対象商品のご購入も可能です。\nゴールドポイントカードをお持ちでないお客様は当日でのご登録も可能です。\n費用・年会費等は一切かかりません。\n事前にアプリを入れていただくか、またはイベント当日その場でカードを発行することも可能です。\n（ご登録の際には、住所・氏名・お電話番号等が必要となります。事前にご了承ください）\nゴールドポイントカードアプリは以下からダウンロードをお願いいたします。\nhttps://yodobashi.com/ec/support/member/pointservice/gold/about/iphone/index.html\n\n◤◢◤◢◤◢◤◢◤◢◤◢◤◢\n\n【参加方法】\n\nイベント当日、販売開始時間より上記イベント会場にて対象商品の販売を開始いたします。\n事前のご予約・お取り置きは承っておりません。\n\n対象商品をご購入のお会計時、お1人様1枚、購入先着順で整理番号付き優先入場券をお渡し致します。\n複数枚ご購入の場合でも、優先入場券は1会計あたり、お1人様1枚の配布となります。\n整理番号はランダム配布となり、ご購入順ではございません。\n既定数に達し次第、優先入場券の配布は終了致します。\n優先入場券の配布終了後も対象商品のご購入・特典会へのご参加は可能です。\n\nお支払いは現金／クレジット／電子マネー／ポイントカードもご利用頂けます。\n特典券をお持ちの方のみ、LIVE終了後の特典会にご参加頂けます。\n入場券・特典券はイベント当日のみ有効となりますので予めご了承下さい。\nお1人様あたりのご購入枚数に上限はございませんが、特典券の数には限りがございます。（状況により、購入枚数の上限を設ける場合もございます）\n既定数に達し次第、販売は終了となります。\nご購入後の返金は一切できません。\n小学生以上から入場券・特典券が必要になります。\nhttps://timetr.ee/p/hbn_187/2947306953217860829
+SUMMARY:🌈大阪｜火花放電 supported by FaveZone
+UID:54f6c578-e400-4c81-ab3a-61e2e32afbf5@54f6.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261107
+DTEND;VALUE=DATE:20261108
+DESCRIPTION:#ﾆｷﾌﾟﾚ 『オオサカッ!! -シキサイ。-』\nㅤ\n▶︎2026.11.7(土)\n▶︎心斎橋FANJtwice\n▶︎OP 15:40/ST 16:00\n▶︎前売 ¥3\,000/当日 ¥3\,500\nㅤ\n🎤16:00-16:30\n📸16:40-17:40(並行物販)\nㅤ\n10/31(土)22:00販売開始🔫\nhttps://t-dv.com/20261107_nikipre_osaka\nㅤ\n🎁チェキ券+1pt\nㅤ\nhttps://timetr.ee/p/hbn_187/3088569271099778364
+SUMMARY:大阪｜#ﾆｷﾌﾟﾚ 『オオサカッ!! -シキサイ。-』
+UID:f2454482-7c4f-4021-8354-066f716a5e92@f245.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261123
+DTEND;VALUE=DATE:20261124
+DESCRIPTION:『アイドル甲子園 in Cyber-Box -DAY4-』\n\n▶︎2026.11.23(月)\n▶︎OP 12:00/ST 12:30\n▶︎前売 ¥4\,500/当日 ¥5\,000\n\n🔗https://user.my-th.jp/tickets/event/aikou_cb1123\n＊9/19(土)22:00販売開始\n\n🎁チェキ券+1pt\nhttps://timetr.ee/p/hbn_187/3068511614863336970
+SUMMARY:沖縄｜アイドル甲子園 in Cyber-Box -DAY4-
+UID:a7a7d71a-e44d-4c3b-8525-1cb2adc3f460@a7a7.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260704
+DTEND;VALUE=DATE:20260705
+DESCRIPTION:『超NATSUZOME 2026』\n\n▶︎2026.7.4(土)\n▶︎幕張海浜公園Gブロック特設会場 \n▶︎OP 9:00/ST 10:00 \n▶︎VIP ¥27\,000/一般 ¥8\,000\n\n1️⃣BAKUステージ🟡\n🎤11:35-11:50\n\n2️⃣SOMARIステージ🟠\n🎤14:30-14:45\n\n🔗https://r10.to/chonatsuzome2026\n\n🎁VIP：写メ券+動画券+8pt\n🎁一般：3pt\nhttps://timetr.ee/p/hbn_187/2950134166241862670
+SUMMARY:千葉｜超NATSUZOME 2026
+UID:7b548cc5-a3fd-4e7b-ab78-da15ea1e0a5f@7b54.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260524
+DTEND;VALUE=DATE:20260525
+DESCRIPTION:『GIRLS GIRLS FESTIVAL 2026』\n\n▶︎2026.5.24(日)\n▶︎さがみ湖MORI MORI\n▶︎OP 9:30/ST 10:00\n▶︎VIP ¥16\,000/通常¥6\,600\n(さがみ湖MORI MORI入園料込/入場時1ドリンク代700円必須/再入場自由)\n\n1️⃣MORI MORI STAGE\n🎤10:50-11:15\n📸11:35-12:55(1-C)\n🎯13:15-14:15(3)\n\n2️⃣ADVENTURE STAGE\n🎤15:15-15:30\n📸15:50-16:50\n\nチケット販売中💥🔫\ntiget.net/events/483124\nhttps://timetr.ee/p/hbn_187/2928429360318178894
+SUMMARY:神奈川｜GIRLS GIRLS FESTIVAL 2026
+UID:06e5e45c-0048-48f2-82ed-12fa9bfa5a8f@06e5.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260607
+DTEND;VALUE=DATE:20260608
+DESCRIPTION:『TIF2026メインステージ争奪LIVE 前哨戦』\nㅤ\n▶︎2026.6.7(日)\n▶︎GARDEN 新木場FACTORY\n▶︎OP 11:00/ST 12:00\n▶︎前売 ¥4\,900\n\n✅抽選先行\n4/28(火)12:00〜5/10(日)23:59\n✅一般発売\n5/20(水)10:00〜\n🔗tiget.net/events/483843\nㅤ\n#火花散らす閃光ポップ\n#TIF2026\nhttps://timetr.ee/p/hbn_187/2937061625134769905
+SUMMARY:❤️‍🔥東京｜TIF2026メインステージ争奪LIVE 前哨戦
+UID:9ba239da-4da3-484f-b791-16da9033b1f1@9ba2.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260917
+DTEND;VALUE=DATE:20260918
+DESCRIPTION:文化放送presents\n『idoLove You♫-On Stage QR-vol.2』\nㅤ\n▶︎2026.9.17(木)\n▶︎ステラボール\n▶︎OP 9:30/ST 10:00\n▶︎VIPチケット ¥8\,000/一般チケット ¥3\,000\nㅤ\n🎤13:30-13:50\n📸14:00-15:00\n\n【チケット受付】\n▶︎VIP先行抽選：〜8/27(木)23:59\n▶︎VIP先着販売：8/28(金)20:00〜\n▶︎一般先着販売：只今より開始⚠️\n🔗t-dv.com/idoLoveYou_0917\nㅤ\n🎁チェキ券+1pt(優先3pt)\nhttps://timetr.ee/p/hbn_187/3036222181636236917
+SUMMARY:東京｜idoLove You♫-On Stage QR-vol.2
+UID:bd7c1a18-010e-410c-8822-bb3e729ff212@bd7c.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260905
+DTEND;VALUE=DATE:20260906
+DESCRIPTION:『New Story』\nㅤ\n▶︎2026.9.5(土)\n▶︎BLAZE GOTANDA\n▶︎OP 11:45/ST 12:00\n▶︎front. ¥7\,000/adv. ¥3\,500\nㅤ\n🎤19:15-19:40\n📸20:10-21:30\n\n8/18(火)18:00販売開始🔫\nlivepocket.jp/e/ns_905\nㅤ\n🎁チェキ券+1pt(前方2pt)\nhttps://timetr.ee/p/hbn_187/3000865844190701441
+SUMMARY:東京｜New Story
+UID:e012ee47-5b40-4165-b7df-e9e545ea8fdd@e012.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260907
+DTEND;VALUE=DATE:20260908
+DESCRIPTION:『COLOR of COLOR×KissBee×透色ドロップ×HIBANA』\nㅤ\n▶︎2026.9.7(月)\n▶︎渋谷 WWW\n▶︎OP 18:30/ST 19:00\n▶︎前方 ¥3\,000/一般 ¥1\,500\n\n🎤19:30-20:00\n📸21:10-22:30\n🔗livepocket.jp/e/www_4man\nㅤ\n🎁チェキ券(前方+1pt)\nhttps://timetr.ee/p/hbn_187/3000865981864535722
+SUMMARY:東京｜COLOR of COLOR×KissBee×透色ドロップ×HIBANA
+UID:11aee975-5218-48ab-88f5-d7b81a8e5b14@11ae.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261211
+DTEND;VALUE=DATE:20261212
+DESCRIPTION:https://timetr.ee/p/hbn_187/2971135145556764497
+SUMMARY:🎂大阪｜もも生誕ライブ
+UID:3d96d510-36dd-4b12-ae75-20e5891e8b09@3d96.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260928
+DTEND;VALUE=DATE:20260929
+DESCRIPTION:松葉-MATSUBA- Prelude Live\n『Needle Point #3 』\n\n▶︎2026.9.28(月)\n▶︎BLAZE GOTANDA\n▶︎OPEN 18:00/START 18:30\n▶︎優先 ¥3\,500/一般 ¥2\,000\n\n［出演］HIBANA / ジエメイ / AsIs / Merry BAD TUNE.\n\n9/14(月)21:00販売開始🔫\nt-dv.com/NeedlePoint3\n\n🎁チェキ券+3pt\nhttps://timetr.ee/p/hbn_187/3000866435075860188
+SUMMARY:🌈東京｜Needle Point #3
+UID:a4d0366b-5d5d-4185-aea8-41a540198e75@a4d0.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261021
+DTEND;VALUE=DATE:20261022
+DESCRIPTION:RePLAY新体制東名阪対バンツアー\n『RIOT -OSAKA-』\nㅤ\n▶︎2026.10.21(水)\n▶︎Live House ANIMA\n▶︎OP 18:10/ST 18:40\n▶︎前売 ¥3\,000/当日 ¥3\,500\nㅤ\n🎤19:50-20:20\n📸21:10-22:30\nㅤ\n10/9(金)21:00販売開始🔫\ntiget.net/events/529367\nㅤ\n🎁チェキ券+1pt\nhttps://timetr.ee/p/hbn_187/3036223399846668227
+SUMMARY:大阪｜RIOT -OSAKA-
+UID:7ff3b68e-0c8a-4cae-9026-5ca945b7524d@7ff3.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261121
+DESCRIPTION:『アイドル甲子園 in Output -DAY1-』\n\n▶︎2026.11.20(金)\n▶︎OP 18:00/ST 18:30\n▶︎前売 ¥4\,000/当日 ¥4\,500\n\n🔗https://user.my-th.jp/tickets/event/aikou_op1120\n＊9/19(土)19:00販売開始\n\n🎁チェキ券+1pt\nhttps://timetr.ee/p/hbn_187/3053876103800611943
+SUMMARY:沖縄｜アイドル甲子園 in Output -DAY1-
+UID:106b8c19-57f8-45b6-bdfe-8ef0974bc9a2@106b.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261219
+DTEND;VALUE=DATE:20261220
+DESCRIPTION:https://timetr.ee/p/hbn_187/3068509200680675018
+SUMMARY:東京
+UID:9b009ae5-26d9-4243-9edf-18b09a8a71b9@9b00.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260802
+DTEND;VALUE=DATE:20260803
+DESCRIPTION:『TOKYO IDOL FESTIVAL 2026\nsupported by にしたんクリニック』\n\n▶︎2026.7.31(金)\,8.1(土)\,2(日)\n▶︎お台場･青海周辺エリア\n\n✅2026.8.2(日)\n🎤11:50-12:05 【SKY STAGE】\n📸14:00-15:15 【GREETING AREA】\n🎤17:45-18:05 【TORROCO PARK】\n\n🌐https://official.idolfes.com/s/tif2026/\n🎫https://official.idolfes.com/s/tif2026/page/ticket\nhttps://timetr.ee/p/hbn_187/2971133394770388044
+SUMMARY:東京｜TOKYO IDOL FESTIVAL 2026supported by にしたんクリニック
+UID:883ccfa7-4e52-41bd-9024-075281f5dbaa@883c.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261221
+DTEND;VALUE=DATE:20261222
+DESCRIPTION:https://timetr.ee/p/hbn_187/3093021371619796387
+SUMMARY:東京
+UID:564f0242-21ba-451b-82b0-e29027f88754@564f.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260731
+DTEND;VALUE=DATE:20260801
+DESCRIPTION:『TOKYO IDOL FESTIVAL 2026\nsupported by にしたんクリニック』\n\n▶︎2026.7.31(金)\,8.1(土)\,2(日)\n▶︎お台場･青海周辺エリア\n\n✅2026.7.31(金)\n🎤11:05-11:25 【SMILE GARDEN】 \n📸13:00-14:15 【GREETING AREA】\n🎤19:15- 【HEAT GARAGE】\n❤️‍🔥メインステージ争奪LIVE決勝戦❤️‍🔥\n\n🌐https://official.idolfes.com/s/tif2026/\n🎫https://official.idolfes.com/s/tif2026/page/ticket\nhttps://timetr.ee/p/hbn_187/2971132914338030806
+SUMMARY:東京｜TOKYO IDOL FESTIVAL 2026supported by にしたんクリニック
+UID:b5b30ace-d51a-419f-9ee2-ca7d1548cd01@b5b3.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260910
+DTEND;VALUE=DATE:20260911
+DESCRIPTION:『Creora』\nㅤ\n▶︎2026.9.10(木)\n▶︎下北沢シャングリラ\n▶︎OP 16:20/ST 16:40\n▶︎前方 ¥5\,500/一般 ¥2\,500\nㅤ\n🎤20:30〜20:55\n📸21:20〜22:30\nㅤ\n8/24(月)22:00販売開始🔫\nt-dv.com/creora_oo\nㅤ\n🎁チェキ券+1pt\nhttps://timetr.ee/p/hbn_187/3036222090359793581
+SUMMARY:東京｜Creora
+UID:3b4a9218-497e-47e6-a956-52084d90e3a6@3b4a.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261009
+DTEND;VALUE=DATE:20261010
+DESCRIPTION:HIBANA 2nd Anniversary Live\n『松葉-MATSUBA-』\n\n▶︎2026.10.9(金)\n▶︎Spotify O-WEST\n▶︎OP18:00/ST 19:00\n▶︎Sチケット ¥7\,000/一般チケット ¥1\,870\n\n【券売スケジュール】\n✅Sチケット抽選販売\n     7/3(金)19:00〜7/15(水)23:59\n ＊ 結果発表：7/16(木)12:00予定\n✅一般チケット先着販売\n     7/7(火)21:00〜10/8(木)23:59\n✅Sチケット先着販売\n     7/16(木)21:00〜9/15(火)23:59\n🔗t-dv.com/matsuba\nhttps://timetr.ee/p/hbn_187/3000866928460228350
+SUMMARY:🌈東京｜松葉-MATSUBA-
+UID:65837d4e-1350-4f80-9f1b-2280f70b2632@6583.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261018
+DTEND;VALUE=DATE:20261019
+DESCRIPTION:『IDO-LIVE!!Circuit』\nㅤ\n▶︎2026.10.18(日)\n▶︎Spotify O-WEST & duo MUSIC EXCHANGE\n▶︎OP 12:30/ST 13:00\n▶︎ADV ¥4\,980/DOOR ¥6\,000\nㅤ\n📍duo MUSIC EXCHANGE\n🎤17:15-17:45\n📸18:05-19:20\n🔗eplus.jp/IDOLIVE\nㅤ\n🎁チェキ券+1pt\n\n郷に従い、この日は【リフトOK】とさせていただきます🔥\nステージVSフロアで火花散らし合いましょう🤜💥🤛\nhttps://timetr.ee/p/hbn_187/3036223308100461746
+SUMMARY:東京｜IDO-LIVE!!Circuit
+UID:5d494370-7581-491b-97ef-6077dfe2af89@5d49.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260919
+DTEND;VALUE=DATE:20260920
+DESCRIPTION:『手羽先セッション vol.19』\nㅤ\n▶︎2026.9.19(土)\n▶︎名古屋 ReNY limited / Zephyr Hall\n▶︎OP 11:00/ST 11:30\n▶︎前売り ¥5\,000/当日 ¥5\,500\nㅤ\n📍ReNY limited\n🎤16:55-17:20\n📸17:35-18:35 (A)\n\n✅先行抽選：〜8/27(木)12:00\n✅一般先着：8/27(木)22:00〜\n🔗t-dv.com/tebasession_19\nㅤ\n🎁チェキ券+2pt\nhttps://timetr.ee/p/hbn_187/3000866256029410507
+SUMMARY:名古屋｜手羽先セッション vol.19
+UID:ef1a8f8d-e345-4384-b46c-0bc22301c160@ef1a.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261124
+DTEND;VALUE=DATE:20261125
+DESCRIPTION:https://timetr.ee/p/hbn_187/3093012196412024318
+SUMMARY:大阪
+UID:90cd17a3-ccd4-4366-89c3-a57cfb1ca4ce@90cd.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260831
+DTEND;VALUE=DATE:20260901
+DESCRIPTION:松葉-MATSUBA- Prelude Live\n『Needle Point #2 』\n\n▶︎2026.8.31(月)\n▶︎BLAZE GOTANDA\n▶︎OPEN 18:00/START 18:30\n▶︎優先 ¥3\,500/一般 ¥2\,000\n\n［出演］HIBANA / myojou / マリークラウン\n\n7/16(木)21:00販売開始🔫\nt-dv.com/NeedlePoint2\n\n🎁優先：写メ券+1pt\n\nNeedle Pointの第二弾が解禁されました！\n今回はmyojouさん、マリークラウンさんにご出演いただきます✨\n素敵な時間になりますように🫶\nhttps://timetr.ee/p/hbn_187/2994407456862823454
+SUMMARY:🌈東京｜Needle Point #2
+UID:ab8d7461-9093-437d-8549-8b3f07600a84@ab8d.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260706
+DTEND;VALUE=DATE:20260707
+DESCRIPTION:『蒼夏序章』\nㅤ\n▶︎2026.7.6(月)\n▶︎池袋グローバルリング シアター\n▶︎OP 18:20/ST 19:00\n▶︎前方 ¥4\,500/一般 ¥1\,000\n ※後方観覧無料\n\n🎤20:15-20:40\n📸21:00-22:20(別会場)\n🔗t-dv.com/SoukaPrologue\nhttps://timetr.ee/p/hbn_187/2949430903674693555
+SUMMARY:東京｜蒼夏序章
+UID:2f672fc3-7459-4832-9fdd-89aaaef5be8d@2f67.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260811
+DTEND;VALUE=DATE:20260812
+DESCRIPTION:『火花放電 -SUMMER SP-』\n\n▶︎2026.8.11(火･祝)\n▶︎FANJ twice\n▶︎OP 19:00/ST 19:30\n▶︎優先 ¥5\,000/一般 ¥2\,000\n\n👘夏だ‼︎浴衣特典会だ‼︎\n\n7/30(木)21:00販売開始🔫\nt-dv.com/hibanatsu\n\n🎁優先：囲み写メ/+2pt\nhttps://timetr.ee/p/hbn_187/2971133779950101611
+SUMMARY:🌈大阪｜火花放電 -SUMMER SP-
+UID:7994718f-d033-4269-a940-0a2070eb515e@7994.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260822
+DTEND;VALUE=DATE:20260823
+DESCRIPTION:Devil ANTHEM. presents\n『でびぱっぱ夏祭 2026 〜東の陣〜』\nㅤ\n▶︎2026.8.22(土)\,23(日)\n▶︎三崎公園野外音楽堂\n▶︎OP 9:45/ST 10:30\n▶︎2days ¥10\,000/1day ¥5\,500\n\n✅《DAY1》8/22(土)\n🎤12:35-12:50\n📸14:50-16:10\n🎤17:00-17:20\nㅤ\n🔗eplus.jp/devilanthem/\nhttps://timetr.ee/p/hbn_187/2976266855302751803
+SUMMARY:福島｜でびぱっぱ夏祭 2026 〜東の陣〜
+UID:61715e8e-9b4d-4e95-a2df-0721ce418a2b@6171.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260613
+DTEND;VALUE=DATE:20260614
+DESCRIPTION:『アイドル甲子園 in KANDA SQUARE HALL』\n\n✅《DAY1》\n▶︎2026.6.13(土)\n▶︎OP 9:15/ST 9:30\n▶︎前方 ¥8\,500/一般 ¥3\,500\n\n🎤16:05-16:30\n📸16:50-18:10\n\nhttps://user.my-th.jp/tickets/event/aikou_0613\n＊5/19(火)20:00販売開始\n\n🎁チェキ券+1pt(優先3pt)\nhttps://timetr.ee/p/hbn_187/2928430291235563268
+SUMMARY:東京｜アイドル甲子園 in KANDA SQUARE HALL
+UID:ab748e11-f374-40a0-b569-dfb00ad2e924@ab74.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260904
+DTEND;VALUE=DATE:20260905
+DESCRIPTION:『iDolspot vol.1』\nㅤ\n▶︎2026.9.4(金)\n▶︎WOMB LIVE\n▶︎OP 14:30/ST 14:50\n▶︎前方 ¥5\,000/一般 ¥2\,000/女性･学生 ¥1\,000\nㅤ\n🎤20:00〜20:20\n📸20:25〜21:30\nㅤ\n8/28(金)21:00販売開始🔫\nt-dv.com/iDolspot_vol1\nㅤ\n🎁チェキ券+1pt\nhttps://timetr.ee/p/hbn_187/3036221971988145652
+SUMMARY:東京｜iDolspot vol.1
+UID:a65ffee4-38d5-43eb-8cf6-952199977fab@a65f.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260621
+DTEND;VALUE=DATE:20260622
+DESCRIPTION:『∞Beats(エイトビーツ)』\n\n▶︎2026.6.21(日)\n▶︎名村造船所跡地\n▶︎OP 11:00/ST 12:00\n▶︎VIP ¥8\,900/一般 ¥4\,000\n\n1️⃣赤鉄骨\n🎤15:00-15:20\n📸15:40-16:40\n\n2️⃣パルティッタ\n🎤18:20-18:40\n📸19:00-20:00\n\nチケット販売中💥🔫\nhttps://t-dv.com/oJvPHKn1HPVgg8V4l4Os\n\n🎁VIP：写メ券+4pt\n🎁一般：2pt\nhttps://timetr.ee/p/hbn_187/2928430555661264637
+SUMMARY:大阪｜∞Beats (エイトビーツ)
+UID:405bba32-675e-4692-ad10-94f41a15946c@405b.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260921
+DTEND;VALUE=DATE:20260922
+DESCRIPTION:Devil ANTHEM. presents\n『でびぱっぱ夏祭2026〜西の陣〜』\nㅤ\n▶︎2026.9.20(日)\,21(月/祝)\n▶︎大阪城野外音楽堂\n▶︎OP 10:30/ST 11:15\n▶︎2days ¥10\,000/1day ¥5\,500\nㅤ\n🎤13:40-13:55\n📸15:00-16:20\n🎤18:10-18:30\n\n✅抽選先行\n5/28(木)20:00〜6/7(日)23:59\n✅一般発売\n6/13(土)12:00〜\n🔗eplus.jp/devilanthem/\nhttps://timetr.ee/p/hbn_187/2976266397460915844
+SUMMARY:大阪｜でびぱっぱ夏祭2026〜西の陣〜
+UID:926543b9-c346-4a51-8c27-0a5464071285@9265.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260927
+DTEND;VALUE=DATE:20260928
+DESCRIPTION:『アイドル甲子園 in KANDA SQUARE HALL』\nㅤ\n▶︎2026.9.27(日)\n▶︎OP 9:15/ST 9:30\n▶︎前方 ¥8\,500/一般 ¥3\,500\nㅤ\n🎤15:25-15:50\n📸16:10-17:30\n\n9/1(火)20:00販売開始🔫\nhttps://user.my-th.jp/tickets/event/aikou_0927ㅤ\n\n🎁チェキ券+1pt(前方3pt)\nhttps://timetr.ee/p/hbn_187/3000866376674371525
+SUMMARY:東京｜アイドル甲子園 in KANDA SQUARE HALL
+UID:74ebed01-439b-4887-877e-a18c08c44844@74eb.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+DESCRIPTION:湊川未唯BIRTHDAY LIVE\n『ハッピーバースデー to Mii2』\n\n▶︎2026.11.27(金)\n▶︎LiveHouse ANIMA\n▶︎OP 18:30/ST 19:30(前物販あり)\n▶︎BDチケット ¥8\,000/一般 ¥2\,000\n\n【BDチケット特典】\n優先入場/生誕衣装ポスター/撮影ファストパス1枚\n※BDチケットの売上は当日のフラワースタンド等に充当させていただきます。\n\nーーーーーーーーーーーーーーー\n\n▼チケット情報▼\n\n只今より先行抽選申込受付開始💥🔫\n\n✅先行抽選：～11/6(金)23:59\n  ※発表予定：11/7(土)12:00頃\n\n✅一般販売：11/7(土)22:00〜\n\n🔗t-dv.com/mii_bd2\n\nーーーーーーーーーーーーーーー\n\n・HIBANAでは「生誕委員」の発足をお断りさせていただきます。\n・お客様同士での金銭の要求、徴収等はご遠慮くださいますようお願い申し上げます。\n・フラワースタンド、会場装飾等は運営スタッフにて実施させていただきます。\n・会場へ設置するもの(お花、パネル等)の配送やお持ち込みがあった場合も全てお断りさせていただきます。\n・特典会にて個人へプレゼントをお渡しいただくことは、ルールの範囲内(lit.linkをご確認ください)で可能です。\n\nご来場くださる皆様、そして未唯自身に心から楽しんでもらえる1日に出来るよう、メンバー、運営一同取り組んで参ります。\n何卒ご理解、ご協力の程よろしくお願い申し上げます。\nhttps://timetr.ee/p/hbn_187/2971134836335896055
+SUMMARY:🎂大阪｜ハッピーバースデー to Mii2
+UID:7bcaf8c8-6359-46a9-a22b-a9b33da0a42d@7bca.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260528
+DTEND;VALUE=DATE:20260529
+DESCRIPTION:SITUASION Presents\n『SABORIRYU』\nㅤ\n▶︎2026.5.28(木)\n▶︎恵比寿LIQUIDROOM\n▶︎OP 13:20/ST 13:50\n▶︎前方 ¥6\,000/一般 ¥3\,000\n\n🎤16:45-17:10\n📸17:20-18:30\n🔗https://t-dv.com/saboriryuliquidroom528\nㅤ\n🎁チェキ券+1pt(前方+3pt)\nhttps://timetr.ee/p/hbn_187/2953824886844745660
+SUMMARY:東京｜SABORIRYU
+UID:47b3684d-a456-4487-b9f9-7b605b1c9a85@47b3.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261122
+DESCRIPTION:『アイドル甲子園 in 桜坂セントラル -DAY2-』\n\n▶︎2026.11.21(土)\n▶︎OP 14:45/ST 15:15\n▶︎前売 ¥4\,500/当日 ¥5\,000\n\n🔗https://user.my-th.jp/tickets/event/aikou_ss1121\n＊9/19(土)20:00販売開始\n\n🎁チェキ券+1pt\nhttps://timetr.ee/p/hbn_187/3068510862572971797
+SUMMARY:沖縄｜アイドル甲子園 in 桜坂セントラル -DAY2-
+UID:95e915a5-c136-48ee-a8da-63758a877793@95e9.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260712
+DTEND;VALUE=DATE:20260713
+DESCRIPTION:『アイドル甲子園 in KANDA SQUARE HALL』\n\n✅《DAY2》\n▶︎2026.7.12(日)\n▶︎OP 9:00/ST 9:15\n▶︎前方 ¥8\,500/一般 ¥3\,500\n\n🎤17:20-17:45\n📸18:05-19:25\n\n🎫https://user.my-th.jp/tickets/event/aikou_0712\n＊6/16(火)21:00販売開始\n\n🎁前方 3pt/一般 1pt\nhttps://timetr.ee/p/hbn_187/2971131597888611900
+SUMMARY:東京｜アイドル甲子園 in KANDA SQUARE HALL
+UID:72573e01-c918-4893-9d6d-ecaadee8361b@7257.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260815
+DTEND;VALUE=DATE:20260816
+DESCRIPTION:『アイドル甲子園 in KANDA SQUARE HALL』\n\n✅《DAY1》\n▶︎2026.8.15(土)\n▶︎OP 9:15/ST 9:30\n▶︎前方 ¥8\,500/一般 ¥3\,500\n\n🎤18:45-19:10\n📸19:30-20:50(D)\n\n🔗https://user.my-th.jp/tickets/event/aikou_0815\n＊7/23(木)20:00販売開始\n\n🎁チェキ券+1pt(前方3pt)\nhttps://timetr.ee/p/hbn_187/2994406895052580259
+SUMMARY:東京｜アイドル甲子園 in KANDA SQUARE HALL
+UID:77815bdb-2837-42f0-a444-aea2d70a7cc6@7781.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260911
+DTEND;VALUE=DATE:20260912
+DESCRIPTION:RePLAY presents\n『RE：PLAY vol.12』\n\n▶︎2026.9.11(金)\n▶︎Spotify O-Crest\n▶︎OP 18:20/ST 18:50\n▶︎adv ¥3\,000/door ¥3\,500\n\n［出演］RePLAY / HIBANA / Mirror\,Mirror\n\n7/24(金)21:00販売開始🔫\n🔗 tiget.net/events/509136 \n\n🎁チェキ券+1pt\nhttps://timetr.ee/p/hbn_187/3000866053469693056
+SUMMARY:東京｜RE：PLAY vol.12
+UID:a7c9d325-88a1-43d3-83cc-e0f19d4b2a34@a7c9.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261107
+DTEND;VALUE=DATE:20261108
+DESCRIPTION:『ヒバメロ！ふりぃ！』\n\n▶︎2026.11.7(土)\n▶︎FANJ twice\n▶︎OP 12:00/ST 12:30\n▶︎入場無料(D代事前支払)\n\n衣装交換アリ♡\n\n10/31(土)22:30予約開始🔫\nt-dv.com/hm_free\n\n🎁入場ポイント3pt\nhttps://timetr.ee/p/hbn_187/3068508069317502323
+SUMMARY:🌈大阪｜ヒバメロ！ふりぃ！
+UID:64550cb4-ff65-4a5e-a85d-7f098c8eae1b@6455.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261224
+DTEND;VALUE=DATE:20261225
+DESCRIPTION:https://timetr.ee/p/hbn_187/3068509323263403594
+SUMMARY:🌈大阪
+UID:44813f7d-f654-45b6-9537-faf1dff7afc7@4481.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260807
+DTEND;VALUE=DATE:20260808
+DESCRIPTION:『IDOL SUMMER JUNGLE 2026』\n\n▶︎2026.8.7(金)\,8(土)\n▶︎お台場R地区\n▶︎OP 9:00/ST 10:00\n▶︎VIP ¥28\,000/一般 ¥5\,000/女性 ¥4\,000\n\n✅《DAY1》8/7(金)\n📍SNAKE STAGE\n🎤19:00-19:15\n📸16:00-17:00［11］\n\nVIPチケット先行抽選：〜7/5(日)23:59\nVIPチケット一般発売：7/6(月) 18:00〜\n一般/女性チケット：販売中\n🔗https://t-dv.com/idolsummerjungle2026\nhttps://timetr.ee/p/hbn_187/2991463347948807885
+SUMMARY:東京｜IDOL SUMMER JUNGLE 2026
+UID:1417efd6-479b-4e8f-8530-c28c1b7db7d4@1417.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260906
+DTEND;VALUE=DATE:20260907
+DESCRIPTION:『くさのねアイドルフェスティバル2026』\nㅤ\n▶︎2026.9.6(日)\n▶︎草ぶえの丘 (千葉・佐倉)\n▶︎OP 10:00/ST 10:45\n\nチケット販売中💥🔫\n・限定グッズ付き2Days通し券 ¥20\,000\n・2Days通し券 ¥10\,000\n・限定グッズ付きチケット ¥12\,000\n・一般チケット ¥7\,000\n・女性・学生チケット ¥4\,000\n\n🎤12:10-12:40\n📸13:25-14:25(K)\n\n🔗kusanoneidolfes.com/#ticket\nhttps://timetr.ee/p/hbn_187/3000865900453094953
+SUMMARY:千葉｜くさのねアイドルフェスティバル2026
+UID:06dfcc5a-8c46-45c6-9d86-5fcb4073907a@06df.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261108
+DTEND;VALUE=DATE:20261109
+DESCRIPTION:『WAVEFORM DX!』\nㅤ\n▶︎2026.11.8(日)\n▶︎GARDEN新木場FACTORY\n▶︎OP TBA/ST TBA\n▶︎Sチケット ¥8\,000/一般エリア ¥3\,500\n\n🎤12:10-12:30\n📸12:40-13:50\n🔗t-dv.com/WAVEFORM_1108\nㅤ\n🎁チェキ券+1pt\nhttps://timetr.ee/p/hbn_187/3068508123415635854
+SUMMARY:東京｜WAVEFORM DX!
+UID:f41711fd-c899-4db9-a9a5-2713c6f252ec@f417.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260627
+DTEND;VALUE=DATE:20260628
+DESCRIPTION:『アイドル甲子園FESTIVAL 2026』\n\n✅《DAY1》\n▶︎2026.6.27(土)\n▶︎TFTホール\n▶︎OP 9:30/ST 10:00\n▶︎前方 ¥11\,000/一般 ¥5\,500\n\n📍TFTホール1000\n🎤17:10-17:35\n📸17:55-19:15\n\n🔗https://user.my-th.jp/tickets/event/ikoufes_0627\n＊6/4(木)21:00販売開始\n\n🎁優先：チェキ券+4pt\n🎁一般：2pt\nhttps://timetr.ee/p/hbn_187/2928430649865332473
+SUMMARY:東京｜アイドル甲子園FESTIVAL 2026
+UID:50db98ae-42f1-4d7b-bb91-a68afd78da03@50db.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260922
+DTEND;VALUE=DATE:20260923
+DESCRIPTION:『SPARK 2026 in YAMANAKAKO』\nㅤ\n▶︎2026.9.21(月祝)\,22(火祝)\,23(水祝)\n▶︎山中湖交流プラザきらら\n▶︎OP 9:00/ST 10:00\n▶︎SPARKチケット ¥30\,000\n▶︎一般チケット ¥7\,500\nㅤ\n✅9/22(火) 《BOTAN》\n🎤13:10-13:35\n📸13:55-15:05 (6)\n\n🔗https://t-dv.com/spark2026yamanakako\nㅤ\nHIBANA、初山中湖です‼️\n9月はまだ夏‼️夏フェスです‼️\nhttps://timetr.ee/p/hbn_187/2978373093012465623
+SUMMARY:山梨｜SPARK 2026 in YAMANAKAKO
+UID:1e1e4d2b-bc42-4de7-9119-d42312a6738e@1e1e.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260427
+DTEND;VALUE=DATE:20260428
+DESCRIPTION:#ドラマチックレコード 主催対バン\n『DRAMATIC POP！vol.16』\n\n▶︎2026.4.27(月)\n▶︎Veats Shibuya\n ▶︎OP 18:00/ST 18:30\n▶︎前方 ¥6\,000/一般 ¥3\,000\n▶︎女性･学生  ¥1\,000\n\n🎤18:30-19:00\n📸19:00-20:20\n🔗tiget.net/events/476209\n\n🎁チェキ券+1pt (前方+2pt)\nhttps://timetr.ee/p/hbn_187/2924186182308259287
+SUMMARY:東京｜DRAMATIC POP！vol.16
+UID:7ec6e9cf-9931-404a-91d8-788e0c7ed2c3@7ec6.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261013
+DTEND;VALUE=DATE:20261014
+DESCRIPTION:『火花放電 -THX SP-』\n\n▶︎2025.10.13(火)\n▶︎FANJ twice\n▶︎OP 19:00/ST 19:30\n▶︎無料(D代¥600事前徴収)\n\n10/4(日)22:00予約開始🔫\nt-dv.com/hibana_thx\n\n🎁来場ポイント3pt\nhttps://timetr.ee/p/hbn_187/3036223191297483952
+SUMMARY:🌈大阪｜火花放電 -THX SP-
+UID:e748f54c-ad3b-49b8-a07e-264e152c370a@e748.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260717
+DTEND;VALUE=DATE:20260718
+DESCRIPTION:丸岡由茉 BIRTHDAY LIVE\n『まるちやんめでたいDAY2』\n\n▶︎2026.7.17(金)\n▶︎Live House ANIMA\n▶︎OP 18:30/ST 19:30(前物販あり)\n▶︎BDチケット ¥8\,000/一般 ¥2\,000\n\n【BDチケット特典】\n優先入場/生誕衣装ポスター/撮影ファストパス1枚\n※BDチケットの売上は当日のフラワースタンド等に充当させていただきます。\n\nーーーーーーーーーーーーーーー\n▼チケット情報▼\n\n只今より先行抽選申込受付開始💥🔫\n\n✅先行抽選：～ 6/24(水)23:59\n  ※発表予定：6/25(木)12:00\n\n✅一般販売：6/25(木)21:00〜\n\n🔗t-dv.com/yuma_bd2\nーーーーーーーーーーーーーーー\nhttps://timetr.ee/p/hbn_187/2971131837081379912
+SUMMARY:🎂大阪｜丸岡由茉 BIRTHDAY LIVE『まるちやんめでたいDAY2』
+UID:215f9359-f555-40a9-8abb-d083f9d93e0c@215f.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260505
+DTEND;VALUE=DATE:20260506
+DESCRIPTION:NEO JAPONISM主催公演\n『KASSEN -GW SP-』\n\n▶︎2026.5.5(火)\n▶︎GARDEN新木場FACTORY ▶︎OP 8:00/ST 8:30\n▶︎Sチケット ¥8\,500/一般チケット ¥4\,000\n\n🎤9:45-10:10\n📸10:20-11:30\n🔗https://ticketdive.com/event/kassen-2026-05-05\n\n🎁チェキ券+2pt\n(Sチケットは+4pt)\nhttps://timetr.ee/p/hbn_187/2928428529611105523
+SUMMARY:東京｜KASSEN -GW SP-
+UID:0cc42e0c-4833-4af8-9152-5d0c9ad82be8@0cc4.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261212
+DTEND;VALUE=DATE:20261213
+DESCRIPTION:『UTAGE FES Vol.5.5』\nㅤ\n▶︎2026.12.12(土)\n▶︎代々木公園野外ステージ / 代々木公園特設ステージ\n▶︎OP 9:00/ST 10:00\n▶︎VIP ¥5\,000\n▶︎特典会参加券付一般 ¥1\,000/一般 ¥0\nㅤ\n✅先行抽選：〜11/8(日)23:59\n✅一般先着：11/9(月)20:00〜\n🔗t-dv.com/UTAGEFES_1212\nㅤ\n🎁VIP：チェキ券+1pt\n🎁特典会参加券付：1pt\nhttps://timetr.ee/p/hbn_187/3068509091695879758
+SUMMARY:東京｜UTAGE FES Vol.5.5
+UID:4de782b1-1a84-43e0-9c6e-f3ba14a9be64@4de7.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260509
+DTEND;VALUE=DATE:20260510
+DESCRIPTION:『MAWA LOOP OSAKA 2026』\n\n⚡️《DAY1》\n🗓️2026.5.9(土)\n🎤15:35-16:05 (OSAKAMUSE)\n📸16:35-17:50 (御堂筋ホール8)\n\nーーーーーーーーーーーーーーー\n\n▶︎OP 11:30/ST 12:00\n＊リストバンド交換10:00〜\n▶︎1dayチケット ¥7\,300 / 2daysチケット ¥13\,800\n▶︎ライブハウス入場整理券 ¥500\n※詳細は後日ご案内\n\nチケット販売中💥🔫\n🔗eplus.jp/mawaloop/\nhttps://timetr.ee/p/hbn_187/2918270627533481919
+SUMMARY:大阪｜MAWA LOOP OSAKA 2026
+UID:ef3bdab0-dbe5-4432-9b37-330488e09bc7@ef3b.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261130
+DTEND;VALUE=DATE:20261201
+DESCRIPTION:こみっきゅおん！presents\n『らーんとおん！〜Road to Zepp Shinjuku〜 vol.2』\nㅤ\n▶︎2026.11.30(月)\n▶︎タワーレコード渋谷店屋上イベントスペース\n▶︎ST 19:00\n▶︎観覧無料✨\nㅤ\n※詳細後日解禁\nhttps://timetr.ee/p/hbn_187/3068508648265672228
+SUMMARY:東京｜らーんとおん！〜Road to Zepp Shinjuku〜 vol.2
+UID:989a2b02-f21b-4151-b700-da29a93739d4@989a.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260808
+DTEND;VALUE=DATE:20260809
+DESCRIPTION:『IDOL SUMMER JUNGLE 2026』\n\n▶︎2026.8.7(金)\,8(土)\,9(日)\n▶︎お台場R地区\n▶︎OP 9:00/ST 10:00\n▶︎VIP ¥28\,000/一般 ¥5\,000/女性 ¥4\,000\n\n✅《DAY2》8/8(土)\n📍MONKEY STAGE\n🎤14:35-14:55\n📸15:15-16:15［6］\n\nVIPチケット先行抽選：〜7/5(日)23:59\nVIPチケット一般発売：7/6(月) 18:00〜\n一般/女性チケット：販売中\n🔗https://t-dv.com/idolsummerjungle2026\nhttps://timetr.ee/p/hbn_187/2991463593139430681
+SUMMARY:東京｜IDOL SUMMER JUNGLE 2026
+UID:3a3c4af5-8b0e-4de9-bd6d-2e17b2e9ae0b@3a3c.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260531
+DTEND;VALUE=DATE:20260601
+DESCRIPTION:『アイドル甲子園 in KANDA SQUARE HALL』\n\n《DAY2》\n▶︎2026.5.31(日)\n▶︎OP 9:00/ST 9:15\n▶︎優先 ¥8\,500/一般 ¥3\,500\n\n🎤16:30-16:55\n📸17:15-18:35\n\n🔗https://user.my-th.jp/tickets/event/aikou_0531\n＊5/7(木)21:00販売開始\n\n🎁各日：チェキ券+1pt(優先3pt)\nhttps://timetr.ee/p/hbn_187/2928429678724572630
+SUMMARY:東京｜アイドル甲子園 in KANDA SQUARE HALL
+UID:89b878b6-4574-499e-aa09-7613cc1841bb@89b8.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260810
+DTEND;VALUE=DATE:20260811
+DESCRIPTION:NEO JAPONISM主催\n『NEO KASSEN2026』\n\n▶︎2026.8.10(月)\n▶︎渋谷12会場サーキット\n▶︎OP 11:00/ST 11:30\n▶︎KASSEN ¥10\,000/前売 ¥6\,500\n\n#HIBANA 【KEMURI STAGE】\n📍Spotify O-WEST\n🎤15:35-16:00\n📸16:15-17:15(ハーレム2F-4)\n\n🔗l-tike.com/neokassen/\n\n🎁チェキ券+2pt(優先4pt)\n\n#火花散らす閃光ポップ\nhttps://timetr.ee/p/hbn_187/2958778983578527573
+SUMMARY:東京｜NEO KASSEN2026
+UID:5b50c104-2064-4811-80ba-f1e3a3850c0a@5b50.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261008
+DTEND;VALUE=DATE:20261009
+DESCRIPTION:『アイドル甲子園 in Shibuya LOVEZ』\nㅤ\n▶︎2026.10.08(木)\n▶︎Shibuya LOVEZ\n▶︎OP 11:00/ST 12:00\n▶︎前方 ¥10\,000/一般 ¥3\,000\nㅤ\n🎤17:50-18:15\n📸18:35-19:55(D)\n🔗https://user.my-th.jp/tickets/event/aikou_1008\nㅤ\n🎁チェキ券+1pt(前方2pt)\nhttps://timetr.ee/p/hbn_187/3036223098678862978
+SUMMARY:東京｜アイドル甲子園 in Shibuya LOVEZ
+UID:da7cfe69-3cea-4345-82ee-d2357dfa6ddb@da7c.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261024
+DTEND;VALUE=DATE:20261025
+DESCRIPTION:『MAVERICK』\nㅤ\n▶︎2026.10.24(土)\n▶︎BASE GRANBELL 銀座\n▶︎OP 12:00/ST 12:30\n▶前売 VIP ¥5\,600/前売 一般 ¥2\,800\nㅤ\n🎤17:15-17:40\n📸18:15-19:25\nㅤ\n10/2(金)21:30販売開始🔫\nt-dv.com/MAVERICK_261024\nㅤ\n🎁チェキ券+1pt\nhttps://timetr.ee/p/hbn_187/3067631808621765802
+SUMMARY:東京｜MAVERICK
+UID:e44dbfa0-f5d2-4a71-a19a-0481f7aded23@e44d.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261115
+DTEND;VALUE=DATE:20261116
+DESCRIPTION:『アイドル甲子園 in KANDA SQUARE HALL』\nㅤ\n▶︎2026.11.15(日)\n▶︎OP 9:15/ST 9:30\n▶︎前方 ¥8\,500/一般 ¥3\,500\nㅤ\n🎤14:40-15:05\n📸15:25-16:45(B)\n\n10/12(月)20:00販売開始🔫\nhttps://user.my-th.jp/tickets/event/aikou_1115\nㅤ\n🎁チェキ券+1pt\nhttps://timetr.ee/p/hbn_187/3068508279225640642
+SUMMARY:東京｜アイドル甲子園 in KANDA SQUARE HALL
+UID:c77b9ab7-ac97-472e-ae2f-61d3d94485a7@c77b.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260623
+DTEND;VALUE=DATE:20260624
+DESCRIPTION:『火花放電 -13V-』\n\n▶︎2026.6.23(火)\n▶︎FANJ twice\n▶︎OP 19:00/ST 19:30\n▶︎前売 ¥2\,000/当日 ¥2\,500\n\n6/18(木)販売開始🔫\nt-dv.com/hibana_13v\n\n今月は2週連続で火花放電開催します💥\n\n🎁入場ポイント13pt付与⚡️\nhttps://timetr.ee/p/hbn_187/2983491848080123902
+SUMMARY:🌈大阪｜火花放電 -13V-
+UID:ec414fbc-2c7e-4ae6-97f2-f7a9e2f7d047@ec41.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260715
+DTEND;VALUE=DATE:20260716
+DESCRIPTION:『thump』\nㅤ\n▶︎2026.7.15(水)\n▶︎FANJtwice\n▶︎OP 18:30/ST 19:00\n▶︎Adv ¥1\,500/Door ¥2\,500\nㅤ\n🎤20:40-21:05\n📸21:15-22:30\n\n6/26(金)21:00販売開始🔫\nt-dv.com/thump715\nhttps://timetr.ee/p/hbn_187/2996525470374618872
+SUMMARY:大阪｜thump
+UID:ba2f22cb-c378-48c9-8ee7-16e107da0937@ba2f.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260828
+DTEND;VALUE=DATE:20260829
+DESCRIPTION:『A Villa 2026 前夜祭』\nㅤ\n▶︎2026.8.28(金)\n▶︎SYNC north / Sound lab mole / cube garden / SPiCE\n▶︎OP 15:00/ST 16:00\n▶︎前方 ¥8\,000/前売 ¥3\,500/SPiCE会場 ¥0\nㅤ\n🎤17:20-17:45\n📸17:55-19:05\n\n8/13(木)20:00販売開始🔫\nt-dv.com/a_villa_zenya\nㅤ\n🎁チェキ券+1pt(前方3pt)\nhttps://timetr.ee/p/hbn_187/2974088108000601624
+SUMMARY:北海道｜A Villa 2026 前夜祭
+UID:673fcbaf-f565-4cd6-b12f-c7b8072b8783@673f.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260819
+DTEND;VALUE=DATE:20260820
+DESCRIPTION:Axelight × HIBANA × .LiNIXLiNE.\n『LOVE the WORLD EX』\n\n▶2026.8.19(水)\n▶FANJtwice\n▶OP 18:30/ST 19:00\n▶前売 ¥0 /当日 ¥1\,000\n\n7/31(金)21:00販売開始🔫\nt-dv.com/lvtw_EX\n\nお久しぶりの #ラブワル 開催‼️\n今回はなんと前売無料です🉐\n大阪楽しんでいきましょう✊\nhttps://timetr.ee/p/hbn_187/3021901149270107904
+SUMMARY:大阪｜LOVE the WORLD EX
+UID:251c61a4-b32d-4e55-b5d8-fe050c3df274@251c.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261010
+DTEND;VALUE=DATE:20261011
+DESCRIPTION:『松葉-MATSUBA-アフター特典会』\n\n▶︎2026.10.10(土)\n▶︎シブテナ貸会議室・宮益坂 9F-A\n\n【1部】\n11:40 OPEN\n12:00-14:00 特典会\n\n【2部】\n14:40 OPEN\n15:00-17:00 特典会\n\n2周年ライブ『松葉-MATSUBA-』の翌日、アフター特典会を行います❕\n2部制にて開催いたしますので、是非お越しください✨\nhttps://timetr.ee/p/hbn_187/3068507266427053088
+SUMMARY:東京｜ワンマンアフター特典会
+UID:c262fd18-8658-402f-9222-f962e57d22dc@c262.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+DESCRIPTION:ART SOUND pre.\n『SOUND GARDEN 2026\n ART SOUND 15th Anniversary』\nㅤ\n▶︎2026.11.28(土)\,29(日)\n▶︎名古屋 栄・大須エリアサーキット\n▶︎リストバンド引換：9:00〜\n▶︎2days ¥11\,500/1day ¥6\,500\n\n✅《DAY1》 11/28(土)\n📍Zephyr Hall\n🎤18:50-19:20\n📸20:10-22:10(終演後会場内)\nㅤ\n6/29(月)18:00販売開始🔫\nhttps://livepocket.jp/e/soundgarden2026\nㅤ\n🎁指名入場ポイント：2pt\n\n今年もSOUND GARDENに出演させていただきます🔈🎶\nなんと15周年！！\nお祝いの火花散らします🎉\nhttps://timetr.ee/p/hbn_187/2998014590817068284
+SUMMARY:名古屋｜SOUND GARDEN 2026 ART SOUND 15th Anniversary
+UID:1db5885e-cd45-4707-9696-a150aaa1fee7@1db5.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261030
+DTEND;VALUE=DATE:20261031
+DESCRIPTION:／\n🔥🔥メインステージ争奪戦 開幕🔥🔥\n＼\nㅤ\n『IDOL HALLOWEEN JAPAN 2026\nSupported by Malymoon』\nㅤ\n▶︎2026.10.30(金)〜11.1(日)\n▶︎埼玉スタジアム野外特設会場\n▶︎VIP：3DAYS ¥70\,000/1DAY ¥25\,000\n▶︎一般：3DAYS ¥12\,000/1DAY ¥5\,000\n\n#HIBANA は10/30(金)に出演✊🎃\n\nーーーーーーーーーーーーーーーーー\n\n✅現地投票チケットに関して\nメインステージ争奪戦の現地投票に向けて、下記プレイガイドにて、投票券が2枚追加で付くチケットを販売いたします。\n\n✅これからチケットをご購入のお客様\n通常のチケット料金＋1\,000円で、通常分に加えて投票券が2枚付くチケットをご購入いただけます。\n\n✅すでにチケットをご購入済みのお客様\n追加用チケット（1\,000円）をご購入ください。\nご入場時に「購入済みの入場チケット」と「追加用チケット」の両方をご提示いただくと、投票券を追加で2枚お渡しいたします。\n\n【チケット販売URL】\n🔗t-dv.com/IHJ2026_main\n\nーーーーーーーーーーーーーーーーー\nㅤ\n🎁チェキ券+1pt(優先2pt)\nㅤ\nhttps://timetr.ee/p/hbn_187/3060306579545318806
+SUMMARY:東京｜IDOL HALLOWEEN JAPAN 2026
+UID:ca255d45-bf48-4b25-8d1b-1fc709a4a16a@ca25.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261104
+DTEND;VALUE=DATE:20261105
+DESCRIPTION:Cosmoslay 3rd Anniversary EVENT\n『FEVER』\n\n▶︎2026.11.4(水)\n▶︎DIAMOND HALL\n▶︎OP 17:50/ST 18:20\n▶︎Sチケット ¥7\,777/Aチケット ¥3\,333\n\n🎤18:20-18:50\n📸21:20-22:40\n🔗t-dv.com/cos_3rd_fever\n\n🎁チェキ券+1pt\nhttps://timetr.ee/p/hbn_187/3063881355006240579
+SUMMARY:名古屋｜FEVER
+UID:c70e454c-0d1c-41eb-bb60-b2c1a0d97ba3@c70e.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260728
+DTEND;VALUE=DATE:20260729
+DESCRIPTION:『火花放電 -決起集会FREE SP-』\n\n▶︎2026.7.28(火)\n▶︎FANJ twice\n▶︎OP 19:00/ST 19:30\n▶︎優先 ¥5\,000/一般 ¥0\n※一般チケットの1D代は事前のお支払いとなります\n\n🎁優先：囲み写メ/+2pt\n\n7/20(月)22:00販売開始🔫\nt-dv.com/hibana_free\n\nTIF2026メインステージ争奪LIVE直前に、大阪でフリーライブを開催します‼️\n行ってきますの気持ちを込めて火花散らすライブを届けます💥\n\n#火花散らす閃光ポップ\n#ヒバナツ\nhttps://timetr.ee/p/hbn_187/2971132222563083460
+SUMMARY:🌈大阪｜火花放電 -決起集会FREE SP-
+UID:98cc6188-28a8-4fc7-bc12-9607948d895d@98cc.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261118
+DTEND;VALUE=DATE:20261119
+DESCRIPTION:『手羽先センセーション × HIBANA 2MAN LIVE』\nㅤ\n日程が【11/17 → 11/18】に変更になりました。\n詳細は改めてご案内いたします。\nhttps://timetr.ee/p/hbn_187/3063265289141937771
+SUMMARY:名古屋｜手羽先センセーション × HIBANA 2MAN LIVE
+UID:4f2c0f47-d2e1-4452-afd1-79286abf62a3@4f2c.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261101
+DTEND;VALUE=DATE:20261102
+DESCRIPTION:『アイドル甲子園 in KANDA SQUARE HALL』\n\n✅《DAY2》\n▶︎2026.11.1(日)\n▶︎OP 9:00/ST 9:15\n▶︎前方 ¥8\,500/一般 ¥3\,500\n\n🎤20:10-20:35\n📸21:30-22:50\n\n🔗https://user.my-th.jp/tickets/event/aikou_1101\n＊10/5(月)21:00販売開始\n\n🎁チェキ券+1pt\nhttps://timetr.ee/p/hbn_187/3089425367116998297
+SUMMARY:東京｜アイドル甲子園 in KANDA SQUARE HALL
+UID:fa4e1ceb-91ed-4285-8b36-a2950fccfa98@fa4e.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260923
+DTEND;VALUE=DATE:20260924
+DESCRIPTION:『SPARK 2026 in YAMANAKAKO』\nㅤ\n▶︎2026.9.21(月祝)\,22(火祝)\,23(水祝)\n▶︎山中湖交流プラザきらら\n▶︎OP 9:00/ST 10:00\n▶︎SPARKチケット ¥30\,000\n▶︎一般チケット ¥7\,500\nㅤ\n✅9/23(水) 《KAMURO》\n🎤16:15-16:35\n📸16:55-18:05 (14)\n\n🔗https://t-dv.com/spark2026yamanakako\nㅤ\nHIBANA、初山中湖です‼️\n9月はまだ夏‼️夏フェスです‼️\nhttps://timetr.ee/p/hbn_187/2978374860500559493
+SUMMARY:山梨｜SPARK 2026 in YAMANAKAKO
+UID:8cd0f208-53bd-411f-9961-f70b1726f6f1@8cd0.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260915
+DTEND;VALUE=DATE:20260916
+DESCRIPTION:PLAYPIT presents.\n『ヒバメロ！』\n\n▶︎2026.9.15(火)\n▶︎FANJ twice\n▶︎OP 19:00/ST 19:30\n▶︎Sチケット ¥3\,500/一般¥2\,000\n\n9/6(日)22:00販売開始🔫\nt-dv.com/hibamelo\nhttps://timetr.ee/p/hbn_187/3000866190027843025
+SUMMARY:🌈大阪｜ヒバメロ！
+UID:cb01c1ef-0fed-4a32-bb21-60c827836e28@cb01.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260809
+DTEND;VALUE=DATE:20260810
+DESCRIPTION:THE ORCHESTRA TOKYO presents\n『NAGOYA CIRCUS 2MAN DAY2』\nㅤ\n▶︎2026.8.9(日)\n▶︎名古屋RAD NINE\n▶︎OP 13:00/ST 13:40\n▶︎前売 ¥3\,000/当日 ¥4\,000\nㅤ\n6/8(月)21:00販売開始🔫\nticketvillage.jp/events/13782\nㅤ\nTHE ORCHESTRA TOKYOさん主催2MANにお呼びいただきました🎷🥁\n久々の名古屋！火花散らしましょう💥\nhttps://timetr.ee/p/hbn_187/2971133853014877621
+SUMMARY:名古屋｜NAGOYA CIRCUS 2MAN DAY2
+UID:ade45001-86ab-4718-8666-4fdb618f932e@ade4.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260614
 DTEND;VALUE=DATE:20260615
 DESCRIPTION:『アイドル甲子園 in KANDA SQUARE HALL』\n\n✅《DAY2》\n▶︎2026.6.14(日)\n▶︎OP 9:00/ST 9:15\n▶︎前方 ¥8\,500/一般 ¥3\,500\n\n🎤20:45-21:10\n📸21:10-22:30\n\nhttps://user.my-th.jp/tickets/event/aikou_0614\n＊5/19(火)21:00販売開始\n\n🎁チェキ券+1pt(優先3pt)\nhttps://timetr.ee/p/hbn_187/2928430356893197629
 SUMMARY:東京｜アイドル甲子園 in KANDA SQUARE HALL
-UID:3dafe2cc-36fb-44b3-9b0b-13fc94ddf820@3daf.org
+UID:b5065dcd-3337-47c8-9c39-25622ef13b0b@b506.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261113
+DTEND;VALUE=DATE:20261114
+DESCRIPTION:七星なな BIRTHDAY LIVE\n『スーパーラッキーナナ星誕祭2』\n\n▶︎2026.11.13(金)\n▶︎ESAKAMUSE\n▶︎OP 18:30/ST 19:30(前物販あり)\n▶︎BDチケット ¥8\,000/一般 ¥2\,000\n\n【BDチケット特典】\n優先入場/生誕衣装ポスター/撮影ファストパス1枚\n※BDチケットの売上は当日のフラワースタンド等に充当させていただきます。\n\nーーーーーーーーーーーーーーー\n▼チケット情報▼\n\n只今より先行抽選申込受付開始💥🔫\n\n✅先行抽選：～10/25(日)23:59\n  ※発表予定：10/26(月)12:00頃\n\n✅一般販売：10/19(月)21:00〜\n\n🔗t-dv.com/nana_bd2\nーーーーーーーーーーーーーーー\n\n・HIBANAでは「生誕委員」の発足をお断りさせていただきます。\n・お客様同士での金銭の要求、徴収等はご遠慮くださいますようお願い申し上げます。\n・フラワースタンド、会場装飾等は運営スタッフにて実施させていただきます。\n・会場へ設置するもの(お花、パネル等)の配送やお持ち込みがあった場合も全てお断りさせていただきます。\n・特典会にて個人へプレゼントをお渡しいただくことは、ルールの範囲内(lit.linkをご確認ください)で可能です。\n\nご来場くださる皆様、そしてなな自身に心から楽しんでもらえる1日に出来るよう、メンバー、運営一同取り組んで参ります。\n何卒ご理解、ご協力の程よろしくお願い申し上げます。\nhttps://timetr.ee/p/hbn_187/2971134248948787074
+SUMMARY:🎂大阪｜スーパーラッキーナナ星誕祭2
+UID:6b5b31fd-a101-42e9-a8fd-802503d1539d@6b5b.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260617
+DTEND;VALUE=DATE:20260618
+DESCRIPTION:『火花放電 -12V-』\n\n▶︎2026.6.17(水)\n▶︎Spotify O-Crest\n▶︎OP 19:00/ST 19:30\n▶︎前売 ¥2\,000/当日 ¥2\,500\n\n6/8(月)22:00販売開始\nt-dv.com/hibana_12V\n\n💥重大発表アリ！！💥\nhttps://timetr.ee/p/hbn_187/2928430426476700748
+SUMMARY:🌈東京｜火花放電 -12V-
+UID:cb80fb42-3552-4dd7-b005-dfbe75a6aab2@cb80.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260711
+DTEND;VALUE=DATE:20260712
+DESCRIPTION:『アイドル甲子園 in KANDA SQUARE HALL』\n\n✅《DAY1》\n▶︎2026.7.11(土)\n▶︎OP 9:15/ST 9:30\n▶︎前方 ¥8\,500/一般 ¥3\,500\n\n🎤17:40-18:05\n📸18:25-19:45\n\n🎫https://user.my-th.jp/tickets/event/aikou_0711\n＊6/16(火)20:00販売開始\n\n🎁前方 3pt/一般 1pt\nhttps://timetr.ee/p/hbn_187/2971131536752436592
+SUMMARY:東京｜アイドル甲子園 in KANDA SQUARE HALL
+UID:f675d6f6-8087-4916-98b8-fc209a1f6f44@f675.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260720
+DTEND;VALUE=DATE:20260721
+DESCRIPTION:『アイドル甲子園 in KANDA SQUARE HALL』\nㅤ\n▶︎2026.7.20(月)\n▶︎OP 9:15/ST 9:30\n▶︎前方 ¥8\,500/一般 ¥3\,500\nㅤ\n🎤18:30-18:55\n📸19:15-20:35\n\n6/23(火)20:00販売開始🔫\nhttps://user.my-th.jp/tickets/event/aikou_0720\nㅤ\n🎁前方：写メ券+3pt / 一般：1pt\nhttps://timetr.ee/p/hbn_187/2971132014894704526
+SUMMARY:東京｜アイドル甲子園 in KANDA SQUARE HALL
+UID:dfd57c54-a859-45ad-9eb4-4141f092b344@dfd5.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261020
+DTEND;VALUE=DATE:20261021
+DESCRIPTION:NEO JAPONISM 主催公演\n『"KASSEN" 粋 -IKI-』\nㅤ\n▶︎2026.10.20(火)\n▶︎Zepp Shinjuku\n▶︎OP TBA/ST TBA\n▶︎S ¥8\,000/一般 ¥3\,000\nㅤ\n✅先行抽選：〜10/12(月)23:59\n✅一般先着：10/13(火)20:00〜\nt-dv.com/kassen-2026-10…\nㅤ\n🎁チェキ券+1pt\nhttps://timetr.ee/p/hbn_187/3068395491740280715
+SUMMARY:東京｜"KASSEN" 粋 -IKI-
+UID:ea457c9c-ac14-42cd-9217-fb6a0a31d97c@ea45.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260530
+DTEND;VALUE=DATE:20260531
+DESCRIPTION:『アイドル甲子園 in KANDA SQUARE HALL』\n\n《DAY1》\n▶︎2026.5.30(土)\n▶︎OP 9:15/ST 9:30\n▶︎優先 ¥8\,500/一般 ¥3\,500\n\n🎤20:40-21:05\n📸21:30-22:50\n\n🔗https://user.my-th.jp/tickets/event/aikou_0530\n＊5/7(木)20:00販売開始\n\n🎁各日：チェキ券+1pt(優先3pt)\nhttps://timetr.ee/p/hbn_187/2928429612135802653
+SUMMARY:東京｜アイドル甲子園 in KANDA SQUARE HALL
+UID:0624cae7-7a04-4b53-a8e8-dbf0cdecf27d@0624.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261227
+DTEND;VALUE=DATE:20261228
+DESCRIPTION:https://timetr.ee/p/hbn_187/3068509375474100068
+SUMMARY:東京
+UID:c8da6bec-56da-4479-82e3-cd27c14df171@c8da.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270122
+DTEND;VALUE=DATE:20270123
+DESCRIPTION:https://timetr.ee/p/hbn_187/3073927967116027338
+SUMMARY:🌈大阪｜HALE⇄QE
+UID:6b16ab7f-6316-49e0-acae-b700af714a00@6b16.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260526
+DTEND;VALUE=DATE:20260527
+DESCRIPTION:ハルニシオン主催LIVE\n『ハルライズ FREE』\nㅤ\n▶︎2026.5.26(火)\n▶︎CLUB CITTA'\n▶︎OP 14:45/ST 15:15\n▶︎優先 ¥5\,000/一般 ¥0️⃣✨\nㅤ\n🎤16:50-17:15\n📸17:25-18:35\n🔗t-dv.com/HNSRise_vol3\nㅤ\n🎁優先：チェキ券+2pt\nhttps://timetr.ee/p/hbn_187/2928429529617065384
+SUMMARY:神奈川｜ハルライズ FREE
+UID:9ceb28c2-4ea0-47ac-81ad-cd6b19bc41ef@9ceb.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260813
+DTEND;VALUE=DATE:20260814
+DESCRIPTION:『きらめきフェス2026\n supported by かがやきフェス2026』\nㅤ\n▶︎2026.8.13(木)\n▶︎GORILLA HALL OSAKA\n▶︎OP 11:00/ST 11:30\n▶︎前売 ¥5\,000/当日 ¥6\,000\nㅤ\n🎤18:30-18:55\n📸20:30-21:40\n\n6/13(土)12:00販売開始🔫\ntiget.net/events/496892\nㅤ\n🎁指名入場ポイント：3pt\nhttps://timetr.ee/p/hbn_187/2971133914511763164
+SUMMARY:大阪｜きらめきフェス2026 supported by かがやきフェス2026
+UID:91380e66-f575-408f-8d76-fe090bc3292c@9138.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260523
+DTEND;VALUE=DATE:20260524
+DESCRIPTION:『熱夏到来』\nㅤ\n▶︎2026.5.23(土)\n▶︎Yogibo HOLY MOUNTAIN\n▶︎OP 13:00/ST 13:30\n▶︎前売 ¥1\,500\nㅤ\n5/16(土)18:00販売開始🔫\nt-dv.com/NEKKA_TOURAI\nㅤ\n🎁チェキ券+1pt\nhttps://timetr.ee/p/hbn_187/2928429301790860590
+SUMMARY:大阪｜熱夏到来
+UID:2838799e-fdf7-4a5f-9fe2-22e26354de01@2838.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260816
+DTEND;VALUE=DATE:20260817
+DESCRIPTION:『アイドル甲子園 in KANDA SQUARE HALL』\n\n✅《DAY2》\n▶︎2026.8.16(日)\n▶︎OP 9:00/ST 9:15\n▶︎前方 ¥8\,500/一般 ¥3\,500\n\n🎤17:25-17:50\n📸18:10-19:30(B)\n\n🔗https://user.my-th.jp/tickets/event/aikou_0816\n＊7/23(木)21:00販売開始\n\n🎁チェキ券+1pt(前方3pt)\nhttps://timetr.ee/p/hbn_187/3016172111620662421
+SUMMARY:東京｜アイドル甲子園 in KANDA SQUARE HALL
+UID:41b7bd9a-81fd-4943-95d1-a18ce89a429d@41b7.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260606
+DTEND;VALUE=DATE:20260607
+DESCRIPTION:HIBANA Presents\n『導花閃』\n\n▶︎2026.6.6(土)\n▶︎SHIBUYA WWW\n▶︎OP 16:00/ST 16:30\n▶︎前売 ¥3\,500/当日 ¥4\,000\n\n🎤19:05-19:35\n📸19:45-21:10\n\nチケット販売中💥🔫\nt-dv.com/dokasen_tokyo\n\n🎁チェキ券+2pt\nhttps://timetr.ee/p/hbn_187/2928429920903685315
+SUMMARY:🌈東京｜導花閃
+UID:9471c651-fa46-4b05-9998-7029070a8c75@9471.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260430
+DTEND;VALUE=DATE:20260501
+DESCRIPTION:『火花放電-11V-』\n\n▶︎2026.4.30(木)\n▶︎FANJ twice\n▶︎OP 19:00/ST 19:30\n▶︎優先 ¥5\,555/一般 ¥1\,111\n\n優先：優先入場/囲み写メ\n初の衣装シャッフル公演💥\n\n4/21(火)22:00販売開始🔫\nt-dv.com/hibana11v\n\n🎁優先チケット：3pt\nhttps://timetr.ee/p/hbn_187/2924186245851964610
+SUMMARY:🌈大阪｜火花放電-11V-
+UID:b5a5b079-ed0e-4820-9ed1-a326e5398462@b5a5.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261206
+DTEND;VALUE=DATE:20261207
+DESCRIPTION:『SPARK 2026 -秋葉原冬祭-』\nㅤ\n▶︎2026.12.5(土)\,12.6(日)\n▶︎ベルサール秋葉原 / 秋葉原コンベンションホール 含む他複数会場\n▶︎OP TBA/ST TBA\n▶︎VIP ¥15\,000/一般 ¥4\,000\n\n💥HIBANAは【DAY2】に出演します💥\n\n✅VIP先行抽選：〜11/15(日)23:59\n✅一般先着：11/5(木)21:00〜\n✅VIP一般先着：11/16(月)21:00〜\nhttps://ticketdive.com/event/SPARK2026_winter\nㅤ\n🎁チェキ券+1pt(VIPは×2)\nhttps://timetr.ee/p/hbn_187/3093006303658173457
+SUMMARY:東京｜SPARK 2026 -秋葉原冬祭-
+UID:8117f867-ec74-400a-8444-48e9b5e39856@8117.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261213
+DTEND;VALUE=DATE:20261214
+DESCRIPTION:.LiNIXLiNE. PRESENTS\n『BLUE FES』\nㅤ\n▶︎2026.12.13(日)\n▶︎心斎橋SUNHALL\n▶︎OP 11:00/ST 12:00\n▶︎前売 ¥4\,000/当日 ¥4\,500\nㅤ\n11/1(日)20:00販売開始🔫\nt-dv.com/bluefes_osaka\nㅤ\n🎁チェキ券+1pt\nhttps://timetr.ee/p/hbn_187/3068509140710516571
+SUMMARY:大阪｜BLUE FES
+UID:e5b9a39b-67f8-41bd-a515-a61f20e67a7a@e5b9.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260713
+DTEND;VALUE=DATE:20260714
+DESCRIPTION:松葉-MATSUBA- Prelude Live\n『Needle Point #1 』\n\n▶︎2026.7.13(月)\n▶︎BLAZE GOTANDA\n▶︎OPEN 18:00/START 18:30\n▶︎優先 ¥3\,500/一般 ¥2\,000\n\n［出演］\nHIBANA / Tohkei / こみっきゅおん！\n\n7/5(日)22:00販売開始\nt-dv.com/NeedlePoint1\n\n🎁優先：2pt\nhttps://timetr.ee/p/hbn_187/2971131691639694402
+SUMMARY:🌈東京｜Needle Point #1
+UID:13b9f580-8761-49ff-802b-8eebdff5fc77@13b9.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261004
+DTEND;VALUE=DATE:20261005
+DESCRIPTION:『HYPE IDOL！× 音飯会 in 東京タワー』\nㅤ\n▶︎2026.10.4(日)\n▶︎東京タワー 南側駐車場特設野外ステージ\n▶︎OP 10:30/ST 11:00\n▶︎超大盛りSS ¥6\,000/大盛りS ¥5\,000/中盛り ¥0\nㅤ\n🎤12:20〜12:50\n📸13:00〜14:00(A)\nㅤ\nチケット販売中💥🔫\nhttps://ticketdive.com/event/HYPE_otomeshi_1004\nㅤ\n🎁SS/S：チェキ券+1pt\nhttps://timetr.ee/p/hbn_187/3064027857909376938
+SUMMARY:東京｜HYPE IDOL！× 音飯会 in 東京タワー
+UID:070927ee-f37f-47c4-9bc7-b2a796b25593@0709.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261220
+DTEND;VALUE=DATE:20261221
+DESCRIPTION:https://timetr.ee/p/hbn_187/3068509253965112474
+SUMMARY:東京
+UID:f35c54a7-be76-44b7-a892-7cb9f721c722@f35c.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261024
+DTEND;VALUE=DATE:20261025
+DESCRIPTION:『HYPE IDOL！Halloween』\nㅤ\n▶︎2026.10.24(土)\n▶︎ステラボール\n▶︎OP 8:40/ST 9:00\n▶︎前方 ¥8\,000/一般 ¥3\,000\n\n🎤13:10-13:30\n📸13:35-14:35\n\n前方先行抽選：〜9/24(木)23:59\n一般先着販売：9/9(水)19:00〜\n前方先着販売：9/25(金)19:00〜\nt-dv.com/HYPE_Halloween…\nㅤ\n🎁チェキ券+1pt(前方×チェキ券2枚)\nhttps://timetr.ee/p/hbn_187/3051631390993344068
+SUMMARY:東京｜HYPE IDOL！Halloween
+UID:52b4c872-261f-4f91-ae42-061a4041710c@52b4.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260517
+DTEND;VALUE=DATE:20260518
+DESCRIPTION:『IDOL STORM』 \n\n▶︎2026.5.17(日)\n▶︎Music restaurant APEXIA(ATOM新宿)\n▶︎OP TBA/ST TBA\n▶︎前方¥8\,000/一般¥2\,500\n\n🎤12:30-12:55\n📸13:15-14:15\n🔗t-dv.com/IDOLStorm0517\n\nHIBANAトッパーを努めます💥\n開幕から上げていきましょう☝️☝️\n\n🎁チェキ券+1pt(優先3pt)\nhttps://timetr.ee/p/hbn_187/2928428867957220368
+SUMMARY:東京｜IDOL STORM
+UID:b2b43c72-db89-4417-bf55-eb411ee3f8a0@b2b4.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260510
+DTEND;VALUE=DATE:20260511
+DESCRIPTION:『MAWA LOOP OSAKA 2026』\n\n⚡️《DAY2》\n🗓️2026.5.10(日)\n📸18:35-19:50(御堂筋ホール1)\n🎤20:45-21:15 (ANIMA)\n\nーーーーーーーーーーーーーーー\n\n▶︎OP 11:30/ST 12:00\n＊リストバンド交換10:00〜\n▶︎1dayチケット ¥7\,300 / 2daysチケット ¥13\,800\n▶︎ライブハウス入場整理券 ¥500\n※詳細は後日ご案内\n\nチケット販売中💥🔫\n🔗eplus.jp/mawaloop/\nhttps://timetr.ee/p/hbn_187/2918270827383678409
+SUMMARY:大阪｜MAWA LOOP OSAKA 2026
+UID:ed3cbc61-88ca-457b-a4ea-55478dd8dd98@ed3c.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260514
+DTEND;VALUE=DATE:20260515
+DESCRIPTION:『劇情 Vol.1』\nㅤ\n▶︎2026.5.14(木)\n▶︎OSAKA MUSE\n▶︎OP 18:30/ST 19:00\n▶︎前売 ¥2\,800/当日 ¥3\,500\nㅤ\n🎤20:00-20:30\n📸20:30-21:45\n🔗https://ticketdive.com/event/rzcWtktlJVwTyxG5RBGK\n\n全組映像収録ありのイベントです🎥\n3組とも後日ライブ映像が出るので、あなたも映像を彩る一員になってください🫵\nㅤ\n🎁チェキ券+2pt\nhttps://timetr.ee/p/hbn_187/2928428736784557470
+SUMMARY:大阪｜劇情 Vol.1
+UID:6ee7e992-e64d-49ad-8650-85a99065ca19@6ee7.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260624
+DTEND;VALUE=DATE:20260625
+DESCRIPTION:feelNEO×HIBANA 2MAN Live!!\n『NEO SPARK』\nㅤ\n▶︎2026.6.24(水)\n▶︎Live House ANIMA\n▶︎OP 19:00/ST 19:30\n▶︎前売 ¥2\,500/当日 ¥3\,000\nㅤ\n✅抽選販売\n5/17(日)17:00〜5/25(月)23:59\n✅一般発売\n5/26(火)21:30〜\n🔗https://t-dv.com/x0GYEa3LVuk56WtUTXdm\nㅤ\n🎁チェキ券+1pt\nhttps://timetr.ee/p/hbn_187/2960320768180151435
+SUMMARY:大阪｜NEO SPARK
+UID:476777a4-2eca-4027-b788-45dbd5fc9309@4767.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261101
+DESCRIPTION:『アイドル甲子園 in KANDA SQUARE HALL』\n\n✅《DAY1》\n▶︎2026.10.31(土)\n▶︎OP 9:15/ST 9:30\n▶︎前方 ¥8\,500/一般 ¥3\,500\n\n🎤18:50-19:15\n📸19:35-20:55\n\n🔗https://user.my-th.jp/tickets/event/aikou_1031\n＊10/5(月)20:00販売開始\n\n🎁チェキ券+1pt\nhttps://timetr.ee/p/hbn_187/3060306651402135426
+SUMMARY:東京｜アイドル甲子園 in KANDA SQUARE HALL
+UID:0dff172c-7e50-47fe-be47-a1160f51db35@0dff.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260829
+DTEND;VALUE=DATE:20260830
+DESCRIPTION:『A Villa idol festival HOKKAIDO 2026』\n\n▶︎2026.8.29(土)\,30(日)\n▶︎安平町ときわ公園\n▶︎OP 9:00/ST 10:00\n▶︎VIPチケット ¥15\,000\n▶︎Tシャツ付きチケット ¥6\,000\n▶︎無料チケット ¥0 ※要予約\n\n🎤12:50-13:15\n📸13:50-15:10\n🔗eplus.jp/avilla_2026/\n\n🎁VIP：チェキ券+写メ券+5pt\n🎁T付：写メ券+2pt\n\n#HIBANA は8/29(土)に出演‼️\nそして8/28(金)、8/30(日)は札幌のイベントに出演させていただきます☃️\nhttps://timetr.ee/p/hbn_187/2961767346526938996
+SUMMARY:北海道｜A Villa idol festival HOKKAIDO 2026
+UID:4ea4c11d-66b5-4d73-81a1-2b240b0e621f@4ea4.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260504
+DTEND;VALUE=DATE:20260505
+DESCRIPTION:Ringwanderung presents\n『SYNC』\nㅤ\n▶︎2026.5.4(月/祝)\n▶︎代官山UNIT\n▶︎OP 12:30/ST 13:00\n▶︎前売 ¥3\,000\nㅤ\n4/14(火)21:00販売開始🔫\nt-dv.com/rwr_sync_260504\nㅤ\n🎁チェキ券+2pt\nhttps://timetr.ee/p/hbn_187/2928428473566815265
+SUMMARY:東京｜SYNC
+UID:78244a65-3a07-4b59-b7e9-b45f6364e76d@7824.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260511
+DTEND;VALUE=DATE:20260512
+DESCRIPTION:『環状線メリーゴーランド 2026 in 心斎橋JANUS』\nㅤ\n▶︎2026.5.11(月)\n▶︎OP 17:15/ST 17:30\n▶︎前売 ¥2\,500/当日 ¥3\,000\n\n🎤20:05-20:30\n📸21:10-22:20\n🔗livepocket.jp/e/merigo_511\nㅤ\n🎁チェキ券+1pt\nhttps://timetr.ee/p/hbn_187/2928428675765822816
+SUMMARY:大阪｜環状線メリーゴーランド 2026 in 心斎橋JANUS
+UID:bff86257-29c9-41ee-aced-670cc5a8af0c@bff8.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260705
+DTEND;VALUE=DATE:20260706
+DESCRIPTION:『MAVERICK』\nㅤ\n▶︎2026.7.5(日)\n▶︎川崎 CLUB CITTA’\n▶︎OP 11:30/ST 12:00\n▶︎前売 ¥3\,500\nㅤ\n🎤15:55-16:20\n📸17:20-18:20\n\n6/2(火)21:30販売開始🔫\nt-dv.com/maverick_260705\nㅤ\n🎁チェキ券+1pt\nhttps://timetr.ee/p/hbn_187/2950134236588729419
+SUMMARY:神奈川｜MAVERICK
+UID:9b41ebe9-8d64-4eff-bebd-33c49ae09ef1@9b41.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260913
+DTEND;VALUE=DATE:20260914
+DESCRIPTION:『アイドル甲子園 in KANDA SQUARE HALL』\nㅤ\n▶︎2026.9.13(日)\n▶︎OP 9:15/ST 9:30\n▶︎前方 ¥8\,500/一般 ¥3\,500\nㅤ\n🎤15:10-15:35\n📸15:55-17:15\n\n8/14(金)20:00販売開始🔫\nhttps://user.my-th.jp/tickets/event/aikou_0913\nㅤ\n🎁チェキ券+1pt(3pt)\nhttps://timetr.ee/p/hbn_187/3000866119605478532
+SUMMARY:東京｜アイドル甲子園 in KANDA SQUARE HALL
+UID:f80dd6a5-7ae7-44e0-b22c-b2304814234d@f80d.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261016
+DTEND;VALUE=DATE:20261017
+DESCRIPTION:THE ENCORE presents\n『ラブコール vol.20』\nㅤ\n▶︎2026.10.16(金)\n▶︎Zephyr Hall\n▶︎OP 18:00/ST 18:30\n▶︎前方 ¥3\,500/一般 ¥1\,500\nㅤ\n🎤18:30-18:55\n📸20:15-21:30\nㅤ\n10/6(火)21:00販売開始🔫\nt-dv.com/lc_vol20\nㅤ\n🎁チェキ券+1pt\nhttps://timetr.ee/p/hbn_187/3068507651279611265
+SUMMARY:名古屋｜ラブコール vol.20
+UID:e16f2371-8cea-44a5-84a7-cf4b1ae07614@e16f.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260520
+DTEND;VALUE=DATE:20260521
+DESCRIPTION:『SOUL』\nㅤ\n▶︎2026.5.20(水)\n▶︎SHIBUYA CLUB QUATTRO\n▶︎OP 13:00/ST 13:15\n▶︎前方 ¥6\,000/一般 ¥3\,000\nㅤ\n🎤21:15-21:40\n📸21:50-23:00\n🔗livepocket.jp/e/soul-520\nㅤ\nHIBANAトリを任せていただきました‼️\n超火力の火花散らします💥\n\n🎁チェキ券+1pt(前方+3pt)\nhttps://timetr.ee/p/hbn_187/2928429137315423300
+SUMMARY:東京｜SOUL
+UID:e3aabbe5-cc95-404a-bb92-33220d795e7f@e3aa.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260618
+DTEND;VALUE=DATE:20260619
+DESCRIPTION:『SOUL』\nㅤ\n▶︎2026.6.18(木)\n▶︎SHIBUYA CLUB QUATTRO\n▶︎OP 14:00/ST 14:25\n▶︎前方 ¥6\,000/一般 ¥3\,000\nㅤ\n🎤18:15-18:40\n📸19:00-20:10\n🔗livepocket.jp/e/soul_618\nㅤ\n🎁チェキ券+1pt(前方2pt)\nhttps://timetr.ee/p/hbn_187/2928430491404526619
+SUMMARY:東京｜SOUL
+UID:c21fd789-9dd3-4a2e-9b51-52a5c720e70f@c21f.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260823
+DTEND;VALUE=DATE:20260824
+DESCRIPTION:Devil ANTHEM. presents\n『でびぱっぱ夏祭 2026 〜東の陣〜』\nㅤ\n▶︎2026.8.22(土)\,23(日)\n▶︎三崎公園野外音楽堂\n▶︎OP 9:45/ST 10:30\n▶︎2days ¥10\,000/1day ¥5\,500\nㅤ\n✅《DAY2》8/23(日)\n🎤12:20-12:35\n📸14:00-15:20\n🎤16:40-17:00\n\n🔗eplus.jp/devilanthem/\nhttps://timetr.ee/p/hbn_187/2976267116347844159
+SUMMARY:福島｜でびぱっぱ夏祭 2026 〜東の陣〜
+UID:df59a405-8bb4-412d-9b7b-b9d36ee20d37@df59.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261122
+DTEND;VALUE=DATE:20261123
+DESCRIPTION:『アイドル甲子園 in 桜坂セントラル -DAY3-』\n\n▶︎2026.11.22(日)\n▶︎OP 11:30/ST 12:00\n▶︎前売 ¥4\,500/当日 ¥5\,000\n\n🔗https://user.my-th.jp/tickets/event/aikou_ss1122\n＊9/19(土)21:00販売開始\n\n🎁チェキ券+1pt\nhttps://timetr.ee/p/hbn_187/3068511207730635934
+SUMMARY:沖縄｜アイドル甲子園 in 桜坂セントラル -DAY3-
+UID:60e0ae97-c7aa-47c2-9453-8f6fc67ec257@60e0.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260718
+DTEND;VALUE=DATE:20260719
+DESCRIPTION:Kolokol PRESENTS\n『超Eden SUMMER』\nㅤ\n▶︎2026.7.18(土)\n▶︎大阪城野外音楽堂\n▶︎OP 11:30/ST 12:15\n▶︎前売 ¥5\,000/当日 ¥6\,000\nㅤ\n🎤15:05-15:30\n📸15:45-16:55\n🔗https://eplus.jp/kolokol_eden_summer\nㅤ\n🎁チェキ券+2pt\nhttps://timetr.ee/p/hbn_187/2971131899031250204
+SUMMARY:大阪｜超Eden SUMMER
+UID:85190b13-524b-4726-b612-14d86f118d28@8519.org
 END:VEVENT
 END:VCALENDAR

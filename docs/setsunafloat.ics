@@ -2,360 +2,367 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:🗓️ 9/22(火) OP13:50/ST14:20\n📍 Yogibo HOLY MOUNTAIN\n🎟️前売 ¥2\,500/当日 ¥3\,000（各+1D）\n\n出演：セツナフロート / DJ 凛々りりね / R1cefarm / Ray_Oh / 音無あふ\nhttps://timetr.ee/p/setsunafloat/3043003644348013379
-DTEND:20260922T045000Z
-DTSTART:20260922T045000Z
-SUMMARY:フロートコア Vol.4
-UID:3cb9fb03-9efb-4233-b23d-cb8b3a372b57@3cb9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:コドモメンタルINC. × #ﾆｷﾌﾟﾚ pre. “en-kai.03 オオサカッ!!編”\n\n・日時 : 7/10(金)OP17:50/ST18:10\n・会場 : アメリカ村 DROP\n・チケット : 前売2800円/当日3300円（各+1D）\n\n🎁セツナフロートお目当てで写メ券1枚‼︎\nhttps://timetr.ee/p/setsunafloat/2985069603452164162
-DTEND:20260710T132000Z
-DTSTART:20260710T103500Z
-SUMMARY:コドモメンタルINC. × #ﾆｷﾌﾟﾚ pre. “en-kai.03 オオサカッ!!編”
-UID:8c387462-c85f-4503-bf47-cfe4cfa3b563@8c38.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:サムライロックフェス2026\n\n✧出演 15:30〜15:55 腹斬りステージ 2F\n\n・日時 : 8/29(土) OP12:00/ST12:30\n・会場 : 京都ROKA\n・チケット : 前売3900円/当日4400円/学割1000円オフ（各+1D）\nhttps://timetr.ee/p/setsunafloat/2974745384453479280
-DTEND:20260829T065500Z
-DTSTART:20260829T063000Z
-SUMMARY:サムライロックフェス2026
-UID:6f3d35ea-bccf-47ce-9051-01e2b213cedb@6f3d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:セツナフロート× CUBΣLIC 2MAN LIVE\n\n🗓️ 9/13(日) OP11:45 /ST12:15\n📍 梅田 LIVESPACE ODYSSEY\n🎟️  前売 2\,500円 / 一般当日 3\,000円(各+1D)\nhttps://timetr.ee/p/setsunafloat/2987140511910140318
-DTEND:20260913T053000Z
-DTSTART:20260913T024500Z
-SUMMARY:セツナフロート× CUBΣLIC 2MAN LIVE
-UID:ee58df5c-3469-4e52-a40d-bf7994e1d5ed@ee58.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261226
-DTEND;VALUE=DATE:20261227
-DESCRIPTION:https://timetr.ee/p/setsunafloat/3047450017369757821
-SUMMARY:ライブ予定@東京
-UID:6537d174-9330-421f-93aa-c528348c32c8@6537.org
+DESCRIPTION:✧出演 11:20~11:45\n✧物販 13:10~14:10\n\n🗓️ 10/12(月) OP10:40/ST10:55\n📍 東京・大塚Hearts Next\n🎟️前売¥3\,000/当日¥3\,500（各+1D）\nhttps://timetr.ee/p/setsunafloat/3027638972551862682
+DTEND:20261012T051000Z
+DTSTART:20261012T022000Z
+SUMMARY:Tribu presents sonance
+UID:8cc91c72-c729-41b0-ab14-ddab24b89e69@8cc9.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:「フロートゲート Vol.1」\n・日時：6/27(土) OP10:45/ST11:15\n・会場：下北沢MOSAiC\n・チケット：前売り¥2\,800 / 当日 ¥3\,300 (各+1D)\nhttps://timetr.ee/p/setsunafloat/2880032177692941089
 DTEND:20260627T050000Z
 DTSTART:20260627T014500Z
 SUMMARY:フロートゲートVol.1
-UID:0d92a59d-bf0a-4574-bc5f-2e0d558ef9f2@0d92.org
+UID:88ec3a25-d61c-4769-9fbe-8f309945a3c5@88ec.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✧出演 20:35〜21:00\n✧物販 21:30〜22:30\n\n『All Ok!!!!』\n\n・日時 : 5/30(土) OP19:30 /ST19:45\n・会場 : 池尻大橋SWIPE\n・チケット : 前売 2\,800円/当日 3\,000円（+1D）\nhttps://timetr.ee/p/setsunafloat/2948755636643765240
-DTEND:20260530T133000Z
-DTSTART:20260530T113500Z
-SUMMARY:All Ok!!!!
-UID:e748e54d-103c-4485-8f1f-97b0808517ee@e748.org
+DESCRIPTION:🗓️ 9/22(火) OP13:50/ST14:20\n📍 Yogibo HOLY MOUNTAIN\n🎟️前売 ¥2\,500/当日 ¥3\,000（各+1D）\n\n出演：セツナフロート / DJ 凛々りりね / R1cefarm / Ray_Oh / 音無あふ\nhttps://timetr.ee/p/setsunafloat/3043003644348013379
+DTEND:20260922T045000Z
+DTSTART:20260922T045000Z
+SUMMARY:フロートコア Vol.4
+UID:5e446e3f-cd4a-4f7b-a4bc-8cf95d3bbf39@5e44.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✧出演 17:15〜17:40\n✧物販 19:20〜20:20\n\n日ノ目企画presents\n“Fill In Your Blanks”\n\n・日時 : 5/9(土) OP16:00 /ST16:20\n・会場 : 西九条BRAND NEW\n・チケット : 前売 2\,500円/当日 3\,100円（+1D）\nhttps://timetr.ee/p/setsunafloat/2924154491606735443
-DTEND:20260509T112000Z
-DTSTART:20260509T081500Z
-SUMMARY:日ノ目企画presents“Fill In Your Blanks”
-UID:5512ebdd-fb67-4674-85ea-06d471aac478@5512.org
+DESCRIPTION:「メガハロアワード2026 ～ FINAL BRAVO ～」\n\n🗓️ 12/27(日) OP15:30/ST16:30\n📍横浜人形の家「あかいくつ劇場」 (神奈川県)\n🎟️ 一般¥4\,500/ 最前¥6\,000 ※全席指定席\n\n✧出演 17:05~17:35\n✧物販 16:10~16:55\n\n🔗チケット\nhttps://livepocket.jp/e/kuy5w?utm_campaign=1115492&utm_content=evt&utm_medium=social&utm_source=COPY\nhttps://timetr.ee/p/setsunafloat/3047449655871084729
+DTEND:20261227T083500Z
+DTSTART:20261227T071000Z
+SUMMARY:メガハロアワード2026 ～ FINAL BRAVO ～
+UID:9784cf65-c340-4ec4-994f-2af69824606e@9784.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:「フロートゲート Vol.2」\n・日時：7/7(火) OP18:30/ST19:00\n・会場：大阪Yogibo HOLY MOUNTAIN\n・チケット：前売り¥2\,500 / 当日 ¥3\,000 (各+1D)\nhttps://timetr.ee/p/setsunafloat/2880032404537678557
 DTEND:20260707T130000Z
 DTSTART:20260707T093000Z
 SUMMARY:フロートゲートVol.2
-UID:4fef0565-d663-4512-89f7-ec6575005c32@4fef.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✧出演 11:20~11:45\n✧物販 13:10~14:10\n\n🗓️ 10/12(月) OP10:40/ST10:55\n📍 東京・大塚Hearts Next\n🎟️前売¥3\,000/当日¥3\,500（各+1D）\nhttps://timetr.ee/p/setsunafloat/3027638972551862682
-DTEND:20261012T051000Z
-DTSTART:20261012T022000Z
-SUMMARY:Tribu presents sonance
-UID:216e37b3-81ed-403a-b8e0-9a4ab7d1ddca@216e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:‎「FERMATA」\n\n‎🗓️ 11/10(火) OP18:00/ST18:20\n‎📍難波NUMBER GATE\n‎🎟️ 前売¥2\,200/当日¥2\,900 (各+1D)\n\n‎✧出演 20:05~20:25\n‎✧物販 21:35~22:35\nhttps://timetr.ee/p/setsunafloat/3085768810831354059
-DTEND:20261110T133500Z
-DTSTART:20261110T110500Z
-SUMMARY:FERMATA
-UID:336bec70-ee90-46c5-8a01-12608d45e338@336b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✧出演 12:00~12:30\n✧物販 14:10~15:30\n\n"IDOORLOVES" -Special Summer Circuit-\n\n🗓️ 9/6(日) OP11:00 /ST11:20\n📍 Live House ANIMA / SUNHALL / DROP / BEYOND / Pangea\n🎟️早割前売¥4\,800/一般前売¥5\,800/一般当日¥6\,800/U-22割前売¥2\,800（各+1D）\n\n🎁セツナフロートお目当てで写メ券1枚‼︎\nhttps://timetr.ee/p/setsunafloat/2993683840521017853
-DTEND:20260906T063000Z
-DTSTART:20260906T030000Z
-SUMMARY:"IDOORLOVES" -Special Summer Circuit-
-UID:26f87b25-685b-43e2-8237-fc4fe30d1df9@26f8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:#メルクマールメルマール 主催\n「MERUMARU IDOL PARTY #メルパ in OSAKA」\n\n・日時 : 6/13(土) OP12:00 /ST12:20\n・会場 : 寺田町Fireloop\n・チケット : 前方 2\,500円/一般 1\,000円 / 当日 1\,500円（各+1D）\n\n✧出演 13:10〜13:35\n✧並行特典会 14:00〜15:00\n\n※並行特典会は別会場となります。\n\n📍並行特典会別会場 \n大阪市天王寺区大道4-10-4 たつみビル4F 405\nhttps://timetr.ee/p/setsunafloat/2964795898818009720
-DTEND:20260613T060000Z
-DTSTART:20260613T041000Z
-SUMMARY:#メルクマールメルマール 主催「MERUMARU IDOL PARTY #メルパ in OSAKA」
-UID:db9407d2-5dbd-4e46-a3dc-0792703ea060@db94.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✧出演 14:25〜14:50\n✧物販 15:45〜16:45\n\n・日時 : 9/5(土) OP11:00 /ST11:30\n・会場 : 堺FANDANGO/Pineapple Express\n・チケット : 事前購入(8/15迄)4\,000円/前売(8/15以降)4\,400円/当日4\,900円（各+1D）\nhttps://timetr.ee/p/setsunafloat/2971972429222844985
-DTEND:20260905T074500Z
-DTSTART:20260905T052500Z
-SUMMARY:SBF
-UID:e214cc3a-9d4c-428d-98d6-48e64e41e3b6@e214.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✧出演 13:30〜13:55\n✧物販 14:20〜15:20\n\n"IDOORLOVES"\n\n・日時 : 6/21(日) OP11:00 /ST11:20\n・会場 : 心斎橋Live House ANIMA\n・チケット : 前売 2\,500円/当日 3\,500円 / U-22割前売 1\,000円（+1D）\nhttps://timetr.ee/p/setsunafloat/2974245885159217369
-DTEND:20260621T062000Z
-DTSTART:20260621T043000Z
-SUMMARY:IDOORLOVES
-UID:892a814b-b50b-4594-9935-18b13bc399bd@892a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:🗓️ 9/22(火) OP19:00/ST19:30\n📍 Yogibo HOLY MOUNTAIN \n🎟️ 学割¥2\,500/通常前売¥3\,000/Sチケット¥6\,000/当日¥3\,500(各+1D)\n\nSチケット:8/31(月)22:00発売\n通常前売･学割:9/2(水)22:00発売\n\n出演:セツナフロート\nhttps://timetr.ee/p/setsunafloat/2937822010020272848
-DTEND:20260922T100000Z
-DTSTART:20260922T100000Z
-SUMMARY:凛々りりね生誕祭
-UID:aa0484cd-7352-428f-9c18-1fecd3baaf8b@aa04.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✧出演 12:25〜12:45\n✧物販 12:55〜13:55\n\n"IDOORLOVES" -DON'T TRUST OVER 30!!-\n\n🗓️ 8/11(火祝) OP10:40 /ST11:00\n📍 心斎橋SUNHALL\n🎟️ U-30割前売 1\,500円 / 一般前売 2\,800円 / 一般当日 3\,800円(各+1D)\nhttps://timetr.ee/p/setsunafloat/2993683612552207153
-DTEND:20260811T045500Z
-DTSTART:20260811T032500Z
-SUMMARY:"IDOORLOVES" -DON'T TRUST OVER 30!!-
-UID:41f8c553-df94-4c0d-8957-8b4b301d7531@41f8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:T.M.P ×京都I博　presents\n『VS STORAGE in Kyoto』\n\n・日時 : 7/4(土) OP17:00 /ST17:30\n・会場 :  京都nano\n・チケット : 優先 3\,000円/通常 2\,500円/当日 3\,000円（+1D）\nhttps://timetr.ee/p/setsunafloat/2934078631415454504
-DTEND:20260704T110000Z
-DTSTART:20260704T083000Z
-SUMMARY:T.M.P ×京都I博　presents『VS STORAGE in Kyoto』
-UID:4b6098dc-0512-49aa-8385-c160531337d2@4b60.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:「フロートコア vol.3」\n・日時：5/16(土) OP11:30/ST11:50\n・会場：梅田 LIVESPACE ODYSSEY\n・チケット：前売り¥2\,500 / 当日 ¥3\,000 (+1D)\nhttps://timetr.ee/p/setsunafloat/2865861186108595111
-DTEND:20260516T053000Z
-DTSTART:20260516T023000Z
-SUMMARY:フロートコア vol.3
-UID:2d348e2c-3415-44c1-b6bf-5952ce4118ca@2d34.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:・日時 : 6/28(日) OP10:10 /ST10:30\n・会場 : 新宿SAMURAI\n・チケット : 前売 3\,000円/当日 3\,500円（+1D）\n\n✧出演 10:55〜11:20\n✧物販 12:10〜13:10\nhttps://timetr.ee/p/setsunafloat/2929972505879058668
-DTEND:20260628T041000Z
-DTSTART:20260628T015500Z
-SUMMARY:Tribu 10th Anniversary SAMURAI TRIBU DAY 4
-UID:e8c51fa7-4b8c-4cd9-b5ee-447387fa7db9@e8c5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:‎🗓️ 11/21(土) OP17:00/ST17:20\n‎📍 大阪・長堀橋WAXX\n‎🎟️ 前売¥2\,000/当日¥2\,800 (各+1D)\n\n‎✧出演 19:05~19:30\n‎✧物販 19:35~20:35\nhttps://timetr.ee/p/setsunafloat/3085768996706130558
-DTEND:20261121T113500Z
-DTSTART:20261121T100500Z
-SUMMARY:‎「VIBES ENCOUNTER」-day&night-
-UID:780194cb-2943-4fe2-8362-97fba5b37b71@7801.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✧出演 18:50〜19:15\n✧物販 20:40〜21:40\n\n"NEXUS" -4MAN LIVE-\n\n・日時 : 6/13(土) OP18:30 /ST18:50\n・会場 : 大阪福島2nd LINE\n・チケット : ペア割3\,000円 / 前売2\,000円 / 当日2\,500円（各+1D）\n\n🔥ペア割3\,000円あり🔥\n※1枚のチケットで2名様まで入場可能‼︎\nhttps://timetr.ee/p/setsunafloat/2981773723261278215
-DTEND:20260613T124000Z
-DTSTART:20260613T095000Z
-SUMMARY:"NEXUS" -4MAN LIVE-
-UID:b3c3c559-1ccb-4312-96e6-3eef1c330e9e@b3c3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:■ オフ会概要\n・イベント名：フロートゲート vol.1 Home Party -フロートゲート開門式編-\n・日時： 6/27(土) 16:00~18:00\n・内容： 2時間ホームパーティー\n・会場： 渋谷区某所\n・住所：メールにてお送りいたします。\n\n【ご案内】\n・軽食付き \n・飲食物の持ち込み自由\n・お飲み物は各自でご持参ください\n\n※途中参加・離脱も可能です。\nご希望の際は、スタッフまでお声がけください。\nhttps://timetr.ee/p/setsunafloat/2984197532119538527
-DTEND:20260627T090000Z
-DTSTART:20260627T070000Z
-SUMMARY:フロートゲートVol.1 Home Party -フロートゲート開門式編-
-UID:504c25c2-ca2a-485b-b687-ea66e4a2fe43@504c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✧出演 18:55~19:20\n✧物販 20:50~21:50\n\n日ノ目企画presents\n“SUNDAYRIGHT/WRONG×2”\n\n🗓️ 10/11(日) OP10:15/ST10:45\n📍 大塚Hearts+/Hearts Next\n🎟️一般前売¥3\,300/優先入場前売¥3\,800/当日¥3\,900（各+1D）\nhttps://timetr.ee/p/setsunafloat/3027638746856364361
-DTEND:20261011T125000Z
-DTSTART:20261011T095500Z
-SUMMARY:日ノ目企画presents“SUNDAYRIGHT/WRONG×2”
-UID:cb3e3e53-6743-4e13-8220-7d1ebb54944e@cb3e.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261209
-DTEND;VALUE=DATE:20261210
-DESCRIPTION:https://timetr.ee/p/setsunafloat/3098017287242062578
-SUMMARY:ライブ予定@大阪
-UID:e666fbc6-bd44-4b76-bec2-8ce42657e7ca@e666.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:🗓️7/30(木)OP19:00/ST19:30\n📍ロフトプラスワンWEST\n🎟️前売¥2\,000/当日¥2\,500(＋1D)配信¥1\,500\n\nGuest：SUPERSTARJULIE、汐沢怜華\n\n🎟️チケットlivepocket.jp/e/px6_u\n\n📺配信チケットpremier.twitcasting.tv/plusonewest/sh…\nhttps://timetr.ee/p/setsunafloat/3005784472690170341
-DTEND:20260730T103000Z
-DTSTART:20260730T103000Z
-SUMMARY:「元アイドルが語るぶっちゃけトーク」
-UID:f8745336-00e8-4736-a56b-53500e77bd2d@f874.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:MIC RAW RUGA 定期公演 HIGH-HO vol.151\n\n・日時 : 5/30(土) OP10:35 /ST10:55\n・会場 : 渋谷DESEO mini\n・チケット : 前売 3\,500円/当日 4\,000円（+1D）\nhttps://timetr.ee/p/setsunafloat/2964644834542164084
-DTEND:20260530T054000Z
-DTSTART:20260530T034000Z
-SUMMARY:MIC RAW RUGA 定期公演 HIGH-HO vol.151
-UID:3ae0a869-ca9c-4df3-942f-5267f4050420@3ae0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:躍動は聴こえないvol.3 presented by 京都I博\n\n・日時 : 8/1(土) OP12:10 /ST12:30\n・会場 : CLUB METRO(京都)\n・チケット : 優先3400円/前売2900円（各+1D）\n\n✧出演 13:00〜13:30\n✧物販 15:45〜17:15\nhttps://timetr.ee/p/setsunafloat/2974745214718384555
-DTEND:20260801T081500Z
-DTSTART:20260801T040000Z
-SUMMARY:躍動は聴こえないvol.3 presented by 京都I博
-UID:27b80f9e-7c0a-4916-bcb2-d79dd6885b4c@27b8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:日ノ目企画presents "SATURDAYRIGHT NIGHT"\n\n・日時 : 7/11(土) OP16:10 /ST16:30\n・会場 : 京都ROKA\n・チケット : 前売2600円/当日3200円（各+1D）\n\n✧出演 16:55〜17:20\n✧物販 17:30〜18:30\nhttps://timetr.ee/p/setsunafloat/2986443395516668490
-DTEND:20260711T093000Z
-DTSTART:20260711T075500Z
-SUMMARY:日ノ目企画presents "SATURDAYRIGHT NIGHT"
-UID:c8e0ab9c-733f-47d6-a04a-e76438e1abbc@c8e0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:🎁セツナフロートお目当てで写メ券1枚‼︎\n\n"VIBES ENCOUNTER"\n\n✧出演 17:05〜17:30\n✧物販 17:35〜18:35\n\n🗓️ 7/18(土) OP15:00/ST15:20\n📍 滋賀 石山U★STONE\n🎟️前売¥2\,300/当日¥2\,800（各+1D）\nhttps://timetr.ee/p/setsunafloat/2974246137840867782
-DTEND:20260718T093500Z
-DTSTART:20260718T080500Z
-SUMMARY:VIBES ENCOUNTER
-UID:9321b23f-9ab0-4607-9ff3-535b7355cd9e@9321.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20270322
-DTEND;VALUE=DATE:20270323
-DESCRIPTION:https://timetr.ee/p/setsunafloat/3047450268457572981
-SUMMARY:ライブ予定@大阪
-UID:989e1e74-af62-48a3-8517-387b05835d88@989e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:カガクハンノウvol.72\n\n・日時 : 5/31(日) OP11:30 /ST11:55\n・会場 : 新高円寺LOFT X\n・チケット : 前売 3\,000円/当日 3\,500円（+1D）\n\n✧出演 12:50〜13:15\n✧物販 13:45〜14:45\nhttps://timetr.ee/p/setsunafloat/2948755884493577032
-DTEND:20260531T054500Z
-DTSTART:20260531T035000Z
-SUMMARY:カガクハンノウvol.72
-UID:5f125f5e-f08c-4500-8300-9f4651feb0ae@5f12.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✧出演 12:40〜13:05\n✧物販 14:00〜15:00\n\nセツナフロート×ピューパ!! pre. \n「京都大暴走計画」\n\n・日時 : 7/4(土) OP11:30 /ST12:00\n・会場 : 京都TRUST\n・チケット : 予約 2\,500円/当日 3\,000円 / U-23割予約 2\,000円（各+1D）\nhttps://timetr.ee/p/setsunafloat/2978524236803807790
-DTEND:20260704T060000Z
-DTSTART:20260704T034000Z
-SUMMARY:セツナフロート×ピューパ!! pre. 「京都大暴走計画」
-UID:0683767a-5b31-439a-9d98-931987b30ea0@0683.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:日ノ目企画presents "SATURDAYRIGHT"\n\n・日時 : 7/11(土) OP10:30 /ST10:50\n・会場 : 京都ROKA\n・チケット : 前売2600円/当日3200円（各+1D）\n\n✧出演 12:35〜13:00\n✧物販 14:55〜15:55\nhttps://timetr.ee/p/setsunafloat/2980476785702279956
-DTEND:20260711T065500Z
-DTSTART:20260711T033500Z
-SUMMARY:日ノ目企画presents "SATURDAYRIGHT"
-UID:371ee8ea-de82-47fc-9576-7653063ec855@371e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:https://timetr.ee/p/setsunafloat/2880032586713077985
-DTEND:20261024T043000Z
-DTSTART:20261024T024500Z
-SUMMARY:セツナフロート1周年 新体制お披露目ワンマン
-UID:24949aab-5a72-4373-b4c2-1173cf4593a2@2494.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:「メガハロアワード2026 ～ FINAL BRAVO ～」\n\n🗓️ 12/27(日) OP15:30/ST16:30\n📍横浜人形の家「あかいくつ劇場」 (神奈川県)\n🎟️ 一般¥4\,500/ 最前¥6\,000 ※全席指定席\n\n✧出演 17:05~17:35\n✧物販 16:10~16:55\n\n🔗チケット\nhttps://livepocket.jp/e/kuy5w?utm_campaign=1115492&utm_content=evt&utm_medium=social&utm_source=COPY\nhttps://timetr.ee/p/setsunafloat/3047449655871084729
-DTEND:20261227T083500Z
-DTSTART:20261227T071000Z
-SUMMARY:ライブ予定@横浜
-UID:fbb36aff-ed89-4097-aeb7-cc3412416ed1@fbb3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✧出演 20:00〜20:30(アメ村BEYOND)\n✧物販 20:40〜21:50\n\n#ﾆｷﾌﾟﾚ『オオサカッ!! -真夏、三陣。-』\n\n・日時 : 7/17(金) OP16:30 /ST17:00\n・会場 : 心斎橋SUNHALL/DROP/BEYOND\n・チケット : 早割3500円/一般 4000円（各+1D）\n\n🎁セツナフロートお目当てで写メ券1枚‼︎\nhttps://timetr.ee/p/setsunafloat/2953126496959797968
-DTEND:20260717T125000Z
-DTSTART:20260717T110000Z
-SUMMARY:#ﾆｷﾌﾟﾚ『オオサカッ!! -真夏、三陣。-』
-UID:b2e189d2-f02a-4da4-acda-993964c323d0@b2e1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:⟡ 11/8(日) OPEN 10:30 / START 11:00\n⟡ 大塚Hearts Next\n\n⟡ 出演 12:30~13:00  ※物販時間は後日解禁\n⟡ 前売 ¥4\,000 / 当日 ¥5\,000（+1D）\nhttps://timetr.ee/p/setsunafloat/3075491602648865788
-DTEND:20261108T040000Z
-DTSTART:20261108T033000Z
-SUMMARY:秋のYOIMACHI
-UID:7ab750d2-9356-46b8-9bf0-45fdab244e17@7ab7.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20270102
-DTEND;VALUE=DATE:20270103
-DESCRIPTION:https://timetr.ee/p/setsunafloat/3071837172246321547
-SUMMARY:ライブ予定@大阪
-UID:99059ede-9840-43b7-a6df-08d931f0195f@9905.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:🗓️8/9(日) OP16:10/ST16:30\n📍京都ROKA\n🎟️前売¥2\,500/当日¥3\,100（各+1D）\n\n✧出演 17:50〜18:15\n✧物販 18:25〜19:25\nhttps://timetr.ee/p/setsunafloat/2991421106895001758
-DTEND:20260809T102500Z
-DTSTART:20260809T085000Z
-SUMMARY:日ノ目企画presents"Fill In Your Blanks"
-UID:8ae3c56b-b609-4cb9-b844-932da45e7460@8ae3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✧出演 19:10〜19:33\n✧物販 20:35〜21:35\n\nこぐまカリー主催「Spice it Up」\n\n🗓️ 8/23(日) OP11:00/ST11:30\n📍 大阪•心斎橋VARON\n🎟️ 2日通し¥5\,500/各日前売¥3\,000/当日¥3\,500（各+1D）\nhttps://timetr.ee/p/setsunafloat/3021063304917621641
-DTEND:20260823T123500Z
-DTSTART:20260823T101000Z
-SUMMARY:こぐまカリー主催「Spice it Up」
-UID:52a19385-4c26-4b00-8eda-ff451718abfc@52a1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✧出演 20:00〜20:30\n✧物販 21:00〜22:00\n\nLΩPARA & ESAKA MUSE pre.\n「CITYROCK」Vol9\n\n🗓️ 8/21(金) OP18:30 /ST19:00\n📍 ESAKA MUSE\n🎟️入場無料/当日¥500（各+2D）\n\nセツナフロートは衣装交換ライブ＆特典会👗 ⋆˙⟡\nhttps://timetr.ee/p/setsunafloat/2974246525520386235
-DTEND:20260821T130000Z
-DTSTART:20260821T110000Z
-SUMMARY:LΩPARA & ESAKA MUSE pre.「CITYROCK」Vol9
-UID:323746ea-46e9-49ce-80fb-da2d90b4f83a@3237.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:・日時 : 5/21(木) OP18:00 /ST18:15\n・会場 : 心斎橋Music Club JANUS\n・チケット : 前売 2\,400円/当日 3\,400円 / U-22割前売 1\,000円（+1D）\n\n✧出演 20:25〜20:45\n✧物販 21:30〜22:30\nhttps://timetr.ee/p/setsunafloat/2964795632009943594
-DTEND:20260521T133000Z
-DTSTART:20260521T111500Z
-SUMMARY:"IDOORLOVES" -EXTRA SPARKING!-
-UID:81069cbc-e235-4c8c-b5e6-1d6cc93fba49@8106.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:LADYBABY Presents「GRIND HOUSE」 \n\n・日時 : 6/30(火) OP18:00 /ST18:30\n・会場 : 渋谷MILKY WAY\n・チケット : 優先2500円/一般500円（※当日+500）（各+1D）\nhttps://timetr.ee/p/setsunafloat/2983264094084470846
-DTEND:20260630T130000Z
-DTSTART:20260630T090000Z
-SUMMARY:LADYBABY Presents「GRIND HOUSE」
-UID:bfa95db8-25a4-4ebc-b7b5-d6212fbff7d5@bfa9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:・日時 : 5/31(日) OP17:30 /ST18:00\n・会場 : A Talk Club WOOFER\n・チケット : 前売¥2\,000/当日¥2\,500(＋1D)配信¥1\,500\nhttps://timetr.ee/p/setsunafloat/2963278493767768493
-DTEND:20260531T120000Z
-DTSTART:20260531T083000Z
-SUMMARY:アイドル業界、ぶっちゃけここが終わってる！
-UID:e08c865f-6344-45c9-a525-a37c8fc0b231@e08c.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20270319
-DTEND;VALUE=DATE:20270320
-DESCRIPTION:https://timetr.ee/p/setsunafloat/3047450416633944374
-SUMMARY:ライブ予定@大阪
-UID:d5986708-58a1-482e-8b9e-b26a672c6ca3@d598.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:写メ券プレゼント！\n\nVIBES ENCOUNTER-緊急開催SP-\n\n・日時 : 6/13(土) OP13:30 /ST13:50\n・会場 : 大阪 福島LIVE SQUARE 2nd LINE\n・チケット : 前売2500円/当日3000円（各+1D）\n\n✧出演 16:00〜16:25\n✧物販 16:55〜17:45\nhttps://timetr.ee/p/setsunafloat/2986410162469017789
-DTEND:20260613T084500Z
-DTSTART:20260613T070000Z
-SUMMARY:VIBES ENCOUNTER-緊急開催SP-
-UID:bea1ee3e-a06c-4c06-afa0-ccb69234d3a4@bea1.org
+UID:9e9b452b-d5a1-4dc8-b729-ff1bba2eae42@9e9b.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:┈┈✦ LIVE ✦ ┈┈\n\n🕣 7/18（土） 20:00〜20:20\n\n📍石山土曜夜市 本部ステージ\n滋賀県大津市松原町20-23 付近\n\n🎫 観覧無料\nhttps://timetr.ee/p/setsunafloat/3010350246708714428
 DTEND:20260718T112000Z
 DTSTART:20260718T110000Z
 SUMMARY:石山土曜夜市
-UID:d78a4041-a62c-4b2c-b3a6-e846a6414d74@d78a.org
+UID:d61ecada-8350-4a1f-bcf2-e9c29c4e1e11@d61e.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✧出演 20:05~20:30\n✧物販 21:20~22:20\n\n🗓️9/25(金) OP18:30/ST19:00\n📍 心斎橋VARON\n🎟️前売¥2\,000/当日¥2\,500（各+1D）\n\n※せかい、りりね2人体制での出演です。\nhttps://timetr.ee/p/setsunafloat/3037890840846735772
-DTEND:20260925T132000Z
-DTSTART:20260925T110500Z
-SUMMARY:SONICVOOM!! vol.5心斎橋VARON 14th Anniversary Editiom
-UID:59a8a110-4a6d-4a5d-b89e-c8314c84c1fd@59a8.org
+DESCRIPTION:✧出演 13:30〜13:55\n✧物販 14:20〜15:20\n\n"IDOORLOVES"\n\n・日時 : 6/21(日) OP11:00 /ST11:20\n・会場 : 心斎橋Live House ANIMA\n・チケット : 前売 2\,500円/当日 3\,500円 / U-22割前売 1\,000円（+1D）\nhttps://timetr.ee/p/setsunafloat/2974245885159217369
+DTEND:20260621T062000Z
+DTSTART:20260621T043000Z
+SUMMARY:IDOORLOVES
+UID:284461a8-0db5-480c-9364-9b853079ced1@2844.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:👘京都オフ会開催👘\n\nセツナフロート浴衣オフ会Home Party -推しの浴衣1回は見ときたい編-\n\n❑日時\n7/5(日) 14:30~16:30\n\n❑参加費\n¥5\,000\n\n❑内容\n2時間ホームパーティー\n\n❑場所\n京都某所\nhttps://timetr.ee/p/setsunafloat/2992270552675457621
-DTEND:20260705T073000Z
-DTSTART:20260705T053000Z
-SUMMARY:セツナフロート浴衣オフ会Home Party -推しの浴衣1回は見ときたい編-
-UID:5ac362c3-c2d2-47a1-8890-5e26e6d25feb@5ac3.org
+DESCRIPTION:✧出演 18:55~19:20\n✧物販 20:50~21:50\n\n日ノ目企画presents\n“SUNDAYRIGHT/WRONG×2”\n\n🗓️ 10/11(日) OP10:15/ST10:45\n📍 大塚Hearts+/Hearts Next\n🎟️一般前売¥3\,300/優先入場前売¥3\,800/当日¥3\,900（各+1D）\nhttps://timetr.ee/p/setsunafloat/3027638746856364361
+DTEND:20261011T125000Z
+DTSTART:20261011T095500Z
+SUMMARY:日ノ目企画presents“SUNDAYRIGHT/WRONG×2”
+UID:8128ddef-a51f-4d4f-bb67-cf9fdc041fc7@8128.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:LADYBABY Presents「GRIND HOUSE」 \n\n・日時 : 6/30(火) OP18:00 /ST18:30\n・会場 : 渋谷MILKY WAY\n・チケット : 優先2500円/一般500円（※当日+500）（各+1D）\nhttps://timetr.ee/p/setsunafloat/2983264094084470846
+DTEND:20260630T130000Z
+DTSTART:20260630T090000Z
+SUMMARY:LADYBABY Presents「GRIND HOUSE」
+UID:7f138ba2-f155-4b98-bd88-3104a272b949@7f13.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:日ノ目企画presents "SATURDAYRIGHT"\n\n・日時 : 7/11(土) OP10:30 /ST10:50\n・会場 : 京都ROKA\n・チケット : 前売2600円/当日3200円（各+1D）\n\n✧出演 12:35〜13:00\n✧物販 14:55〜15:55\nhttps://timetr.ee/p/setsunafloat/2980476785702279956
+DTEND:20260711T065500Z
+DTSTART:20260711T033500Z
+SUMMARY:日ノ目企画presents "SATURDAYRIGHT"
+UID:6b9e360b-e792-4db1-a485-4bdd8a6752e3@6b9e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://timetr.ee/p/setsunafloat/2880032586713077985
+DTEND:20261024T043000Z
+DTSTART:20261024T024500Z
+SUMMARY:セツナフロート1周年 新体制お披露目ワンマン
+UID:54b97ebc-aa1d-4361-bdcb-228efd12f3fe@54b9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:セツナフロート× CUBΣLIC 2MAN LIVE\n\n🗓️ 9/13(日) OP11:45 /ST12:15\n📍 梅田 LIVESPACE ODYSSEY\n🎟️  前売 2\,500円 / 一般当日 3\,000円(各+1D)\nhttps://timetr.ee/p/setsunafloat/2987140511910140318
+DTEND:20260913T053000Z
+DTSTART:20260913T024500Z
+SUMMARY:セツナフロート× CUBΣLIC 2MAN LIVE
+UID:e37d69ed-6574-41ba-99d7-882c48424b78@e37d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:🎁セツナフロートお目当てで写メ券1枚‼︎\n\n"VIBES ENCOUNTER"\n\n✧出演 17:05〜17:30\n✧物販 17:35〜18:35\n\n🗓️ 7/18(土) OP15:00/ST15:20\n📍 滋賀 石山U★STONE\n🎟️前売¥2\,300/当日¥2\,800（各+1D）\nhttps://timetr.ee/p/setsunafloat/2974246137840867782
+DTEND:20260718T093500Z
+DTSTART:20260718T080500Z
+SUMMARY:VIBES ENCOUNTER
+UID:7c2f7c74-2bc8-4874-b126-bd5a048ca756@7c2f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✧出演 20:00〜20:30\n✧物販 21:00〜22:00\n\nLΩPARA & ESAKA MUSE pre.\n「CITYROCK」Vol9\n\n🗓️ 8/21(金) OP18:30 /ST19:00\n📍 ESAKA MUSE\n🎟️入場無料/当日¥500（各+2D）\n\nセツナフロートは衣装交換ライブ＆特典会👗 ⋆˙⟡\nhttps://timetr.ee/p/setsunafloat/2974246525520386235
+DTEND:20260821T130000Z
+DTSTART:20260821T110000Z
+SUMMARY:LΩPARA & ESAKA MUSE pre.「CITYROCK」Vol9
+UID:e4b51ae5-8457-43aa-82d1-f180e6e7ae31@e4b5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✧出演 12:40〜13:05\n✧物販 14:00〜15:00\n\nセツナフロート×ピューパ!! pre. \n「京都大暴走計画」\n\n・日時 : 7/4(土) OP11:30 /ST12:00\n・会場 : 京都TRUST\n・チケット : 予約 2\,500円/当日 3\,000円 / U-23割予約 2\,000円（各+1D）\nhttps://timetr.ee/p/setsunafloat/2978524236803807790
+DTEND:20260704T060000Z
+DTSTART:20260704T034000Z
+SUMMARY:セツナフロート×ピューパ!! pre. 「京都大暴走計画」
+UID:dc564ce9-f853-4cbb-b0b6-0323ae7fb114@dc56.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:『少女博覧会 -不老不死公演-』\n\n🗓️ 12/9(水) OP18:00/ST18:30\n📍 難波Mele\n🎟️ 前売¥2\,000/当日¥2\,500 (+1D)\n\n✧出演 21:30〜21:55\n✧物販 22:00〜23:00\nhttps://timetr.ee/p/setsunafloat/3098017287242062578
+DTEND:20261209T140000Z
+DTSTART:20261209T123000Z
+SUMMARY:少女博覧会 -不老不死公演-
+UID:f405ac59-81cc-4d5c-b876-3f8d3129a625@f405.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✧出演 19:10〜19:33\n✧物販 20:35〜21:35\n\nこぐまカリー主催「Spice it Up」\n\n🗓️ 8/23(日) OP11:00/ST11:30\n📍 大阪•心斎橋VARON\n🎟️ 2日通し¥5\,500/各日前売¥3\,000/当日¥3\,500（各+1D）\nhttps://timetr.ee/p/setsunafloat/3021063304917621641
+DTEND:20260823T123500Z
+DTSTART:20260823T101000Z
+SUMMARY:こぐまカリー主催「Spice it Up」
+UID:7fbc11dd-d870-4c9d-8deb-3c630062486e@7fbc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:・日時 : 6/28(日) OP10:10 /ST10:30\n・会場 : 新宿SAMURAI\n・チケット : 前売 3\,000円/当日 3\,500円（+1D）\n\n✧出演 10:55〜11:20\n✧物販 12:10〜13:10\nhttps://timetr.ee/p/setsunafloat/2929972505879058668
+DTEND:20260628T041000Z
+DTSTART:20260628T015500Z
+SUMMARY:Tribu 10th Anniversary SAMURAI TRIBU DAY 4
+UID:69d7bb1e-ab16-4ca4-a873-70fab31c50e0@69d7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⟡ 11/8(日) OPEN 10:30 / START 11:00\n⟡ 大塚Hearts Next\n\n⟡ 出演 12:30~13:00  ※物販時間は後日解禁\n⟡ 前売 ¥4\,000 / 当日 ¥5\,000（+1D）\nhttps://timetr.ee/p/setsunafloat/3075491602648865788
+DTEND:20261108T040000Z
+DTSTART:20261108T033000Z
+SUMMARY:秋のYOIMACHI
+UID:31c62c14-cc05-44f2-99aa-977b00eea2e8@31c6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✧出演 12:00~12:30\n✧物販 14:10~15:30\n\n"IDOORLOVES" -Special Summer Circuit-\n\n🗓️ 9/6(日) OP11:00 /ST11:20\n📍 Live House ANIMA / SUNHALL / DROP / BEYOND / Pangea\n🎟️早割前売¥4\,800/一般前売¥5\,800/一般当日¥6\,800/U-22割前売¥2\,800（各+1D）\n\n🎁セツナフロートお目当てで写メ券1枚‼︎\nhttps://timetr.ee/p/setsunafloat/2993683840521017853
+DTEND:20260906T063000Z
+DTSTART:20260906T030000Z
+SUMMARY:"IDOORLOVES" -Special Summer Circuit-
+UID:26b06398-4088-4b75-9793-3d76a09709d1@26b0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://timetr.ee/p/setsunafloat/3047450017369757821
+DTEND:20261226T053000Z
+DTSTART:20261226T023000Z
+SUMMARY:主催ライブ
+UID:c0f73665-ea6a-4306-b384-abcc04852cf3@c0f7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✧出演 17:15〜17:40\n✧物販 19:20〜20:20\n\n日ノ目企画presents\n“Fill In Your Blanks”\n\n・日時 : 5/9(土) OP16:00 /ST16:20\n・会場 : 西九条BRAND NEW\n・チケット : 前売 2\,500円/当日 3\,100円（+1D）\nhttps://timetr.ee/p/setsunafloat/2924154491606735443
+DTEND:20260509T112000Z
+DTSTART:20260509T081500Z
+SUMMARY:日ノ目企画presents“Fill In Your Blanks”
+UID:1a06c1d5-a8c0-4a5c-add5-d981435f61e8@1a06.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✧出演 20:35〜21:00\n✧物販 21:30〜22:30\n\n『All Ok!!!!』\n\n・日時 : 5/30(土) OP19:30 /ST19:45\n・会場 : 池尻大橋SWIPE\n・チケット : 前売 2\,800円/当日 3\,000円（+1D）\nhttps://timetr.ee/p/setsunafloat/2948755636643765240
+DTEND:20260530T133000Z
+DTSTART:20260530T113500Z
+SUMMARY:All Ok!!!!
+UID:a629f28b-aeb4-4bbd-bf20-78f89e75b3f0@a629.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:■ オフ会概要\n・イベント名：フロートゲート vol.1 Home Party -フロートゲート開門式編-\n・日時： 6/27(土) 16:00~18:00\n・内容： 2時間ホームパーティー\n・会場： 渋谷区某所\n・住所：メールにてお送りいたします。\n\n【ご案内】\n・軽食付き \n・飲食物の持ち込み自由\n・お飲み物は各自でご持参ください\n\n※途中参加・離脱も可能です。\nご希望の際は、スタッフまでお声がけください。\nhttps://timetr.ee/p/setsunafloat/2984197532119538527
+DTEND:20260627T090000Z
+DTSTART:20260627T070000Z
+SUMMARY:フロートゲートVol.1 Home Party -フロートゲート開門式編-
+UID:6caa490a-d977-47f2-bcb6-aebc52e2e490@6caa.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:🗓️8/9(日) OP16:10/ST16:30\n📍京都ROKA\n🎟️前売¥2\,500/当日¥3\,100（各+1D）\n\n✧出演 17:50〜18:15\n✧物販 18:25〜19:25\nhttps://timetr.ee/p/setsunafloat/2991421106895001758
+DTEND:20260809T102500Z
+DTSTART:20260809T085000Z
+SUMMARY:日ノ目企画presents"Fill In Your Blanks"
+UID:47348fab-c1ba-4184-a1d1-f7d4211f055d@4734.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✧出演 12:25〜12:45\n✧物販 12:55〜13:55\n\n"IDOORLOVES" -DON'T TRUST OVER 30!!-\n\n🗓️ 8/11(火祝) OP10:40 /ST11:00\n📍 心斎橋SUNHALL\n🎟️ U-30割前売 1\,500円 / 一般前売 2\,800円 / 一般当日 3\,800円(各+1D)\nhttps://timetr.ee/p/setsunafloat/2993683612552207153
+DTEND:20260811T045500Z
+DTSTART:20260811T032500Z
+SUMMARY:"IDOORLOVES" -DON'T TRUST OVER 30!!-
+UID:d45474d9-8f7c-40b4-a94d-db86dc27dd5e@d454.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:#メルクマールメルマール 主催\n「MERUMARU IDOL PARTY #メルパ in OSAKA」\n\n・日時 : 6/13(土) OP12:00 /ST12:20\n・会場 : 寺田町Fireloop\n・チケット : 前方 2\,500円/一般 1\,000円 / 当日 1\,500円（各+1D）\n\n✧出演 13:10〜13:35\n✧並行特典会 14:00〜15:00\n\n※並行特典会は別会場となります。\n\n📍並行特典会別会場 \n大阪市天王寺区大道4-10-4 たつみビル4F 405\nhttps://timetr.ee/p/setsunafloat/2964795898818009720
+DTEND:20260613T060000Z
+DTSTART:20260613T041000Z
+SUMMARY:#メルクマールメルマール 主催「MERUMARU IDOL PARTY #メルパ in OSAKA」
+UID:ff6cfe0a-fec3-4449-b293-7890ad5da47a@ff6c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:躍動は聴こえないvol.3 presented by 京都I博\n\n・日時 : 8/1(土) OP12:10 /ST12:30\n・会場 : CLUB METRO(京都)\n・チケット : 優先3400円/前売2900円（各+1D）\n\n✧出演 13:00〜13:30\n✧物販 15:45〜17:15\nhttps://timetr.ee/p/setsunafloat/2974745214718384555
+DTEND:20260801T081500Z
+DTSTART:20260801T040000Z
+SUMMARY:躍動は聴こえないvol.3 presented by 京都I博
+UID:8b26355b-7ff4-4518-96a3-ef7b16c31741@8b26.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:写メ券プレゼント！\n\nVIBES ENCOUNTER-緊急開催SP-\n\n・日時 : 6/13(土) OP13:30 /ST13:50\n・会場 : 大阪 福島LIVE SQUARE 2nd LINE\n・チケット : 前売2500円/当日3000円（各+1D）\n\n✧出演 16:00〜16:25\n✧物販 16:55〜17:45\nhttps://timetr.ee/p/setsunafloat/2986410162469017789
+DTEND:20260613T084500Z
+DTSTART:20260613T070000Z
+SUMMARY:VIBES ENCOUNTER-緊急開催SP-
+UID:2f9c2bf0-31c1-47f0-b231-198a30492aaf@2f9c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:日ノ目企画presents "SATURDAYRIGHT NIGHT"\n\n・日時 : 7/11(土) OP16:10 /ST16:30\n・会場 : 京都ROKA\n・チケット : 前売2600円/当日3200円（各+1D）\n\n✧出演 16:55〜17:20\n✧物販 17:30〜18:30\nhttps://timetr.ee/p/setsunafloat/2986443395516668490
+DTEND:20260711T093000Z
+DTSTART:20260711T075500Z
+SUMMARY:日ノ目企画presents "SATURDAYRIGHT NIGHT"
+UID:b08db4e6-5061-4c39-8278-f94831e6bf07@b08d.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270319
+DTEND;VALUE=DATE:20270320
+DESCRIPTION:https://timetr.ee/p/setsunafloat/3047450416633944374
+SUMMARY:ライブ予定@大阪
+UID:9814503d-6bb4-4b1a-bfcd-72feae9891c0@9814.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:T.M.P ×京都I博　presents\n『VS STORAGE in Kyoto』\n\n・日時 : 7/4(土) OP17:00 /ST17:30\n・会場 :  京都nano\n・チケット : 優先 3\,000円/通常 2\,500円/当日 3\,000円（+1D）\nhttps://timetr.ee/p/setsunafloat/2934078631415454504
+DTEND:20260704T110000Z
+DTSTART:20260704T083000Z
+SUMMARY:T.M.P ×京都I博　presents『VS STORAGE in Kyoto』
+UID:32ec70c3-b2df-421e-a0bc-7e0dd86c5a67@32ec.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:・日時 : 6/3(水) OP17:30 /ST18:00\n・会場 : 心斎橋DROP\n・チケット : 前売 3\,500円/当日 4\,000円（+1D）\n\n✧出演 18:30〜19:00\n✧物販 21:15〜22:25\nhttps://timetr.ee/p/setsunafloat/2946027626274560343
 DTEND:20260603T132500Z
 DTSTART:20260603T093100Z
 SUMMARY:#ﾆｷﾌﾟﾚ『オオサカッ!! -初夏、二陣。-』
-UID:689e7e49-ca09-4208-86f2-403d3d8727e4@689e.org
+UID:acac093d-1764-4c26-8c62-178e982d091d@acac.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270109
+DTEND;VALUE=DATE:20270110
+DESCRIPTION:https://timetr.ee/p/setsunafloat/3103941229467211845
+SUMMARY:ライブ@京都
+UID:41e6d12f-1777-45f1-8b23-53ad26b239e2@41e6.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20270322
+DTEND;VALUE=DATE:20270323
+DESCRIPTION:https://timetr.ee/p/setsunafloat/3047450268457572981
+SUMMARY:ライブ予定@大阪
+UID:afdfbbce-e658-436a-98a2-c24ca4f3f27f@afdf.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:サムライロックフェス2026\n\n✧出演 15:30〜15:55 腹斬りステージ 2F\n\n・日時 : 8/29(土) OP12:00/ST12:30\n・会場 : 京都ROKA\n・チケット : 前売3900円/当日4400円/学割1000円オフ（各+1D）\nhttps://timetr.ee/p/setsunafloat/2974745384453479280
+DTEND:20260829T065500Z
+DTSTART:20260829T063000Z
+SUMMARY:サムライロックフェス2026
+UID:8e846a4a-b116-4436-9130-86e7eb3718ef@8e84.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:・日時 : 5/31(日) OP17:30 /ST18:00\n・会場 : A Talk Club WOOFER\n・チケット : 前売¥2\,000/当日¥2\,500(＋1D)配信¥1\,500\nhttps://timetr.ee/p/setsunafloat/2963278493767768493
+DTEND:20260531T120000Z
+DTSTART:20260531T083000Z
+SUMMARY:アイドル業界、ぶっちゃけここが終わってる！
+UID:6508ccb9-1e46-46d5-8b41-ebf32e747619@6508.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:・日時 : 5/21(木) OP18:00 /ST18:15\n・会場 : 心斎橋Music Club JANUS\n・チケット : 前売 2\,400円/当日 3\,400円 / U-22割前売 1\,000円（+1D）\n\n✧出演 20:25〜20:45\n✧物販 21:30〜22:30\nhttps://timetr.ee/p/setsunafloat/2964795632009943594
+DTEND:20260521T133000Z
+DTSTART:20260521T111500Z
+SUMMARY:"IDOORLOVES" -EXTRA SPARKING!-
+UID:9363e526-50af-483d-b6ee-747cb01c0b9c@9363.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:カガクハンノウvol.72\n\n・日時 : 5/31(日) OP11:30 /ST11:55\n・会場 : 新高円寺LOFT X\n・チケット : 前売 3\,000円/当日 3\,500円（+1D）\n\n✧出演 12:50〜13:15\n✧物販 13:45〜14:45\nhttps://timetr.ee/p/setsunafloat/2948755884493577032
+DTEND:20260531T054500Z
+DTSTART:20260531T035000Z
+SUMMARY:カガクハンノウvol.72
+UID:211f6b3d-6d7b-4b1f-b931-2dcd5b7eb930@211f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:🗓️ 9/22(火) OP19:00/ST19:30\n📍 Yogibo HOLY MOUNTAIN \n🎟️ 学割¥2\,500/通常前売¥3\,000/Sチケット¥6\,000/当日¥3\,500(各+1D)\n\nSチケット:8/31(月)22:00発売\n通常前売･学割:9/2(水)22:00発売\n\n出演:セツナフロート\nhttps://timetr.ee/p/setsunafloat/2937822010020272848
+DTEND:20260922T100000Z
+DTSTART:20260922T100000Z
+SUMMARY:凛々りりね生誕祭
+UID:1698fa82-7007-420b-9c85-2e3d327af664@1698.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✧出演 20:05~20:30\n✧物販 21:20~22:20\n\n🗓️9/25(金) OP18:30/ST19:00\n📍 心斎橋VARON\n🎟️前売¥2\,000/当日¥2\,500（各+1D）\n\n※せかい、りりね2人体制での出演です。\nhttps://timetr.ee/p/setsunafloat/3037890840846735772
+DTEND:20260925T132000Z
+DTSTART:20260925T110500Z
+SUMMARY:SONICVOOM!! vol.5心斎橋VARON 14th Anniversary Editiom
+UID:c198956a-2366-41a2-81df-382198a303ea@c198.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:👘京都オフ会開催👘\n\nセツナフロート浴衣オフ会Home Party -推しの浴衣1回は見ときたい編-\n\n❑日時\n7/5(日) 14:30~16:30\n\n❑参加費\n¥5\,000\n\n❑内容\n2時間ホームパーティー\n\n❑場所\n京都某所\nhttps://timetr.ee/p/setsunafloat/2992270552675457621
+DTEND:20260705T073000Z
+DTSTART:20260705T053000Z
+SUMMARY:セツナフロート浴衣オフ会Home Party -推しの浴衣1回は見ときたい編-
+UID:0d0fed1e-96aa-4eaa-be4d-527fed642c83@0d0f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✧出演 14:25〜14:50\n✧物販 15:45〜16:45\n\n・日時 : 9/5(土) OP11:00 /ST11:30\n・会場 : 堺FANDANGO/Pineapple Express\n・チケット : 事前購入(8/15迄)4\,000円/前売(8/15以降)4\,400円/当日4\,900円（各+1D）\nhttps://timetr.ee/p/setsunafloat/2971972429222844985
+DTEND:20260905T074500Z
+DTSTART:20260905T052500Z
+SUMMARY:SBF
+UID:1bcf4782-a9a6-4712-8f79-a51b54cb1e8a@1bcf.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:MIC RAW RUGA 定期公演 HIGH-HO vol.151\n\n・日時 : 5/30(土) OP10:35 /ST10:55\n・会場 : 渋谷DESEO mini\n・チケット : 前売 3\,500円/当日 4\,000円（+1D）\nhttps://timetr.ee/p/setsunafloat/2964644834542164084
+DTEND:20260530T054000Z
+DTSTART:20260530T034000Z
+SUMMARY:MIC RAW RUGA 定期公演 HIGH-HO vol.151
+UID:8d361bfd-715c-4664-b48a-229db3e88fba@8d36.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:‎「FERMATA」\n\n‎🗓️ 11/10(火) OP18:00/ST18:20\n‎📍難波NUMBER GATE\n‎🎟️ 前売¥2\,200/当日¥2\,900 (各+1D)\n\n‎✧出演 20:05~20:25\n‎✧物販 21:35~22:35\nhttps://timetr.ee/p/setsunafloat/3085768810831354059
+DTEND:20261110T133500Z
+DTSTART:20261110T110500Z
+SUMMARY:FERMATA
+UID:78a8f214-c9b1-4951-8dca-87c3a9b66f83@78a8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:コドモメンタルINC. × #ﾆｷﾌﾟﾚ pre. “en-kai.03 オオサカッ!!編”\n\n・日時 : 7/10(金)OP17:50/ST18:10\n・会場 : アメリカ村 DROP\n・チケット : 前売2800円/当日3300円（各+1D）\n\n🎁セツナフロートお目当てで写メ券1枚‼︎\nhttps://timetr.ee/p/setsunafloat/2985069603452164162
+DTEND:20260710T132000Z
+DTSTART:20260710T103500Z
+SUMMARY:コドモメンタルINC. × #ﾆｷﾌﾟﾚ pre. “en-kai.03 オオサカッ!!編”
+UID:ade66734-9ace-4b68-a430-2ebf9f7e99fd@ade6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:‎🗓️ 11/21(土) OP17:00/ST17:20\n‎📍 大阪・長堀橋WAXX\n‎🎟️ 前売¥2\,000/当日¥2\,800 (各+1D)\n\n‎✧出演 19:05~19:30\n‎✧物販 19:35~20:35\nhttps://timetr.ee/p/setsunafloat/3085768996706130558
+DTEND:20261121T113500Z
+DTSTART:20261121T100500Z
+SUMMARY:‎「VIBES ENCOUNTER」-day&night-
+UID:a66cf0d9-cb35-48b2-b3c2-706508019774@a66c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:「フロートコア vol.3」\n・日時：5/16(土) OP11:30/ST11:50\n・会場：梅田 LIVESPACE ODYSSEY\n・チケット：前売り¥2\,500 / 当日 ¥3\,000 (+1D)\nhttps://timetr.ee/p/setsunafloat/2865861186108595111
+DTEND:20260516T053000Z
+DTSTART:20260516T023000Z
+SUMMARY:フロートコア vol.3
+UID:70ff7e68-63b8-4b02-9669-89c55705f92c@70ff.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✧出演 20:00〜20:30(アメ村BEYOND)\n✧物販 20:40〜21:50\n\n#ﾆｷﾌﾟﾚ『オオサカッ!! -真夏、三陣。-』\n\n・日時 : 7/17(金) OP16:30 /ST17:00\n・会場 : 心斎橋SUNHALL/DROP/BEYOND\n・チケット : 早割3500円/一般 4000円（各+1D）\n\n🎁セツナフロートお目当てで写メ券1枚‼︎\nhttps://timetr.ee/p/setsunafloat/2953126496959797968
+DTEND:20260717T125000Z
+DTSTART:20260717T110000Z
+SUMMARY:#ﾆｷﾌﾟﾚ『オオサカッ!! -真夏、三陣。-』
+UID:0feb4f4d-e471-43b7-8e1c-bfaded08b0dc@0feb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:🗓️7/30(木)OP19:00/ST19:30\n📍ロフトプラスワンWEST\n🎟️前売¥2\,000/当日¥2\,500(＋1D)配信¥1\,500\n\nGuest：SUPERSTARJULIE、汐沢怜華\n\n🎟️チケットlivepocket.jp/e/px6_u\n\n📺配信チケットpremier.twitcasting.tv/plusonewest/sh…\nhttps://timetr.ee/p/setsunafloat/3005784472690170341
+DTEND:20260730T103000Z
+DTSTART:20260730T103000Z
+SUMMARY:「元アイドルが語るぶっちゃけトーク」
+UID:469c37e3-9dc0-4ed2-95de-c8beb83364a5@469c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://timetr.ee/p/setsunafloat/3071837172246321547
+DTEND:20270102T053000Z
+DTSTART:20270101T150000Z
+SUMMARY:主催ライブ
+UID:e2f31d27-649f-4543-a03e-d59d9dc9c614@e2f3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✧出演 18:50〜19:15\n✧物販 20:40〜21:40\n\n"NEXUS" -4MAN LIVE-\n\n・日時 : 6/13(土) OP18:30 /ST18:50\n・会場 : 大阪福島2nd LINE\n・チケット : ペア割3\,000円 / 前売2\,000円 / 当日2\,500円（各+1D）\n\n🔥ペア割3\,000円あり🔥\n※1枚のチケットで2名様まで入場可能‼︎\nhttps://timetr.ee/p/setsunafloat/2981773723261278215
+DTEND:20260613T124000Z
+DTSTART:20260613T095000Z
+SUMMARY:"NEXUS" -4MAN LIVE-
+UID:7fad6aa4-0ea9-467b-aae4-15a75f35de1e@7fad.org
 END:VEVENT
 END:VCALENDAR
